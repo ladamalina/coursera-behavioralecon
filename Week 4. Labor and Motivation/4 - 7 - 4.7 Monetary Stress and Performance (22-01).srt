@@ -1,0 +1,1640 @@
+
+1
+00:00:00,956 --> 00:00:10,537
+When we think about the motivation, in
+terms of salary, the usual assumption, is
+
+2
+00:00:10,537 --> 00:00:16,220
+that people just want to rest.
+And if we leave people alone, nobody would
+
+3
+00:00:16,220 --> 00:00:18,168
+want to work.
+And because of that, we need to pay
+
+4
+00:00:18,168 --> 00:00:20,995
+people.
+Basically the idea is, that people want to
+
+5
+00:00:20,995 --> 00:00:25,136
+sit on the beach drinking mojitos.
+But we, as their employers, don't want
+
+6
+00:00:25,136 --> 00:00:28,680
+people to sit on the beach drinking
+mojitos, so we have to pay them.
+
+7
+00:00:28,680 --> 00:00:32,310
+And the payment, it's what's causing the
+motivation.
+
+8
+00:00:32,310 --> 00:00:36,175
+The motivation is leading to labor.
+And the reason people are doing this labor
+
+9
+00:00:36,175 --> 00:00:40,140
+to start with, so they have enough money
+to rest on the beach drinking mojitos,
+
+10
+00:00:40,140 --> 00:00:44,809
+plus to pay bills and so on.
+But the basic notion is that work is
+
+11
+00:00:44,809 --> 00:00:48,058
+adversive.
+That people hate working and the only
+
+12
+00:00:48,058 --> 00:00:50,740
+reason that people work is to get, to get
+money.
+
+13
+00:00:50,740 --> 00:00:54,720
+Now of course, this is not, the real
+reason.
+
+14
+00:00:54,720 --> 00:00:57,492
+And as we've talked already, there's lots
+of other things that are happening in
+
+15
+00:00:57,492 --> 00:00:59,654
+labor.
+People find tremendous amount of
+
+16
+00:00:59,654 --> 00:01:04,013
+satisfaction in labor.
+In fact, even if you look at rats.
+
+17
+00:01:04,013 --> 00:01:08,808
+If you look at rats, and you say would
+rats just want to work if they get food or
+
+18
+00:01:08,808 --> 00:01:11,620
+do they enjoy working just for its own
+sake?
+
+19
+00:01:11,620 --> 00:01:16,046
+Even rats enjoy work for its own sake.
+So for example in some, eh, all the
+
+20
+00:01:16,046 --> 00:01:21,116
+experiments on what is called counter
+freeloading, what is happening is that
+
+21
+00:01:21,116 --> 00:01:25,952
+rats and mice are given the choice of
+either getting free food that doesn't
+
+22
+00:01:25,952 --> 00:01:30,125
+require any labor.
+Or they have food that requires some
+
+23
+00:01:30,125 --> 00:01:31,814
+labor.
+And you know what?
+
+24
+00:01:31,814 --> 00:01:36,110
+Sure they take some of the free food, but
+they don't feed on that exclusively.
+
+25
+00:01:36,110 --> 00:01:40,410
+They also go to the food that requires
+some effort, and try to get that as well.
+
+26
+00:01:40,410 --> 00:01:45,828
+So it turns out that even animals are not
+just about, eh, how much they can get
+
+27
+00:01:45,828 --> 00:01:50,670
+without working; even animals enjoy work
+in some important ways.
+
+28
+00:01:50,670 --> 00:01:55,224
+And you can think about squirrels, you can
+think about dogs, you can think about all
+
+29
+00:01:55,224 --> 00:01:58,463
+kind of animals that seem to enjoy working
+to some degree.
+
+30
+00:01:58,463 --> 00:02:02,030
+By the way the one exception so far, is
+the domestic cat.
+
+31
+00:02:02,030 --> 00:02:04,763
+The domestic cat doesn't seem to enjoy at
+all, labor.
+
+32
+00:02:04,763 --> 00:02:08,130
+And if they could do anything with no
+effort it seems to be, they seem to be
+
+33
+00:02:08,130 --> 00:02:11,888
+doing it.
+Okay, so that's the idea that life is
+
+34
+00:02:11,888 --> 00:02:17,047
+composed by many more motivation than just
+money alone.
+
+35
+00:02:17,048 --> 00:02:21,269
+And we talked about meaning and a sense of
+purpose and a sense of accomplishment and
+
+36
+00:02:21,269 --> 00:02:25,499
+competition and so on and so forth.
+But now let's turn our attention to money.
+
+37
+00:02:25,500 --> 00:02:28,092
+Money is good.
+Money is also one of the motivators.
+
+38
+00:02:28,092 --> 00:02:31,580
+The fact that it's only one of the
+motivators, doesn't mean it's not an
+
+39
+00:02:31,580 --> 00:02:34,862
+important one, of course, it's a crucial,
+important motivator.
+
+40
+00:02:34,862 --> 00:02:38,567
+And, for now I want to talk about one
+aspect of money.
+
+41
+00:02:38,568 --> 00:02:41,940
+So one aspect of money, is that we pay
+people, and they get a salary.
+
+42
+00:02:41,940 --> 00:02:45,767
+And if they behave well, they get to keep
+their job, and so on.
+
+43
+00:02:45,768 --> 00:02:49,221
+But recently, there's been more and more
+jobs that have bonuses.
+
+44
+00:02:49,222 --> 00:02:54,990
+And a bonus is a particular form of
+payment, it's a form of payment that is
+
+45
+00:02:54,990 --> 00:02:59,858
+contingent on performance.
+And I want to talk a little bit about how
+
+46
+00:02:59,858 --> 00:03:04,537
+bonuses work, what is the theory of
+bonuses and how do they really work.
+
+47
+00:03:04,538 --> 00:03:08,970
+The basic idea of a bonus is that it, if I
+offer you a bonus for a particular level
+
+48
+00:03:08,970 --> 00:03:13,830
+of effort, you would try harder.
+And because you would try harder you would
+
+49
+00:03:13,830 --> 00:03:18,250
+be more successful, and therefore I by
+providing you a bonus can redirect your
+
+50
+00:03:18,250 --> 00:03:21,740
+effort to be more productive.
+But is that always the case?
+
+51
+00:03:21,740 --> 00:03:26,081
+And is it always that case that more
+bonuses would yield to higher effort?
+
+52
+00:03:26,081 --> 00:03:31,929
+So there's an old research in psychology
+on what's called the Yerkes Dodson Effect.
+
+53
+00:03:31,930 --> 00:03:36,970
+And the notion of that is that if we took
+incentives, and we took performance, and
+
+54
+00:03:36,970 --> 00:03:41,147
+we said what is the relationship between
+incentives and performance?
+
+55
+00:03:41,147 --> 00:03:45,857
+The usual theory is that as you increase
+the incentives, performance will go up.
+
+56
+00:03:45,858 --> 00:03:49,550
+I offer you higher and higher bonus,
+performance should go up.
+
+57
+00:03:49,550 --> 00:03:54,230
+Or maybe you could argue, maybe it would
+go up to a certain level and then it will
+
+58
+00:03:54,230 --> 00:03:59,198
+have diminishing returns, it look kind of
+flattened out, because at some point you
+
+59
+00:03:59,198 --> 00:04:02,684
+can't work harder.
+But what Yerkes and Dodson argued, and
+
+60
+00:04:02,684 --> 00:04:05,978
+showed, is that the task actually looked
+the following.
+
+61
+00:04:05,978 --> 00:04:10,466
+When you increase incentives people
+perform better, but above certain level,
+
+62
+00:04:10,466 --> 00:04:14,954
+performance actually goes down, it's not
+that is flattens out it actually goes
+
+63
+00:04:14,954 --> 00:04:19,050
+down.
+How did Yerkes and Dodson first show this
+
+64
+00:04:19,050 --> 00:04:22,356
+effect?
+They took, they put mice in a maze.
+
+65
+00:04:22,356 --> 00:04:27,415
+And the maze was changing every day.
+And every day the mice have to learn, had
+
+66
+00:04:27,415 --> 00:04:31,800
+to learn what are safe areas of the maze
+and what are dangerous areas of the maze.
+
+67
+00:04:31,800 --> 00:04:35,370
+So one day maybe the white symbolize safe
+and the black danger.
+
+68
+00:04:35,370 --> 00:04:40,100
+And one day stripes were safe and polka
+dots were dangerous and so on.
+
+69
+00:04:40,100 --> 00:04:43,477
+And what is safe?
+Safe is a part of the maze that has no
+
+70
+00:04:43,477 --> 00:04:47,560
+electrical shock and dangerous is the part
+that does have electrical shock.
+
+71
+00:04:47,560 --> 00:04:50,970
+And everyday the mice had to learn what
+are the safe zones, and which are the
+
+72
+00:04:50,970 --> 00:04:55,502
+dangerous zones.
+And over trial, across days, what Yerkes
+
+73
+00:04:55,502 --> 00:04:59,337
+and Dodson did, was to increase the amount
+of the shock.
+
+74
+00:04:59,338 --> 00:05:01,777
+So sometimes the shock was very, very
+little.
+
+75
+00:05:01,778 --> 00:05:04,561
+And guess what?
+How fast did the mice learn when the shock
+
+76
+00:05:04,561 --> 00:05:06,704
+was very small?
+Very, very slowly.
+
+77
+00:05:06,704 --> 00:05:10,142
+What happened when the shock increase in
+intensity?
+
+78
+00:05:10,143 --> 00:05:14,770
+As the shocks increase in intensity, the
+motivation of the mice was higher, and
+
+79
+00:05:14,770 --> 00:05:16,234
+they learned faster.
+Right?
+
+80
+00:05:16,234 --> 00:05:19,657
+All of a sudden it's more informative,
+it's more useful, it's more beneficial to
+
+81
+00:05:19,657 --> 00:05:21,830
+learn faster, and the mice were learning
+faster.
+
+82
+00:05:21,830 --> 00:05:27,615
+But guess what, at a certain level the
+shocks became so strong that the results
+
+83
+00:05:27,615 --> 00:05:31,562
+started backfiring.
+At a certain level performance did not go
+
+84
+00:05:31,562 --> 00:05:36,272
+up, and it did not flatten, it actually
+started getting worse and worse and worse.
+
+85
+00:05:36,272 --> 00:05:39,387
+And you could probably imagine how it
+would look for you.
+
+86
+00:05:39,388 --> 00:05:44,157
+Imagine I asked you to walk around this
+campus, and I made some buildings safe and
+
+87
+00:05:44,157 --> 00:05:47,312
+some building dangerous.
+If the shock was tiny it was
+
+88
+00:05:47,312 --> 00:05:52,208
+uninformative, it was like so light you
+would hardly feel it, you wouldn't be that
+
+89
+00:05:52,208 --> 00:05:56,804
+motivated to learn quickly.
+As the shock went up, you'd probably care
+
+90
+00:05:56,804 --> 00:06:00,708
+more about it and try harder and figure
+out which buildings are dangerous and
+
+91
+00:06:00,708 --> 00:06:03,385
+which are safe.
+You would commit it to memory, you would
+
+92
+00:06:03,385 --> 00:06:05,772
+try to rehearse it, you would do all kinds
+of things.
+
+93
+00:06:05,772 --> 00:06:10,913
+But as the shock would become so strong
+that it will take your breath away, that
+
+94
+00:06:10,913 --> 00:06:16,127
+you could not do anything else, the fear
+of the anticipated shock will probably
+
+95
+00:06:16,127 --> 00:06:19,156
+paralyze you.
+And you'll probably not be able to think
+
+96
+00:06:19,156 --> 00:06:22,326
+about anything else.
+And under those conditions, as the shock
+
+97
+00:06:22,326 --> 00:06:26,102
+would get stronger and stronger and
+stronger, your memory would actually go
+
+98
+00:06:26,102 --> 00:06:29,172
+down.
+But the results from Yerkes and Dodson
+
+99
+00:06:29,172 --> 00:06:35,069
+suggest that this idea of increased
+stakes, increased incentives to learning.
+
+100
+00:06:35,070 --> 00:06:41,163
+Might have these non linear relationship,
+this inverse-u relationship, where people
+
+101
+00:06:41,163 --> 00:06:45,253
+could want to perform better, but actually
+perform worse.
+
+102
+00:06:45,253 --> 00:06:50,538
+So, with this, would this work?
+And the basic idea that we went after, is
+
+103
+00:06:50,538 --> 00:06:55,250
+that as you promise people more money for
+higher performance.
+
+104
+00:06:55,250 --> 00:07:00,867
+As the bonus, potential bonus increases,
+people want to perform better.
+
+105
+00:07:00,868 --> 00:07:04,125
+It's not as if, if I offer you a bigger
+bonus you don't want to perform to a
+
+106
+00:07:04,125 --> 00:07:07,334
+higher degree.
+You want to do it more, but the question
+
+107
+00:07:07,334 --> 00:07:11,079
+is, is it some level of wanting to do
+something higher?
+
+108
+00:07:11,080 --> 00:07:15,559
+Can you do it, or does it backfire?
+If you want to do it with all your heart
+
+109
+00:07:15,559 --> 00:07:20,615
+and soul and it's the only thing you can
+do about it, can you actually do the job
+
+110
+00:07:20,615 --> 00:07:24,785
+better or do the job worse?
+So how do we test this idea that the level
+
+111
+00:07:24,785 --> 00:07:30,047
+of bonuses could either positively, or
+flat, or negatively influence performance?
+
+112
+00:07:30,048 --> 00:07:34,740
+In the US, it would be very hard for us to
+afford big bonuses, the kind of bonuses
+
+113
+00:07:34,740 --> 00:07:39,550
+that people give truly in the work place.
+So we went to India, we went to some small
+
+114
+00:07:39,550 --> 00:07:44,170
+villages where people don't make much
+money and we could give them lots of money
+
+115
+00:07:44,170 --> 00:07:47,568
+in their currency, that would not be too
+expensive for us.
+
+116
+00:07:47,568 --> 00:07:50,406
+And we basically created the following
+experiment.
+
+117
+00:07:50,406 --> 00:07:54,676
+We gave people a set of tasks and to some
+people we said, look, if you, if you
+
+118
+00:07:54,676 --> 00:07:59,016
+perform these set of takes to these
+standards, you would get the following
+
+119
+00:07:59,016 --> 00:08:01,828
+bonus.
+And if you get it to a higher performance,
+
+120
+00:08:01,828 --> 00:08:05,579
+you'll get a bigger bonus.
+So people had two levels of bonuses and
+
+121
+00:08:05,579 --> 00:08:10,271
+the question is would they perform below
+the level of the first bonus, between the
+
+122
+00:08:10,271 --> 00:08:14,713
+level of the first and the second bonus or
+above the level of the second bonus?
+
+123
+00:08:14,713 --> 00:08:17,536
+And on top of that we had three bonus
+conditions.
+
+124
+00:08:17,536 --> 00:08:22,832
+Some people we promise what we call the
+small bonus, which was if you don't do all
+
+125
+00:08:22,832 --> 00:08:28,032
+of these task as well you, as well as
+possible, the best possible level you will
+
+126
+00:08:28,032 --> 00:08:33,312
+get one day of your salary, an average day
+of people's salary in that particular
+
+127
+00:08:33,312 --> 00:08:37,299
+village.
+It wasn't a tiny bonus because for one
+
+128
+00:08:37,299 --> 00:08:41,508
+hour they could get a one day salary, but
+it was small compared to the other
+
+129
+00:08:41,508 --> 00:08:44,605
+bonuses.
+In the second bonus condition, we said, if
+
+130
+00:08:44,605 --> 00:08:49,291
+you do these tasks well at the highest
+possible level, you would get two weeks of
+
+131
+00:08:49,291 --> 00:08:50,150
+salary.
+Right?
+
+132
+00:08:50,151 --> 00:08:53,260
+Much, much more.
+And the third group we said, if you do
+
+133
+00:08:53,260 --> 00:08:58,259
+these tasks as well as, as possible, you
+would get five months of salary.
+
+134
+00:08:58,260 --> 00:09:02,944
+So now think about it.
+The first group had the maximum bonus of 1
+
+135
+00:09:02,944 --> 00:09:06,870
+day of salary, two weeks of salary, five
+months of salary.
+
+136
+00:09:06,870 --> 00:09:11,784
+Now if they perform half as well, they
+would get half, a third , a third, and so
+
+137
+00:09:11,784 --> 00:09:13,830
+on.
+The question is, how well would they
+
+138
+00:09:13,830 --> 00:09:16,278
+perform?
+And how would the relationship look
+
+139
+00:09:16,278 --> 00:09:20,762
+between these two levels of bonuses?
+And just think to yourself, if you had to
+
+140
+00:09:20,762 --> 00:09:25,580
+draw this relationship, imagine a graph
+and you have to predict what will be the
+
+141
+00:09:25,580 --> 00:09:29,157
+level of performance.
+Will performance go up linearly?
+
+142
+00:09:29,158 --> 00:09:33,785
+Will it flatten out or will it look like
+the Yerkes Dodson Effect, where mutual
+
+143
+00:09:33,785 --> 00:09:36,252
+actually go, go down?
+What, what would you predict?
+
+144
+00:09:36,252 --> 00:09:40,685
+Well here are the results.
+We had many different games, and I'll show
+
+145
+00:09:40,685 --> 00:09:43,912
+you one after the other.
+The first game was, eh, called the
+
+146
+00:09:43,912 --> 00:09:46,880
+quarters game.
+And in the quarter game, people have
+
+147
+00:09:46,880 --> 00:09:51,232
+multiple pieces of metal that each was
+like a quarter and you had to fit nine of
+
+148
+00:09:51,232 --> 00:09:54,997
+them in a particular shape.
+Eight of them is very easy, nine is a
+
+149
+00:09:54,997 --> 00:09:59,742
+little tricky and we gave people a time
+limit and the question was could they do
+
+150
+00:09:59,742 --> 00:10:01,900
+it in this time limit?
+What happened?
+
+151
+00:10:01,900 --> 00:10:08,697
+At the low level of the bonus, about 30%,
+almost 30% of the people managed.
+
+152
+00:10:08,698 --> 00:10:13,320
+In the middle of the bonus, slightly more,
+almost 40% of the people managed.
+
+153
+00:10:13,320 --> 00:10:17,559
+What happened at the very highest level of
+bonuses, the five-month salary condition?
+
+154
+00:10:17,560 --> 00:10:23,210
+Performance went down dramatically.
+Now, almost nobody was able to do that.
+
+155
+00:10:23,210 --> 00:10:26,597
+The same result basically appeared in
+other areas as well.
+
+156
+00:10:26,598 --> 00:10:30,434
+We had a game called Simon.
+Simon is a game with four lights, and each
+
+157
+00:10:30,434 --> 00:10:35,215
+of them is associated with a tone as well.
+And the machine presses them one after the
+
+158
+00:10:35,215 --> 00:10:38,665
+other, so you can hear a sound and, and,
+see a light.
+
+159
+00:10:38,665 --> 00:10:42,887
+And you have to press it.
+And then you see two of them, oh.
+
+160
+00:10:42,888 --> 00:10:47,312
+And then you have to do oh and it goes on
+like this and it increases by one number
+
+161
+00:10:47,312 --> 00:10:51,695
+every time for a long, long time until you
+fail in repeating the exact pattern.
+
+162
+00:10:51,695 --> 00:10:55,922
+What happened?
+In the low level condition people were
+
+163
+00:10:55,922 --> 00:11:00,750
+quite good, the middle level condition
+they were basically, almost the same, and
+
+164
+00:11:00,750 --> 00:11:04,726
+then at the highest level of bonus,
+performance actually went down
+
+165
+00:11:04,726 --> 00:11:08,690
+dramatically.
+In this particular game, we didn't see the
+
+166
+00:11:08,690 --> 00:11:14,082
+increase, we only saw the decease.
+We had another game we called recall last
+
+167
+00:11:14,082 --> 00:11:17,356
+three digits.
+What we did in this game is we read aloud
+
+168
+00:11:17,356 --> 00:11:21,250
+to people a sequence of numbers, 7, 18,
+25, 87, 76, 13, 18, 5, 3, 2, 17.
+
+169
+00:11:21,251 --> 00:11:27,265
+And then when we stopped in a random
+place, we said please remember, recall,
+
+170
+00:11:27,265 --> 00:11:30,961
+tell us the last three ones that we said
+aloud.
+
+171
+00:11:30,961 --> 00:11:38,080
+Could you do it?
+And we gave people many, many chances to
+
+172
+00:11:38,080 --> 00:11:40,660
+do it and saw how many of them they could
+do.
+
+173
+00:11:40,660 --> 00:11:44,675
+What happened?
+Again no difference between the low level
+
+174
+00:11:44,675 --> 00:11:48,742
+of bonus an the middle level, decrease for
+the high level.
+
+175
+00:11:48,742 --> 00:11:54,454
+Another game we played was Labyrinth, its
+a game with the plane in front of people,
+
+176
+00:11:54,454 --> 00:11:59,158
+with the little ball and you can
+manipulate the plane and shift it in
+
+177
+00:11:59,158 --> 00:12:04,233
+different directions, And this we get the
+ball to on a particular path.
+
+178
+00:12:04,233 --> 00:12:08,400
+And we define a particular version that
+would get people to perform well, and
+
+179
+00:12:08,400 --> 00:12:10,870
+another level that would perform very
+well.
+
+180
+00:12:10,870 --> 00:12:17,089
+What happened now?
+As bonus increased, performance just went,
+
+181
+00:12:17,089 --> 00:12:19,729
+went down.
+The same thing happened with some dart.
+
+182
+00:12:20,862 --> 00:12:24,760
+A game.
+We actually had initially some darts, with
+
+183
+00:12:24,760 --> 00:12:29,710
+a, a metal point, but we figured out this
+was too dangerous, so we did a darts game
+
+184
+00:12:29,710 --> 00:12:34,430
+with tennis ball covered with velcro.
+Here there was a slight increase between
+
+185
+00:12:34,430 --> 00:12:38,568
+the low and the middle and a slight
+decrease between the middle and the high.
+
+186
+00:12:38,568 --> 00:12:43,534
+Eh, we had another game in which you have
+to spread two levers and a particular ball
+
+187
+00:12:43,534 --> 00:12:48,725
+has to go up, and how far can you get it.
+In this one too we saw no difference, and
+
+188
+00:12:48,725 --> 00:12:52,203
+then a decrease.
+And if you look at all the results, and
+
+189
+00:12:52,203 --> 00:12:55,034
+our task really kind of had three
+components.
+
+190
+00:12:55,034 --> 00:12:59,456
+There was a creativity test, there were
+concentration tests, and there were model
+
+191
+00:12:59,456 --> 00:13:02,408
+skill tests.
+Across all of them we basically saw one
+
+192
+00:13:02,408 --> 00:13:05,247
+pattern.
+And if you average across all of them, no
+
+193
+00:13:05,247 --> 00:13:09,525
+difference between the low and middle
+level, and then decrease at the high
+
+194
+00:13:09,525 --> 00:13:12,830
+level.
+It means that as we get to high bonuses
+
+195
+00:13:12,830 --> 00:13:18,152
+things are not flattening out, they're
+actually going, going down.
+
+196
+00:13:18,152 --> 00:13:23,402
+Now, when we started this experiment, we
+actually had a slightly different,
+
+197
+00:13:23,402 --> 00:13:27,115
+approach.
+What we were going to do is we're going to
+
+198
+00:13:27,115 --> 00:13:32,080
+use a principle called loss aversion.
+And the idea of loss aversion, is the idea
+
+199
+00:13:32,080 --> 00:13:35,030
+that people hate losing more than they
+enjoy gaining.
+
+200
+00:13:35,030 --> 00:13:40,230
+So if losses are more important than gain,
+we said maybe we can create even more
+
+201
+00:13:40,230 --> 00:13:43,947
+stress by prepaying people.
+So the idea was the following.
+
+202
+00:13:43,948 --> 00:13:46,300
+People came to the experiment, we prepaid
+them.
+
+203
+00:13:46,300 --> 00:13:50,588
+If somebody was in the five months bonus
+condition, we would give them all the
+
+204
+00:13:50,588 --> 00:13:54,860
+money in cash to put in their wallet.
+And then we would say, please perform
+
+205
+00:13:54,860 --> 00:13:56,662
+this.
+And if you perform it to the highest
+
+206
+00:13:56,662 --> 00:13:59,724
+possible level you will give to, you will
+get to keep all the money.
+
+207
+00:13:59,725 --> 00:14:02,980
+But if you don't you'll have to give us
+the money back.
+
+208
+00:14:02,980 --> 00:14:08,180
+Now financially it's equivalent, but we
+thought that maybe if people have the
+
+209
+00:14:08,180 --> 00:14:11,497
+money on them the level of stress would be
+higher.
+
+210
+00:14:11,498 --> 00:14:15,530
+And actually the first participant in that
+experiment, in the five months bonus
+
+211
+00:14:15,530 --> 00:14:17,990
+condition, completely choked, he was
+terrible.
+
+212
+00:14:17,990 --> 00:14:20,590
+He couldn't perform anything.
+He was trying.
+
+213
+00:14:20,590 --> 00:14:22,794
+He was trying to focus.
+He was trying to breathe.
+
+214
+00:14:22,795 --> 00:14:25,300
+But he was just failing time after time
+after time.
+
+215
+00:14:25,300 --> 00:14:29,440
+And when he finished, he had to give us
+back all of the money.
+
+216
+00:14:29,440 --> 00:14:33,630
+The next participant was the same.
+He was trying to you know, concentrate and
+
+217
+00:14:33,630 --> 00:14:38,251
+focus and do some yoga and meditation.
+But again, he couldn't do anything
+
+218
+00:14:38,251 --> 00:14:41,130
+correctly.
+I have to say that at that point in the
+
+219
+00:14:41,130 --> 00:14:45,414
+game, which was going so well, I was a
+little happy because I had, the results
+
+220
+00:14:45,414 --> 00:14:49,766
+were looking In that direction, that the
+stress will overwhelming people's
+
+221
+00:14:49,766 --> 00:14:53,080
+performance.
+But the second participant did something
+
+222
+00:14:53,080 --> 00:14:55,556
+unexpected.
+And at the end of the experiment, when we
+
+223
+00:14:55,556 --> 00:14:58,500
+asked him to pay us back all the money, he
+turned around and ran away.
+
+224
+00:14:58,500 --> 00:15:02,648
+And the research assistant did not have
+the heart to chase him.
+
+225
+00:15:02,649 --> 00:15:06,296
+So what we did was, we had to move to a
+different village, because after the rumor
+
+226
+00:15:06,296 --> 00:15:09,090
+about this, came out we couldn't stay in
+the same village.
+
+227
+00:15:09,091 --> 00:15:12,878
+And, and we also move to the other
+approach, the one I described to you in
+
+228
+00:15:12,878 --> 00:15:17,410
+which, instead of giving people the money
+upfront, we, gave him money at the end.
+
+229
+00:15:17,410 --> 00:15:21,899
+Now, this idea of giving people the money
+upfront versus the end is important,
+
+230
+00:15:21,899 --> 00:15:26,767
+because it's a question of loss aversion,
+but it also has another important point.
+
+231
+00:15:26,768 --> 00:15:31,580
+Think about real bonuses in life.
+Are they in the gain condition or the loss
+
+232
+00:15:31,580 --> 00:15:35,420
+aversion condition?
+If somebody has been getting bonuses for a
+
+233
+00:15:35,420 --> 00:15:40,001
+few years, in which condition they are?
+Now they don't have the bonus, so of
+
+234
+00:15:40,001 --> 00:15:44,693
+course strictly speaking they haven't,
+they don't have the bonus and have to give
+
+235
+00:15:44,693 --> 00:15:49,109
+it up, but could it be that they are
+already buying homes and cars and vacation
+
+236
+00:15:49,109 --> 00:15:53,663
+and sending their kids to school, under
+the assumption that they will make this
+
+237
+00:15:53,663 --> 00:15:56,404
+bonus.
+And now they're stressed about it to an
+
+238
+00:15:56,404 --> 00:16:00,692
+even higher degree, because right now,
+what happen is that people are in this
+
+239
+00:16:00,692 --> 00:16:03,340
+condition.
+They think about losing, they think about
+
+240
+00:16:03,340 --> 00:16:07,260
+not being able to do everything they have
+committed to, in some sense, and therefore
+
+241
+00:16:07,260 --> 00:16:11,923
+they are even more stressed.
+Now as you can imagine, I've talked to
+
+242
+00:16:11,923 --> 00:16:14,894
+many bankers about this.
+And most bankers don't like it so much.
+
+243
+00:16:14,894 --> 00:16:20,073
+Actually when you describe the results,
+about, people in India, and, students and
+
+244
+00:16:20,073 --> 00:16:24,220
+so on, they have no problem.
+But the moment you ask bankers whether if
+
+245
+00:16:24,220 --> 00:16:27,473
+this could apply to them, their usual
+answer is, no.
+
+246
+00:16:27,474 --> 00:16:29,110
+Me?
+Heaven forbid.
+
+247
+00:16:29,110 --> 00:16:33,217
+How can it be?
+Of course it would never affect me.
+
+248
+00:16:33,218 --> 00:16:39,183
+And, now this, of course is a, goes under
+the rubric of self-justification.
+
+249
+00:16:39,183 --> 00:16:43,542
+And we'll come back to it, eh, in a few
+minutes to talk about whether this would
+
+250
+00:16:43,542 --> 00:16:46,704
+apply to executives in high positions and
+so on.
+
+251
+00:16:46,705 --> 00:16:51,552
+But before we continue with this, one of
+the things that troubled us, was the fact
+
+252
+00:16:51,552 --> 00:16:56,906
+that all tasks basically behave the same.
+In all tasks, performance was going down
+
+253
+00:16:56,906 --> 00:17:01,677
+for the highest level of pay, and this did
+not fit our intuition.
+
+254
+00:17:01,678 --> 00:17:05,722
+Our intuition was that there would be some
+tasks, particularly the mechanical tasks,
+
+255
+00:17:05,722 --> 00:17:08,299
+that higher pay would yield higher
+performance.
+
+256
+00:17:08,300 --> 00:17:13,936
+For example, what if I paid you to jump?
+If I paid you a small amount to jump, or a
+
+257
+00:17:13,936 --> 00:17:16,712
+medium amount to jump, or a very high
+amount to jump?
+
+258
+00:17:16,712 --> 00:17:20,746
+Don't you think that you would jump more
+as the amount of bonus for jumping would
+
+259
+00:17:20,746 --> 00:17:22,830
+go up?
+At least that's the intuition.
+
+260
+00:17:22,830 --> 00:17:26,526
+I mean, by the way, the intuioton is very
+different for mechanical task than for
+
+261
+00:17:26,526 --> 00:17:29,840
+mental tasks.
+Because in mechanical task, you're under
+
+262
+00:17:29,840 --> 00:17:34,542
+control of your muscles.
+You can decide how many time to jumps, how
+
+263
+00:17:34,542 --> 00:17:38,967
+much to try, eh, not to sleep, to stay
+awake a bit longer and so on.
+
+264
+00:17:38,968 --> 00:17:40,770
+With mental task it's a bit more
+difficult.
+
+265
+00:17:40,770 --> 00:17:44,614
+With mental task it's not the case that
+you can just close your eyes and say I
+
+266
+00:17:44,614 --> 00:17:48,829
+want to think more, I want to remember
+more, I want to do it to a higher degree.
+
+267
+00:17:48,830 --> 00:17:52,832
+So we thought that there should be a
+separation between the mechanical tasks
+
+268
+00:17:52,832 --> 00:17:55,796
+and the mental tasks.
+But we didn't see it in the first
+
+269
+00:17:55,796 --> 00:18:00,766
+experiment, but maybe, we thought, it was
+because our mechanical task was not, were
+
+270
+00:18:00,766 --> 00:18:04,064
+not just mechanical.
+Throwing a ball, for example, is not a
+
+271
+00:18:04,064 --> 00:18:07,069
+simple mechanical task, it involves other
+things.
+
+272
+00:18:07,070 --> 00:18:10,085
+So could we make the mechanical task even
+simpler?
+
+273
+00:18:10,085 --> 00:18:12,359
+Could we make it less?
+And we tried that.
+
+274
+00:18:12,359 --> 00:18:16,779
+We did the simplest mechanical test we
+could we asked people to put two fingers
+
+275
+00:18:16,779 --> 00:18:19,523
+on the keyboard and alternating pressing
+them.
+
+276
+00:18:19,523 --> 00:18:24,003
+And the faster they alternated the higher
+the performance, and the slower the lower
+
+277
+00:18:24,003 --> 00:18:27,059
+the performance.
+So this was the mechanical test, very,
+
+278
+00:18:27,059 --> 00:18:32,145
+very simple, no thinking required.
+The mental task was a task we took from
+
+279
+00:18:32,145 --> 00:18:36,875
+our experiments on dishonesty.
+And we gave people a set of 12 numbers,
+
+280
+00:18:36,875 --> 00:18:40,570
+and we asked them to find two numbers that
+add to ten.
+
+281
+00:18:40,570 --> 00:18:44,216
+And we gave people either this one or this
+one first, and then we flipped it, and
+
+282
+00:18:44,216 --> 00:18:48,390
+then we gave it to them again.
+And we did it for different levels of
+
+283
+00:18:48,390 --> 00:18:50,668
+bonuses.
+And what happened?
+
+284
+00:18:50,668 --> 00:18:56,868
+When we talked about the mechanical task,
+as we gave people a higher bonus,
+
+285
+00:18:56,868 --> 00:19:01,182
+performance went up.
+When we did the same thing with the mental
+
+286
+00:19:01,182 --> 00:19:05,110
+task, as we gave people higher bonuses,
+performance went down.
+
+287
+00:19:05,110 --> 00:19:10,975
+So we replicated our previous result for
+the mental arithmetic task, and we got the
+
+288
+00:19:10,975 --> 00:19:16,777
+opposite prediction for something that had
+very, very simple mechanical task.
+
+289
+00:19:16,778 --> 00:19:21,670
+And this I think suggest, that our
+intuition about how bonuses would, eh,
+
+290
+00:19:21,670 --> 00:19:26,340
+drive performance is relying on intuitions
+about mechanical tasks.
+
+291
+00:19:26,340 --> 00:19:31,224
+We think about ourselves as engines and
+muscles and if you just try harder, if we
+
+292
+00:19:31,224 --> 00:19:35,295
+just got paid more, you would lift more
+weights or jump more times.
+
+293
+00:19:35,295 --> 00:19:40,191
+Whereas the mind, tasks that have to do
+with concentration, thinking, memory and
+
+294
+00:19:40,191 --> 00:19:44,727
+so on are actually much more complex and
+you can't will yourself into higher
+
+295
+00:19:44,727 --> 00:19:48,880
+performance in the same ease.
+And in fact as you try to will yourself,
+
+296
+00:19:48,880 --> 00:19:52,330
+into higher performance, things can
+actually go backward.
+
+297
+00:19:52,330 --> 00:19:57,676
+And you can ask yourself this question,
+imagine you go into surgery, it's a very
+
+298
+00:19:57,676 --> 00:20:03,022
+delicate brain surgery, and just before
+you go to, eh, your falling asleep, you
+
+299
+00:20:03,022 --> 00:20:07,079
+meet the surgeon.
+And you can say thank you very much,
+
+300
+00:20:07,079 --> 00:20:10,527
+please do your best, or you could give
+them a bonus.
+
+301
+00:20:10,528 --> 00:20:14,333
+You could say you know what, if you do
+well, I'll give you $100,000.
+
+302
+00:20:14,333 --> 00:20:18,690
+Or maybe you can make, give him a negative
+bonus, a punish, potential punishment.
+
+303
+00:20:18,690 --> 00:20:22,848
+You could say you know what, if you don't
+do well, I hire two hit men to wait for
+
+304
+00:20:22,848 --> 00:20:27,534
+you outside the back alley and they would,
+you know, break your knees or something
+
+305
+00:20:27,534 --> 00:20:31,280
+like that.
+Is this something that you would want?
+
+306
+00:20:31,280 --> 00:20:35,635
+Would you want your brain surgeon, as they
+are operating on you, to think about
+
+307
+00:20:35,635 --> 00:20:40,191
+either the yachts they could buy with all
+this money or their knees getting broken
+
+308
+00:20:40,191 --> 00:20:43,789
+if you don't do a good job?
+Probably not, in fact there's a lot of
+
+309
+00:20:43,789 --> 00:20:46,639
+research in what is called a state of
+flow.
+
+310
+00:20:46,640 --> 00:20:52,015
+And the idea of a state of flow, is that
+once you get immersed in a task, you think
+
+311
+00:20:52,015 --> 00:20:56,525
+about nothing about the task.
+You're completely absorbed and consumed
+
+312
+00:20:56,525 --> 00:20:59,507
+and focused on that task, nothing else
+matters.
+
+313
+00:20:59,508 --> 00:21:03,996
+And this state of flow is what's driving
+the highest-quality performance.
+
+314
+00:21:03,997 --> 00:21:07,491
+Now, from this perspective, it's kind of
+strange to think about bonuses.
+
+315
+00:21:07,492 --> 00:21:10,801
+What are bonuses?
+Bonuses are basically saying, I don't
+
+316
+00:21:10,801 --> 00:21:14,705
+think you're going to work for me very
+hard, so what I'm going to do, I don't
+
+317
+00:21:14,705 --> 00:21:18,929
+think you're motivated, I think you want
+to do it hard enough, so I'm going to put
+
+318
+00:21:18,929 --> 00:21:22,961
+a big pile of money on the way and by you
+thinking about the money all the time,
+
+319
+00:21:22,961 --> 00:21:25,859
+you're going to work in the way that I
+expect you to.
+
+320
+00:21:27,180 --> 00:21:29,802
+What kind of task this is going to be
+relevant to?
+
+321
+00:21:29,802 --> 00:21:33,823
+Well if it's laying bricks, or something
+very, very mechanical, maybe it works.
+
+322
+00:21:33,823 --> 00:21:38,107
+Are people thinking about the money and
+that would motivate me to work harder, but
+
+323
+00:21:38,107 --> 00:21:42,265
+anything else, do you really want part of
+peoples' minds to be occupied with how
+
+324
+00:21:42,265 --> 00:21:46,295
+much money they're making and is this the
+right amount and how much effort?
+
+325
+00:21:46,295 --> 00:21:49,962
+Or do you want it to be in a state of
+flow, fully consumed by it?
+
+326
+00:21:49,962 --> 00:21:53,862
+And if you want a state of flow, maybe
+bonuses are actually distracting, maybe
+
+327
+00:21:53,862 --> 00:21:56,460
+take, taking away attention rather than
+helping.
+
+328
+00:21:56,460 --> 00:22:01,413
+Maybe they are decreasing motivation,
+rather than increase motivation.

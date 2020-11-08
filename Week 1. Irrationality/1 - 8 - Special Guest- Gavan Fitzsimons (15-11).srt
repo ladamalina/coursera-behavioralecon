@@ -1,0 +1,1096 @@
+
+1
+00:00:06,310 --> 00:00:08,550
+Hi, my name's Gavan Fitzsimons. 
+I'm the R. 
+
+2
+00:00:08,550 --> 00:00:12,570
+David Thomas professor of marketing and 
+psychology here at Duke University. 
+
+3
+00:00:12,570 --> 00:00:15,834
+today I'm going to be taking a little 
+time to tell you about some of the work 
+
+4
+00:00:15,834 --> 00:00:20,548
+we do in our lab. 
+focused around an issue that we like to 
+
+5
+00:00:20,548 --> 00:00:24,685
+call the unconscious consumer. 
+And usually when I say the term 
+
+6
+00:00:24,685 --> 00:00:28,162
+unconscious consumer in one sort of, 
+package like that, it starts to make 
+
+7
+00:00:28,162 --> 00:00:32,636
+people a little bit nervous. 
+And I say, wait a second, I'm not 
+
+8
+00:00:32,636 --> 00:00:37,263
+unconscious when I'm in consumption mode. 
+When I'm walking through a store, I know 
+
+9
+00:00:37,263 --> 00:00:40,865
+exactly what I'm doing. 
+But I'm choosing between two autombiles, 
+
+10
+00:00:40,865 --> 00:00:44,900
+I know exactly what I'm doing. 
+When I'm deciding whether to have that 
+
+11
+00:00:44,900 --> 00:00:48,806
+snack or take a pass, I know exactly what 
+I'm doing. 
+
+12
+00:00:48,806 --> 00:00:52,405
+In fact, what I'm going to do today is 
+try to convince you that far more is 
+
+13
+00:00:52,405 --> 00:00:56,309
+occurring outside your conscious 
+awareness than you'd like to believe when 
+
+14
+00:00:56,309 --> 00:01:01,475
+you're in consumption mode. 
+I thought I'd start out, I had sort of 
+
+15
+00:01:01,475 --> 00:01:04,637
+three little ideals that I'd like tell 
+you about, but I though I'd start out 
+
+16
+00:01:04,637 --> 00:01:09,52
+with a personal anecdote. 
+This is going back a little ways, to when 
+
+17
+00:01:09,52 --> 00:01:13,290
+I was a graduate student myself. 
+I was I was living New York at the time, 
+
+18
+00:01:13,290 --> 00:01:18,980
+I was a graduate student at Columbia. 
+And, it was a January night, it was maybe 
+
+19
+00:01:18,980 --> 00:01:27,680
+40ish degrees Fahrenheit, 2 or 3 Celsius 
+and it was kind of drizzly and rainy out. 
+
+20
+00:01:27,680 --> 00:01:32,80
+I realized had I ran out of Diet Coke. 
+This was quite a tragedy for me. 
+
+21
+00:01:32,80 --> 00:01:36,153
+I love Diet Coke. 
+I needed to fill my fridge with Diet Coke 
+
+22
+00:01:36,153 --> 00:01:39,544
+immediately. 
+So I was in short, soccer shorts, and a 
+
+23
+00:01:39,544 --> 00:01:43,251
+t-shirt and flip-flops. 
+Fortunately in living in Manhattan theirs 
+
+24
+00:01:43,251 --> 00:01:47,92
+a deli sort of underneath every building. 
+To get to my deli, I had to go out the 
+
+25
+00:01:47,92 --> 00:01:49,560
+front door, around the corner into the 
+deli. 
+
+26
+00:01:49,560 --> 00:01:54,274
+And so out I went, money in hand, ready 
+to purchase my 2 liter diet coke. 
+
+27
+00:01:54,274 --> 00:01:57,794
+Walked into the deli, nodded hi to the 
+guy behind the counter, went over to the 
+
+28
+00:01:57,794 --> 00:02:04,150
+spot where the 2 liter Diet Coke was. 
+But there was no 2 liter Diet Coke. 
+
+29
+00:02:04,150 --> 00:02:07,801
+I was taken aback. 
+Empty spot where the 2 liter Diet Coke 
+
+30
+00:02:07,801 --> 00:02:10,34
+always was. 
+So I leaned back to the fella behind the 
+
+31
+00:02:10,34 --> 00:02:12,538
+counter. 
+I said, hey, can you grab a couple of, 2 
+
+32
+00:02:12,538 --> 00:02:16,326
+liter Diet Cokes? 
+And he said, I can still hear his accent 
+
+33
+00:02:16,326 --> 00:02:20,200
+and everything in my mind. 
+He said, I'm sorry. 
+
+34
+00:02:20,200 --> 00:02:26,158
+We're all out of 2 liter Diet Coke. 
+Nothing could have been more horrible to 
+
+35
+00:02:26,158 --> 00:02:29,472
+me at the time. 
+I love my Diet Coke and I love my 2 liter 
+
+36
+00:02:29,472 --> 00:02:32,984
+Diet Coke. 
+He followed up with an interesting 
+
+37
+00:02:32,984 --> 00:02:37,924
+statement, which was, I'll give you 2 
+1-liter bottles of diet coke for the same 
+
+38
+00:02:37,924 --> 00:02:42,548
+price as a 2 liter bottle. 
+I paused for a moment. 
+
+39
+00:02:42,548 --> 00:02:47,150
+I thought about it and I realized I 
+didn't want 2 1-liter bottles of diet 
+
+40
+00:02:47,150 --> 00:02:51,870
+coke, I wanted a 2 liter bottle of diet 
+coke. 
+
+41
+00:02:51,870 --> 00:02:55,119
+So I left in a little bit of a huff, 
+walked out of the deli, walked up the 
+
+42
+00:02:55,119 --> 00:02:59,473
+street. 
+Now, I think I mentioned, it was quite 
+
+43
+00:02:59,473 --> 00:03:04,272
+chilly and raining. 
+I get up the block, go into the next 
+
+44
+00:03:04,272 --> 00:03:07,94
+deli. 
+In New York there's a deli every block. 
+
+45
+00:03:07,94 --> 00:03:11,50
+went into the next deli, looked, no 2 
+liter diet coke. 
+
+46
+00:03:11,50 --> 00:03:15,930
+Went out another block, another deli, no 
+2 liter diet coke. 
+
+47
+00:03:15,930 --> 00:03:17,860
+At this point, I had a decision. 
+Do I give up? 
+
+48
+00:03:17,860 --> 00:03:21,612
+Do I walk the whole way across the avenue 
+which is maybe a quarter mile, a half a 
+
+49
+00:03:21,612 --> 00:03:25,930
+kilometer, something like that, to a dip, 
+to another deli. 
+
+50
+00:03:25,930 --> 00:03:31,560
+I did so, I got there, walked in. 
+They had 2 liter Diet Coke, fantastic. 
+
+51
+00:03:31,560 --> 00:03:37,190
+I bought 6 bottles of it. 
+Now I had 6 bottles, 3 in each hand. 
+
+52
+00:03:37,190 --> 00:03:41,969
+Walking back across Columbia campus, 
+soaking wet, freezing cold. 
+
+53
+00:03:43,400 --> 00:03:47,235
+Arms pulling out of their shoulder 
+sockets and I realized, something bizarre 
+
+54
+00:03:47,235 --> 00:03:51,10
+has just happened to me. 
+What was it? 
+
+55
+00:03:51,10 --> 00:03:55,25
+I was experiencing something that folks 
+have called psychological reactance, and 
+
+56
+00:03:55,25 --> 00:03:58,820
+reactance is the, basically the idea 
+that, when something's restricted, when 
+
+57
+00:03:58,820 --> 00:04:02,120
+freedom of my choice is restricted, I'm 
+going to fight really hard to get it 
+
+58
+00:04:02,120 --> 00:04:07,441
+back. 
+In that particular instance, it was the 
+
+59
+00:04:07,441 --> 00:04:11,796
+first personal anecdotal experience I'd 
+ever had of a psychological process 
+
+60
+00:04:11,796 --> 00:04:16,553
+overpowering me, taking over my actions, 
+leading to some, somewhat [LAUGH] strange 
+
+61
+00:04:16,553 --> 00:04:24,300
+consumption behavior all outside of my 
+conscious awareness and control. 
+
+62
+00:04:24,300 --> 00:04:28,578
+And, that sort of triggered this notion 
+of for me, of understanding forces that 
+
+63
+00:04:28,578 --> 00:04:32,546
+occur outside our conscious control, that 
+might be shaping our consumption 
+
+64
+00:04:32,546 --> 00:04:38,35
+behavior. 
+one of the interesting follow ups from 
+
+65
+00:04:38,35 --> 00:04:43,170
+that, sort of basic observation and line 
+of work we did, was realizing that 
+
+66
+00:04:43,170 --> 00:04:48,542
+oftentimes the trigger for a restriction 
+of a freedom aren't nearly as obvious to 
+
+67
+00:04:48,542 --> 00:04:57,0
+you as the lack of a 2 liter Diet Coke in 
+it's spot in the store. 
+
+68
+00:04:57,0 --> 00:05:00,481
+So for example in a social domain we 
+found that, and this is work with Amy 
+
+69
+00:05:00,481 --> 00:05:05,195
+Dalton and Tanya Chartrand. 
+Tanya, who happens to be my wife once 
+
+70
+00:05:05,195 --> 00:05:09,290
+observed that I often don't do the things 
+that she would like me to do and I 
+
+71
+00:05:09,290 --> 00:05:13,515
+expressed surprise at that observation on 
+her part, and we ended up doing some 
+
+72
+00:05:13,515 --> 00:05:19,627
+research on the topic. 
+And what we found was that there are 
+
+73
+00:05:19,627 --> 00:05:23,592
+certain people who chronically experience 
+this notion of resistance to 
+
+74
+00:05:23,592 --> 00:05:29,420
+restrictions, on an automatic basis. 
+And I actually, what we found was that 
+
+75
+00:05:29,420 --> 00:05:34,460
+myself and people like me that don't like 
+to have their freedoms restricted will 
+
+76
+00:05:34,460 --> 00:05:39,428
+actually restrict or will react against 
+what their significant others would like 
+
+77
+00:05:39,428 --> 00:05:45,50
+them to do. 
+Your mom, your dad, your loved one, they 
+
+78
+00:05:45,50 --> 00:05:48,890
+would like you to say, work hard, for 
+example. 
+
+79
+00:05:48,890 --> 00:05:53,180
+Alright, all it takes for some folks is 
+to hear in the way background, the little 
+
+80
+00:05:53,180 --> 00:05:58,450
+background back there, the name of their 
+significant other. 
+
+81
+00:05:58,450 --> 00:06:01,920
+The name of their mom or dad. 
+Instead of actually doing the things that 
+
+82
+00:06:01,920 --> 00:06:05,400
+their mom or dad or loved one would like 
+you to do, like work hard. 
+
+83
+00:06:05,400 --> 00:06:10,215
+You actually do the exact opposite. 
+Completely outside conscious awareness 
+
+84
+00:06:10,215 --> 00:06:12,899
+sometimes. 
+It's such a strong effect that we were 
+
+85
+00:06:12,899 --> 00:06:16,321
+able to subliminally prime, and 
+subliminal is Latin for sub, meaning 
+
+86
+00:06:16,321 --> 00:06:20,724
+below and liminal meaning threshold so 
+below threshold. 
+
+87
+00:06:20,724 --> 00:06:24,466
+Subliminally prime people with the name 
+of their loved one. 
+
+88
+00:06:24,466 --> 00:06:28,498
+So much so that, or below their level of 
+awareness so we prime them below their 
+
+89
+00:06:28,498 --> 00:06:32,734
+level of awareness. 
+So in a way that their sort of optical 
+
+90
+00:06:32,734 --> 00:06:36,760
+system and their brain can recognize the 
+name of the significant other, but at a 
+
+91
+00:06:36,760 --> 00:06:41,26
+conscious level they are not able to do 
+so. 
+
+92
+00:06:41,26 --> 00:06:44,834
+so we activate in their minds the name of 
+this significant other and then we put 
+
+93
+00:06:44,834 --> 00:06:49,209
+them in this situation where they could 
+work hard or relax. 
+
+94
+00:06:49,209 --> 00:06:52,867
+For many people that experience 
+psychological reactants on a regular 
+
+95
+00:06:52,867 --> 00:06:55,857
+bases. 
+They actually backlashed against what 
+
+96
+00:06:55,857 --> 00:06:59,839
+their loved one wanted them to do, and 
+did the exact opposite. 
+
+97
+00:07:00,880 --> 00:07:03,410
+Back into a consumption setting, we take 
+that same kind of notion. 
+
+98
+00:07:03,410 --> 00:07:08,720
+So now, some of us are, are sort of, 
+bristle at restrictions, don't like 
+
+99
+00:07:08,720 --> 00:07:14,44
+people to tell us what to do. 
+Some of you that are, are watching this 
+
+100
+00:07:14,44 --> 00:07:16,942
+today might think to yourself, well I can 
+sort of identify with that, I've about 
+
+101
+00:07:16,942 --> 00:07:20,605
+had it with people telling me what to do 
+in certain spaces. 
+
+102
+00:07:20,605 --> 00:07:25,193
+So, some of you might have heard recently 
+that you should, for example, eat 
+
+103
+00:07:25,193 --> 00:07:28,250
+healthy. 
+And I bet if you've heard eat healthy 
+
+104
+00:07:28,250 --> 00:07:30,860
+once you've heard eat healthy a thousand 
+times. 
+
+105
+00:07:30,860 --> 00:07:34,840
+Or exercise. 
+You should exercise more, right. 
+
+106
+00:07:34,840 --> 00:07:38,540
+And again if you've heard it once, you've 
+heard it a thousand times. 
+
+107
+00:07:38,540 --> 00:07:43,212
+As you repeatedly get exposed to those 
+message in your life, for some of us, we 
+
+108
+00:07:43,212 --> 00:07:48,722
+build up a resistance to that message. 
+And in fact, we want to do just the 
+
+109
+00:07:48,722 --> 00:07:51,930
+opposite of that. 
+And that was sort of the underlying 
+
+110
+00:07:51,930 --> 00:07:56,190
+premise of some work that Peggie Lou, 
+who's a PhD student with with me, started 
+
+111
+00:07:56,190 --> 00:08:02,20
+doing, looking at what we call indirect 
+priming, or indirect persuasion. 
+
+112
+00:08:02,20 --> 00:08:06,220
+And so the idea here is that by 
+sometimes, we're better to indirectly try 
+
+113
+00:08:06,220 --> 00:08:10,560
+to reach out to a person to a consumer 
+and try to pursued them to do something 
+
+114
+00:08:10,560 --> 00:08:18,328
+that might be in their best interest by 
+not triggering this backlash reaction. 
+
+115
+00:08:18,328 --> 00:08:21,592
+And so for example if we want you to eat 
+healthy we have found that it's actually 
+
+116
+00:08:21,592 --> 00:08:24,712
+better to subliminally prime you with the 
+message exercise, rather, then 
+
+117
+00:08:24,712 --> 00:08:28,210
+subliminally with the message eat 
+healthy. 
+
+118
+00:08:28,210 --> 00:08:34,69
+If we subliminally prime you with the 
+message eat healthy, some people will 
+
+119
+00:08:34,69 --> 00:08:40,450
+actually not eat healthy, they'll 
+backlash against it. 
+
+120
+00:08:40,450 --> 00:08:44,232
+And, and so we find that these indirect 
+means to try to persuade folks, can 
+
+121
+00:08:44,232 --> 00:08:49,612
+sometimes be more effective then a direct 
+in your face kind of message. 
+
+122
+00:08:49,612 --> 00:08:53,324
+So, when your thinking about trying to 
+eat healthy, when your thinking about 
+
+123
+00:08:53,324 --> 00:08:57,384
+trying to exercise in your own sort of 
+lives think about what are the triggers 
+
+124
+00:08:57,384 --> 00:09:01,96
+in this environment that might lead me to 
+outside of my conscience awareness 
+
+125
+00:09:01,96 --> 00:09:04,808
+actually back lash against this message 
+and do something that in the long run 
+
+126
+00:09:04,808 --> 00:09:13,603
+could actually quite be harmful to me. 
+so those are little examples of this idea 
+
+127
+00:09:13,603 --> 00:09:19,828
+that we can backlash against situational, 
+environmental cues, in consumption ways, 
+
+128
+00:09:19,828 --> 00:09:26,952
+that will actually lead to outcomes that 
+can be bad for us. 
+
+129
+00:09:26,952 --> 00:09:30,734
+obviously, if you sort of think 
+classically from a, a traditional 
+
+130
+00:09:30,734 --> 00:09:35,74
+decision making, a traditional economic 
+perspective, we would never do something 
+
+131
+00:09:35,74 --> 00:09:39,939
+that would be bad for us. 
+And I think most folks, if you asked 
+
+132
+00:09:39,939 --> 00:09:44,30
+them, would not want to engage in these 
+negative behaviors. 
+
+133
+00:09:44,30 --> 00:09:47,780
+And yet, we find ourselves doing so. 
+And I'll return and, and, and visit to 
+
+134
+00:09:47,780 --> 00:09:51,860
+this general idea that sometimes things 
+occur outside conscious awareness that 
+
+135
+00:09:51,860 --> 00:09:57,776
+might not be so good for us in, in a bit. 
+the second line of work that I thought 
+
+136
+00:09:57,776 --> 00:10:01,372
+would be fun to, to talk about today is 
+some work that we've done looking at, 
+
+137
+00:10:01,372 --> 00:10:06,958
+what we call, brief brand exposures. 
+And the ideal here is that we're exposed, 
+
+138
+00:10:06,958 --> 00:10:12,480
+the average consumer is exposed to many 
+many brands in a paticular, in one day. 
+
+139
+00:10:12,480 --> 00:10:18,231
+So for example, most western societies, 
+we're exposed to somewhere between 5 and 
+
+140
+00:10:18,231 --> 00:10:23,794
+10,000 brands in a day. 
+And obviously that's far too many brands 
+
+141
+00:10:23,794 --> 00:10:28,120
+for us to consciously process in a 
+meaningful way. 
+
+142
+00:10:28,120 --> 00:10:31,139
+so what happens? 
+Does this simply, do they simply pass in 
+
+143
+00:10:31,139 --> 00:10:35,892
+front of us, a logo on someones shirt a 
+thing on a co-, on a coffee cup. 
+
+144
+00:10:35,892 --> 00:10:40,862
+or are they affecting us in some way, are 
+they simply, you know, background noise 
+
+145
+00:10:40,862 --> 00:10:46,695
+or are they affecting us in some way? 
+And one of the, the studies that we did 
+
+146
+00:10:46,695 --> 00:10:51,505
+to try to to sort of understand this this 
+question, or to answer this question, was 
+
+147
+00:10:51,505 --> 00:10:55,990
+a study with with Tanya Chartrand and 
+[UNKNOWN] Fitzsimmons where we looked at 
+
+148
+00:10:55,990 --> 00:11:02,620
+at different brief brand exposures. 
+And the two that we'll tell you about 
+
+149
+00:11:02,620 --> 00:11:06,126
+today is Apple and IBM. 
+So, we choose two brands that are in the 
+
+150
+00:11:06,126 --> 00:11:09,961
+product category, we then subliminally 
+exposed people to one of each of these 
+
+151
+00:11:09,961 --> 00:11:13,634
+two brands. 
+And, we then looked to see if it had an 
+
+152
+00:11:13,634 --> 00:11:16,899
+effect on peoples behavior in some 
+meaningful way. 
+
+153
+00:11:17,930 --> 00:11:21,780
+the domain that we looked at to test 
+whether it was impacting behavior, was in 
+
+154
+00:11:21,780 --> 00:11:27,28
+the, the sort of field of creativity. 
+And the ideal was, that the Apple brand 
+
+155
+00:11:27,28 --> 00:11:31,390
+logo had very strong associations with 
+creativity. 
+
+156
+00:11:31,390 --> 00:11:35,141
+Both Apple and IBM were equally liked, 
+they were equally well-known, etcetera. 
+
+157
+00:11:35,141 --> 00:11:39,970
+but Apple had a really strong set of 
+associations with creativity. 
+
+158
+00:11:39,970 --> 00:11:43,234
+So we exposed people to the brand logos 
+outside their conscious awareness, and we 
+
+159
+00:11:43,234 --> 00:11:46,450
+put them in a setting where they could be 
+creative, where they could demonstrate 
+
+160
+00:11:46,450 --> 00:11:50,366
+creativity. 
+And what we found, was that people 
+
+161
+00:11:50,366 --> 00:11:54,974
+exposed to the Apple brand logo were 
+dramatically more creative than people 
+
+162
+00:11:54,974 --> 00:12:01,847
+exposed to the Apple or to the IBM logo. 
+Apple exposed people way more creative, 
+
+163
+00:12:01,847 --> 00:12:05,111
+IBM exposed people slightly less creative 
+than a neutral of situation in the 
+
+164
+00:12:05,111 --> 00:12:08,705
+middle. 
+So here's a, there's a little example of 
+
+165
+00:12:08,705 --> 00:12:13,60
+the simple incidental brand exposures 
+that occur on a daily basis, thousands of 
+
+166
+00:12:13,60 --> 00:12:16,600
+them. 
+And each of them is impacting us 
+
+167
+00:12:16,600 --> 00:12:19,570
+potentially in some way changing our 
+behavior. 
+
+168
+00:12:19,570 --> 00:12:22,236
+Now, if I asked you do you think you be 
+got more creative because you saw that 
+
+169
+00:12:22,236 --> 00:12:25,948
+Apple logo. 
+I'm certain that everybody watching today 
+
+170
+00:12:25,948 --> 00:12:29,920
+would say, no that seems crazy. 
+That really seems silly. 
+
+171
+00:12:29,920 --> 00:12:34,810
+How can that possibly be the case? 
+and yet, we have very clear empirical 
+
+172
+00:12:34,810 --> 00:12:39,835
+evidence that these brief exposures 
+change both the psychological process, as 
+
+173
+00:12:39,835 --> 00:12:45,68
+well as actual behavior. 
+So, I've talked to you today about 
+
+174
+00:12:45,68 --> 00:12:48,908
+backlash, and how backlash can occur 
+outside our conscious awareness, 
+
+175
+00:12:48,908 --> 00:12:54,985
+sometimes leading to harmful effects. 
+I've talked to you about brief brand 
+
+176
+00:12:54,985 --> 00:13:00,510
+exposures, IBM and Apple, that can lead 
+to positive effects. 
+
+177
+00:13:00,510 --> 00:13:04,734
+When should be we terrified that we're 
+being influenced outside our conscious 
+
+178
+00:13:04,734 --> 00:13:10,650
+awareness, left, right, and center. 
+I think it's easy to become paranoid that 
+
+179
+00:13:10,650 --> 00:13:15,730
+that the world around you is trying to 
+change your behavior. 
+
+180
+00:13:15,730 --> 00:13:17,934
+The truth of the matter is the world 
+around you is trying to change your 
+
+181
+00:13:17,934 --> 00:13:21,68
+behavior. 
+Some of it is very systematic, some of it 
+
+182
+00:13:21,68 --> 00:13:24,160
+is not. 
+I like to tell people when they think 
+
+183
+00:13:24,160 --> 00:13:28,846
+about unconscious consumption, that it's 
+typically not the case that, for example, 
+
+184
+00:13:28,846 --> 00:13:33,70
+subliminal exposure to any kind of brand 
+logo will make you choose that brand 
+
+185
+00:13:33,70 --> 00:13:37,981
+logo. 
+So for example I'm a Diet Coke drinker, I 
+
+186
+00:13:37,981 --> 00:13:41,182
+love my Diet Coke. 
+You could expose me to Diet Pepsi a 
+
+187
+00:13:41,182 --> 00:13:44,734
+million times in a row. 
+I'll never choose Diet Pepsi over Diet 
+
+188
+00:13:44,734 --> 00:13:47,601
+Coke. 
+Alright, however, with exposure to Diet 
+
+189
+00:13:47,601 --> 00:13:51,259
+Coke, whether it be through an ad, 
+through watching someone walk by on a 
+
+190
+00:13:51,259 --> 00:13:57,240
+street with a Diet Coke lead me to want 
+to consume a little more Diet Coke? 
+
+191
+00:13:57,240 --> 00:14:01,77
+The answer is proablay yes. 
+So if you're trying to defend against 
+
+192
+00:14:01,77 --> 00:14:04,220
+that we've got to be very vigilant, 
+alright. 
+
+193
+00:14:04,220 --> 00:14:08,124
+The reality is though that our ability to 
+defend against the non-conscience 
+
+194
+00:14:08,124 --> 00:14:11,910
+influence in our environments is pretty 
+limited. 
+
+195
+00:14:11,910 --> 00:14:16,698
+So I like to say and I like to, I'd like 
+to leave you with this thought that it's 
+
+196
+00:14:16,698 --> 00:14:21,486
+probably worthwhile investing in being 
+strategic about the brands and the 
+
+197
+00:14:21,486 --> 00:14:27,840
+consumption objects you surround yourself 
+with. 
+
+198
+00:14:27,840 --> 00:14:33,669
+So, for example, if you're a swimmer, and 
+you'd like to really swim a faster race, 
+
+199
+00:14:33,669 --> 00:14:40,390
+you'd like to cut a couple of tenths off 
+your 50 meter swim. 
+
+200
+00:14:40,390 --> 00:14:44,230
+Maybe you should wear the same parka, on 
+the warm up deck, that Michael Phelps 
+
+201
+00:14:44,230 --> 00:14:47,997
+wore. 
+Now, the first day that you buy that 
+
+202
+00:14:47,997 --> 00:14:51,330
+parka, and you put it on, you're going to 
+feel silly. 
+
+203
+00:14:51,330 --> 00:14:54,385
+You're going to realize that you've got 
+Michael Phelps' parka on, and clearly 
+
+204
+00:14:54,385 --> 00:14:58,536
+that can't make you a faster swimmer. 
+The second day, you might still feel a 
+
+205
+00:14:58,536 --> 00:15:01,592
+little of that. 
+3 weeks out, you're not going to be 
+
+206
+00:15:01,592 --> 00:15:06,148
+consciously thinking about the fact that 
+you're strategically donning Michael 
+
+207
+00:15:06,148 --> 00:15:11,674
+Phelps' warm-up jacket. 
+But that association between the jacket 
+
+208
+00:15:11,674 --> 00:15:16,484
+and Michael Phelps and how fast a swimmer 
+he is, is going to be activated at some 
+
+209
+00:15:16,484 --> 00:15:21,930
+level below your conscious threshold in 
+your mind. 
+
+210
+00:15:21,930 --> 00:15:26,480
+You hit the pool, you swim, you cut the 2 
+10ths off. 
+
+211
+00:15:26,480 --> 00:15:31,216
+Same thing for creativity, for, for for 
+intelligence, for just about any 
+
+212
+00:15:31,216 --> 00:15:35,380
+desirable aspirational goal you might 
+have. 
+
+213
+00:15:35,380 --> 00:15:40,624
+Surrounding yourself with consumer goods 
+that are strongly associated with that 
+
+214
+00:15:40,624 --> 00:15:45,184
+and activate that idea in your mind can 
+lead you to to basically be a, a 
+
+215
+00:15:45,184 --> 00:15:51,250
+successful strategic user of brands, 
+products, etc. 
+
+216
+00:15:51,250 --> 00:15:55,408
+Rather than letting you have brands, 
+products, etc, change you are, who you 
+
+217
+00:15:55,408 --> 00:16:00,710
+are and, and, and the way that you behave 
+in a sort of random way. 
+
+218
+00:16:00,710 --> 00:16:05,680
+So think strategically, surround yourself 
+with objects, with the brands, with the 
+
+219
+00:16:05,680 --> 00:16:11,263
+products that are going to make you a 
+strategic unconscious consumer. 
+

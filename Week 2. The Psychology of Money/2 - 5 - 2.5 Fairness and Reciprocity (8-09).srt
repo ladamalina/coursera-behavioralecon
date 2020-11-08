@@ -1,0 +1,985 @@
+
+1
+00:00:00,208 --> 00:00:06,180
+some time ago I met a locksmith who lives
+not too far from me in Durham.
+
+2
+00:00:06,180 --> 00:00:13,015
+And he told me the following story.
+He said that when he as just practicing
+
+3
+00:00:13,015 --> 00:00:18,600
+locksmith, he was not very good.
+He said it would take him a long time to
+
+4
+00:00:18,600 --> 00:00:22,930
+get into people's locks.
+And often because he was not that good, he
+
+5
+00:00:22,930 --> 00:00:26,060
+also had to break the lock.
+So after a long time of trying to figure
+
+6
+00:00:26,060 --> 00:00:28,880
+weather if you would break the lock, then
+he would replace it.
+
+7
+00:00:28,880 --> 00:00:33,365
+And he charged people for the standard fee
+of opening the door, he would charge them
+
+8
+00:00:33,365 --> 00:00:37,199
+for the lock, and people had paid him
+happily and gave him a tip.
+
+9
+00:00:37,200 --> 00:00:40,260
+He said after two years, he got really
+good at it.
+
+10
+00:00:40,260 --> 00:00:44,352
+And now that he's really good, it takes
+him minutes to open a lock, he said he
+
+11
+00:00:44,352 --> 00:00:47,230
+never breaks it.
+So he charges people less, just a standard
+
+12
+00:00:47,230 --> 00:00:50,543
+fee for opening a door.
+And now he says, nobody gives him a tip
+
+13
+00:00:50,543 --> 00:00:54,637
+anymore, and everybody argues with him.
+Now, here's a situation.
+
+14
+00:00:54,637 --> 00:00:58,150
+Which one would you prefer from a utility
+perspective?
+
+15
+00:00:58,150 --> 00:01:01,539
+Which situation would you prefer?
+When somebody takes an hour to open your
+
+16
+00:01:01,539 --> 00:01:05,172
+door, or when somebody takes two minutes?
+Of course the two minutes is better,
+
+17
+00:01:05,172 --> 00:01:09,048
+because if it's two minutes you only have
+to stand outside for two minutes, you're
+
+18
+00:01:09,048 --> 00:01:11,648
+in your house.
+If somebody goes away you don't have to
+
+19
+00:01:11,648 --> 00:01:15,043
+worry.
+But how would you feel about paying that
+
+20
+00:01:15,043 --> 00:01:17,470
+person.
+If you see somebody struggling, and
+
+21
+00:01:17,470 --> 00:01:21,541
+working and sweating outside of your house
+for an hour, you'll probably feel much,
+
+22
+00:01:21,541 --> 00:01:24,612
+much better about paying them more and
+even giving them a tip.
+
+23
+00:01:24,612 --> 00:01:28,139
+There's this mediocre joke that says that
+somebody who drives a car to the mechanic
+
+24
+00:01:28,139 --> 00:01:31,250
+and he said oh you know my car is not
+running very well, there's a noise from
+
+25
+00:01:31,250 --> 00:01:35,674
+the engine, I'm not sure what it is?
+So the mechanic says open the hood, the
+
+26
+00:01:35,674 --> 00:01:40,066
+person opens the hood, the mechanic looks
+at it, takes a hammer, bangs on a
+
+27
+00:01:40,066 --> 00:01:44,962
+particular pipe, voom, the car is driving
+perfectly, the noise is, is gone and the
+
+28
+00:01:44,962 --> 00:01:50,324
+mechanic said, that would be a $100.
+The person says a $100 for banging with a
+
+29
+00:01:50,324 --> 00:01:54,629
+hammer on a, on a pipe?
+And the mechanic said, no, no, no, the
+
+30
+00:01:54,629 --> 00:02:00,643
+banging is $1 knowing where to bang is $99
+Now, that's not the really funny joke.
+
+31
+00:02:00,644 --> 00:02:04,340
+But, the idea is, that it's hard for us to
+pay for expertise.
+
+32
+00:02:04,340 --> 00:02:07,401
+Right?
+Somebody could be an incredibly good
+
+33
+00:02:07,401 --> 00:02:11,070
+locksmith, but we just don't feel good
+about paying for that expertise.
+
+34
+00:02:11,070 --> 00:02:15,614
+But if we somebody sweating and working
+for a long time, all of a sudden we feel
+
+35
+00:02:15,614 --> 00:02:19,380
+better about the whole thing.
+We did a couple of experiments on this
+
+36
+00:02:19,380 --> 00:02:22,325
+topic.
+And one of them, we asked people how much
+
+37
+00:02:22,325 --> 00:02:26,311
+they would pay us to recover information
+from their hard drive.
+
+38
+00:02:26,312 --> 00:02:31,319
+And, we asked them to think about losing
+one day of information, one week of
+
+39
+00:02:31,319 --> 00:02:36,610
+information, two weeks, four weeks,ah,
+three months, six months, a year of data.
+
+40
+00:02:36,610 --> 00:02:40,180
+So, lots of different amounts of data they
+lost.
+
+41
+00:02:40,180 --> 00:02:42,754
+And you know what?
+People in general were willing to play
+
+42
+00:02:42,754 --> 00:02:45,390
+more money for more data recovery.
+That's good news.
+
+43
+00:02:45,390 --> 00:02:47,857
+But you know what people really cared
+about?
+
+44
+00:02:47,858 --> 00:02:52,135
+Was how long the technician worked on it.
+If the technician worked for five minutes
+
+45
+00:02:52,135 --> 00:02:55,070
+to recover the data, they were not willing
+to pay so much.
+
+46
+00:02:55,070 --> 00:02:59,247
+If the technician was working for a day,
+much more, for a week, Much more.
+
+47
+00:02:59,248 --> 00:03:02,900
+So, in a sense what we're doing is we're
+paying for incompetence.
+
+48
+00:03:02,900 --> 00:03:08,480
+The longer people take to work on
+something, the more we feel we're willing
+
+49
+00:03:08,480 --> 00:03:12,165
+to pay for them.
+And when somebody's high skilled and we
+
+50
+00:03:12,165 --> 00:03:15,209
+don't see it, we're not willing to pay for
+this.
+
+51
+00:03:15,210 --> 00:03:18,699
+By the way fairness is also the big
+problem with the internet.
+
+52
+00:03:18,700 --> 00:03:22,767
+Think about big organization the New York
+Times.
+
+53
+00:03:22,768 --> 00:03:27,310
+What, what do we think is fair to pay.
+Do we know anything about he size, of
+
+54
+00:03:27,310 --> 00:03:30,040
+course not.
+Or, think about something else.
+
+55
+00:03:30,040 --> 00:03:34,328
+In the old days when you use to come to a
+teller, and you would write a check, and
+
+56
+00:03:34,328 --> 00:03:38,050
+they would give you cash.
+You saw somebody, you're willing to pay
+
+57
+00:03:38,050 --> 00:03:41,450
+for this privilege.
+You saw that there was a person across the
+
+58
+00:03:41,450 --> 00:03:43,870
+window from you.
+You saw that they were doing something.
+
+59
+00:03:43,870 --> 00:03:46,117
+You were doing something.
+You took some of their time.
+
+60
+00:03:46,118 --> 00:03:48,480
+It was perfectly okay to pay them for
+their time.
+
+61
+00:03:48,480 --> 00:03:53,454
+But now it's an ATM.
+You just put your card in and money comes
+
+62
+00:03:53,454 --> 00:03:56,482
+out.
+You don't see that you cost anybody
+
+63
+00:03:56,482 --> 00:04:01,038
+anything, and because of that people feel
+really outraged by having to pay these
+
+64
+00:04:01,038 --> 00:04:04,271
+fees.
+Now, what this also tells us is that
+
+65
+00:04:04,271 --> 00:04:09,717
+fairness in many ways is about marginal
+cost, not about fixed cost.
+
+66
+00:04:09,718 --> 00:04:14,905
+If an organization paid lots of money to
+create something and now every additional
+
+67
+00:04:14,905 --> 00:04:19,330
+unit of delivery is free, as we think
+about in the internet We don't feel
+
+68
+00:04:19,330 --> 00:04:23,550
+fairness needs to pay for it.
+But if the fixed cost is low and all of
+
+69
+00:04:23,550 --> 00:04:28,264
+the cost is marginal cost, now we think
+there's a need for us to pay for it.
+
+70
+00:04:28,264 --> 00:04:33,165
+So again, imagine The New York Times.
+Imagine that the technology was such that
+
+71
+00:04:33,165 --> 00:04:37,520
+the investment in the infrastructure was
+very low, but every time you would read
+
+72
+00:04:37,520 --> 00:04:40,699
+the newspaper you would cost The New York
+Times a dollar.
+
+73
+00:04:40,699 --> 00:04:45,253
+Now you would feel very bad about reading
+the New York Times free without paying for
+
+74
+00:04:45,253 --> 00:04:47,665
+it.
+But if it's a fixed cost, they pay lots of
+
+75
+00:04:47,665 --> 00:04:51,825
+money to create it but the marginal cost
+is zero, the notion of fairness is not
+
+76
+00:04:51,825 --> 00:04:55,100
+coming along at all.
+So this kind of, couple of interesting
+
+77
+00:04:55,100 --> 00:04:58,212
+points here.
+One Is that we do want to express to
+
+78
+00:04:58,212 --> 00:05:02,442
+people the amount of hard work.
+If you're the locksmith, you want to show
+
+79
+00:05:02,442 --> 00:05:05,172
+your hard work.
+If you're the New York Times, you might
+
+80
+00:05:05,172 --> 00:05:09,383
+want to show people you're hard work.
+If you're the mechanic, you might want to
+
+81
+00:05:09,383 --> 00:05:12,925
+show people their hard work.
+But on top of that, there's also the
+
+82
+00:05:12,925 --> 00:05:16,600
+question of how much of your effort is
+fixed cost and marginal cost.
+
+83
+00:05:16,600 --> 00:05:21,054
+And when fixed cost is concerned, it's
+incredibly harder to get people to care.
+
+84
+00:05:21,055 --> 00:05:26,690
+To feel people any kind of need for
+reciprocation because of fairness any need
+
+85
+00:05:26,690 --> 00:05:30,937
+to pay for this.
+The final story I want to tell you about
+
+86
+00:05:30,937 --> 00:05:36,811
+fairness is the following: There was a
+plan in the Coca Cola factories in Brazil
+
+87
+00:05:36,811 --> 00:05:42,224
+to start charging for Coke depending on
+the temperature outside.
+
+88
+00:05:42,225 --> 00:05:46,952
+And they basically had this Coke vending
+machine and it was supposed to change the
+
+89
+00:05:46,952 --> 00:05:50,740
+price of Coke based on the time of the day
+and the temperature outside.
+
+90
+00:05:50,740 --> 00:05:53,562
+And if you think about it, it's a perfect
+mechanism.
+
+91
+00:05:53,562 --> 00:05:55,988
+Why?
+Because as the temperature goes up, the
+
+92
+00:05:55,988 --> 00:05:59,210
+joy from Coke goes up and you should be
+willing to pay more.
+
+93
+00:05:59,210 --> 00:06:02,000
+But what happened?
+People were outraged.
+
+94
+00:06:02,000 --> 00:06:06,760
+They were so outraged that the person who
+envisioned this idea had to resign, from
+
+95
+00:06:06,760 --> 00:06:08,950
+Coke.
+And why were people outraged?
+
+96
+00:06:08,950 --> 00:06:13,460
+Because they did not see any increase in
+cost as a function of the temperature.
+
+97
+00:06:13,460 --> 00:06:17,189
+Right, furnace is not about how much money
+you can charge me.
+
+98
+00:06:17,190 --> 00:06:21,823
+Fairness is about the relationship between
+how much something is costing you and how
+
+99
+00:06:21,823 --> 00:06:25,308
+much I'm willing to pay.
+Costing in terms of money, in terms, in
+
+100
+00:06:25,308 --> 00:06:28,309
+terms of time and so on.
+And, and because of that people are
+
+101
+00:06:28,309 --> 00:06:30,230
+outraged.
+And they had all kinds of ideas.
+
+102
+00:06:30,230 --> 00:06:34,070
+They said, what if when I got close to the
+machine, it would scan my eyes, and it
+
+103
+00:06:34,070 --> 00:06:38,322
+will identify exactly how thirsty I am?
+And it will set the cost exactly in the
+
+104
+00:06:38,322 --> 00:06:42,224
+way that will be a cent below my maximum
+willingness to pay?
+
+105
+00:06:42,225 --> 00:06:45,287
+And people were outraged with that.
+By the way, it's the ideal economic
+
+106
+00:06:45,287 --> 00:06:45,931
+vision.
+Right?
+
+107
+00:06:45,931 --> 00:06:49,780
+You prize people exactly like that, but
+people are outraged.
+
+108
+00:06:49,780 --> 00:06:52,987
+Now imagine the following, and you can
+just imagine that.
+
+109
+00:06:52,988 --> 00:06:57,224
+What would happen if Coke said, we're not
+just charging you more because we can,
+
+110
+00:06:57,224 --> 00:07:00,930
+we're charging you more, because we have
+to spend more electricity.
+
+111
+00:07:00,930 --> 00:07:04,806
+It's more expensive for us as the
+temperature goes up to cool The, the
+
+112
+00:07:04,806 --> 00:07:09,294
+vending machine to keep the cold coke in a
+cold temperature and therefore we're
+
+113
+00:07:09,294 --> 00:07:12,976
+paying you more for that.
+Now it would not be perceived as coke is
+
+114
+00:07:12,976 --> 00:07:17,260
+just gauging you depending on your
+temperature, it would be an argument for
+
+115
+00:07:17,260 --> 00:07:19,984
+fairness.
+Basically saying these are pass through
+
+116
+00:07:19,984 --> 00:07:23,624
+costs, it's not us charging you.
+And you know, we're all willing to pay
+
+117
+00:07:23,624 --> 00:07:26,468
+that.
+For example, we're willing to pay more For
+
+118
+00:07:26,469 --> 00:07:30,988
+some beer in the hotel that we're willing
+to pay for beer in the grocery store,
+
+119
+00:07:30,988 --> 00:07:35,897
+because we know hotels have higher costs.
+Airlines, by the way, sometimes increase
+
+120
+00:07:35,897 --> 00:07:40,658
+their prices and saying in calling these
+prices, rather than price increase, they
+
+121
+00:07:40,658 --> 00:07:43,330
+call them taxes.
+By the way, if you look, at different
+
+122
+00:07:43,330 --> 00:07:46,795
+airlines, you will see the different
+airlines for the same route, have very
+
+123
+00:07:46,795 --> 00:07:49,760
+different taxes.
+Why do they have different taxes?
+
+124
+00:07:49,760 --> 00:07:52,260
+Because taxes are not considered part of
+the price.
+
+125
+00:07:52,260 --> 00:07:54,590
+They're basically saying the government is
+charging us that.
+
+126
+00:07:54,590 --> 00:07:58,350
+Of course, the government is not charging
+different airlines different amounts.
+
+127
+00:07:58,350 --> 00:08:03,111
+But some airlines are taking the amount of
+increase, they are calling it taxes, and
+
+128
+00:08:03,111 --> 00:08:07,527
+then to us as consumer, it looks like
+pass-through cost and we don't blame The
+
+129
+00:08:07,527 --> 00:08:11,478
+airline's for it.
+So if you think about fairness, the main
+
+130
+00:08:11,478 --> 00:08:16,724
+point is that when we are buying
+something, we should think about what are
+
+131
+00:08:16,724 --> 00:08:20,990
+we getting, and how much does it cost us.
+And if something is giving us more
+
+132
+00:08:20,990 --> 00:08:24,090
+pleasure than the cost, we should buy it,
+and if something is giving us less
+
+133
+00:08:24,090 --> 00:08:25,980
+pleasure than the cost, we should not buy
+it.
+
+134
+00:08:25,980 --> 00:08:29,788
+The problem is it's really hard for us to
+figure out what something is worthwhile,
+
+135
+00:08:29,788 --> 00:08:33,431
+how much pleasure it's giving us.
+So we're using all kinds of other
+
+136
+00:08:33,431 --> 00:08:36,110
+techniques, all kinds of other heuristics
+and strategies.
+
+137
+00:08:36,110 --> 00:08:40,140
+Fairness is one of them.
+And fairness is not asking how much
+
+138
+00:08:40,140 --> 00:08:44,970
+pleasure am I getting from something, it's
+saying how much work and effort has gone
+
+139
+00:08:44,970 --> 00:08:47,410
+into this thing.
+And if there's been more effort, I'm
+
+140
+00:08:47,410 --> 00:08:50,200
+willing to pay more for it.
+And if it's less effort, I'm willing to
+
+141
+00:08:50,200 --> 00:08:51,724
+pay.
+Less for it.
+
+142
+00:08:51,724 --> 00:08:56,018
+And depending on the industry you're in
+and the industry you're going to go into,
+
+143
+00:08:56,018 --> 00:09:00,178
+expressing effort is either a benefit or
+it's either easy for you to do, or hard
+
+144
+00:09:00,178 --> 00:09:04,210
+for you to do, it's something you should
+do more, or you should try to at least
+
+145
+00:09:04,210 --> 00:09:08,474
+think about how to do.
+And, so think about fairness It's an
+
+146
+00:09:08,474 --> 00:09:13,636
+amazing im, important idea.
+And if we can only understand it better, I
+
+147
+00:09:13,636 --> 00:09:17,427
+think we could get people to make very
+different decisions.
+
+148
+00:09:17,428 --> 00:09:20,160
+One other interesting story about fairness
+is the following.
+
+149
+00:09:20,160 --> 00:09:22,870
+Imagine you're at the beach with friend of
+yours.
+
+150
+00:09:22,870 --> 00:09:25,524
+It's wonderful day, the temperature is
+great.
+
+151
+00:09:25,525 --> 00:09:29,516
+The ocean is fantastic, and your friend
+tells you that they're going to get some
+
+152
+00:09:29,516 --> 00:09:32,327
+beer and do you want some.
+And you say yes, I want some.
+
+153
+00:09:32,328 --> 00:09:35,070
+Then your friend says look, I'm going to
+and get beer but I don't know how much it
+
+154
+00:09:35,070 --> 00:09:37,762
+will cost.
+So tell me what's the maximum amount that
+
+155
+00:09:37,762 --> 00:09:40,375
+you will pay.
+If they'll charge more than that, I will
+
+156
+00:09:40,375 --> 00:09:42,919
+not get the beer.
+If they charge less, I'll pay for it, and
+
+157
+00:09:42,919 --> 00:09:45,775
+then you'll give me back the money,
+whatever they, they charge.
+
+158
+00:09:45,776 --> 00:09:48,870
+Okay.
+So now your task is to say, what is the
+
+159
+00:09:48,870 --> 00:09:51,787
+maximum amount of money you're willing to
+pay for beer?
+
+160
+00:09:51,788 --> 00:09:56,155
+And the friend is either telling you
+they're going to a hotel, of they're going
+
+161
+00:09:56,155 --> 00:09:58,030
+to a grocery store.
+What will happen?
+
+162
+00:09:58,030 --> 00:10:01,858
+People give a much higher amount to the
+hotel than to the grocery store.
+
+163
+00:10:01,858 --> 00:10:04,300
+Why?
+Because the joy of drinking beer on the
+
+164
+00:10:04,300 --> 00:10:07,230
+beach changes depending of where the beer
+came from?
+
+165
+00:10:07,230 --> 00:10:10,044
+Of course not.
+If it were, you know there would be trucks
+
+166
+00:10:10,044 --> 00:10:14,009
+of beer, or going through lobbies of
+hotels just to increase the quality of the
+
+167
+00:10:14,009 --> 00:10:16,984
+beer.
+The beer is the same, but what happened is
+
+168
+00:10:16,984 --> 00:10:20,290
+you're notion of fairness enters into the
+process.
+
+169
+00:10:20,290 --> 00:10:23,800
+You're not just thinking to yourself how
+much am I going to enjoy sitting on the
+
+170
+00:10:23,800 --> 00:10:27,849
+beach here and drinking beer.
+You're saying also what is a fair price.
+
+171
+00:10:27,850 --> 00:10:33,710
+And if the bill comes from a hotel, your
+fairness includes the cost of running a
+
+172
+00:10:33,710 --> 00:10:37,265
+hotel and your willingness to pay, goes up
+with it.
+
+173
+00:10:37,265 --> 00:10:42,762
+So, if you think about all these stories
+about fairness, what they really tell us
+
+174
+00:10:42,762 --> 00:10:48,256
+is that our understanding of how much
+we're willing to pay for something, should
+
+175
+00:10:48,256 --> 00:10:53,410
+in principal comes up from comes from how
+much value we're getting from it.
+
+176
+00:10:53,410 --> 00:10:56,000
+We're getting more value, we should be
+willing to pay more.
+
+177
+00:10:56,000 --> 00:10:59,280
+We're getting less value, we should be
+willing to pay less.
+
+178
+00:10:59,280 --> 00:11:04,005
+But the reality is, that directly
+assessing how valuable something is: how
+
+179
+00:11:04,005 --> 00:11:08,730
+much do we enjoy beer, how much are we
+enjoying getting our doors opened, our
+
+180
+00:11:08,730 --> 00:11:12,340
+computers recovered, a Coke.
+All of those things are incredibly hard,
+
+181
+00:11:12,340 --> 00:11:15,914
+so we're using shortcuts.
+And one of those shortcuts Is to say how
+
+182
+00:11:15,914 --> 00:11:20,688
+much effort has been created for me to
+consume that and if the effort is high
+
+183
+00:11:20,688 --> 00:11:24,902
+willing to pay more and if the effort is
+lower willing to pay less.
+
+184
+00:11:24,902 --> 00:11:29,097
+And it means that as consumers you
+probably want to think about effort a
+
+185
+00:11:29,097 --> 00:11:33,428
+little less if you think of it as a
+biasing tool that gets you to pay too much
+
+186
+00:11:33,428 --> 00:11:37,584
+or too little based on the effort you want
+to try and overcome it.
+
+187
+00:11:37,585 --> 00:11:40,870
+And as producer you might want to say how
+do I signal effort.
+
+188
+00:11:40,870 --> 00:11:45,210
+How do I tell peolple how much effort went
+into it because effort is the main
+
+189
+00:11:45,210 --> 00:11:49,830
+mechanism, or one of the main mechanisms
+by which people are going to decide how
+
+190
+00:11:49,830 --> 00:11:54,060
+much ot pay for something.
+And as we move into the internet economy,
+
+191
+00:11:54,060 --> 00:11:56,800
+effort is harder and harder to think
+about.
+
+192
+00:11:56,800 --> 00:11:59,140
+Fairness is harder and harder to think
+about it.
+
+193
+00:11:59,140 --> 00:12:03,030
+More things are becoming about high fixed
+costs and low marginal costs.
+
+194
+00:12:03,030 --> 00:12:07,134
+Most things are hidden, we don't see what,
+what goes into them.
+
+195
+00:12:07,134 --> 00:12:11,808
+How, how many hours go into creating a
+piece of software, for example, or an app.
+
+196
+00:12:11,808 --> 00:12:20,864
+And, and all of this creating new
+challenges for effort, the expression of
+
+197
+00:12:20,864 --> 00:12:29,723
+effort because of that fairness and
+because of that willingness to pay.

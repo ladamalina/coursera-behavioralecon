@@ -1,0 +1,1185 @@
+
+1
+00:00:00,000 --> 00:00:06,319
+Another distinction between emotion and
+condition comes from something we called,
+
+2
+00:00:06,319 --> 00:00:12,015
+The Trolley Problem and there's a huge
+cottage industry of papers about this
+
+3
+00:00:12,015 --> 00:00:16,910
+problem with all kinds of versions but
+here's the basic question.
+
+4
+00:00:16,910 --> 00:00:21,267
+Imagine that you're standing next to a
+train track.
+
+5
+00:00:21,268 --> 00:00:25,650
+And you see the train is coming, and you
+see that if the train is going to come and
+
+6
+00:00:25,650 --> 00:00:28,362
+continue straight, it is going to kill
+four people.
+
+7
+00:00:28,362 --> 00:00:32,390
+There are four people who are laying on
+the tracks, working and doing something,
+
+8
+00:00:32,390 --> 00:00:35,990
+and they don't know the training is
+coming, and if the train will come, it
+
+9
+00:00:35,990 --> 00:00:39,436
+will kill all four of them.
+Now you are standing quite far away, but
+
+10
+00:00:39,436 --> 00:00:43,916
+you're standing next to a lever.
+And if you pull the lever, the train will
+
+11
+00:00:43,916 --> 00:00:47,415
+take a different track.
+And instead of killing these four people,
+
+12
+00:00:47,415 --> 00:00:50,949
+it would only kill one, because on this
+other track there's only one person
+
+13
+00:00:50,949 --> 00:00:54,094
+working.
+Now ask yourself, if you do nothing, the
+
+14
+00:00:54,094 --> 00:00:58,978
+train will kill four people.
+If you pull the lever, the train will turn
+
+15
+00:00:58,978 --> 00:01:02,027
+and would kill one person.
+Would you do it?
+
+16
+00:01:02,027 --> 00:01:06,555
+And most people say, yes.
+Most people say, I compared the life of 4
+
+17
+00:01:06,555 --> 00:01:11,655
+people to the life of 1, and I think this
+is a good tradeoff and I am going to
+
+18
+00:01:11,655 --> 00:01:14,947
+redirect the train.
+Imagine though a second case.
+
+19
+00:01:14,948 --> 00:01:19,114
+You're standing on the bridge, and there's
+a train coming, and if the train comes
+
+20
+00:01:19,114 --> 00:01:23,268
+it's going to kill the four people who are
+working on the train because they don't
+
+21
+00:01:23,268 --> 00:01:27,647
+know it's coming.
+And next to you is a guy, and this guy is
+
+22
+00:01:27,647 --> 00:01:33,476
+wearing a backpack, and he's looking over
+the bridge on the track, and if you push
+
+23
+00:01:33,476 --> 00:01:39,305
+him he would fall down, and because it's
+both his weight and the backpack weight,
+
+24
+00:01:39,305 --> 00:01:44,334
+the train would hit him, kill him, but
+then the train would stop.
+
+25
+00:01:44,335 --> 00:01:47,780
+Now in this story you cannot jump
+yourself, you don't have a backpack and
+
+26
+00:01:47,780 --> 00:01:50,990
+you don't have the time.
+The only thing you could do is you could
+
+27
+00:01:50,990 --> 00:01:53,327
+push him.
+Would you push him?
+
+28
+00:01:53,327 --> 00:01:55,952
+People feel very differently about this
+question, though.
+
+29
+00:01:55,952 --> 00:02:01,615
+People don't usually say 4 versus 1, they
+basically say, will I have the guts to
+
+30
+00:02:01,615 --> 00:02:05,322
+push somebody?
+And what if he was turning in the other
+
+31
+00:02:05,322 --> 00:02:08,486
+direction.
+You pushed him from the back, versus he
+
+32
+00:02:08,486 --> 00:02:12,939
+was looking you in the eyes, and you
+pushed him and you would see his eyes as
+
+33
+00:02:12,939 --> 00:02:19,487
+he was going down on, on, onto the track.
+Again, people feel differently about it.
+
+34
+00:02:19,488 --> 00:02:24,115
+If you think about this trolley problem
+It's really about the fact that we have
+
+35
+00:02:24,115 --> 00:02:28,571
+these very different modes of thinking.
+We have a mode of thinking that is
+
+36
+00:02:28,571 --> 00:02:32,820
+consequentialist, 4 versus 1.
+That's just recognition, four is more than
+
+37
+00:02:32,820 --> 00:02:37,146
+one, one, killing one is better than four.
+And then we have this other mode of
+
+38
+00:02:37,146 --> 00:02:41,874
+thinking that is about emotion.
+And when it's one person that we see them
+
+39
+00:02:41,874 --> 00:02:46,030
+and we care about them, all of a sudden we
+feel very differently about it.
+
+40
+00:02:46,030 --> 00:02:50,440
+Now let's take this from the trolley
+problem, and lets try to implement this
+
+41
+00:02:50,440 --> 00:02:54,312
+idea in something different.
+So for example, if you look at the
+
+42
+00:02:54,312 --> 00:02:57,788
+following plot.
+This plot shows how much funding in
+
+43
+00:02:57,788 --> 00:03:02,907
+millions of dollars, is directed toward
+different problems in the world.
+
+44
+00:03:02,908 --> 00:03:10,074
+Hurricane Katrina, the terrorist activity
+in 9/11, the Asian tsunami, Tuberculosis,
+
+45
+00:03:10,074 --> 00:03:14,105
+Malaria, and AIDS.
+And on the,[COUGH] on the horizontal axis
+
+46
+00:03:14,105 --> 00:03:17,900
+you see how many people are affected by
+each of those in millions.
+
+47
+00:03:17,900 --> 00:03:21,030
+And of course, this is not all the
+problems in the world.
+
+48
+00:03:21,030 --> 00:03:25,897
+But with this set of problems you see a
+negative correlations.
+
+49
+00:03:25,898 --> 00:03:31,372
+You see that for things that attack few
+people like Katrina and 9/11.
+
+50
+00:03:31,372 --> 00:03:35,425
+We have lots and lots of money going
+toward them, and for things that are
+
+51
+00:03:35,425 --> 00:03:39,520
+effecting lots and lots of people like
+Malaria and AIDS, we have very little
+
+52
+00:03:39,520 --> 00:03:42,631
+money going toward.
+And now I want you to think for a second
+
+53
+00:03:42,631 --> 00:03:45,316
+about all the things that could contribute
+to that.
+
+54
+00:03:45,317 --> 00:03:50,204
+Why is this correlation negative?
+Why is it not the case that as more people
+
+55
+00:03:50,204 --> 00:03:54,663
+are affected.
+We have more funding going to it and what
+
+56
+00:03:54,663 --> 00:03:59,420
+in particular is causing some of those
+things, to be overfunded and underfunded
+
+57
+00:03:59,420 --> 00:04:03,349
+relative to other people?
+So why just think about all the possible
+
+58
+00:04:03,349 --> 00:04:07,751
+causes, and of course, there's more than
+one that could contribute to this
+
+59
+00:04:07,751 --> 00:04:10,680
+situation.
+So, I'm sure you came up with lots of
+
+60
+00:04:10,680 --> 00:04:15,770
+reasons of why this is happening.
+You could say that some of them are more
+
+61
+00:04:15,770 --> 00:04:19,427
+closer to the US, which gets people to
+contribute more money.
+
+62
+00:04:19,428 --> 00:04:23,387
+Some of them are further away from the US,
+which gets them to contribute less.
+
+63
+00:04:23,388 --> 00:04:26,190
+It could be racial issues, there could be
+all kinds of things.
+
+64
+00:04:26,190 --> 00:04:32,170
+But what I would like to argue, is that
+one of those things is about the fact that
+
+65
+00:04:32,170 --> 00:04:37,598
+some of them look like individual causes.
+Some of them are about people that you
+
+66
+00:04:37,598 --> 00:04:39,148
+might now.
+In particular when you have disasters
+
+67
+00:04:39,148 --> 00:04:43,622
+like, something like Katrina or 911.
+You can think of yourself as, you might
+
+68
+00:04:43,622 --> 00:04:47,615
+have been there.
+It could have been you.
+
+69
+00:04:47,615 --> 00:04:56,505
+When we talk about things like Malaria and
+Aids, it's things that other people might
+
+70
+00:04:56,505 --> 00:04:59,120
+have.
+It doesn't feel like you could have been
+
+71
+00:04:59,120 --> 00:05:02,081
+there.
+And on top of that, whenever we deal with
+
+72
+00:05:02,081 --> 00:05:07,394
+something of this preventative in nature,
+it's about preventing the disease from
+
+73
+00:05:07,394 --> 00:05:12,707
+somebody else of having it in a later time
+and this is very difficult for us to, to,
+
+74
+00:05:12,707 --> 00:05:16,450
+to think about.
+So all these brings us into this notion of
+
+75
+00:05:16,450 --> 00:05:21,960
+the identifiable victim effect.
+And the idea is when we see one person
+
+76
+00:05:21,960 --> 00:05:26,130
+suffering, our heart goes to them, we care
+about them.
+
+77
+00:05:26,130 --> 00:05:30,397
+And because of that, we're willing to give
+them money and we're willing to help them.
+
+78
+00:05:30,398 --> 00:05:35,177
+But when the problem is large, happening
+to lots of people.
+
+79
+00:05:35,178 --> 00:05:40,617
+Some of them are unborn yet, we don't have
+a face on the problem and because of that
+
+80
+00:05:40,617 --> 00:05:45,734
+we don't care to the same degree.
+So, let me give you a little bit about
+
+81
+00:05:45,734 --> 00:05:49,567
+research on this identifiable victim
+theory.
+
+82
+00:05:49,568 --> 00:05:53,660
+And this is something that Joseph Stalin
+and Mother Theresa agreed on.
+
+83
+00:05:53,660 --> 00:05:59,055
+And I think that's problem the only thing
+that the two of them ever agreed on and
+
+84
+00:05:59,055 --> 00:06:04,637
+Joseph Stalin said one man's death is a
+tragedy a million deaths is a statistic.
+
+85
+00:06:04,638 --> 00:06:08,057
+And Mother Theresa said, if I look at the
+masses I will never act.
+
+86
+00:06:08,058 --> 00:06:12,795
+If I look at the one I will, and they
+basically both captured this notion of we
+
+87
+00:06:12,795 --> 00:06:18,348
+care about one person.
+We don't care about groups of people even
+
+88
+00:06:18,348 --> 00:06:22,912
+if they are a many.
+So here's the, the research, imagine I
+
+89
+00:06:22,912 --> 00:06:28,096
+describe you the problem of starvation in
+Africa, and I said this number this
+
+90
+00:06:28,096 --> 00:06:33,280
+millions of kids in Malawi and this
+millions of kids in other country and this
+
+91
+00:06:33,280 --> 00:06:38,221
+number of million of kids before the
+[unknown], and I sort of describe the
+
+92
+00:06:38,221 --> 00:06:42,997
+range of the problem, and then I describe
+to the one group of people.
+
+93
+00:06:42,998 --> 00:06:45,110
+And to another group of people I do
+something different.
+
+94
+00:06:45,110 --> 00:06:49,961
+I say, there is this one girl, and this
+one girl is going to be hungry, and this
+
+95
+00:06:49,961 --> 00:06:54,658
+is her name and this is where the village
+she is coming from, and this is her
+
+96
+00:06:54,658 --> 00:06:57,580
+picture.
+Would you like to give money?
+
+97
+00:06:57,580 --> 00:07:00,050
+Would you like to give money to starvation
+in Africa?
+
+98
+00:07:00,050 --> 00:07:05,574
+Would you like to give money to the girl?
+And what happened is that the people are
+
+99
+00:07:05,574 --> 00:07:09,864
+willing to give twice as much money to the
+identifiable life, to the little girl
+
+100
+00:07:09,864 --> 00:07:14,284
+called Rokia that they saw their picture,
+than to give to the statistical life, so
+
+101
+00:07:14,284 --> 00:07:18,110
+the big problem out there.
+In this experiment, by the way, people got
+
+102
+00:07:18,110 --> 00:07:22,666
+$5 for participating in something else
+presumably unrelated and then they were
+
+103
+00:07:22,666 --> 00:07:26,177
+asked to say how much of that money they
+were willing to give.
+
+104
+00:07:26,178 --> 00:07:31,431
+So the moment we see a face, we start
+caring about it and then we give more
+
+105
+00:07:31,431 --> 00:07:34,055
+money.
+And here's a way for you think about it
+
+106
+00:07:34,055 --> 00:07:36,868
+for yourself.
+Imagine you're in Boston for a job
+
+107
+00:07:36,868 --> 00:07:41,444
+interview, It's your dream job interview.
+You really wanted to go to this job, and
+
+108
+00:07:41,444 --> 00:07:45,722
+you're walking over the bridge, over the
+Charles River on the way to that building,
+
+109
+00:07:45,722 --> 00:07:49,200
+and you have 15 more minutes before you
+have to go to your interview.
+
+110
+00:07:49,200 --> 00:07:53,775
+And all of a sudden you hear a girl
+crying, you hear a voice of a baby crying,
+
+111
+00:07:53,775 --> 00:07:58,650
+and you look over the edge and you see a
+baby about to drown, a very young toddler
+
+112
+00:07:58,650 --> 00:08:01,890
+about to drown.
+And you have no time, if you jump in
+
+113
+00:08:01,890 --> 00:08:07,665
+you'll be able to save them, but if you
+take your clothes off you're not going to
+
+114
+00:08:07,665 --> 00:08:11,088
+make it.
+And you have new jacket, and new shirt,
+
+115
+00:08:11,088 --> 00:08:14,237
+and new pants, and new socks and new
+shoes.
+
+116
+00:08:14,238 --> 00:08:18,404
+All ready for the job interview, you know
+that if you jump you will never be able to
+
+117
+00:08:18,404 --> 00:08:22,797
+make it to the job interview.
+Would you jump?
+
+118
+00:08:22,798 --> 00:08:25,630
+And most people say what kind of question
+are you asking?
+
+119
+00:08:25,630 --> 00:08:31,110
+How can you not, how can you not jump?
+Now, you could say to yourself let me
+
+120
+00:08:31,110 --> 00:08:36,390
+leave the baby here to drown and I'll go
+to the job and I'll get this job hopefully
+
+121
+00:08:36,390 --> 00:08:41,270
+and, if I get it I'll give 20% of my
+yearly income to charity, and of course,
+
+122
+00:08:41,270 --> 00:08:46,710
+20 years, 20% of my yearly income is going
+to be much more beneficial to poor people
+
+123
+00:08:46,710 --> 00:08:51,844
+at the world over than saving one child.
+I could save many people every year with
+
+124
+00:08:51,844 --> 00:08:55,608
+this amount of money.
+But most people think of this as a creepy
+
+125
+00:08:55,608 --> 00:09:00,630
+inhumane way to think about life and they
+say, you can't live somebody here.
+
+126
+00:09:00,630 --> 00:09:04,590
+And of course, if you heard that one of
+your friends did that you would judge them
+
+127
+00:09:04,590 --> 00:09:09,330
+incredibly harshly.
+Now, what happens here is that we have
+
+128
+00:09:09,330 --> 00:09:14,634
+this one face, this one experience.
+Now what would happen if that girl was not
+
+129
+00:09:14,634 --> 00:09:18,672
+just here, she was somewhere else.
+She was far away and you couldn't hear her
+
+130
+00:09:18,672 --> 00:09:21,278
+cry.
+And what would happen if there were many
+
+131
+00:09:21,278 --> 00:09:23,880
+of her?
+What would happen if she was not born?
+
+132
+00:09:23,880 --> 00:09:28,479
+All of that would make her much less
+identifiable, an would get you to be much
+
+133
+00:09:28,479 --> 00:09:33,050
+less compelled to jump and put some money.
+The reality that all of us can put a
+
+134
+00:09:33,050 --> 00:09:36,400
+little bit of money aside and save lots of
+kids out there.
+
+135
+00:09:36,400 --> 00:09:40,635
+But we so, because we don't see them
+crying and because they're not
+
+136
+00:09:40,635 --> 00:09:45,687
+identifiable, we don't care so much about.
+So the first part of the experiment, I
+
+137
+00:09:45,687 --> 00:09:50,630
+think fits very well with intuition and
+the story about caring about one person.
+
+138
+00:09:50,630 --> 00:09:55,229
+Not so caring the moment the problem
+become, become large.
+
+139
+00:09:55,229 --> 00:09:59,970
+Now here's the next part of the study.
+In the next part of the study, they said
+
+140
+00:09:59,970 --> 00:10:02,937
+what if we gave people two sets of
+information?
+
+141
+00:10:02,938 --> 00:10:06,980
+We said here's Rokia, the little girl
+starving, hungry and so on in her picture
+
+142
+00:10:06,980 --> 00:10:10,948
+but, by the way, if you give her money
+it's not just going to be for her, there's
+
+143
+00:10:10,948 --> 00:10:15,226
+millions and millions of other people who
+are also going to benefit from it because
+
+144
+00:10:15,226 --> 00:10:18,834
+the problem.
+The starvation in Africa is incredibly
+
+145
+00:10:18,834 --> 00:10:20,687
+large.
+What happens now?
+
+146
+00:10:20,688 --> 00:10:24,897
+People give lots of money to Rokia, not so
+many to the statistical problem.
+
+147
+00:10:24,898 --> 00:10:27,327
+What happens when you get both
+descriptions?
+
+148
+00:10:27,328 --> 00:10:31,778
+The amount goes down.
+So what happens is that every time you add
+
+149
+00:10:31,778 --> 00:10:36,530
+statistical information about the
+magnitude of problem, you don't get people
+
+150
+00:10:36,530 --> 00:10:40,947
+to be compelled to give more, what you do
+is you shut off their emotions.
+
+151
+00:10:40,948 --> 00:10:45,147
+You see Rokia, it's just like the girl on
+the side, you care about it.
+
+152
+00:10:45,148 --> 00:10:50,100
+You hear about a large problem with lots
+of people dying or starving, you don't
+
+153
+00:10:50,100 --> 00:10:53,540
+care so much.
+You take the emotional input, and you add
+
+154
+00:10:53,540 --> 00:10:58,483
+the cognitive input and caring goes down.
+In fact, this was done even to a higher
+
+155
+00:10:58,483 --> 00:11:03,024
+extreme in another experiment.
+In which before they asked people to say
+
+156
+00:11:03,024 --> 00:11:06,197
+how much money they would give, they
+primed them.
+
+157
+00:11:06,198 --> 00:11:10,242
+They basically got people to think in
+computational way, they gave them some
+
+158
+00:11:10,242 --> 00:11:13,944
+little math problems and asked them to
+think about computation.
+
+159
+00:11:13,945 --> 00:11:16,580
+And other people they ask to think about
+an emotional way.
+
+160
+00:11:16,580 --> 00:11:21,048
+What happens?
+The moment you start thinking about the
+
+161
+00:11:21,048 --> 00:11:26,589
+computational way, caring goes down.
+Now if you think about it, this actually
+
+162
+00:11:26,589 --> 00:11:29,310
+makes sense.
+The reality is that from an economic
+
+163
+00:11:29,310 --> 00:11:33,464
+perspective, we shouldn't give our money
+away, especially not to strangers who
+
+164
+00:11:33,464 --> 00:11:36,915
+could never help us.
+So if you have some friend that you can
+
+165
+00:11:36,915 --> 00:11:39,350
+lend money and trouble, and they can help
+you later.
+
+166
+00:11:39,350 --> 00:11:43,483
+Maybe you can make a story about why this
+is okay economically.
+
+167
+00:11:43,484 --> 00:11:48,135
+But helping people in another part of the
+world, that we would never get to benefit
+
+168
+00:11:48,135 --> 00:11:50,862
+from this.
+This is not the rational thing to do, it's
+
+169
+00:11:50,862 --> 00:11:54,039
+something that comes from us because of
+our emotion.
+
+170
+00:11:54,040 --> 00:11:59,146
+And what happens the moment we start
+thinking about things in more cognitive
+
+171
+00:11:59,146 --> 00:12:02,687
+rational way, our emotion gets suppressed
+we care less.
+
+172
+00:12:02,688 --> 00:12:06,594
+This by the way, is another example of a
+case where being irrational is actually
+
+173
+00:12:06,594 --> 00:12:09,684
+quite good.
+Ask yourself how much would you like to
+
+174
+00:12:09,684 --> 00:12:13,690
+live in a society of people who only cared
+about their benefit.
+
+175
+00:12:13,690 --> 00:12:18,163
+People had no emotions had no care for
+other people, were not willing to help
+
+176
+00:12:18,163 --> 00:12:20,960
+anybody, unless it helped them back
+directly.
+
+177
+00:12:20,960 --> 00:12:25,370
+It's a case where being emotional and
+caring about other people is actually
+
+178
+00:12:25,370 --> 00:12:28,265
+quite useful.
+The last experiment I want to tell you
+
+179
+00:12:28,265 --> 00:12:32,425
+about this is an experiment that actually
+did not take a huge group versus one
+
+180
+00:12:32,425 --> 00:12:35,434
+person.
+They took a small group versus another
+
+181
+00:12:35,434 --> 00:12:38,536
+person.
+They took a picture of eight kids and they
+
+182
+00:12:38,536 --> 00:12:41,337
+said, all of these eight kids are
+suffering.
+
+183
+00:12:41,338 --> 00:12:46,287
+All of those kids need help.
+Would you help one of them?
+
+184
+00:12:46,288 --> 00:12:50,590
+And in one condition, they said, after you
+decide how much money to give, we will
+
+185
+00:12:50,590 --> 00:12:54,880
+randomly sample one of those eight kids
+and your money will go to one of them, but
+
+186
+00:12:54,880 --> 00:12:59,618
+you just don't know which one.
+In the other case, we said we've selected
+
+187
+00:12:59,618 --> 00:13:02,766
+that kid, here is the kid.
+It's that kid would you like to give the
+
+188
+00:13:02,766 --> 00:13:04,503
+money.
+What happened?
+
+189
+00:13:04,503 --> 00:13:07,030
+In the second case, people gave much more
+money.
+
+190
+00:13:07,030 --> 00:13:12,323
+Now, this ain't not a large group versus
+one, it's a small group and, in fact, it's
+
+191
+00:13:12,323 --> 00:13:16,600
+picking one kid before you gave them
+Versus after you gave them.
+
+192
+00:13:16,600 --> 00:13:21,424
+And the moment we have a particular face,
+if you say to yourself, it's one of those
+
+193
+00:13:21,424 --> 00:13:26,030
+8 kids, you can't care to the same level.
+If you say it's this kid, or it's this
+
+194
+00:13:26,030 --> 00:13:28,737
+kid, or it's this kid, [unknown] is the
+face.
+
+195
+00:13:28,738 --> 00:13:33,170
+Your heart goes out to them, you care more
+about them and all of a sudden you give
+
+196
+00:13:33,170 --> 00:13:37,984
+too much higher degree.
+Now if you think about this, this idea of
+
+197
+00:13:37,984 --> 00:13:42,544
+the identifiable victim effect.
+In our caring of one versus our lack of
+
+198
+00:13:42,544 --> 00:13:46,397
+caring about the masses is something
+incredibly important.
+
+199
+00:13:46,398 --> 00:13:50,257
+This is the reason why countries don't do
+much for genocide.
+
+200
+00:13:50,258 --> 00:13:54,129
+This is the reason why there are all kinds
+of atrocities going around in the world.
+
+201
+00:13:54,130 --> 00:13:57,830
+And we don't care so much, there are too
+many people.
+
+202
+00:13:57,830 --> 00:14:01,200
+The way they are described is just too
+big, too massive.
+
+203
+00:14:01,200 --> 00:14:05,474
+Our heart doesn't go out to them.
+And this is also why some of the biggest
+
+204
+00:14:05,474 --> 00:14:10,226
+successes in getting us to care about
+atrocities have been to bring one example
+
+205
+00:14:10,226 --> 00:14:13,542
+of this.
+In Haiti, we got people with webcams to
+
+206
+00:14:13,542 --> 00:14:19,648
+transmit to us from the ground, very, very
+specific, small things, things that do not
+
+207
+00:14:19,648 --> 00:14:25,720
+reflect the whole tragedy of the country,
+but reflected some very specific things.
+
+208
+00:14:25,721 --> 00:14:31,881
+In some of the problems with Rwanda, there
+was description of small things that were
+
+209
+00:14:31,881 --> 00:14:36,150
+happening tragic, but not describing the
+whole problem.
+
+210
+00:14:36,150 --> 00:14:41,274
+Yet get people to act to a higher degree.
+And even with the mad cow disease in
+
+211
+00:14:41,274 --> 00:14:45,307
+England, they were butchering hundreds of
+thousands of cows.
+
+212
+00:14:45,308 --> 00:14:50,276
+But it wasn't until they had one cute
+young calf on the cover of one of the
+
+213
+00:14:50,276 --> 00:14:54,903
+British newspapers and they said, this
+calf is going to die!
+
+214
+00:14:54,904 --> 00:14:59,555
+That people start getting angry and
+worried about it, and their hearts went to
+
+215
+00:14:59,555 --> 00:15:03,845
+this one young calf, and they started
+calling and protesting, and they stopped
+
+216
+00:15:03,845 --> 00:15:07,610
+these atrocities.
+So we need to understand the identifiable
+
+217
+00:15:07,610 --> 00:15:11,557
+victim effect.
+We need to understand that the hearts go
+
+218
+00:15:11,557 --> 00:15:14,952
+to, toward simple, small, contained
+things.
+
+219
+00:15:14,952 --> 00:15:20,072
+Like one child that has face.
+And as more and more information comes in
+
+220
+00:15:20,072 --> 00:15:25,142
+we care less and less and because of that
+if we want people to act we need to think
+
+221
+00:15:25,142 --> 00:15:30,056
+about how to get people to act, how to
+agree how to represent problems in ways
+
+222
+00:15:30,056 --> 00:15:34,734
+that compatible with our emotions.
+And when we have large tragedies in the
+
+223
+00:15:34,734 --> 00:15:39,342
+world, we need to figure out how do we
+want to portray this information, how do
+
+224
+00:15:39,342 --> 00:15:43,950
+we want to convey to people, how do we
+want to take maybe the big problem, break
+
+225
+00:15:43,950 --> 00:15:48,270
+it into small pieces and show just some of
+those that might not be an ideal
+
+226
+00:15:48,270 --> 00:15:52,757
+reflection of the whole problem but would
+nevertheless get people to act.
+
+227
+00:15:52,758 --> 00:15:57,385
+And the reason I find this whole research
+so important, it's because we do want
+
+228
+00:15:57,385 --> 00:16:00,171
+people to act.
+There are many cases in which we think
+
+229
+00:16:00,171 --> 00:16:04,244
+people are just not acting enough.
+And usually we try to appeal to their
+
+230
+00:16:04,244 --> 00:16:08,747
+cognition, we say look how big the problem
+is, look how important it is.
+
+231
+00:16:08,748 --> 00:16:13,307
+This is not the right approach.
+People act, both in terms of times and in
+
+232
+00:16:13,307 --> 00:16:16,710
+terms of opening our wallets based on the
+emotions.
+
+233
+00:16:16,710 --> 00:16:19,764
+And now we need to ask ourselves, how to
+we get people to care?
+
+234
+00:16:19,764 --> 00:16:22,930
+And what of the things that are not
+persuasive to people in a rational way?
+
+235
+00:16:22,930 --> 00:16:25,999
+But what are the people that get?
+What are the things that get people to
+
+236
+00:16:25,999 --> 00:16:32,030
+care?
+And if we could only do a better job of
+
+237
+00:16:32,030 --> 00:16:38,753
+that, we can get people to act even
+better.

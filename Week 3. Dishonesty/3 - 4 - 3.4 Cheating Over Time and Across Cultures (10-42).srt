@@ -1,0 +1,799 @@
+
+1
+00:00:00,659 --> 00:00:05,950
+Everything I told you up to now was about
+one chance of cheating.
+
+2
+00:00:05,950 --> 00:00:12,222
+But of course, an imposing question is,
+what happens when we give people more
+
+3
+00:00:12,222 --> 00:00:17,046
+chances to cheat over time?
+So we created a task like that.
+
+4
+00:00:17,046 --> 00:00:20,349
+We showed people some dots.
+On the computer screen and we asked them
+
+5
+00:00:20,349 --> 00:00:23,217
+are there more dots on the right or more
+dots on the left.
+
+6
+00:00:23,218 --> 00:00:27,242
+Tell us which one has more dots, but just
+so you know, you're getting paid ten times
+
+7
+00:00:27,242 --> 00:00:30,824
+more if you say right.
+And this came up to equivalent conflicts
+
+8
+00:00:30,824 --> 00:00:33,990
+of interest tasks.
+When you ask a doctor for example, whats
+
+9
+00:00:33,990 --> 00:00:36,690
+better for this patient, treatment A or
+treatment B?
+
+10
+00:00:36,690 --> 00:00:39,499
+But you, the doctor, gets ten times more
+if you say.
+
+11
+00:00:39,500 --> 00:00:43,916
+Let them go for treatment A.
+So what happened with this task we could
+
+12
+00:00:43,916 --> 00:00:46,430
+do many, many, many of them, hundreds of
+,them over time.
+
+13
+00:00:46,430 --> 00:00:50,812
+And what we saw was that many people
+started by cheating just a little bit.
+
+14
+00:00:50,812 --> 00:00:54,070
+Cheating just a little bit.
+Feeling good about myself, cheating a
+
+15
+00:00:54,070 --> 00:00:57,924
+little bit, feeling good.
+But at some point, many people switched.
+
+16
+00:00:57,925 --> 00:01:00,230
+And all of a sudden, started cheating all
+the time.
+
+17
+00:01:00,230 --> 00:01:04,451
+And this switch happened to different
+people at different times, but it was very
+
+18
+00:01:04,451 --> 00:01:06,928
+salient that there was this switch
+occurred.
+
+19
+00:01:06,928 --> 00:01:10,180
+Our issue was where is this switching
+coming from.
+
+20
+00:01:10,180 --> 00:01:13,838
+And one of the thoughts we had was that
+maybe this is what we call the What the
+
+21
+00:01:13,838 --> 00:01:16,046
+Hell effect.
+If you think about it, you've been trying
+
+22
+00:01:16,046 --> 00:01:18,862
+to feel good about yourself and cheat a
+little bit, and at some point you cheat
+
+23
+00:01:18,862 --> 00:01:21,485
+too much.
+And you can't feel good about yourself any
+
+24
+00:01:21,485 --> 00:01:23,776
+more.
+You might say, forget about it, let me
+
+25
+00:01:23,776 --> 00:01:26,550
+just enjoy it as much as I can, and cheat
+all the way.
+
+26
+00:01:26,550 --> 00:01:31,533
+And that's indeed what we see in the data.
+So if you had a little bit of cheating and
+
+27
+00:01:31,533 --> 00:01:34,007
+then cheating a lot.
+And by the way, a lot of people reported
+
+28
+00:01:34,007 --> 00:01:36,993
+it happened to them in dieting.
+When you start the day and you decide to
+
+29
+00:01:36,993 --> 00:01:40,399
+be good on your diet and then you eat the
+muffin or you eat something bad you say
+
+30
+00:01:40,399 --> 00:01:44,480
+forget about it.
+I'll star tomorrow, I'll start next, next
+
+31
+00:01:44,480 --> 00:01:47,192
+Monday.
+So if we have this pattern, when people
+
+32
+00:01:47,192 --> 00:01:50,705
+cheat a little bit and then they switch to
+cheating all the time.
+
+33
+00:01:50,705 --> 00:01:53,920
+We thought what ever stop people from
+cheating all the time?
+
+34
+00:01:53,920 --> 00:01:59,902
+What would ever reset this fudge factor?
+And, and we went back and we thought about
+
+35
+00:01:59,902 --> 00:02:03,287
+religion.
+And if you think about the Catholic
+
+36
+00:02:03,287 --> 00:02:07,238
+confession, I'm of course not Catholic.
+You can ask what is the logic of the
+
+37
+00:02:07,238 --> 00:02:10,521
+Catholic confession?
+Now if you actually came to the Catholic
+
+38
+00:02:10,521 --> 00:02:14,828
+confession from an economic perspective.
+You would say that if you can sin and get
+
+39
+00:02:14,828 --> 00:02:18,200
+absolved you should cheat more, because
+you can get absolved.
+
+40
+00:02:18,200 --> 00:02:21,610
+In fact, you should sin on the way to
+confession.
+
+41
+00:02:21,610 --> 00:02:25,161
+If you want to minimize time in purgatory,
+the only thing you want is to cheat just
+
+42
+00:02:25,161 --> 00:02:28,724
+before you confess.
+But of course this is not what the
+
+43
+00:02:28,724 --> 00:02:33,582
+religion thinks, and we went to talk to
+all kinds of Catholic priests about this.
+
+44
+00:02:33,582 --> 00:02:37,878
+So if we don't think that confession
+increases cheating, how could it reduce
+
+45
+00:02:37,878 --> 00:02:41,192
+cheating?
+One theory is that confession adds to the
+
+46
+00:02:41,192 --> 00:02:45,010
+cost of the crime.
+You say to yourself like in the Baker
+
+47
+00:02:45,010 --> 00:02:49,105
+theory, not only do I have a chance of
+being caught and go to prison, but I have
+
+48
+00:02:49,105 --> 00:02:53,265
+to talk to somebody and they would make me
+feel bad about it and let me, recite,
+
+49
+00:02:53,265 --> 00:02:57,547
+something 1,500 times, that's not good.
+Not worth it, let me not cheat.
+
+50
+00:02:57,547 --> 00:03:00,833
+Not much evidence on there.
+We thought maybe what happened is that
+
+51
+00:03:00,833 --> 00:03:05,136
+just like the Ten Commandment experiment,
+that the moment you get out of confession.
+
+52
+00:03:05,136 --> 00:03:08,800
+You feel wonderful and pure, and you don't
+want to disturb that feeling.
+
+53
+00:03:08,800 --> 00:03:12,635
+So for a little bit of time after that
+you're behaving more consistent with the
+
+54
+00:03:12,635 --> 00:03:16,721
+tenets of the religion.
+Or we thought maybe what's happening is
+
+55
+00:03:16,721 --> 00:03:19,372
+confession is a particularly useful idea
+for resetting a new page.
+
+56
+00:03:19,373 --> 00:03:23,295
+If you cheat all the time, why would you
+ever stop?
+
+57
+00:03:23,295 --> 00:03:27,857
+Unless you can start a new page and
+therefore start again.
+
+58
+00:03:27,858 --> 00:03:30,755
+So we tried experiments like this.
+People cheated a little bit, they start
+
+59
+00:03:30,755 --> 00:03:34,270
+cheating a lot then we stop them.
+So here's a piece of paper.
+
+60
+00:03:34,270 --> 00:03:37,707
+Would you like to write something about
+something bad you have done recently?
+
+61
+00:03:37,708 --> 00:03:40,777
+People wrote something and we asked them
+to shred it.
+
+62
+00:03:40,778 --> 00:03:44,999
+Then we gave them another sheet and said,
+would you like to ask for forgiveness from
+
+63
+00:03:44,999 --> 00:03:48,990
+whatever deity you believe in?
+Please write it down, and shred it when
+
+64
+00:03:48,990 --> 00:03:51,974
+you're finished.
+What happened after people did both of
+
+65
+00:03:51,974 --> 00:03:54,319
+those elements?
+Saying what they have done and ask for
+
+66
+00:03:54,319 --> 00:03:57,582
+forgiveness?
+Cheating went down dramatically.
+
+67
+00:03:57,582 --> 00:03:59,640
+Now regrettably, later on, it went up
+again.
+
+68
+00:03:59,640 --> 00:04:04,790
+But at least for awhile, this idea of
+opening new pages seemed to be effective.
+
+69
+00:04:04,790 --> 00:04:07,847
+And I think this is one of the things that
+we can actually take from religion.
+
+70
+00:04:07,847 --> 00:04:13,145
+We can say, if religion has evolved to
+help men deal with some of our challenges,
+
+71
+00:04:13,145 --> 00:04:17,382
+some of our fallacies, some of our weak
+points as human beings.
+
+72
+00:04:17,382 --> 00:04:22,849
+What can we learn from religion and should
+we incorporate similar mechanism in other
+
+73
+00:04:22,849 --> 00:04:26,223
+places in society?
+For example, should we create a
+
+74
+00:04:26,223 --> 00:04:30,390
+confession-like mechanism for citizens
+submitting the IRS?
+
+75
+00:04:30,390 --> 00:04:35,720
+Should we create a confession-like
+mechanism for some of our politicians for
+
+76
+00:04:35,720 --> 00:04:39,708
+some of our CEOs?
+Is there something important in starting a
+
+77
+00:04:39,708 --> 00:04:44,622
+new page and allowing people to all of a
+sudden reset the level of honesty and
+
+78
+00:04:44,622 --> 00:04:48,505
+behave better?
+And of course, a big scale version of this
+
+79
+00:04:48,505 --> 00:04:54,081
+was the Reconciliation Act in South
+Africa, where they basically created the
+
+80
+00:04:54,081 --> 00:04:57,783
+structure.
+Where people basically, in, in, in a very
+
+81
+00:04:57,783 --> 00:05:03,220
+important public stage both ask for
+forgiveness and started a new, a new page.
+
+82
+00:05:03,220 --> 00:05:07,300
+And you know, apartheid, apartheid is of
+course a complex, difficult thing.
+
+83
+00:05:07,300 --> 00:05:11,601
+It will take a long time for anybody to
+get over it completely.
+
+84
+00:05:11,601 --> 00:05:17,061
+But it is taking these ideas of saying
+you're sorry and starting a new page that
+
+85
+00:05:17,061 --> 00:05:22,467
+might be important not just in religion,
+but in civic society, in many cases.
+
+86
+00:05:22,468 --> 00:05:26,474
+Another question people ask me many times,
+is what about cultural differences?
+
+87
+00:05:26,475 --> 00:05:30,780
+We travel around the world, we see all
+kinds of other cultures, some of us grew
+
+88
+00:05:30,780 --> 00:05:34,194
+up in a different culture.
+And you can ask yourself, how is cheating
+
+89
+00:05:34,194 --> 00:05:37,470
+different in different places.
+So we try this out.
+
+90
+00:05:37,470 --> 00:05:41,029
+So I grew up in Israel, so the first thing
+I did was to try Israel.
+
+91
+00:05:41,029 --> 00:05:44,990
+So what do you think?
+Do the Israelis cheat more or less than
+
+92
+00:05:44,990 --> 00:05:49,132
+Americans?
+Actually I'll tell you that when you ask
+
+93
+00:05:49,132 --> 00:05:53,676
+most people whether they think that people
+in their home countries cheat more or less
+
+94
+00:05:53,676 --> 00:05:56,579
+than Americans.
+Most people think that people in their
+
+95
+00:05:56,579 --> 00:06:00,919
+home countries cheat more than Americans,
+aside from the Canadian and the northern
+
+96
+00:06:00,919 --> 00:06:04,142
+European countries.
+And in general, when we ask people what do
+
+97
+00:06:04,142 --> 00:06:07,799
+you think, that Israeli cheat more or less
+than Americans, most people say that the
+
+98
+00:06:07,799 --> 00:06:10,440
+Israelis probably cheat more but the
+reality was not that.
+
+99
+00:06:10,440 --> 00:06:14,216
+We found that the Israelis were cheating
+just the same as the Americans.
+
+100
+00:06:14,217 --> 00:06:18,151
+Francesca, my Italian, my Italian
+collaborator said you want to see
+
+101
+00:06:18,151 --> 00:06:22,380
+cheating, come to Italy, we'll show you
+what this cheating is all about.
+
+102
+00:06:22,380 --> 00:06:24,584
+We went to Italy, we tried the experiment
+there.
+
+103
+00:06:24,585 --> 00:06:29,348
+Same results as in the States.
+We tried Turkey, we tried England, we
+
+104
+00:06:29,348 --> 00:06:32,670
+tried Canada.
+So far, we don't find any differences.
+
+105
+00:06:32,670 --> 00:06:36,252
+Now, we haven't tried everything, but so
+far, we don't find any differences.
+
+106
+00:06:36,252 --> 00:06:41,080
+Now, how can it be that in one hand, when
+you travel in other countries, or you grew
+
+107
+00:06:41,080 --> 00:06:45,616
+up in other countries, you feel the
+cheating in different countries is very
+
+108
+00:06:45,616 --> 00:06:47,896
+different.
+On the other hand we don't find it in our
+
+109
+00:06:47,896 --> 00:06:50,940
+experiment.
+How would you balance these two views?
+
+110
+00:06:50,940 --> 00:06:52,660
+Is one of them right and is one of them
+wrong?
+
+111
+00:06:52,660 --> 00:06:56,050
+No, I think they're both correct and here
+is what I think happens.
+
+112
+00:06:56,050 --> 00:07:01,877
+Our experiments are basically without any
+cultural context.
+
+113
+00:07:01,878 --> 00:07:05,490
+And therefore they check the basic fudge
+factor.
+
+114
+00:07:05,490 --> 00:07:08,470
+And the fudge factor is in it's basic is
+something we all share.
+
+115
+00:07:08,470 --> 00:07:11,949
+We can all rationalize about 15% of our
+actions.
+
+116
+00:07:11,950 --> 00:07:15,700
+In a slightly moral way, and still feel of
+ourself as good people.
+
+117
+00:07:15,700 --> 00:07:19,738
+So that's kind of the basic thing that is
+similar across many people.
+
+118
+00:07:19,738 --> 00:07:24,572
+But culture is important, but what culture
+does, it doesn't change your morality
+
+119
+00:07:24,572 --> 00:07:29,207
+across the whole range.
+It attacks a particular domain.
+
+120
+00:07:29,208 --> 00:07:33,744
+Think about something like plagiarism.
+Cheating on exams.
+
+121
+00:07:33,744 --> 00:07:38,160
+University cheating, different cultures
+have said, oh, this is really important,
+
+122
+00:07:38,160 --> 00:07:40,964
+you can't cheat much.
+Other cultures have said that is not a big
+
+123
+00:07:40,964 --> 00:07:43,838
+deal, you can cheat more.
+Other cultures have said, this is not a
+
+124
+00:07:43,838 --> 00:07:46,450
+moral question.
+It is not a part of the moral domain at
+
+125
+00:07:46,450 --> 00:07:49,210
+all, cheating in this case is just like
+playing poker.
+
+126
+00:07:49,210 --> 00:07:51,991
+Don't worry about it.
+What about infidelity?
+
+127
+00:07:51,991 --> 00:07:53,894
+Some cultures have said oh, this is a real
+big issue.
+
+128
+00:07:53,894 --> 00:07:56,229
+Other countries have said this is not such
+a big issue.
+
+129
+00:07:56,230 --> 00:07:59,798
+What about cheating on your taxes?
+Issue or not issue.
+
+130
+00:07:59,798 --> 00:08:05,090
+Illegal downloads.
+Buying fake counterfeit fashion product.
+
+131
+00:08:05,090 --> 00:08:11,162
+So basically what I think is going on, is
+that there is this basic fudge fact that
+
+132
+00:08:11,162 --> 00:08:14,240
+we all share.
+But the way it plays out in different
+
+133
+00:08:14,240 --> 00:08:18,346
+domains are influenced by culture.
+Where the culture can either shrink or
+
+134
+00:08:18,346 --> 00:08:21,450
+expand the fudge factor.
+And in some cases, it can even take a
+
+135
+00:08:21,450 --> 00:08:25,100
+particular behavior.
+And say this is not a moral question.
+
+136
+00:08:25,100 --> 00:08:29,792
+In some countries with cultures with high
+corruption, bribing a policeman is not
+
+137
+00:08:29,792 --> 00:08:33,801
+something that is immoral.
+It is just, this is how you do business,
+
+138
+00:08:33,801 --> 00:08:36,868
+and so on.
+So then we need to think about, both about
+
+139
+00:08:36,868 --> 00:08:41,568
+the fudge factor, as well as about what
+the effect of culture is on top of that.
+
+140
+00:08:41,568 --> 00:08:46,578
+I did find one experiment.
+One experiment that showed a difference in
+
+141
+00:08:46,578 --> 00:08:51,147
+cheating across cultures.
+Every time we do these experiments, it's
+
+142
+00:08:51,147 --> 00:08:55,762
+important to conduct them in a similar way
+across different places.
+
+143
+00:08:55,762 --> 00:08:59,723
+So what we do is, we go to other
+universities and we check students, or we
+
+144
+00:08:59,723 --> 00:09:03,108
+go to bars.
+And when we go to bars, what we do is also
+
+145
+00:09:03,108 --> 00:09:08,174
+adjust the payment scale.
+So a dollar in the states is not a dollar
+
+146
+00:09:08,174 --> 00:09:11,650
+in, in India.
+It's not a dollar, a dollar in England.
+
+147
+00:09:11,650 --> 00:09:16,707
+It's not a dollar in Turkey.
+So what we do is we go to bars.
+
+148
+00:09:16,708 --> 00:09:21,688
+And we create a payment situation, such as
+answering four questions will equal one
+
+149
+00:09:21,688 --> 00:09:25,648
+glass of beer.
+So now, this is kind of our international
+
+150
+00:09:25,648 --> 00:09:28,500
+currency.
+Every four questions is a glass of beer.
+
+151
+00:09:28,500 --> 00:09:34,242
+And the one place we found the difference
+was when we went to a bar in Washington,
+
+152
+00:09:34,242 --> 00:09:38,077
+D.C.
+Where congressional staffers hang out.
+
+153
+00:09:38,078 --> 00:09:41,222
+And then we went to a bar in New York
+where bankers hang out.
+
+154
+00:09:41,222 --> 00:09:44,952
+And the question is, which one of those
+two groups cheated more?
+
+155
+00:09:44,952 --> 00:09:48,801
+Now, I have to admit that I expected the
+politicians to cheat more than the
+
+156
+00:09:48,801 --> 00:09:51,167
+bankers, but the results were the
+opposite.
+
+157
+00:09:51,168 --> 00:09:56,604
+The banker cheated twice, two to one.
+But I do have one word of caution, which
+
+158
+00:09:56,604 --> 00:10:02,264
+is these were congressional staffers.
+So these were junior politicians, and
+
+159
+00:10:02,264 --> 00:10:07,326
+maybe over time there's room for growth in
+terms of their dishonesty.
+
+160
+00:10:07,326 --> 00:10:42,087
+[music].

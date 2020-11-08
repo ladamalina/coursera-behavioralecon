@@ -1,0 +1,1170 @@
+
+1
+00:00:06,250 --> 00:00:09,377
+Hi, I'm Noah Goldstein, a faculty member 
+at the UCLA Anderson School of 
+
+2
+00:00:09,377 --> 00:00:12,400
+Management. 
+And today, I'll be talking with you about 
+
+3
+00:00:12,400 --> 00:00:16,599
+persuasion, specifically one principle of 
+persuasion, so let's get started. 
+
+4
+00:00:17,680 --> 00:00:21,376
+So, Tony Little is a fitness guru who has 
+sold dozens of exercise contraptions, 
+
+5
+00:00:21,376 --> 00:00:25,408
+doohickeys, and gizmos that you may have 
+seen on late night infomercials and other 
+
+6
+00:00:25,408 --> 00:00:29,884
+television commericals. 
+Now, Tony Little has been widely 
+
+7
+00:00:29,884 --> 00:00:33,212
+successful selling all of these different 
+contraptions using the standard 
+
+8
+00:00:33,212 --> 00:00:36,970
+infomercial lines that we're all quite 
+familiar with. 
+
+9
+00:00:36,970 --> 00:00:41,662
+But after hiring a infomercial consultant 
+named [UNKNOWN] sales of his latest 
+
+10
+00:00:41,662 --> 00:00:46,335
+contraption skyrocketed. 
+Now, what's particularly remarkable about 
+
+11
+00:00:46,335 --> 00:00:49,965
+this huge increase in sales is that it's 
+been largely attributed to a seemingly 
+
+12
+00:00:49,965 --> 00:00:53,595
+small change that Colleen Szot made to an 
+infomercial line that we're all quite 
+
+13
+00:00:53,595 --> 00:00:58,762
+familiar with. 
+And that line is, operators are standing 
+
+14
+00:00:58,762 --> 00:01:03,0
+by, please call now and we've all heard 
+this line a million times. 
+
+15
+00:01:03,0 --> 00:01:07,26
+But Colleen Szot realized that there was 
+a potentially missed opportunity for 
+
+16
+00:01:07,26 --> 00:01:10,902
+persuasion. 
+So she changed the line from operators 
+
+17
+00:01:10,902 --> 00:01:17,910
+are standing by, please call now to, if 
+operators are busy, please call again. 
+
+18
+00:01:17,910 --> 00:01:21,938
+If operators are busy, please call again. 
+Now, if you think about it from a 
+
+19
+00:01:21,938 --> 00:01:25,388
+business standpoint, this seems suicidal, 
+after all, it's hard enough to get this 
+
+20
+00:01:25,388 --> 00:01:28,924
+guy, interested in exercising in the 
+first place. 
+
+21
+00:01:28,924 --> 00:01:32,60
+But, now you're seemingly conveying to 
+him, by saying if operators are busy, 
+
+22
+00:01:32,60 --> 00:01:35,245
+please call again, that if he bothers to 
+take his finger out of his mouth, and he 
+
+23
+00:01:35,245 --> 00:01:38,381
+used it to dial the number he sees on the 
+screen, he's going to encounter a busy 
+
+24
+00:01:38,381 --> 00:01:43,450
+signal. 
+But there's a certain genius to this 
+
+25
+00:01:43,450 --> 00:01:46,968
+change that Calisat made. 
+Think about the type of mental imagery 
+
+26
+00:01:46,968 --> 00:01:50,80
+that comes to mind with these two 
+different lines. 
+
+27
+00:01:50,80 --> 00:01:54,520
+Operators are standing by. 
+What are you imagining in your mind? 
+
+28
+00:01:54,520 --> 00:01:58,808
+You imagine a couple of bored looking 
+sales representatives maybe twitting 
+
+29
+00:01:58,808 --> 00:02:02,74
+their thumbs. 
+Or maybe dozing off, or doing their 
+
+30
+00:02:02,74 --> 00:02:06,670
+crossword puzzle, which is clearly 
+indicative of low sales and poor demand. 
+
+31
+00:02:06,670 --> 00:02:09,960
+On the other hand, if operators are busy, 
+please call again. 
+
+32
+00:02:09,960 --> 00:02:12,990
+That's a very different mental image that 
+comes to mind. 
+
+33
+00:02:12,990 --> 00:02:17,400
+You can imagine scores of people 
+answering the phones you know? 
+
+34
+00:02:17,400 --> 00:02:20,150
+Which is clearly indicative of 
+popularity, right? 
+
+35
+00:02:20,150 --> 00:02:43,411
+High sales and and large demand. 
+Today's mini lecture will be on a that 
+
+36
+00:02:43,411 --> 00:02:47,305
+people look to others to guide their own 
+behavior, especially when they're 
+
+37
+00:02:47,305 --> 00:02:52,225
+uncertain how to behave. 
+Now before we really get into the studies 
+
+38
+00:02:52,225 --> 00:02:56,237
+that I'll be talking about, I just wanted 
+to briefly introduce the domain in which 
+
+39
+00:02:56,237 --> 00:03:00,880
+we conducted our studies and that's hotel 
+towels. 
+
+40
+00:03:00,880 --> 00:03:04,520
+So if you've stayed at a hotel recently, 
+you've seen that there are these signs 
+
+41
+00:03:04,520 --> 00:03:09,467
+that ask you to reuse your towels in 
+order to help save the environment. 
+
+42
+00:03:09,467 --> 00:03:13,559
+And why do you think that these things 
+have become so popular in hotels? 
+
+43
+00:03:13,559 --> 00:03:17,321
+Now fortunately, it's that hotels are 
+really caring about the environment and 
+
+44
+00:03:17,321 --> 00:03:21,136
+they really want to help. 
+Okay, now this is a cynacism check 
+
+45
+00:03:21,136 --> 00:03:25,74
+because at home you're probably thinking, 
+we'll wait a minute. 
+
+46
+00:03:25,74 --> 00:03:28,714
+I'm sure the hotels want to help save the 
+environment, but there has to be another 
+
+47
+00:03:28,714 --> 00:03:31,845
+reason why. 
+It turns out that the hotels can save a 
+
+48
+00:03:31,845 --> 00:03:35,827
+lot of money if people decide to reuse 
+their towels and bed linens. 
+
+49
+00:03:35,827 --> 00:03:39,832
+Okay, so it helps the environment but of 
+course it also helps the hotel. 
+
+50
+00:03:39,832 --> 00:03:43,726
+Now, my colleagues and I were quite 
+curious about whether or not these signs 
+
+51
+00:03:43,726 --> 00:03:48,361
+are actually effective at getting people 
+to reuse their towels. 
+
+52
+00:03:48,361 --> 00:03:52,196
+And so we looked around and we found a 
+study that suggested that these signs 
+
+53
+00:03:52,196 --> 00:03:56,812
+work surprisingly well. 
+So one little study we saw suggested that 
+
+54
+00:03:56,812 --> 00:04:00,592
+over three quarters of people, who are 
+given the opportunity to reuse their 
+
+55
+00:04:00,592 --> 00:04:04,914
+towel, do so at least sometime during 
+their stay. 
+
+56
+00:04:04,914 --> 00:04:08,808
+It doesn't mean that 75% of people do it 
+all the time, but at least participating 
+
+57
+00:04:08,808 --> 00:04:12,406
+in the program in some way, shape, or 
+form. 
+
+58
+00:04:12,406 --> 00:04:16,306
+So what we wanted to see was what if we 
+communicated this social proof 
+
+59
+00:04:16,306 --> 00:04:22,190
+information to, other hotel guests? 
+Would we see an additional boost in towel 
+
+60
+00:04:22,190 --> 00:04:25,274
+reuse? 
+So we were fortunate enough to solicit 
+
+61
+00:04:25,274 --> 00:04:29,432
+the cooperation of a local Holiday Inn 
+manager, who allowed us to go into the 
+
+62
+00:04:29,432 --> 00:04:33,266
+hotel. 
+And replace their signs with our signs 
+
+63
+00:04:33,266 --> 00:04:37,486
+and I'd like to tell you about three of 
+those different signs. 
+
+64
+00:04:37,486 --> 00:04:41,206
+The first one was a standard 
+environmental message, that one just told 
+
+65
+00:04:41,206 --> 00:04:46,272
+guests that what they were doing was 
+going to help save the environment. 
+
+66
+00:04:46,272 --> 00:04:50,559
+So the environment deserves our respect. 
+You can show your respect for nature and 
+
+67
+00:04:50,559 --> 00:04:54,617
+help save the environment by reusing your 
+towels during your stay. 
+
+68
+00:04:54,617 --> 00:04:58,235
+This is a very typical message what you 
+typically see at hotels all around the 
+
+69
+00:04:58,235 --> 00:05:01,200
+world. 
+The next one is based on this principal 
+
+70
+00:05:01,200 --> 00:05:04,494
+of social proof and it says, join your 
+fellow guests in helping to save the 
+
+71
+00:05:04,494 --> 00:05:08,154
+environment. 
+In a study conducted in Fall 2003, that 
+
+72
+00:05:08,154 --> 00:05:12,3
+was several years prior to when we 
+actually conducted our study. 
+
+73
+00:05:12,3 --> 00:05:15,766
+75% of the guests participated in our new 
+resource savings program by using their 
+
+74
+00:05:15,766 --> 00:05:19,412
+towels more than once. 
+You can join your fellow guests in this 
+
+75
+00:05:19,412 --> 00:05:24,22
+program to help save the environment by 
+reusing your towels during your stay. 
+
+76
+00:05:24,22 --> 00:05:27,841
+So, as you can see, this is the principle 
+social proof, the idea that lots of other 
+
+77
+00:05:27,841 --> 00:05:32,700
+people are reusing their towels. 
+And so we think that that may influence a 
+
+78
+00:05:32,700 --> 00:05:36,581
+guest's behavior, so let's actually take 
+a look at the data. 
+
+79
+00:05:36,581 --> 00:05:40,475
+And what you're seeing here is a graph of 
+the change in towel reuse rate compared 
+
+80
+00:05:40,475 --> 00:05:44,605
+to the standard environmental appeal rate 
+and what we found is simply by indicating 
+
+81
+00:05:44,605 --> 00:05:50,181
+that these majority of other people were 
+reusing their towels. 
+
+82
+00:05:50,181 --> 00:05:53,158
+We saw a 20% increase in towel reuse, 
+right? 
+
+83
+00:05:53,158 --> 00:05:56,940
+Now, if you think about it, this 
+principle of social proof seems obvious, 
+
+84
+00:05:56,940 --> 00:06:00,204
+right? 
+Everyone follows the herd, it seems like 
+
+85
+00:06:00,204 --> 00:06:04,44
+we all kind of know this intuitively and 
+yet, if it's so obvious, why isn't the 
+
+86
+00:06:04,44 --> 00:06:08,292
+hotel doing it? 
+Why have we never seen a single hotel 
+
+87
+00:06:08,292 --> 00:06:12,395
+ever actually communicating this 
+information to the guest? 
+
+88
+00:06:12,395 --> 00:06:15,929
+So that's you know, one of the meta 
+points of today is that, despite the fact 
+
+89
+00:06:15,929 --> 00:06:20,309
+that principles of persuasion seem 
+obvious in hindsight. 
+
+90
+00:06:20,309 --> 00:06:24,242
+when people are actually trying to 
+persuade, they often fail to utilize 
+
+91
+00:06:24,242 --> 00:06:29,639
+these seemingly simplistic principles. 
+So, whenever the desirable behavior is 
+
+92
+00:06:29,639 --> 00:06:33,592
+the norm, when other people are doing the 
+right thing that they're taking the 
+
+93
+00:06:33,592 --> 00:06:37,663
+action that you want people to take, it's 
+really important to remember the power of 
+
+94
+00:06:37,663 --> 00:06:43,243
+the principle of social proof. 
+Now the thing is, even though 
+
+95
+00:06:43,243 --> 00:06:47,659
+organizations and individuals often fail 
+to use this principle. 
+
+96
+00:06:47,659 --> 00:06:51,213
+I'm not saying that nobody uses it. 
+Marketers tend to be pretty good at it 
+
+97
+00:06:51,213 --> 00:06:54,184
+and we're certainly seen some examples of 
+that. 
+
+98
+00:06:54,184 --> 00:06:57,748
+So, we might hear that the for F-series 
+truck is the best selling truck in 
+
+99
+00:06:57,748 --> 00:07:00,800
+America, right? 
+I mean, what they're doing is 
+
+100
+00:07:00,800 --> 00:07:04,634
+communicating the principle social proof, 
+so that when somebody is uncertain about 
+
+101
+00:07:04,634 --> 00:07:09,264
+which type of car they're going to buy. 
+If they look to the marketing slogan then 
+
+102
+00:07:09,264 --> 00:07:12,248
+they recognize, okay? 
+Well, if that's the best selling car in 
+
+103
+00:07:12,248 --> 00:07:16,5
+America, most people are choosing that, 
+so I should choose that too. 
+
+104
+00:07:16,5 --> 00:07:19,662
+So there are of course cases that we see 
+where marketers get it right. 
+
+105
+00:07:19,662 --> 00:07:23,622
+But I'm going to make the argument that 
+even in marketing people who know these 
+
+106
+00:07:23,622 --> 00:07:29,32
+principles very well, I still think that 
+there is room for improvement. 
+
+107
+00:07:29,32 --> 00:07:33,609
+So, for example, if you look at any time 
+a company introduces a new product. 
+
+108
+00:07:33,609 --> 00:07:38,743
+So for example let's say it's a, Arby's 
+New Angus Three Cheese & Bacon burger. 
+
+109
+00:07:38,743 --> 00:07:42,258
+Now what do they tend to do when they're 
+advertising this product? 
+
+110
+00:07:42,258 --> 00:07:45,534
+Well one thing that they do, and the 
+major thing that they do is talk about 
+
+111
+00:07:45,534 --> 00:07:49,380
+why it's so good. 
+What are the benefits to the customer? 
+
+112
+00:07:49,380 --> 00:07:51,693
+What is the customer going to like about 
+that? 
+
+113
+00:07:51,693 --> 00:07:55,333
+And that's very intuitive, it makes total 
+sense why they would do that, but I'm 
+
+114
+00:07:55,333 --> 00:07:59,950
+going to argue that there is a missed 
+opportunity for persuasion. 
+
+115
+00:07:59,950 --> 00:08:04,559
+Now if you think about it, how did these 
+products actually come to market? 
+
+116
+00:08:04,559 --> 00:08:09,359
+Does the CEO just say, slap together some 
+mayo, some brisket, and no that's not how 
+
+117
+00:08:09,359 --> 00:08:14,997
+decisions are made big decisions are made 
+at these big companies. 
+
+118
+00:08:14,997 --> 00:08:18,124
+There's a lot of internal market 
+research, or there's a lot of internal 
+
+119
+00:08:18,124 --> 00:08:21,675
+testing to see whether or not an idea, a 
+particular sandwich, let's say the three 
+
+120
+00:08:21,675 --> 00:08:27,283
+cheese bacon burger is actually something 
+that customers are going to like. 
+
+121
+00:08:27,283 --> 00:08:30,867
+So, in order to decide whether we should 
+bring that product to the market, or a 
+
+122
+00:08:30,867 --> 00:08:36,2
+totally different product to the market. 
+They have to actually test which one is 
+
+123
+00:08:36,2 --> 00:08:40,757
+better, which one consumers like, maybe 
+compare it to competitors burgers. 
+
+124
+00:08:40,757 --> 00:08:44,411
+And, now what's interesting about these 
+internal test market data, is that 
+
+125
+00:08:44,411 --> 00:08:48,181
+companies use them in order to make the 
+decision of which products to actually 
+
+126
+00:08:48,181 --> 00:08:52,743
+bring to the market. 
+But, I would argue that there's a missed 
+
+127
+00:08:52,743 --> 00:08:57,124
+opportunity for influence there based on 
+the principal social proof. 
+
+128
+00:08:57,124 --> 00:09:00,712
+in fact, not only are these data often 
+internal test market data, but sometimes 
+
+129
+00:09:00,712 --> 00:09:04,144
+before introducing the campaign 
+nationally, they'll go out and they'll go 
+
+130
+00:09:04,144 --> 00:09:09,995
+to town in North Carolina, and introduce 
+the burger there and see how it does. 
+
+131
+00:09:09,995 --> 00:09:12,860
+See how people like it, in comparison to 
+other things. 
+
+132
+00:09:12,860 --> 00:09:16,490
+now the point is, here's this heard 
+information that you have, you know that 
+
+133
+00:09:16,490 --> 00:09:19,955
+people prefer this burger to maybe a 
+Wendy's version of that burger and yet, 
+
+134
+00:09:19,955 --> 00:09:23,420
+that information is used to make the 
+decision of which product to take to the 
+
+135
+00:09:23,420 --> 00:09:26,720
+market, and is rarely actually 
+communicated to the consumer and I would 
+
+136
+00:09:26,720 --> 00:09:33,911
+call that a failed opportunity or a 
+missed opportunity for persuasion. 
+
+137
+00:09:33,911 --> 00:09:37,730
+Now, there are a couple of times in, in 
+marketing history when companies have 
+
+138
+00:09:37,730 --> 00:09:41,549
+gotten it right, if you think about the 
+Pepsi challenge for example, if Pepsi had 
+
+139
+00:09:41,549 --> 00:09:45,254
+realized that if you drink a little sip 
+of Pepsi or Coke in a blind taste test 
+
+140
+00:09:45,254 --> 00:09:51,247
+more people, right, the herd, actually 
+prefers Pepsi. 
+
+141
+00:09:51,247 --> 00:09:55,87
+So Pepsi went out and said, take the 
+Pepsi challenge, here's what our data 
+
+142
+00:09:55,87 --> 00:09:58,151
+show. 
+But rarely have we actually seen this 
+
+143
+00:09:58,151 --> 00:10:02,104
+implemented in marketing campaigns 
+despite the seeming obviousness of the 
+
+144
+00:10:02,104 --> 00:10:05,723
+principle. 
+Now there are a couple of exceptions to 
+
+145
+00:10:05,723 --> 00:10:09,151
+this one just to keep in the fast food 
+domain. 
+
+146
+00:10:09,151 --> 00:10:12,728
+Wendy's came out with new fries. 
+Now again, they didn't just say, alright 
+
+147
+00:10:12,728 --> 00:10:15,223
+well lets. 
+The CEO didn't say here's how we're 
+
+148
+00:10:15,223 --> 00:10:18,562
+going to make the fries, there were 
+ideas, there was internal market research 
+
+149
+00:10:18,562 --> 00:10:22,890
+and ultimately they. 
+figured out that people preferred these 
+
+150
+00:10:22,890 --> 00:10:25,902
+fries to McDonalds fries in a blind taste 
+test. 
+
+151
+00:10:25,902 --> 00:10:29,486
+And so, what Wendy's did was, they 
+actually did the right thing something 
+
+152
+00:10:29,486 --> 00:10:32,697
+very different than what we typically 
+see. 
+
+153
+00:10:32,697 --> 00:10:35,577
+They came out with a campaign saying 
+that, you know? 
+
+154
+00:10:35,577 --> 00:10:39,877
+Roughly 56 percent of people preferred 
+their fries to McDonalds, right? 
+
+155
+00:10:39,877 --> 00:10:43,288
+That's what the herd is doing. 
+Now, I'm not arguing that this type of 
+
+156
+00:10:43,288 --> 00:10:46,704
+campaign would make people who are 
+McDonalds devotees that it would make 
+
+157
+00:10:46,704 --> 00:10:52,82
+them run into a Wendy's to try the fries. 
+And remember what I said earlier, social 
+
+158
+00:10:52,82 --> 00:10:55,778
+proof, like almost all the principles of 
+influence, are going to be most powerful 
+
+159
+00:10:55,778 --> 00:10:59,472
+when people are uncertain of how to 
+behave. 
+
+160
+00:10:59,472 --> 00:11:02,970
+So what that means is again, if you love 
+McDonald's fries and you've never eaten 
+
+161
+00:11:02,970 --> 00:11:06,44
+anywhere else, you're not going to be 
+influenced by this social proof 
+
+162
+00:11:06,44 --> 00:11:09,986
+information. 
+However, if you are person who is unsure, 
+
+163
+00:11:09,986 --> 00:11:13,314
+you're curious, that information is 
+probably going to push you over the edge 
+
+164
+00:11:13,314 --> 00:11:17,252
+and you are going to be more likely to 
+try the fries. 
+
+165
+00:11:17,252 --> 00:11:20,437
+And Wendy's believes that once you try 
+the fries, you're actually going to 
+
+166
+00:11:20,437 --> 00:11:24,631
+prefer those fries in the future. 
+So as I was saying earlier, people follow 
+
+167
+00:11:24,631 --> 00:11:27,108
+the herd. 
+We've seen some evidence for this and of 
+
+168
+00:11:27,108 --> 00:11:31,176
+course, this is not the only study done 
+on the principle of social proof. 
+
+169
+00:11:31,176 --> 00:11:34,508
+There's lots of other research that 
+validates this principle, but there's an 
+
+170
+00:11:34,508 --> 00:11:38,970
+important question that we have to ask. 
+Which is yeah, sure people follow the 
+
+171
+00:11:38,970 --> 00:11:43,910
+herd but we have to remember, they're are 
+a lot of different herds out there. 
+
+172
+00:11:43,910 --> 00:11:47,139
+So which herd are we going to be most 
+likely to follow. 
+
+173
+00:11:47,139 --> 00:11:50,735
+So, earlier I was talking about the 
+social proof message that we used in the 
+
+174
+00:11:50,735 --> 00:11:57,362
+hotel. 
+Which indicated that 75% of people who 
+
+175
+00:11:57,362 --> 00:12:08,282
+were similar to the hotel guests, right, 
+75% of people who had stayed in a hotel 
+
+176
+00:12:08,282 --> 00:12:19,760
+just like our, our guests reuse their 
+towels. 
+
+177
+00:12:19,760 --> 00:12:24,182
+We said the following, 75% of the guests 
+who stayed in your room #321, or whatever 
+
+178
+00:12:24,182 --> 00:12:28,736
+the room number was, participated in the 
+new resource savings program and the rest 
+
+179
+00:12:28,736 --> 00:12:35,478
+of the message was exactly the same. 
+So, remember, all of the herd information 
+
+180
+00:12:35,478 --> 00:12:39,438
+is the same, in the terms of the number 
+75%, but in, in that prior case it's 
+
+181
+00:12:39,438 --> 00:12:43,596
+other people like you at the hotel, and 
+in this case it's people who stayed in 
+
+182
+00:12:43,596 --> 00:12:49,367
+your room. 
+Now, let's take a look at the data. 
+
+183
+00:12:49,367 --> 00:12:53,583
+So, earlier we found a 20% increase in 
+the likelihood of reusing our towels 
+
+184
+00:12:53,583 --> 00:12:57,799
+simply by informing people that the 
+majority of others were reusing their 
+
+185
+00:12:57,799 --> 00:13:04,187
+towel, like others in the hotel. 
+But now what happens when we tell people, 
+
+186
+00:13:04,187 --> 00:13:09,801
+that other people who stayed in your 
+particular room reuse their towels? 
+
+187
+00:13:09,801 --> 00:13:14,335
+Now we get a 33% increase in towel reuse, 
+so what's going on here? 
+
+188
+00:13:14,335 --> 00:13:18,202
+Want you to ask yourself, is this 
+rational behavior? 
+
+189
+00:13:18,202 --> 00:13:22,289
+If you think about it, there is no 
+rational reason why the norms operating 
+
+190
+00:13:22,289 --> 00:13:26,510
+in your particular room are going to be 
+any more adaptive or any more effective 
+
+191
+00:13:26,510 --> 00:13:33,1
+than the norms in the rooms next door. 
+And in fact, if you really think about it 
+
+192
+00:13:33,1 --> 00:13:36,713
+deeply there is no group of people who 
+has done more to ickefy, your room, than 
+
+193
+00:13:36,713 --> 00:13:40,960
+the very people who've stayed in it 
+previously. 
+
+194
+00:13:40,960 --> 00:13:44,480
+Alright, you don't even want to think 
+what those people have done in your room 
+
+195
+00:13:44,480 --> 00:13:47,721
+previously. 
+So again, there's no a neccessarily, 
+
+196
+00:13:47,721 --> 00:13:51,529
+there shouldn't be, from a logical point 
+of view, even warm and fuzzy feelings 
+
+197
+00:13:51,529 --> 00:13:55,582
+between yourself and those people in the 
+past. 
+
+198
+00:13:55,582 --> 00:13:59,173
+Well, as we see in persuasion research as 
+well as a lot of the research Jan has 
+
+199
+00:13:59,173 --> 00:14:03,144
+talked about, people don't always behave 
+rationally. 
+
+200
+00:14:03,144 --> 00:14:06,566
+And in persuasion they don't always 
+behave rationally in response to 
+
+201
+00:14:06,566 --> 00:14:10,102
+persuasive messages. 
+Now, what we think is going on is that 
+
+202
+00:14:10,102 --> 00:14:13,798
+normally it is adaptive to follow the 
+norms of people who are similar to you, 
+
+203
+00:14:13,798 --> 00:14:19,628
+the norms of your particular environment. 
+It normally makes sense that if you're in 
+
+204
+00:14:19,628 --> 00:14:24,393
+a multinational company, which norm 
+should you follow for how to behave. 
+
+205
+00:14:24,393 --> 00:14:27,687
+Well, the norms of your particular 
+department, the people on your floor, 
+
+206
+00:14:27,687 --> 00:14:32,620
+normally following those norms is more 
+diagnostic of what's the right behavior. 
+
+207
+00:14:32,620 --> 00:14:35,806
+And we think that people over learn this 
+over time, right, that they are 
+
+208
+00:14:35,806 --> 00:14:39,424
+constantly being rewarded for following 
+the norms of similar others in similar 
+
+209
+00:14:39,424 --> 00:14:43,48
+situations. 
+And that when they're not thinking 
+
+210
+00:14:43,48 --> 00:14:46,590
+particularly deeply. 
+They're going to be more likely to follow 
+
+211
+00:14:46,590 --> 00:14:50,939
+a norm like this which we call a 
+provincial norm, right? 
+
+212
+00:14:50,939 --> 00:14:55,629
+Their particular province, their 
+particular area or locale or context then 
+
+213
+00:14:55,629 --> 00:15:01,0
+you would expect rationally. 
+So, one really common persuasion mistake 
+
+214
+00:15:01,0 --> 00:15:04,904
+that I tend to see is that people, even 
+when they remember the principle of 
+
+215
+00:15:04,904 --> 00:15:09,637
+social proof, they fail to point to the 
+right herd. 
+
+216
+00:15:09,637 --> 00:15:13,667
+And what I'm arguing here is that the 
+right herd is the one that is similar to 
+
+217
+00:15:13,667 --> 00:15:18,157
+the audience, that shares the context of 
+the audience. 
+
+218
+00:15:18,157 --> 00:15:22,807
+So, for example if there's an ad campaign 
+in California or in Santa Monica to try 
+
+219
+00:15:22,807 --> 00:15:26,651
+to get Santa Monicans to recycle, and 
+that's where I live, if I saw an ad that 
+
+220
+00:15:26,651 --> 00:15:32,912
+said 95% of Californians recycle. 
+I think that would be a good use of the 
+
+221
+00:15:32,912 --> 00:15:36,572
+principal social proof, that if 
+especially if I'm uncertain, I would be 
+
+222
+00:15:36,572 --> 00:15:42,87
+more likely to do it, but I don't think 
+that is the optimal message. 
+
+223
+00:15:42,87 --> 00:15:45,747
+Assuming of course that the norms were 
+the same and 95% of people in Santa 
+
+224
+00:15:45,747 --> 00:15:49,346
+Monica recycled, I would be much more 
+persuaded by an ad that said 95% of 
+
+225
+00:15:49,346 --> 00:15:55,260
+people in Santa Monica recycle. 
+And so you always have to remember, you 
+
+226
+00:15:55,260 --> 00:15:58,800
+know, when I'm going to convey this herd 
+information, this social proof 
+
+227
+00:15:58,800 --> 00:16:03,107
+information what is the right herd and, 
+and hopefully based on this discussion I 
+
+228
+00:16:03,107 --> 00:16:09,200
+pointed you in the right direction. 
+I'm glad I had the chance to talk to you 
+
+229
+00:16:09,200 --> 00:16:13,166
+for at least a little bit about the 
+science of persuasion. 
+
+230
+00:16:13,166 --> 00:16:17,1
+If you're interested in learning more, 
+you can always go out and buy a book that 
+
+231
+00:16:17,1 --> 00:16:22,232
+I have co-authored with Robert Cialdini 
+and Steve Martin entitled, yes. 
+
+232
+00:16:22,232 --> 00:16:25,886
+And one final fact that I'll end on is 
+that 95% of people who have watched this 
+
+233
+00:16:25,886 --> 00:16:29,614
+video have gone out and bought it 
+immediately. 
+
+234
+00:16:29,614 --> 00:16:30,849
+Thank you very much. 
+

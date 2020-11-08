@@ -1,0 +1,614 @@
+
+1
+00:00:01,276 --> 00:00:07,076
+The first experiments we did were with
+financial bonuses.
+
+2
+00:00:07,076 --> 00:00:13,759
+But what about other forces?
+For example, social recognition.
+
+3
+00:00:13,760 --> 00:00:20,692
+We did a task of anagrams.
+We asked people to solve some anagrams and
+
+4
+00:00:20,692 --> 00:00:25,630
+we paid them by their success.
+And people were scattered around the room
+
+5
+00:00:25,630 --> 00:00:30,447
+and every person had the little cubicle.
+And they were solving anagrams for pay.
+
+6
+00:00:30,448 --> 00:00:34,876
+But from time to time, we asked somebody
+to get up, come to the board in front of
+
+7
+00:00:34,876 --> 00:00:38,364
+everybody, and solve the anagram in front
+of everybody.
+
+8
+00:00:38,365 --> 00:00:42,445
+They still got paid in the same way.
+But now they solved it in front of
+
+9
+00:00:42,445 --> 00:00:44,925
+everybody.
+Now would this be more important to
+
+10
+00:00:44,925 --> 00:00:48,700
+people, or less important to people?
+It's more important because you take the
+
+11
+00:00:48,700 --> 00:00:53,322
+financial motivation to solve anagram.
+Plus you add to it the social desire to
+
+12
+00:00:53,322 --> 00:00:56,530
+have your friends think you're a smart
+person.
+
+13
+00:00:56,530 --> 00:01:01,139
+And to avoid looking foolish.
+But what actually happened to performance?
+
+14
+00:01:01,140 --> 00:01:07,285
+Performance was about half as high in the
+public condition than in the private
+
+15
+00:01:07,285 --> 00:01:10,660
+condition.
+When people wanted the most to perform
+
+16
+00:01:10,660 --> 00:01:15,502
+well, they actually worked the hardest.
+And this is of course things like test
+
+17
+00:01:15,502 --> 00:01:18,887
+anxiety and so on.
+When we want to perform to the best of our
+
+18
+00:01:18,887 --> 00:01:25,123
+ability, it doesn't mean that we can.
+It means we want to but this wanting to
+
+19
+00:01:25,123 --> 00:01:29,532
+can actually overwhelm our ability.
+So, what do we have?
+
+20
+00:01:29,532 --> 00:01:33,820
+When we think about the relationship
+between incentive and performance, we
+
+21
+00:01:33,820 --> 00:01:36,577
+usually think about just an increasing
+amount.
+
+22
+00:01:36,578 --> 00:01:39,970
+Sometimes we think about diminishing
+returns.
+
+23
+00:01:39,970 --> 00:01:45,361
+Very rarely do we think that performance
+would go up and then reverse, and go down.
+
+24
+00:01:45,361 --> 00:01:48,932
+But so far when we've tried things, this
+is what we see.
+
+25
+00:01:48,932 --> 00:01:54,767
+And I should point that somebody did an
+analysis of how people play golf when they
+
+26
+00:01:54,767 --> 00:01:58,796
+play next to Tiger Woods.
+This was in the period before he had all
+
+27
+00:01:58,796 --> 00:02:01,750
+these affairs and he was the top player in
+the world.
+
+28
+00:02:01,750 --> 00:02:04,724
+And what do you think would happen to
+somebody who's playing next to him?
+
+29
+00:02:04,725 --> 00:02:10,347
+Would Tiger Woods push them to be better
+or stress them to perform worse?
+
+30
+00:02:10,348 --> 00:02:14,157
+Well, the results show that he stresses
+them to perform worse.
+
+31
+00:02:14,157 --> 00:02:18,987
+By the way, from this perspective, it is
+also interesting to speculate about Tiger
+
+32
+00:02:18,987 --> 00:02:22,451
+Woods.
+He was a guy who was the most important I
+
+33
+00:02:22,451 --> 00:02:28,070
+guess, successful golf player ever.
+And all, he was at the height of his
+
+34
+00:02:28,070 --> 00:02:33,350
+career, all of a sudden he found out that
+he has some affairs and his performance
+
+35
+00:02:33,350 --> 00:02:35,453
+drops down.
+How can it be?
+
+36
+00:02:35,454 --> 00:02:38,067
+Right?
+I mean, could it be that he couldn't
+
+37
+00:02:38,067 --> 00:02:41,623
+concentrate, that he couldn't think very
+much, that his mind was preoccupied?
+
+38
+00:02:41,624 --> 00:02:46,854
+I mean, that's one interpretation, but it
+tells you how easy it is to get people to
+
+39
+00:02:46,854 --> 00:02:51,924
+being distracted and by thinking about
+some other things not performing very
+
+40
+00:02:51,924 --> 00:02:53,900
+well.
+One of my friends had a different theory.
+
+41
+00:02:53,900 --> 00:02:57,728
+He said that maybe what he was doing is he
+basically had no release for his sexual
+
+42
+00:02:57,728 --> 00:03:00,790
+energy so he was all pent up and he
+couldn't perform very well.
+
+43
+00:03:00,790 --> 00:03:05,757
+And I don't know how to differentiate
+between these two, these two theories.
+
+44
+00:03:05,758 --> 00:03:09,337
+So now, let's go back to Wall Street
+executives.
+
+45
+00:03:09,338 --> 00:03:12,954
+I meet these Wall Street executives, and
+they say, oh, your results are very, very
+
+46
+00:03:12,954 --> 00:03:15,824
+nice, but they don't apply to us, to the
+Wall Street executives.
+
+47
+00:03:15,824 --> 00:03:18,755
+Why?
+Because your experiment, dear Dan, are
+
+48
+00:03:18,755 --> 00:03:23,250
+carried on regular normal people,
+students, people in India and so on.
+
+49
+00:03:23,250 --> 00:03:27,865
+We are super special people.
+If you hide the distribution of people, we
+
+50
+00:03:27,865 --> 00:03:32,222
+would be at the edge.
+Regular people would stress, get stressed
+
+51
+00:03:32,222 --> 00:03:36,410
+by a thousand, 2000, $50 million.
+We don't worry about this.
+
+52
+00:03:36,410 --> 00:03:40,502
+In fact, there's not an amount of money in
+the world that would get us to go off the
+
+53
+00:03:40,502 --> 00:03:43,714
+continuous improvement.
+And you can pay us as much as you want and
+
+54
+00:03:43,714 --> 00:03:46,585
+we would always improve in quality and
+never deteriorate.
+
+55
+00:03:46,586 --> 00:03:50,560
+Now, of course, what I do when they say
+something like this is to invite them to
+
+56
+00:03:50,560 --> 00:03:52,770
+the lab.
+And I say you know what, maybe you're
+
+57
+00:03:52,770 --> 00:03:56,475
+right, why don't you come to the lab and
+let's test things out and if you'll give
+
+58
+00:03:56,475 --> 00:04:00,408
+me a research budget, we could see whether
+you indeed don't get stressed with these
+
+59
+00:04:00,408 --> 00:04:03,916
+large amounts of money.
+But none of them is truly that interested
+
+60
+00:04:03,916 --> 00:04:06,739
+in doing it and nobody has ever appeared
+in the lab.
+
+61
+00:04:07,850 --> 00:04:10,266
+But nevertheless, it was an important
+point.
+
+62
+00:04:10,266 --> 00:04:13,416
+I don't believe that.
+I don't believe that all the stress free
+
+63
+00:04:13,416 --> 00:04:17,322
+people are going to Wall Street and these
+are not normal people and so on, but
+
+64
+00:04:17,322 --> 00:04:20,146
+maybe.
+Now testing people in Wall Street is very
+
+65
+00:04:20,146 --> 00:04:22,627
+tough.
+So, instead what we did was we went to
+
+66
+00:04:22,627 --> 00:04:28,416
+look at professional basketball players.
+And together with Coach Kane the head of
+
+67
+00:04:28,416 --> 00:04:35,059
+the university basketball team and we got
+his help to contact professional coaches
+
+68
+00:04:35,059 --> 00:04:39,761
+of teams at the NBA, the, the national
+league for basketball.
+
+69
+00:04:39,761 --> 00:04:43,940
+And we asked him to tell us, who are the
+clutch players in the league?
+
+70
+00:04:43,940 --> 00:04:47,768
+Clutch players are the people who get the
+ball in the last second, and then shoot
+
+71
+00:04:47,768 --> 00:04:51,024
+the ball.
+And everybody thinks that they are doing
+
+72
+00:04:51,024 --> 00:04:55,160
+fantastic job under stress.
+And what was interesting is that all these
+
+73
+00:04:55,160 --> 00:04:59,000
+coaches basically agreed very well about
+who were the clutch players.
+
+74
+00:04:59,000 --> 00:05:04,312
+They named 17 people, and the agreement
+was virtually 100% about who those 17
+
+75
+00:05:04,312 --> 00:05:08,587
+people are.
+And then we went back and we looked at the
+
+76
+00:05:08,587 --> 00:05:13,126
+whole season of basketball games.
+And we looked at what was the performance
+
+77
+00:05:13,126 --> 00:05:17,004
+of these clutch players?
+So, we looked at how many points these
+
+78
+00:05:17,004 --> 00:05:21,740
+clutch players em, eh, got in the last
+five minutes of the game versus the last
+
+79
+00:05:21,740 --> 00:05:25,660
+five minutes of the first half.
+Two five-minute periods.
+
+80
+00:05:25,660 --> 00:05:30,242
+One is crucial, one less important.
+And then we also looked at the regular
+
+81
+00:05:30,242 --> 00:05:32,967
+team members.
+So, what do you think happened?
+
+82
+00:05:32,968 --> 00:05:37,040
+Did the clutch players have more points in
+the last five minutes of the game compared
+
+83
+00:05:37,040 --> 00:05:39,117
+to the last five minutes of the first
+half?
+
+84
+00:05:39,118 --> 00:05:42,742
+The answer is yes.
+And did the team members get more points
+
+85
+00:05:42,742 --> 00:05:46,834
+in the last five minutes compared to the
+last five minutes of the first half?
+
+86
+00:05:46,834 --> 00:05:50,275
+No.
+So the first look it seems like regular
+
+87
+00:05:50,275 --> 00:05:55,945
+people, nonclutch players have a flat
+effect from the 5 minutes at the end of
+
+88
+00:05:55,945 --> 00:06:01,197
+the first half to the last.
+And clutch players have an improvement.
+
+89
+00:06:01,198 --> 00:06:06,522
+But there two ways you could get more
+points, you can get the ball passed to you
+
+90
+00:06:06,522 --> 00:06:09,937
+more, you can try more often, but just do
+the same.
+
+91
+00:06:09,937 --> 00:06:13,387
+Or you can actually improve your
+percentage average.
+
+92
+00:06:13,388 --> 00:06:17,489
+Which one do you think they did?
+Did they just try more frequently or did
+
+93
+00:06:17,489 --> 00:06:21,368
+they just improve their point average, or
+a little bit of both?
+
+94
+00:06:21,368 --> 00:06:24,942
+Well, it's just that they tried more
+frequently.
+
+95
+00:06:24,942 --> 00:06:28,262
+There was no higher success in terms of
+percentage.
+
+96
+00:06:28,262 --> 00:06:30,967
+Other people seem to think the will try to
+play him.
+
+97
+00:06:30,967 --> 00:06:33,860
+They passed him the ball.
+They think that they're a clutch player.
+
+98
+00:06:33,860 --> 00:06:37,094
+They try more frequently.
+Success is just the same.
+
+99
+00:06:37,094 --> 00:06:41,504
+Now, these are good players.
+They're fantastic players, but they don't
+
+100
+00:06:41,504 --> 00:06:45,371
+have this improvement when you look at
+percentage score.
+
+101
+00:06:45,371 --> 00:06:49,596
+By the way, when we ask coaches, coaches
+believe that they actually have an
+
+102
+00:06:49,596 --> 00:06:53,002
+improvement in percentage, not just in
+absolute numbers.
+
+103
+00:06:53,002 --> 00:06:57,082
+So, what happens is we have a team.
+And we all think that I'm the clutch
+
+104
+00:06:57,082 --> 00:06:59,737
+player.
+So, therefore, you pass me the ball, I
+
+105
+00:06:59,737 --> 00:07:04,702
+take more shots, everybody's happy.
+There's a self-fulfilling prophecy, in
+
+106
+00:07:04,702 --> 00:07:08,967
+which I act on our belief, but I actually
+don't get any better.
+
+107
+00:07:08,968 --> 00:07:11,103
+Now, you couldn't argue, you could argue
+against it.
+
+108
+00:07:11,103 --> 00:07:15,450
+And you could say you know what?
+These clutch players are really getting
+
+109
+00:07:15,450 --> 00:07:19,020
+better, but what happen is the defense
+also knows about.
+
+110
+00:07:19,020 --> 00:07:22,616
+So, now if I'm the clutch player,
+everybody passes to me, the defense knows
+
+111
+00:07:22,616 --> 00:07:25,557
+about it and they're going to protect me
+to a higher degree.
+
+112
+00:07:25,558 --> 00:07:30,260
+So, the fact I don't succeed more is not
+because I didn't get better, it's because
+
+113
+00:07:30,260 --> 00:07:33,454
+the defense was ready for it and they got
+better.
+
+114
+00:07:33,455 --> 00:07:36,857
+So, we looked at that as well.
+We looked at free throws.
+
+115
+00:07:36,857 --> 00:07:41,209
+And now there's no role for defense,
+you're just standing there and would you
+
+116
+00:07:41,209 --> 00:07:42,691
+do more?
+So what happened?
+
+117
+00:07:42,691 --> 00:07:46,129
+In the last five minutes, the clutch
+players get more points?
+
+118
+00:07:46,130 --> 00:07:50,594
+Absolutely.
+Do they get better percentage?
+
+119
+00:07:50,594 --> 00:07:53,990
+Not at all.
+They get the ball passed.
+
+120
+00:07:53,990 --> 00:07:56,956
+They try more frequently.
+They get far more frequently, they go to
+
+121
+00:07:56,956 --> 00:08:00,218
+the line more often.
+They take more shots, but do they do any
+
+122
+00:08:00,218 --> 00:08:03,522
+better?
+Only in an absolute way, not in the
+
+123
+00:08:03,522 --> 00:08:04,618
+perceptive.

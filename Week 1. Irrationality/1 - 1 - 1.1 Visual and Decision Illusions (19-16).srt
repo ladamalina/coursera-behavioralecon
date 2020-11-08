@@ -1,0 +1,1305 @@
+
+1
+00:00:00,006 --> 00:00:02,593
+Hello.
+Hello.
+
+2
+00:00:02,593 --> 00:00:06,977
+In this section, we're going to talk about
+irrationality.
+
+3
+00:00:06,978 --> 00:00:12,283
+There's a little story that a father calls
+his son and says, son, after 30 years of
+
+4
+00:00:12,283 --> 00:00:16,197
+marriage, your mother and I just decided
+to get divorced.
+
+5
+00:00:16,198 --> 00:00:18,350
+And the son he say, well this is terrible.
+This is awful.
+
+6
+00:00:18,350 --> 00:00:22,725
+I really don't want you to do it.
+The, the son says, you know what?
+
+7
+00:00:22,726 --> 00:00:25,050
+I'll come home.
+Just, just don't do it yet.
+
+8
+00:00:25,050 --> 00:00:26,720
+Let's talk about it.
+He says, you know what?
+
+9
+00:00:26,720 --> 00:00:29,880
+I'll call my sister.
+We'll be there the day after tomorrow.
+
+10
+00:00:29,880 --> 00:00:33,880
+Just don't do anything until we have a
+discussion with you and Mom.
+
+11
+00:00:33,880 --> 00:00:36,047
+And the father said, you know what?
+I promise you.
+
+12
+00:00:36,048 --> 00:00:38,348
+We'll wait.
+We'll see you the day after tomorrow, and
+
+13
+00:00:38,348 --> 00:00:42,110
+then we'll have a discussion.
+He puts down the phone.
+
+14
+00:00:42,110 --> 00:00:46,257
+He turns to his wife.
+And he says, darling, this year the kids
+
+15
+00:00:46,257 --> 00:00:50,811
+are going to come home for the holidays,
+and they're paying for their own flight
+
+16
+00:00:50,811 --> 00:00:55,145
+tickets[MUSIC].
+So when we think about irrationality, what
+
+17
+00:00:55,145 --> 00:00:57,930
+is it about?
+It's about the forces that drive our
+
+18
+00:00:57,930 --> 00:01:01,586
+behavior.
+Some it are economic forces and some if it
+
+19
+00:01:01,586 --> 00:01:05,169
+are social forces.
+And in this particular section we are
+
+20
+00:01:05,169 --> 00:01:08,957
+going to look at all kinds of influences
+on our behavior.
+
+21
+00:01:08,958 --> 00:01:11,120
+We're also going to look at choice
+architecture.
+
+22
+00:01:11,120 --> 00:01:15,254
+We're going to look at how the world
+around us and how it's structured.
+
+23
+00:01:15,255 --> 00:01:18,486
+Changes how we view things and how we make
+decisions.
+
+24
+00:01:18,487 --> 00:01:22,448
+We're going to look at how initial
+decisions are going to have long-term
+
+25
+00:01:22,448 --> 00:01:26,606
+influence on us, and finally we're going
+to think about what we could do to do
+
+26
+00:01:26,606 --> 00:01:30,534
+things better.
+What can we do to try to overcome some of
+
+27
+00:01:30,534 --> 00:01:56,452
+our irrational tendencies.
+I would like to argue, that when we think
+
+28
+00:01:56,452 --> 00:02:10,740
+about irrational behavior.
+This is something that is important, both
+
+29
+00:02:10,740 --> 00:02:13,300
+for our personal life, as well as our
+social life.
+
+30
+00:02:13,300 --> 00:02:16,567
+And as well as for our work life and, of
+course, for policy.
+
+31
+00:02:16,568 --> 00:02:20,184
+And to get us started thinking about it, I
+would like to tell you my own eh, personal
+
+32
+00:02:20,184 --> 00:02:24,976
+case and how I became interested in.
+When and under what conditions we behave
+
+33
+00:02:24,976 --> 00:02:28,385
+irrationally.
+So as you can probably tell I was badly
+
+34
+00:02:28,385 --> 00:02:32,630
+injured many years ago.
+I was burned on about 70% of my body and I
+
+35
+00:02:32,630 --> 00:02:37,784
+spent about three years in hospital.
+And hospitals give, gives everybody,
+
+36
+00:02:37,784 --> 00:02:42,866
+everybody who spends time there many
+opportunities to examine and think about
+
+37
+00:02:42,866 --> 00:02:46,674
+irrational behaviors.
+And in my particular case there were lots
+
+38
+00:02:46,674 --> 00:02:49,452
+of examples.
+But the thing that focused all my
+
+39
+00:02:49,452 --> 00:02:54,468
+attention, the thing that kind of eh, made
+me think every day was the question of
+
+40
+00:02:54,468 --> 00:02:57,500
+bandage removal.
+So consider the following question.
+
+41
+00:02:57,500 --> 00:03:01,468
+Imagine you were, like me, burned in 70%
+of your body and you were covered with
+
+42
+00:03:01,468 --> 00:03:05,144
+bandages, and every day the nurses had to
+remove your bandages.
+
+43
+00:03:05,145 --> 00:03:08,897
+And ask yourself what is the right way to
+remove these bandages?
+
+44
+00:03:08,898 --> 00:03:11,330
+And we can think about two very distinct
+strategies.
+
+45
+00:03:11,330 --> 00:03:16,720
+One is to rip the bandages off, quickly as
+possible, one after the other, minimizing
+
+46
+00:03:16,720 --> 00:03:21,823
+the duration of the treatment but making
+each second of it incredibly painful.
+
+47
+00:03:21,824 --> 00:03:24,604
+The second approach is to rip the bandages
+off slowly.
+
+48
+00:03:24,605 --> 00:03:29,097
+Take a long time but make each second less
+painful.
+
+49
+00:03:29,098 --> 00:03:34,672
+Consider to yourself, which one of those
+strategies would you pick?
+
+50
+00:03:34,672 --> 00:03:38,510
+Which one?
+When I talk to people about this most
+
+51
+00:03:38,510 --> 00:03:43,054
+people say they would prefer the ripping
+approach, and that's actually the approach
+
+52
+00:03:43,054 --> 00:03:46,238
+my nurses liked as well.
+I always, by the way, thought that the
+
+53
+00:03:46,238 --> 00:03:50,240
+reason they had this intuition that this
+is a better approach is because that's how
+
+54
+00:03:50,240 --> 00:03:53,685
+they use to wax their legs.
+Kind of in the ripping version.
+
+55
+00:03:53,685 --> 00:03:57,604
+But, removing hair is not the same as
+removing bandages necessarily.
+
+56
+00:03:57,604 --> 00:04:02,240
+So, which one is the right approach?
+As a patient, I used to feel that they
+
+57
+00:04:02,240 --> 00:04:06,268
+were not doing the right thing.
+I used to argue with them and plead with
+
+58
+00:04:06,268 --> 00:04:10,428
+them and say, please, take more time, make
+it slower, don't take, don't rip the
+
+59
+00:04:10,428 --> 00:04:13,300
+bandages as fast, but the nurses told me
+two things.
+
+60
+00:04:13,300 --> 00:04:16,130
+The first they, they said was that they
+were right.
+
+61
+00:04:16,130 --> 00:04:20,166
+They knew what is the best thing to do,
+what would minimize my pain, right?
+
+62
+00:04:20,166 --> 00:04:25,897
+In some sense, they said, who are you, the
+patient, to question our eh, judgement as
+
+63
+00:04:25,897 --> 00:04:28,976
+professionals.
+And the second thing they said was that
+
+64
+00:04:28,976 --> 00:04:32,770
+the word patient doesn't mean to butt in,
+or intervene, or make suggestions.
+
+65
+00:04:32,770 --> 00:04:37,131
+It means to be passive and just sit there
+eh, patiently.
+
+66
+00:04:37,132 --> 00:04:41,656
+In fact this was in Israel where I grew
+up, but the word patient has this passive
+
+67
+00:04:41,656 --> 00:04:44,174
+component in any language I've seen so
+far.
+
+68
+00:04:44,174 --> 00:04:48,910
+So the nurses kept on doing what they
+thought was the best thing to do which was
+
+69
+00:04:48,910 --> 00:04:53,720
+to rip the bandages off quickly, and I
+kept on complaining, and we kept on these
+
+70
+00:04:53,720 --> 00:04:57,322
+roles for quite a long time.
+About three years later when I left the
+
+71
+00:04:57,322 --> 00:05:00,514
+hospital, I started studying at the
+university, and one of the first
+
+72
+00:05:00,514 --> 00:05:04,342
+interesting lessons I learned was about
+the power of the experimental method.
+
+73
+00:05:04,343 --> 00:05:09,038
+And what I particularly found interesting
+is the idea that if you have a question,
+
+74
+00:05:09,038 --> 00:05:12,687
+about almost anything in life, you can
+posit to an experiment.
+
+75
+00:05:12,688 --> 00:05:15,750
+You can say here is one version, here's
+another version.
+
+76
+00:05:15,750 --> 00:05:19,910
+Let's see which one wins.
+So I decided to try this out.
+
+77
+00:05:19,910 --> 00:05:24,667
+Now if you think about it, this question
+about how people aggregate information
+
+78
+00:05:24,667 --> 00:05:27,510
+over time is very general.
+Imagine that you have an axis.
+
+79
+00:05:27,510 --> 00:05:31,930
+You have time, and you have intensity, and
+you have experience that can vary in
+
+80
+00:05:31,930 --> 00:05:35,130
+intensity in all kinds of ways.
+You can have movies.
+
+81
+00:05:35,131 --> 00:05:38,363
+What could happen if we had a movie and we
+had really good 5 minutes.
+
+82
+00:05:38,364 --> 00:05:41,447
+Are they better off in the beginning, the
+middle or the end?
+
+83
+00:05:41,448 --> 00:05:46,234
+What if we can take an opera or a concert
+and make it 10% longer or half an hour
+
+84
+00:05:46,234 --> 00:05:49,107
+longer, are we making it better by how
+much?
+
+85
+00:05:49,108 --> 00:05:53,404
+So these questions of how people take an
+experience vary over time, and aggregate
+
+86
+00:05:53,404 --> 00:05:58,200
+information is actually quite general.
+But for me, the main issue was pain.
+
+87
+00:05:58,200 --> 00:06:02,397
+I wanted to understand how this works in
+the domain of pain.
+
+88
+00:06:02,398 --> 00:06:06,899
+So initially, I didn't have much money for
+research, so I went to a hardware store
+
+89
+00:06:06,899 --> 00:06:10,547
+and I bought a carpenter's vise, basically
+something like this.
+
+90
+00:06:10,548 --> 00:06:14,580
+And I set up this carpenter's vise in the
+lab, and I invited people to come into the
+
+91
+00:06:14,580 --> 00:06:18,660
+lab and put two fingers in this device and
+I would crunch people's fingers a little
+
+92
+00:06:18,660 --> 00:06:20,972
+bit.
+And I would crunch their fingers a little
+
+93
+00:06:20,972 --> 00:06:24,220
+bit for long durations and short
+durations, high intensity and low
+
+94
+00:06:24,220 --> 00:06:26,983
+intensity.
+Pain that goes up, pain that goes down, up
+
+95
+00:06:26,983 --> 00:06:29,680
+and down, down and up, all kinds of
+versions of pain.
+
+96
+00:06:29,680 --> 00:06:35,509
+And after each of those painful experience
+I would ask people and how painful was
+
+97
+00:06:35,509 --> 00:06:40,142
+that, and how painful was that.
+This is kind of just rating scale from not
+
+98
+00:06:40,142 --> 00:06:42,920
+painful at all to the most painful I can
+imagine.
+
+99
+00:06:42,920 --> 00:06:47,210
+And then we ask people to make choices,
+which one of the last 2 experiences would
+
+100
+00:06:47,210 --> 00:06:51,370
+you last to repeat, would you like to
+repeat again, the last one or the one just
+
+101
+00:06:51,370 --> 00:06:54,675
+before it?
+And people gave me their choices and their
+
+102
+00:06:54,675 --> 00:06:59,378
+ratings, and I were trying to infer how
+people combine these experiences.
+
+103
+00:06:59,378 --> 00:07:04,466
+And I finished the first paper, I learned
+some lessons, I published these in
+
+104
+00:07:04,466 --> 00:07:07,528
+academic journal.
+And then good things happened, I got more
+
+105
+00:07:07,528 --> 00:07:10,129
+money for research, so I moved to better
+equipment.
+
+106
+00:07:10,130 --> 00:07:15,704
+I move to something like this which are a
+mechanism to create annoying sound, in
+
+107
+00:07:15,704 --> 00:07:19,395
+different intensities.
+I did experiments with electrical shocks
+
+108
+00:07:19,395 --> 00:07:22,127
+over time.
+I even created a pain suit.
+
+109
+00:07:22,128 --> 00:07:25,720
+I created a suit with 300 feet of hoses
+stitched thorough it.
+
+110
+00:07:25,720 --> 00:07:30,618
+And with this suit, I could get people to
+be very hot and very cold, and then I
+
+111
+00:07:30,618 --> 00:07:33,797
+could relieve that pain in many different
+ways.
+
+112
+00:07:33,798 --> 00:07:38,190
+And what did I learn from all of those
+experiences and all of those experiments?
+
+113
+00:07:38,190 --> 00:07:42,837
+I learned that the nurses got things wrong
+in multiple ways.
+
+114
+00:07:42,838 --> 00:07:48,025
+First of all in the terms of the question
+of duration versus intensity, it turns out
+
+115
+00:07:48,025 --> 00:07:53,050
+that if you take an experience and make it
+twice as long, you don't make it twice as
+
+116
+00:07:53,050 --> 00:07:55,988
+painful.
+So the nurses were trying to minimize the
+
+117
+00:07:55,988 --> 00:07:58,840
+duration, but they were not doing the
+right thing.
+
+118
+00:07:58,840 --> 00:08:02,431
+On the other hand, when you play with the
+intensity, you make something more
+
+119
+00:08:02,431 --> 00:08:05,258
+intense.
+Now you're really changing how people
+
+120
+00:08:05,258 --> 00:08:08,279
+experience it.
+So what the nurses were doing, they were
+
+121
+00:08:08,279 --> 00:08:12,122
+trying to minimize the duration at the
+cost of the intensity, but by doing so
+
+122
+00:08:12,122 --> 00:08:15,790
+they were not saving me much, but they
+were making it much more painful.
+
+123
+00:08:15,790 --> 00:08:18,817
+And not just for me, by the way, for all
+the other patients.
+
+124
+00:08:18,818 --> 00:08:22,850
+The second thing the nurses failed to
+understand was that progression over time
+
+125
+00:08:22,850 --> 00:08:26,435
+matters a great deal.
+When you start with the low pain, and you
+
+126
+00:08:26,435 --> 00:08:31,160
+increase pain over time, this is much,
+much worse than starting with the high
+
+127
+00:08:31,160 --> 00:08:35,490
+pain and going down over time, and mostly
+for reason of convenience.
+
+128
+00:08:35,490 --> 00:08:40,026
+The nurses started at my legs, and ended
+up in my face, which gave me the wrong
+
+129
+00:08:40,026 --> 00:08:44,368
+progression of pain over time.
+And, finally it turns out that for really
+
+130
+00:08:44,368 --> 00:08:48,557
+long periods of pain it's good to give
+people a period to kind of recover
+
+131
+00:08:48,557 --> 00:08:52,414
+recuperate and prepare themselves for the
+next period of pain.
+
+132
+00:08:52,414 --> 00:08:54,575
+And, again this was something that the
+nurse did not.
+
+133
+00:08:54,576 --> 00:08:58,198
+Get.
+Now when I finished doing these
+
+134
+00:08:58,198 --> 00:09:03,261
+experiments about pain and pain
+perception, aggregation of pain, I went
+
+135
+00:09:03,261 --> 00:09:07,664
+back and I talked to the nurses.
+All kinds of things have changed since
+
+136
+00:09:07,664 --> 00:09:11,751
+then, but the thing that puzzled me the
+most was how could the nurses get it
+
+137
+00:09:11,751 --> 00:09:15,802
+wrong.
+Here were kind people, wonderful people
+
+138
+00:09:15,802 --> 00:09:20,882
+who were spending hours in terrible
+conditions to serve their patients.
+
+139
+00:09:20,882 --> 00:09:23,940
+And they were not saying, you know, I
+don't know which is the right way.
+
+140
+00:09:23,940 --> 00:09:27,524
+They were convinced that the right thing
+to do was actually the thing that was
+
+141
+00:09:27,524 --> 00:09:29,705
+wrong.
+It's not as if they say, I just don't know
+
+142
+00:09:29,705 --> 00:09:33,799
+what the right answer is.
+No they actually had a strong conviction
+
+143
+00:09:33,799 --> 00:09:38,827
+that they knew waht the right answer is,
+but that was not the right one.
+
+144
+00:09:38,828 --> 00:09:42,616
+And then of course the quesion is are
+nurses the only people who have the wrong
+
+145
+00:09:42,616 --> 00:09:45,212
+intuition.
+Are nurses the only people that says this
+
+146
+00:09:45,212 --> 00:09:48,570
+is what I think is the right answer when
+in fact it's the wrong answer.
+
+147
+00:09:48,570 --> 00:09:53,330
+And from that point of view, and from that
+starting point, I started looking at all
+
+148
+00:09:53,330 --> 00:09:58,020
+kinds of behaviors, all kinds of things in
+which we have good intuitions, we have
+
+149
+00:09:58,020 --> 00:10:02,990
+good intentions, we trust our intuitions
+but in fact, our intuitions are misleading
+
+150
+00:10:02,990 --> 00:10:06,514
+us time after time.
+And this is for me kind of the starting
+
+151
+00:10:06,514 --> 00:10:11,546
+point of irrational behavior, things that
+we think we know how they work, we think
+
+152
+00:10:11,546 --> 00:10:15,320
+we know what's the right thing to do, but
+in fact we're wrong.
+
+153
+00:10:15,320 --> 00:10:20,610
+So let's think about some of this.
+Now to get you an intuitive example of how
+
+154
+00:10:20,610 --> 00:10:25,740
+these things work, without inviting you to
+the lab and to eh, squish your fingers.
+
+155
+00:10:25,740 --> 00:10:29,637
+I want us to think a little bit about
+visual illusions.
+
+156
+00:10:29,638 --> 00:10:34,284
+So consider the following illusions.
+You have two Towers of Pisa here, one on
+
+157
+00:10:34,284 --> 00:10:38,070
+the right and one on the left.
+And now think to yourself, which one leans
+
+158
+00:10:38,070 --> 00:10:44,060
+more to the right?
+If you're like everybody else on the
+
+159
+00:10:44,060 --> 00:10:47,726
+planet, you think that the one on the
+right is leaning more.
+
+160
+00:10:47,726 --> 00:10:53,028
+But what about the following thing?
+Now, again, if I asked you the same
+
+161
+00:10:53,028 --> 00:10:59,058
+question, again you would think the one on
+the right is the one leaning more to the
+
+162
+00:10:59,058 --> 00:11:01,964
+right.
+Now of course they'll just switched in
+
+163
+00:11:01,964 --> 00:11:05,037
+front of you and you know this is a visual
+illusion.
+
+164
+00:11:05,038 --> 00:11:09,327
+Now what's interesting about visual
+illusions is that everybody gets it wrong.
+
+165
+00:11:09,328 --> 00:11:13,240
+It doesn't matter how old you are, how
+young you are, it doesn't matter how much
+
+166
+00:11:13,240 --> 00:11:16,989
+experience you have in vision, as long as
+you can see you will get it wrong.
+
+167
+00:11:18,190 --> 00:11:22,348
+Here's another visual illusion, this is
+one of my favorite all-time visual
+
+168
+00:11:22,348 --> 00:11:26,502
+illusions.
+Look at this cube, the top arrow, to what
+
+169
+00:11:26,502 --> 00:11:30,079
+color is it pointing?
+You probably think it's about brown.
+
+170
+00:11:30,079 --> 00:11:34,431
+What about the bottom one?
+Well, looks orangish.
+
+171
+00:11:34,431 --> 00:11:38,210
+Turns out they are identical.
+Can any of you see them as identical?
+
+172
+00:11:38,210 --> 00:11:42,547
+Of course not.
+Now what happens if I cover the cube up?
+
+173
+00:11:42,548 --> 00:11:47,048
+Now you can see that both of those patches
+are actually identical, and by the way
+
+174
+00:11:47,048 --> 00:11:49,997
+there's no trick to it, these are really
+identical.
+
+175
+00:11:49,998 --> 00:11:54,502
+And here's the other interesting thing,
+now the illusion pops right back.
+
+176
+00:11:54,502 --> 00:11:58,865
+Knowing that those two things are actually
+the same doesn't help you in any way to
+
+177
+00:11:58,865 --> 00:12:02,987
+see them as identical.
+Now there's something else interesting in
+
+178
+00:12:02,987 --> 00:12:08,347
+this illusion, which we'll come back to
+later, which is that this illusion is all
+
+179
+00:12:08,347 --> 00:12:11,501
+about the way that the brain uses
+relativity.
+
+180
+00:12:11,502 --> 00:12:15,414
+Many times what you think to yourself
+you're doing, is you're comparing the top
+
+181
+00:12:15,414 --> 00:12:19,190
+patch to the bottom patch, but that's
+actually not what your visual system is
+
+182
+00:12:19,190 --> 00:12:21,306
+doing.
+What the visual system is doing is
+
+183
+00:12:21,306 --> 00:12:25,522
+comparing the top patch to its immediate
+environment and the bottom patch to it's
+
+184
+00:12:25,522 --> 00:12:29,050
+immediate environment, and because of that
+you get this illusion.
+
+185
+00:12:29,050 --> 00:12:33,560
+You think to yourself that you can compare
+both patches correctly, but you can't.
+
+186
+00:12:33,560 --> 00:12:38,510
+When we come back to it you'll see how it
+comes about this illusion in all kinds of
+
+187
+00:12:38,510 --> 00:12:43,085
+other areas of life, including pricing,
+for example, and how we're using
+
+188
+00:12:43,085 --> 00:12:48,387
+background context to evaluate and think
+differently about what we're comparing.
+
+189
+00:12:48,388 --> 00:12:51,984
+There's one more type of illusion I want
+to eh, share with you, and I'm going to
+
+190
+00:12:51,984 --> 00:12:56,082
+show you a couple of examples of those.
+And it's a different kind of illusion
+
+191
+00:12:56,082 --> 00:12:58,847
+because it only works once, so pay
+attention.
+
+192
+00:12:58,847 --> 00:13:03,010
+So in the next clip, what you're going to
+see is a group of people holding iPads,
+
+193
+00:13:03,010 --> 00:13:07,177
+and they're going to move the iPads, and
+the iPads are going to change colors.
+
+194
+00:13:07,178 --> 00:13:11,937
+And your task is to count how many times
+they change into the color red.
+
+195
+00:13:11,938 --> 00:13:16,220
+Every time something change from one color
+to red to something else, you count it and
+
+196
+00:13:16,220 --> 00:13:18,620
+then another iPad changes to red, you
+count it.
+
+197
+00:13:18,620 --> 00:13:23,704
+And your task is to count how many times
+all the iPads Across the whole clip,
+
+198
+00:13:23,704 --> 00:13:27,862
+change into red colors.
+Now, don't get too technical, if something
+
+199
+00:13:27,862 --> 00:13:31,933
+looks almost like red or slightly pinkish,
+it's okay, count it as red.
+
+200
+00:13:31,933 --> 00:13:34,938
+Okay?
+So, before we go though, I do want to say
+
+201
+00:13:34,938 --> 00:13:38,451
+a couple of things.
+First of all, it turns out that there's a
+
+202
+00:13:38,451 --> 00:13:42,867
+lot of research about it, showing that
+people who do well on this task, people
+
+203
+00:13:42,867 --> 00:13:46,562
+who count well on this task, do well in
+terms of their love life.
+
+204
+00:13:46,562 --> 00:13:51,571
+They have better, better romantic life.
+And the second thing is the people who do
+
+205
+00:13:51,571 --> 00:13:55,390
+well on these tasks, live longer.
+So if I were you, I'm just saying, if I
+
+206
+00:13:55,390 --> 00:14:00,354
+were you I would focus, I would count well
+because remember what's on the line here
+
+207
+00:14:00,354 --> 00:14:03,117
+is your romantic future and your
+longevity.
+
+208
+00:14:03,118 --> 00:14:09,430
+So count carefully how many times the
+people, how many times the people, the
+
+209
+00:14:09,430 --> 00:14:15,180
+iPads are switching into red color.
+Ready.
+
+210
+00:14:15,181 --> 00:14:18,612
+Set.
+Go.
+
+211
+00:14:18,613 --> 00:15:11,058
+[music] So how many did you count?
+Count 50, 60, 70, 40, 20?
+
+212
+00:15:11,059 --> 00:15:15,024
+How many?
+The real number is 62 but the reality is
+
+213
+00:15:15,024 --> 00:15:19,688
+that, that doesn't matter so much.
+The reason I really asked you this
+
+214
+00:15:19,688 --> 00:15:25,196
+question was not to ask you how many times
+the iPads are flashing red, but to ask you
+
+215
+00:15:25,196 --> 00:15:30,461
+a slightly different question which is,
+did you notice, me in a particular bee
+
+216
+00:15:30,461 --> 00:15:35,210
+suit, hovering around the scene?
+Did you notice me at all, or not?
+
+217
+00:15:35,210 --> 00:15:38,334
+Let's look at it again.
+And this time try to pay careful
+
+218
+00:15:38,334 --> 00:15:42,430
+attention, not to the iPads, but to the
+total scene, and let's see if this time
+
+219
+00:15:42,430 --> 00:15:48,881
+you can see me floating around.
+[music] And just to be clear, this is the
+
+220
+00:15:48,881 --> 00:15:52,520
+same exact clip.
+And if you don't believe me, luckily you
+
+221
+00:15:52,520 --> 00:15:56,312
+have the video.
+Go back and you can look at the first clip
+
+222
+00:15:56,312 --> 00:16:01,045
+again just to prove it to yourself beyond
+a shadow of a doubt.
+
+223
+00:16:01,046 --> 00:16:37,089
+[music] I hope, that like me, you find
+this quite startling.
+
+224
+00:16:37,090 --> 00:16:42,011
+You look at a small part of the screen.
+You focus, you look very carefully, and
+
+225
+00:16:42,011 --> 00:16:47,324
+nevertheless something unexpected happens
+around the screen, and you're able to
+
+226
+00:16:47,324 --> 00:16:50,266
+ignore it.
+It's a tremendous ability of human,
+
+227
+00:16:50,267 --> 00:16:55,000
+capacity and the reason for that by the
+way, is that we don't see with our eyes.
+
+228
+00:16:55,000 --> 00:16:58,655
+We see with our brains.
+Our brains expected to see a particular
+
+229
+00:16:58,655 --> 00:17:02,950
+pattern and that's what we end up seeing.
+Now we think we see with our eyes.
+
+230
+00:17:02,950 --> 00:17:06,180
+We think that we observe all the
+information, but we don't.
+
+231
+00:17:06,180 --> 00:17:10,590
+And just as another example of that, do
+you remember what shirt I was wearing
+
+232
+00:17:10,590 --> 00:17:14,262
+before we started this clip?
+Well, you can go back and check for
+
+233
+00:17:14,262 --> 00:17:19,372
+yourself, but I have a different hair cut,
+slightly different shave, actually very
+
+234
+00:17:19,372 --> 00:17:22,432
+different shave.
+Well, slightly different shave, and a
+
+235
+00:17:22,432 --> 00:17:26,100
+different shirt.
+And I bet you didn't notice those changes
+
+236
+00:17:26,100 --> 00:17:29,209
+either.
+I hope you agree with me that it's really
+
+237
+00:17:29,209 --> 00:17:32,687
+kind of amazing to see how much we don't
+pay attention.
+
+238
+00:17:32,688 --> 00:17:35,964
+You know, we usually think that we see
+with our eyes, but the reality is, we see
+
+239
+00:17:35,964 --> 00:17:39,230
+with our brains.
+And our brains fill in the information in
+
+240
+00:17:39,230 --> 00:17:43,505
+the way that we expect to see it, not
+necessarily what it is out there,
+
+241
+00:17:43,505 --> 00:17:48,111
+actually, but what we expect to see.
+Now why do I start with talking about
+
+242
+00:17:48,111 --> 00:17:53,052
+decision making irrational behavior, by
+talking about visual illusions?
+
+243
+00:17:53,052 --> 00:17:56,960
+I think visual illusions are a great
+metaphor that help us to think about human
+
+244
+00:17:56,960 --> 00:17:58,954
+thinking.
+Think about it.
+
+245
+00:17:58,955 --> 00:18:02,040
+We have a huge part of our brain dedicated
+to vision.
+
+246
+00:18:02,040 --> 00:18:06,132
+We have a huge part here in the back
+dedicated to vision, does vision all the
+
+247
+00:18:06,132 --> 00:18:09,867
+time, bigger part of the brain that is
+dedicated to anything else.
+
+248
+00:18:09,868 --> 00:18:13,710
+We do vision many hours of the day.
+We've evolutionary design to do vision.
+
+249
+00:18:13,710 --> 00:18:16,910
+If you had to pick one thing that people
+are good at, it's vision.
+
+250
+00:18:16,910 --> 00:18:22,676
+And nevertheless we have these mistakes.
+You'll always see the Pisa illusion,
+
+251
+00:18:22,676 --> 00:18:27,425
+you'll always see the cube illusion.
+And the question we should ask ourselves,
+
+252
+00:18:27,425 --> 00:18:31,780
+if with all these benefits, huge
+mechanism, lot of experience, evolutionary
+
+253
+00:18:31,780 --> 00:18:35,867
+reasons to do it, with all of those
+reasons to do vision well, we still have
+
+254
+00:18:35,867 --> 00:18:40,624
+predictable systematic mistakes in vision,
+what are the odds that we don't have even
+
+255
+00:18:40,624 --> 00:18:44,948
+more mistakes in other areas of our lives?
+What happened to decisions about health
+
+256
+00:18:44,948 --> 00:18:46,860
+care?
+Decisions about money?
+
+257
+00:18:46,860 --> 00:18:50,292
+Those are areas where we don't have a
+particular brain mechanism, we don't have
+
+258
+00:18:50,292 --> 00:18:53,330
+that much experience.
+Evolutionary these are much newer things.
+
+259
+00:18:53,330 --> 00:19:00,406
+Couldn't it be that in those areas we
+would have even more predictable and
+
+260
+00:19:00,406 --> 00:19:08,877
+systematic mistakes that everybody shares?
+And for the rest of the discussion I want
+
+261
+00:19:08,877 --> 00:19:15,395
+to present to you the case that this is
+indeed, this is indeed so.

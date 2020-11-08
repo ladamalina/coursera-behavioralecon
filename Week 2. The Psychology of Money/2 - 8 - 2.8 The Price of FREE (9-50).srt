@@ -1,0 +1,735 @@
+
+1
+00:00:00,755 --> 00:00:05,096
+Free, of course, is a very, very exciting
+price.
+
+2
+00:00:05,096 --> 00:00:11,624
+We see people doing all kinds of crazy
+things, or seems to be crazy things, for
+
+3
+00:00:11,624 --> 00:00:14,956
+free.
+We see relatively wealthy people stand a
+
+4
+00:00:14,956 --> 00:00:19,876
+long time in line to get free Ben &
+Jerry's ice cream, or get something for
+
+5
+00:00:19,876 --> 00:00:22,472
+free.
+And you can ask yourself, would the same
+
+6
+00:00:22,472 --> 00:00:26,463
+people stand in line for the same amount
+of time to get free you know, $2.25.
+
+7
+00:00:26,463 --> 00:00:31,793
+Most likely not.
+We see sometimes, people in flights, cross
+
+8
+00:00:31,793 --> 00:00:37,029
+Atlantic flights, where the alcohol is
+free, drinking lots and lots of alcohol on
+
+9
+00:00:37,029 --> 00:00:40,580
+those flights.
+Of course making their ability to recover
+
+10
+00:00:40,580 --> 00:00:43,843
+from the hangover, from the jet lag, much,
+much lower.
+
+11
+00:00:43,843 --> 00:00:49,612
+There's all kind of things that seems to
+be, questioning our ability to think
+
+12
+00:00:49,612 --> 00:00:55,090
+rationally when free is involved.
+And, but, but these are not exact tests of
+
+13
+00:00:55,090 --> 00:00:59,057
+this idea, so we tried to examine it a
+more precise way.
+
+14
+00:00:59,058 --> 00:01:04,205
+So imagine I gave you the following, I
+said look you can have this truffle, this
+
+15
+00:01:04,205 --> 00:01:11,620
+wonderful chocolate truffle for .25 cents.
+Or you could have this small little candy,
+
+16
+00:01:11,620 --> 00:01:14,675
+for 1 penny.
+How are you sup-, and you can have only
+
+17
+00:01:14,675 --> 00:01:17,407
+one of the two, how should you look at
+this choice?
+
+18
+00:01:17,408 --> 00:01:20,946
+You should say, what's the benefit of this
+truffle?
+
+19
+00:01:20,946 --> 00:01:25,235
+How much joy am I expecting to get?
+How much cost does it have?
+
+20
+00:01:25,235 --> 00:01:29,274
+25 Cents.
+And how much joy am I expecting to have
+
+21
+00:01:29,274 --> 00:01:33,737
+from this small candy?
+And how much cost does it have, one cent.
+
+22
+00:01:33,738 --> 00:01:39,043
+So in reality, when you, given the choice
+between the two, you should say what the
+
+23
+00:01:39,043 --> 00:01:43,620
+difference in price is 24 cents.
+How is the difference in price compared to
+
+24
+00:01:43,620 --> 00:01:47,471
+the difference in quality?
+If the difference in quality is larger,
+
+25
+00:01:47,471 --> 00:01:50,530
+then you should say, let's get the
+expensive truffle.
+
+26
+00:01:50,530 --> 00:01:54,556
+If the difference in quality is not worth
+the price difference, you should say,
+
+27
+00:01:54,556 --> 00:01:57,870
+let's get the cheap chocolate.
+Now what happen when you give people this
+
+28
+00:01:57,870 --> 00:02:00,842
+choice?
+Most people, the vast, vast majority said,
+
+29
+00:02:00,842 --> 00:02:04,150
+give me the better, the better truffle for
+more money.
+
+30
+00:02:04,150 --> 00:02:08,259
+But what if we reduce both prices by
+$0.01?
+
+31
+00:02:08,259 --> 00:02:13,669
+Instead of, let's say, 25 and 1, it's 24
+and 0.
+
+32
+00:02:13,669 --> 00:02:17,286
+What happens now?
+It's the same computation should carry
+
+33
+00:02:17,286 --> 00:02:19,223
+out.
+What's the difference in price?
+
+34
+00:02:19,223 --> 00:02:21,298
+24 Cents.
+What's the difference in quality, the same
+
+35
+00:02:21,298 --> 00:02:22,780
+thing.
+Which one is larger?
+
+36
+00:02:22,780 --> 00:02:27,667
+But that's not what happened.
+Now most people go for the one for free.
+
+37
+00:02:27,668 --> 00:02:32,110
+Most people say oh, this one is free.
+And they just go for it, almost, almost
+
+38
+00:02:32,110 --> 00:02:34,826
+everybody.
+Now you could say, well you know when
+
+39
+00:02:34,826 --> 00:02:39,050
+something is free, you don't have to take
+your wallet out, you don't have to pay,
+
+40
+00:02:39,050 --> 00:02:41,760
+and so on.
+So we also did this experiment when people
+
+41
+00:02:41,760 --> 00:02:46,088
+checked out from the supermarket.
+People bought all kind of things, they
+
+42
+00:02:46,088 --> 00:02:51,539
+were going to pay anyway, and then at the
+cashier, they saw these two offers, either
+
+43
+00:02:51,539 --> 00:02:54,450
+25 and 1 or 24 and zero.
+They were going to pay anyway.
+
+44
+00:02:54,450 --> 00:02:58,410
+They were going to take out their credit
+card or cash and pay anyway, so it was not
+
+45
+00:02:58,410 --> 00:03:01,204
+adding to the hassle in any way.
+But what happened now?
+
+46
+00:03:01,204 --> 00:03:04,970
+Still, people like the one, the one with
+the zero.
+
+47
+00:03:04,970 --> 00:03:09,850
+So the idea here is that the moment
+something involves zero, we're overly
+
+48
+00:03:09,850 --> 00:03:12,473
+excited with it.
+We don't see the downside.
+
+49
+00:03:12,474 --> 00:03:16,438
+You know, even if you're in line, standing
+for a long time for a free Ben & Jerry's
+
+50
+00:03:16,438 --> 00:03:19,610
+ice cream, you don't see the cost.
+You don't see the cost of your time.
+
+51
+00:03:19,610 --> 00:03:23,279
+You think about this much more emotionally
+appealing.
+
+52
+00:03:23,279 --> 00:03:27,315
+One of my favorite experiments on this, by
+the way, was with kids.
+
+53
+00:03:27,316 --> 00:03:32,244
+This was Halloween, so I was standing out
+at my house on the porch.
+
+54
+00:03:32,245 --> 00:03:37,127
+And kids were coming, and as they were
+coming I said please put your hand out.
+
+55
+00:03:37,128 --> 00:03:41,040
+And they put their hand, and I put some
+Hershey Kisses on, some small candies on
+
+56
+00:03:41,040 --> 00:03:44,190
+it.
+I said don't put it back in your bag, hold
+
+57
+00:03:44,190 --> 00:03:47,077
+it on.
+Once they had it in their hand, I said,
+
+58
+00:03:47,077 --> 00:03:52,390
+now I can either give you a small Snickers
+bar, one ounce, or large Snickers bar, two
+
+59
+00:03:52,390 --> 00:03:55,365
+ounces.
+And just have to get you calibrated, every
+
+60
+00:03:55,365 --> 00:03:59,919
+ounce of a Snickers bar holds between
+seven and eight Hershey kisses in terms of
+
+61
+00:03:59,919 --> 00:04:02,900
+weight, so what's the right, what's the
+right deal?
+
+62
+00:04:02,900 --> 00:04:07,657
+Here's what I offered them, I said to half
+of them, I said if you give me one Hershey
+
+63
+00:04:07,657 --> 00:04:11,790
+kiss I'll give you the small one.
+If you give me two Hersey kisses I'll give
+
+64
+00:04:11,790 --> 00:04:15,360
+you the big one.
+So for one extra investment of a Hersey
+
+65
+00:04:15,360 --> 00:04:19,177
+kiss they could get another ounce of
+Snickers bar.
+
+66
+00:04:19,178 --> 00:04:23,950
+Paying them 7 to 1 in chocolate per
+weight, plus I think it's a better
+
+67
+00:04:23,950 --> 00:04:25,882
+chocolate.
+And what happens?
+
+68
+00:04:25,882 --> 00:04:30,544
+The kids saw this good, deal they gave me
+two Hersey kisses an took the big one.
+
+69
+00:04:30,545 --> 00:04:35,698
+That's great, but in this way, both
+transactions, the small Snickers bar and
+
+70
+00:04:35,698 --> 00:04:39,577
+the large Snickers bar, involve them
+giving me something.
+
+71
+00:04:39,578 --> 00:04:42,297
+For another group of kids, I reduce the
+price.
+
+72
+00:04:42,298 --> 00:04:46,885
+I said, what would you like, the small
+Snickers bar for nothing, or the big
+
+73
+00:04:46,885 --> 00:04:51,395
+Snickers bar for one Hershey kiss?
+Now again they had to give one extra
+
+74
+00:04:51,395 --> 00:04:55,150
+Hershey kiss to get the big one and again
+it's a great deal.
+
+75
+00:04:55,150 --> 00:04:57,840
+High return on investment, better
+chocolate.
+
+76
+00:04:57,840 --> 00:05:01,240
+What happened?
+Now almost nobody wanted it.
+
+77
+00:05:01,240 --> 00:05:06,120
+So all of these ideas suggest that once
+something is free, or at least it's
+
+78
+00:05:06,120 --> 00:05:09,060
+phrased as free, we don't see the cost of
+it.
+
+79
+00:05:09,060 --> 00:05:13,842
+We don't see the downside of it and we're
+overly attracted to it.
+
+80
+00:05:13,842 --> 00:05:16,150
+Now you can think about all kinds of
+things in the market.
+
+81
+00:05:16,150 --> 00:05:21,910
+You can think all kinds of things that, we
+should make free if we want to incentivize
+
+82
+00:05:21,910 --> 00:05:26,664
+people to behave in a certain way.
+For example, maybe we want to take some
+
+83
+00:05:26,664 --> 00:05:30,562
+unpleasant medical exams, and not have any
+co-pay for them.
+
+84
+00:05:30,562 --> 00:05:34,745
+Y'know, I don't know anybody who wants to
+have colonoscopies, for example, right?
+
+85
+00:05:34,745 --> 00:05:39,568
+Why do we have a co-pay for colonoscopy?
+Maybe we should have it at zero and that
+
+86
+00:05:39,568 --> 00:05:44,260
+would get people to be more attracted to,
+to this exam, or at least less repulsed by
+
+87
+00:05:44,260 --> 00:05:47,389
+them.
+Maybe we want to take, eh, examples when
+
+88
+00:05:47,389 --> 00:05:51,721
+we give people tax, tax discounts to do
+something that is good for the
+
+89
+00:05:51,721 --> 00:05:54,730
+environment.
+Maybe tax discounts are not enough, maybe
+
+90
+00:05:54,730 --> 00:05:57,850
+we should make it free.
+The moment you understand that free is a
+
+91
+00:05:57,850 --> 00:06:01,930
+special price, that people think about it
+as different than all other prices, you
+
+92
+00:06:01,930 --> 00:06:05,770
+could think differently about how to
+implement it and how to get people to use
+
+93
+00:06:05,770 --> 00:06:10,947
+it.
+The last thing I want to say about, the
+
+94
+00:06:10,947 --> 00:06:15,667
+price of zero is that it also works for
+part of the product.
+
+95
+00:06:15,668 --> 00:06:19,537
+So for example, imagine that I'm selling
+you a book.
+
+96
+00:06:19,538 --> 00:06:25,660
+And I can sell you the book for $15, and I
+can sell you the shipping of the book for
+
+97
+00:06:25,660 --> 00:06:29,398
+$5, so together it's $20.
+So together it's $20 and imagine three
+
+98
+00:06:29,398 --> 00:06:32,013
+ways.
+I can either send you the book for $10 and
+
+99
+00:06:32,013 --> 00:06:35,010
+shipping for $10.
+I can sell you the book for $20 and
+
+100
+00:06:35,010 --> 00:06:38,046
+shipping for 0.
+Or I can sell you the book for 0 and
+
+101
+00:06:38,046 --> 00:06:41,597
+shipping for $20.
+All of those are financially equivalent.
+
+102
+00:06:41,598 --> 00:06:45,247
+Which one is the worst?
+They want that you're paying for the book
+
+103
+00:06:45,247 --> 00:06:50,007
+and you're paying for the shipping, $10
+each, because now, you don't get anything
+
+104
+00:06:50,007 --> 00:06:53,740
+for free.
+In contrast, what happens when the book is
+
+105
+00:06:53,740 --> 00:06:58,283
+20 and shipping is zero, that's great.
+But when the book is zero and 20 is
+
+106
+00:06:58,283 --> 00:07:02,177
+shipping, that turns out to be the best,
+now you can think about getting the book
+
+107
+00:07:02,177 --> 00:07:05,784
+for nothing.
+And a final advice for life.
+
+108
+00:07:05,784 --> 00:07:10,744
+Eh, when you go out to dinner, with
+friends, there's all kinds of ways in
+
+109
+00:07:10,744 --> 00:07:14,347
+which you can manage the bill at the end
+of the meal.
+
+110
+00:07:14,348 --> 00:07:18,447
+And I think the worst way to deal with
+this is for each person to see exactly
+
+111
+00:07:18,447 --> 00:07:23,034
+what they ordered and exactly split the
+bill accordingly to whats correct.
+
+112
+00:07:23,035 --> 00:07:27,160
+And the reason why I think it's a bad
+ideal, is because the end of the
+
+113
+00:07:27,160 --> 00:07:30,940
+experience changes dramatic how we view
+the whole experience.
+
+114
+00:07:30,941 --> 00:07:34,009
+And if, at the end of the meal, you're
+going to penny pinch and worry about
+
+115
+00:07:34,009 --> 00:07:38,268
+something, and debate with somebody.
+Oh, you had to bite from my, creme brulee,
+
+116
+00:07:38,268 --> 00:07:40,807
+and I took an olive from your salad and so
+on.
+
+117
+00:07:40,807 --> 00:07:45,250
+And that's kind of going to put a damper
+on the end of the experience, and
+
+118
+00:07:45,250 --> 00:07:48,926
+therefore make it less appealing.
+A better approach, you just split the
+
+119
+00:07:48,926 --> 00:07:51,815
+bill.
+No matter what you got, let's split, split
+
+120
+00:07:51,815 --> 00:07:55,146
+the bill, in general.
+Now with some people it might not work as
+
+121
+00:07:55,146 --> 00:07:58,214
+well, and sometimes people eat
+dramatically different things, but in
+
+122
+00:07:58,214 --> 00:08:02,474
+general it's a good strategy.
+But the strategy I like the best is for
+
+123
+00:08:02,474 --> 00:08:06,390
+one person to pay, and to alternate who is
+paying.
+
+124
+00:08:06,390 --> 00:08:10,460
+Why do I like this approach?
+Because two things, one is the pain of
+
+125
+00:08:10,460 --> 00:08:13,169
+paying and the other one is the effect of
+free.
+
+126
+00:08:14,310 --> 00:08:18,036
+If you're going out with one friend, and
+you're buying, and they're getting it, for
+
+127
+00:08:18,036 --> 00:08:22,460
+them, they got the free meal, it's great.
+And free meal is not just $1 less than
+
+128
+00:08:22,460 --> 00:08:27,730
+paying $1, or not just $20 less than 20,
+free meal is a special thing, you get
+
+129
+00:08:27,730 --> 00:08:31,790
+extra happiness out of that.
+And of course next time you would get the
+
+130
+00:08:31,790 --> 00:08:35,092
+free meal and so on.
+On top of that, the person who is treating
+
+131
+00:08:35,092 --> 00:08:39,113
+for the free meal paying, feels good now.
+They're not just paying for their meal,
+
+132
+00:08:39,113 --> 00:08:41,750
+they're treating the other person, that's
+another benefit.
+
+133
+00:08:41,750 --> 00:08:47,228
+But the other thing to realize, the pain
+of paying, the amount of psychological
+
+134
+00:08:47,228 --> 00:08:51,658
+agony we get from parting with our money
+is not a linear its not.
+
+135
+00:08:51,658 --> 00:08:56,718
+It's not increasing at the same rate as
+the amount of money is increasing.
+
+136
+00:08:56,718 --> 00:09:02,894
+So paying, let's say $10, is much worse
+than paying 0.
+
+137
+00:09:02,894 --> 00:09:06,380
+But paying 20 is not much worse than
+paying 10, it's a little worse but not
+
+138
+00:09:06,380 --> 00:09:09,110
+much.
+And paying 40 is not twice as bad as
+
+139
+00:09:09,110 --> 00:09:11,935
+paying 20.
+So the relationship between how much
+
+140
+00:09:11,935 --> 00:09:16,680
+you're paying and the pain of paying has
+the same diminishing return, pattern we've
+
+141
+00:09:16,680 --> 00:09:20,314
+talked about before.
+And because of that, if you take a bill,
+
+142
+00:09:20,314 --> 00:09:25,445
+you split it to two people, both people
+have the agony of, let's say, paying $20.
+
+143
+00:09:25,445 --> 00:09:31,590
+But if one person gets to pay $40, they
+don't get double that agony.
+
+144
+00:09:31,590 --> 00:09:36,134
+So in some it's always a good deal to
+alternate, not always, but in most cases,
+
+145
+00:09:36,134 --> 00:09:41,156
+it's a good deal to alternate.
+Somebody get the meal the meal for free,
+
+146
+00:09:41,156 --> 00:09:46,978
+the other person feels that their treating
+and the accumulation of the pain of paying
+
+147
+00:09:46,978 --> 00:09:50,683
+is not, eh, is not doubling, it's actually
+good deal.

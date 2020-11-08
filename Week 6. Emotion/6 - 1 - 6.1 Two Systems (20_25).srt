@@ -1,0 +1,1449 @@
+
+1
+00:00:00,025 --> 00:00:07,783
+And the topic of this section is emotions.
+A guy goes to his mother and says, mother
+
+2
+00:00:07,783 --> 00:00:12,397
+after 40 years, I finally decide to get
+married.
+
+3
+00:00:12,398 --> 00:00:15,420
+And the mother is so happy.
+She's just filled with joy.
+
+4
+00:00:15,420 --> 00:00:18,713
+And she said, why don't you bring your
+future wife to dinner?
+
+5
+00:00:18,713 --> 00:00:22,498
+And the guy said, that's wonderful.
+I'll bring her over Saturday night.
+
+6
+00:00:22,498 --> 00:00:26,860
+But he says, you know, over the last two
+years mother, I dated two other women and
+
+7
+00:00:26,860 --> 00:00:31,150
+I'm still friends with all of them, and
+we're, why don't I bring all three women
+
+8
+00:00:31,150 --> 00:00:35,308
+to dinner and why don't you meet all three
+women and then let's see if we could
+
+9
+00:00:35,308 --> 00:00:38,637
+guess, if you could guess which is the one
+I'm going to marry.
+
+10
+00:00:38,638 --> 00:00:41,780
+The mother said, that's great.
+He brings all three women to dinner.
+
+11
+00:00:41,780 --> 00:00:44,418
+His mother talks to one.
+She talked to the second.
+
+12
+00:00:44,418 --> 00:00:47,855
+She talked to the third.
+After about an hour, she points to one of
+
+13
+00:00:47,855 --> 00:00:50,430
+them and she said, I know which one.
+It's this one.
+
+14
+00:00:50,430 --> 00:00:53,863
+This is the one you're going to marry.
+And the guy is amazed.
+
+15
+00:00:53,863 --> 00:00:56,791
+He looks at this mother and said, mother,
+how well do you know me?
+
+16
+00:00:56,791 --> 00:00:59,935
+How well do you understand me?
+I loved all of these three women.
+
+17
+00:00:59,935 --> 00:01:02,330
+I'm friends with all of them.
+I appreciate all of them.
+
+18
+00:01:02,330 --> 00:01:06,166
+But indeed, this is the one that I'm going
+to spend all of my life with.
+
+19
+00:01:06,166 --> 00:01:08,837
+What gave it away?
+What gave it away?
+
+20
+00:01:08,838 --> 00:01:13,354
+And the mother looks at him and she says,
+it's the only one I hate.
+
+21
+00:01:13,355 --> 00:01:18,155
+What is it about emotions?
+It turns out there are two sides to our
+
+22
+00:01:18,155 --> 00:01:21,885
+decision making.
+There's the rational side and there's the
+
+23
+00:01:21,885 --> 00:01:24,625
+emotional side.
+And what's interesting is that not only do
+
+24
+00:01:24,625 --> 00:01:27,537
+we have these two sides.
+They don't simply add up.
+
+25
+00:01:27,538 --> 00:01:33,080
+Sometimes when emotions are evoked they
+take over and they basically eliminate our
+
+26
+00:01:33,080 --> 00:01:36,860
+rational side.
+And in this section we will think about
+
+27
+00:01:36,860 --> 00:01:42,555
+how emotions actually work, when they
+overpower us, under what conditions, and
+
+28
+00:01:42,555 --> 00:01:47,485
+how do they get us to make either bad
+decisions and sometimes even good
+
+29
+00:01:47,485 --> 00:01:50,380
+decisions.
+[music].
+
+30
+00:01:54,208 --> 00:02:13,587
+Emotions we all have them, we all
+experience them.
+
+31
+00:02:13,587 --> 00:02:20,737
+The question is, what do we know about
+them and how do they actually work and how
+
+32
+00:02:20,737 --> 00:02:28,373
+they influence our decision making?
+So Pascal said, we arrive at the truth not
+
+33
+00:02:28,373 --> 00:02:34,006
+by reason alone, but also by the heart.
+And this is the idea that we have these
+
+34
+00:02:34,006 --> 00:02:39,288
+two separate inputs into decision making.
+We have an input from our cognitive system
+
+35
+00:02:39,288 --> 00:02:42,060
+and we have an input from the limbic
+system.
+
+36
+00:02:42,060 --> 00:02:46,360
+In very general, simplistic, maybe
+oversimplistic terms, we think about the
+
+37
+00:02:46,360 --> 00:02:50,125
+brain as having two systems.
+We think about the system that is internal
+
+38
+00:02:50,125 --> 00:02:53,870
+to the brain and the inside of the brain
+that is more the emotional system.
+
+39
+00:02:53,870 --> 00:02:57,347
+And then we have the neocortex that
+surrounds it, which is more of the
+
+40
+00:02:57,347 --> 00:03:00,605
+thoughtful system.
+And what's interesting is that those
+
+41
+00:03:00,605 --> 00:03:05,025
+systems do have some kind of separate
+inputs, separate outputs, and separate
+
+42
+00:03:05,025 --> 00:03:08,656
+ways of, of thinking.
+So, the way that our decisions, we arrive
+
+43
+00:03:08,656 --> 00:03:13,072
+at them at the end of the day, is not just
+the two of them together, but it kind of
+
+44
+00:03:13,072 --> 00:03:16,944
+separate from the two systems.
+And lots of theorizing have been going on
+
+45
+00:03:16,944 --> 00:03:21,144
+and something called system one or system
+two, the emotional system, the cognitive
+
+46
+00:03:21,144 --> 00:03:23,686
+system.
+But for today, I want to just concentrate
+
+47
+00:03:23,686 --> 00:03:27,050
+on the emotional system, and say what do
+we know about the system?
+
+48
+00:03:27,050 --> 00:03:30,240
+How does it operate?
+How does it give us signals?
+
+49
+00:03:30,240 --> 00:03:35,898
+And now, from an evolutionary perspective,
+the way to think about that, is to think
+
+50
+00:03:35,898 --> 00:03:39,215
+about.
+Imagine you were in the jungle 100,000
+
+51
+00:03:39,215 --> 00:03:42,832
+years ago.
+And imagine you saw a tiger approaching.
+
+52
+00:03:42,832 --> 00:03:47,478
+What did you, would you want to do?
+Would you want to pop up your spreadsheet
+
+53
+00:03:47,478 --> 00:03:50,250
+and look at the cost and benefits?
+Should you run, should you stay?
+
+54
+00:03:50,250 --> 00:03:54,167
+Of course not.
+You want a system that would take over.
+
+55
+00:03:54,167 --> 00:03:58,577
+You want a system that would give you a
+quick command and get you to run as fast
+
+56
+00:03:58,577 --> 00:04:03,404
+as you can without thinking.
+And one way to think about this thing is
+
+57
+00:04:03,404 --> 00:04:08,010
+as if it's an executable program.
+As if there's a tiger, presses a button in
+
+58
+00:04:08,010 --> 00:04:11,650
+your brain, that says turn around, run as
+fast as you can.
+
+59
+00:04:11,650 --> 00:04:15,190
+Don't think about it.
+And in fact, it's useful to think about
+
+60
+00:04:15,190 --> 00:04:20,358
+the emotional system in that way, that it
+takes inputs from the outside world, and
+
+61
+00:04:20,358 --> 00:04:25,064
+gets to execute the command.
+Whether it's about running or fighting or
+
+62
+00:04:25,064 --> 00:04:29,620
+procreating, that are not really dependent
+on the cognitive system.
+
+63
+00:04:29,620 --> 00:04:33,829
+Which means that when we get an input from
+our emotional system, we've just execute
+
+64
+00:04:33,829 --> 00:04:37,450
+something as fast as we can without
+thinking about it to a high degree.
+
+65
+00:04:37,450 --> 00:04:41,750
+And of'course, we are basically limbic
+animals.
+
+66
+00:04:41,750 --> 00:04:45,900
+We are but we share with the rest of the
+animal kingdom, is our limbic system.
+
+67
+00:04:45,900 --> 00:04:50,956
+This internal part of the brain is
+incredibly similar with us and mice and
+
+68
+00:04:50,956 --> 00:04:53,890
+rats and all across the, the animal
+kingdom.
+
+69
+00:04:53,890 --> 00:04:56,424
+Its the cognitive system that separates
+us.
+
+70
+00:04:56,425 --> 00:05:00,546
+So, much of the animal kingdom, but they
+limbic, the central part of the brain.
+
+71
+00:05:00,546 --> 00:05:04,206
+The emotional part of the brain is
+something that is very, very similar to
+
+72
+00:05:04,206 --> 00:05:07,836
+the rest of the, the animals.
+And because of that, we can study that not
+
+73
+00:05:07,836 --> 00:05:11,060
+just in human beings, but in all kinds of
+other animals as well.
+
+74
+00:05:11,060 --> 00:05:14,420
+So, this is what has stayed with us for
+longer time.
+
+75
+00:05:14,420 --> 00:05:18,714
+It's something that started our
+evolutionary, evolutionary progress.
+
+76
+00:05:18,715 --> 00:05:21,120
+It's something that we share with the rest
+of the animals.
+
+77
+00:05:21,120 --> 00:05:25,410
+Something that is incredibly basic.
+In fact, if you thought about what's more
+
+78
+00:05:25,410 --> 00:05:29,233
+basic to the human experience?
+Emotion or cognition?
+
+79
+00:05:29,234 --> 00:05:33,660
+Cognition separates us to a higher degree
+from the animal kingdom but emotion is,
+
+80
+00:05:33,660 --> 00:05:38,694
+has been with us for a longer time.
+It's what's really us in a deep rooted
+
+81
+00:05:38,694 --> 00:05:42,057
+way.
+With this understanding of emotions, it's
+
+82
+00:05:42,057 --> 00:05:45,487
+something that gets us to act in a
+particular way.
+
+83
+00:05:45,488 --> 00:05:47,987
+You see a tiger and you just start
+running.
+
+84
+00:05:47,988 --> 00:05:52,356
+You can ask yourself, why do we even have,
+have to have the feeling of an emotion,
+
+85
+00:05:52,356 --> 00:05:55,135
+what's called qualia, the feeling of the
+emotion?
+
+86
+00:05:55,135 --> 00:05:56,690
+Why?
+Why can't we just run?
+
+87
+00:05:56,690 --> 00:05:59,748
+Why do we need to know that there are
+emotions?
+
+88
+00:05:59,748 --> 00:06:05,450
+Why you would need to feel those emotions.
+And the theory for that is that emotions
+
+89
+00:06:05,450 --> 00:06:09,409
+are not good for that moment.
+The moment you see a lion you just want to
+
+90
+00:06:09,409 --> 00:06:11,887
+start running.
+You don't have to feel anything.
+
+91
+00:06:11,888 --> 00:06:16,272
+But it's about teaching us for the future.
+That the quality of the thing about the
+
+92
+00:06:16,272 --> 00:06:19,210
+feeling of the emotion comes for planning
+for the future.
+
+93
+00:06:19,210 --> 00:06:23,902
+So, once you've done a few things, and got
+some very negative feedback.
+
+94
+00:06:23,902 --> 00:06:27,400
+It didn't work out very well.
+This part of the jungle was dangerous this
+
+95
+00:06:27,400 --> 00:06:29,988
+and so on.
+Now, the feeling that this emotion is
+
+96
+00:06:29,988 --> 00:06:34,100
+going to stay with you and you're going to
+be able to have a lesson from it.
+
+97
+00:06:34,100 --> 00:06:37,481
+And when you plan for the future, you're
+going to hopefully do things in a better
+
+98
+00:06:37,481 --> 00:06:40,057
+way.
+So, what I wanted you to do now is, I
+
+99
+00:06:40,057 --> 00:06:45,685
+wanted to think about your own experience
+of emotions, and you had many of those,
+
+100
+00:06:45,685 --> 00:06:50,977
+and to think to yourself about what is
+special about emotions, how emotions
+
+101
+00:06:50,977 --> 00:06:54,958
+actually work.
+What can you say from just reflecting on
+
+102
+00:06:54,958 --> 00:06:59,402
+emotions about how they operate, how long
+they stay and so on?
+
+103
+00:06:59,402 --> 00:07:04,602
+If you think about it, you, you realize
+that emotions are not usual feelings or
+
+104
+00:07:04,602 --> 00:07:07,931
+thoughts.
+They are much more primitive.
+
+105
+00:07:07,931 --> 00:07:11,668
+You realize that they are fast.
+You realize that they are executed
+
+106
+00:07:11,668 --> 00:07:16,754
+automatically based on the environment.
+You realize that they could be moderated,
+
+107
+00:07:16,754 --> 00:07:21,190
+probably by cognitive processes.
+The first thing that comes around could be
+
+108
+00:07:21,190 --> 00:07:25,205
+perceived very differently, depending on
+what you're thinking on at the time.
+
+109
+00:07:25,206 --> 00:07:29,343
+Are you in the a comfortable mindset?
+Are you in an aroused mindset?
+
+110
+00:07:29,343 --> 00:07:32,293
+And so on.
+And you also probably realize that they
+
+111
+00:07:32,293 --> 00:07:35,495
+are transitory.
+And the transitory part is actually
+
+112
+00:07:35,495 --> 00:07:40,313
+incredibly important because when
+something happens and you feel an emotion,
+
+113
+00:07:40,313 --> 00:07:44,973
+you probably feel at that moment that the
+emotion would last for a long time.
+
+114
+00:07:44,973 --> 00:07:49,998
+But the fact is, that the emotion would
+often go, go down in a faster speed than
+
+115
+00:07:49,998 --> 00:07:53,329
+you might anticipate.
+And this, by the way, happens for both
+
+116
+00:07:53,329 --> 00:07:57,017
+good things and bad things.
+So, as somebody who was eh, badly injured
+
+117
+00:07:57,017 --> 00:08:01,573
+a long time ago, if you asked me at early
+days of my injury how long do I think this
+
+118
+00:08:01,573 --> 00:08:05,794
+would last and how long would I feel
+miserable, I would probably think that I
+
+119
+00:08:05,794 --> 00:08:10,015
+would feel miserable for a really, really
+long time and it would not get much
+
+120
+00:08:10,015 --> 00:08:12,646
+better.
+In fact, over time, it did got better,
+
+121
+00:08:12,646 --> 00:08:16,293
+better than I expected.
+Similarly, when you talk to somebody that
+
+122
+00:08:16,293 --> 00:08:19,420
+had something happy, happening.
+Winning the lottery, maybe.
+
+123
+00:08:19,420 --> 00:08:21,820
+You ask them how long will things be
+happy.
+
+124
+00:08:21,820 --> 00:08:23,650
+They think it would be long, for a long
+time.
+
+125
+00:08:23,650 --> 00:08:27,896
+In fact, it'll be happy but for shorter
+time than they expect.
+
+126
+00:08:27,896 --> 00:08:31,242
+There is a lot of experiments on this, by
+the way.
+
+127
+00:08:31,243 --> 00:08:34,050
+Dan Gilbert at Harvard has done many of
+those.
+
+128
+00:08:34,050 --> 00:08:39,405
+It's about our inability to predict how
+the future would work in terms of our
+
+129
+00:08:39,405 --> 00:08:42,842
+adaptation.
+So, for example, in a standard experiment,
+
+130
+00:08:42,842 --> 00:08:47,417
+he asked people at, at Harvard about how
+they would feel if they got tenure or not.
+
+131
+00:08:47,418 --> 00:08:51,714
+So, at some point, professors are up for
+tenure and then the university decides if
+
+132
+00:08:51,714 --> 00:08:55,702
+to give us a job for life or not.
+And people predict that if they get
+
+133
+00:08:55,702 --> 00:08:59,646
+tenure, they'll be really, really happy
+and they will be really, really happy for
+
+134
+00:08:59,646 --> 00:09:02,210
+a long time.
+And if they didn't get tenure they will be
+
+135
+00:09:02,210 --> 00:09:05,577
+really, really miserable and really,
+really miserable for a long time.
+
+136
+00:09:05,578 --> 00:09:08,818
+What happens?
+On the day that people are told that they
+
+137
+00:09:08,818 --> 00:09:11,467
+got it, they're happy.
+On the day that they're told they didn't
+
+138
+00:09:11,467 --> 00:09:15,110
+get it, they're unhappy.
+But then quite quickly, much quicker than
+
+139
+00:09:15,110 --> 00:09:20,390
+people anticipate, they get back to the
+standards of life, they get adjusted to
+
+140
+00:09:20,390 --> 00:09:22,770
+it.
+The same thing happens with people who are
+
+141
+00:09:22,770 --> 00:09:25,060
+moving.
+People who are moving from Chicago to
+
+142
+00:09:25,060 --> 00:09:27,861
+California.
+Think, oh if I only move to California,
+
+143
+00:09:27,861 --> 00:09:32,099
+where the weather is so good, I will be
+happy and I'll be happy for a long time.
+
+144
+00:09:32,099 --> 00:09:36,195
+And people who move from California to
+Chicago say, if I only move to Chicago,
+
+145
+00:09:36,195 --> 00:09:40,419
+where it's cold and miserable in the
+winter, I'll be miserable and be miserable
+
+146
+00:09:40,419 --> 00:09:45,002
+for really long time.
+People do get their initial happiness or
+
+147
+00:09:45,002 --> 00:09:48,777
+this happiness but then they go back to
+it.
+
+148
+00:09:48,778 --> 00:09:54,415
+This also by the way, happens with dating.
+People think that when I break up with my
+
+149
+00:09:54,415 --> 00:09:59,590
+girlfriend or boyfriend or get a divorce,
+I'll be really miserable and this misery
+
+150
+00:09:59,590 --> 00:10:03,376
+would last a long time.
+It turns out that misery is much more
+
+151
+00:10:03,376 --> 00:10:07,789
+short lived than people expect.
+There's lots of things about emotions.
+
+152
+00:10:07,789 --> 00:10:12,037
+One of the things is that they are
+temporary and we don't think of them as
+
+153
+00:10:12,037 --> 00:10:15,433
+temporary.
+The other thing that is incredibly
+
+154
+00:10:15,433 --> 00:10:19,406
+important is that when they come up, they
+take over.
+
+155
+00:10:19,406 --> 00:10:23,430
+They don't just add to another component.
+It's not that you think and have
+
+156
+00:10:23,430 --> 00:10:28,030
+cognition, they seem to be taking over.
+And in fact, that's what you would want
+
+157
+00:10:28,030 --> 00:10:32,120
+them to do if you designed emotion as an
+escape, as an escape plan.
+
+158
+00:10:32,120 --> 00:10:37,864
+So, let's think a little bit about how
+emotions over take cognition.
+
+159
+00:10:37,864 --> 00:10:43,045
+And we decided to test this in as many,
+many ways that you can think about testing
+
+160
+00:10:43,045 --> 00:10:46,584
+it.
+You can think about testing it when people
+
+161
+00:10:46,584 --> 00:10:50,613
+are hungry or afraid or thirsty, or people
+are curious.
+
+162
+00:10:50,613 --> 00:10:54,972
+Where something around the world, either
+our internal physiology, or something
+
+163
+00:10:54,972 --> 00:10:59,662
+external, is influencing our emotions.
+Our emotion system starts working and we
+
+164
+00:10:59,662 --> 00:11:04,917
+can say how much they take over.
+We decide to do it with sexual arousal.
+
+165
+00:11:04,918 --> 00:11:09,538
+And the reason we decide to do it with
+sexual arousal is that sexual arousal is
+
+166
+00:11:09,538 --> 00:11:14,506
+incredibly basic to the human experience,
+people have lots of experience with it,
+
+167
+00:11:14,506 --> 00:11:19,134
+and, and it's also, a consequence for many
+important decisions on life.
+
+168
+00:11:19,134 --> 00:11:22,550
+We have crimes of passion, we have
+advertising using sex.
+
+169
+00:11:22,550 --> 00:11:27,307
+So it's really around us in a big, a big
+way.
+
+170
+00:11:27,307 --> 00:11:35,173
+[inaudible].
+>> Viewer discretion is advised.
+
+171
+00:11:35,173 --> 00:11:40,517
+In the upcoming clip, you will be exposed
+to potentially explicit descriptions of
+
+172
+00:11:40,517 --> 00:11:45,189
+sexual behavior, risk taking, immoral
+acts, and the surprising tendency of
+
+173
+00:11:45,189 --> 00:11:48,578
+mankind to shift priorities when sexually
+aroused.
+
+174
+00:11:48,578 --> 00:11:52,935
+If you are sensitive to a conversation and
+imagery of a sexual nature, you may not
+
+175
+00:11:52,935 --> 00:11:55,859
+want to watch this clip.
+[inaudible].
+
+176
+00:11:55,859 --> 00:12:02,492
+So we wanted to understand how is the
+emotional state of being aroused
+
+177
+00:12:02,492 --> 00:12:08,118
+influencing people's decision making.
+So, to do that we looked at three
+
+178
+00:12:08,118 --> 00:12:11,900
+behaviors.
+We looked at, we looked at preferences for
+
+179
+00:12:11,900 --> 00:12:17,576
+sexual behaviors, what kind of sexual
+behaviors would people like to engage in
+
+180
+00:12:17,576 --> 00:12:20,961
+or not.
+We looked at willingness to take a risk,
+
+181
+00:12:20,961 --> 00:12:24,617
+mostly the sexual domain wearing condoms
+and so on.
+
+182
+00:12:24,618 --> 00:12:30,720
+And we finally looked at the willingness
+of men to engage in morally dubious type
+
+183
+00:12:30,720 --> 00:12:34,592
+behaviors.
+What, to what extent were they willing to
+
+184
+00:12:34,592 --> 00:12:39,520
+lie and exaggerate in order to get women
+to go into bed with them.
+
+185
+00:12:39,520 --> 00:12:42,957
+And the procedure, basically, was very
+simple.
+
+186
+00:12:42,958 --> 00:12:46,130
+We had what we called a cold state, an
+unemotional state.
+
+187
+00:12:46,130 --> 00:12:50,615
+This was the control group.
+In that control group, people sat in front
+
+188
+00:12:50,615 --> 00:12:55,566
+of a laptop and answered questions.
+And the questions were about, how likely
+
+189
+00:12:55,566 --> 00:12:59,972
+are you to be interested in engaging in
+all kinds of sexual activities.
+
+190
+00:12:59,973 --> 00:13:07,597
+Ranging from kissing to having sex with
+somebody you hated, to things that are
+
+191
+00:13:07,597 --> 00:13:14,219
+kind of on the outskirts of quirkiness.
+Things that were you, are not part of what
+
+192
+00:13:14,219 --> 00:13:19,763
+we think of as standard sex, like contacts
+with animals and urination and other
+
+193
+00:13:19,763 --> 00:13:22,474
+things.
+So, with the whole range of sexual
+
+194
+00:13:22,474 --> 00:13:27,580
+practices and we ask people, when you're
+sexually aroused, how likely are you to be
+
+195
+00:13:27,580 --> 00:13:30,500
+interested in engaging in all of those
+things.
+
+196
+00:13:30,500 --> 00:13:34,905
+And people answered those questions.
+Then the second question was about risk
+
+197
+00:13:34,905 --> 00:13:37,390
+taking.
+We asked questions about condom use.
+
+198
+00:13:37,390 --> 00:13:42,278
+If, if you went into a room with a girl at
+night and you were both halfly undressed
+
+199
+00:13:42,278 --> 00:13:45,701
+and all of a sudden you realized you don't
+have a condom.
+
+200
+00:13:45,701 --> 00:13:50,519
+Would you stop things and go to a pharmacy
+to get the condom or would you continue
+
+201
+00:13:50,519 --> 00:13:54,387
+having sex without a condom.
+We asked lots of questions like that.
+
+202
+00:13:54,388 --> 00:13:57,650
+And finally we asked questions about
+immoral activities.
+
+203
+00:13:57,650 --> 00:14:03,026
+And we asked, to what extent would you go
+as a man, to what extent would you go to
+
+204
+00:14:03,026 --> 00:14:07,667
+try get women to have sex with you.
+Would you buy them a drink?
+
+205
+00:14:07,668 --> 00:14:10,837
+Would you try and get them drunk?
+Would you give them drugs?
+
+206
+00:14:10,838 --> 00:14:15,074
+Would you tell them you love them even if
+they don't, if you, if you, if you don't,
+
+207
+00:14:15,074 --> 00:14:17,990
+would you try and coerce them physically
+and so on?
+
+208
+00:14:17,990 --> 00:14:20,346
+So, we had the whole range of these
+activities.
+
+209
+00:14:20,346 --> 00:14:22,650
+So, as I told you, we had the cold
+condition.
+
+210
+00:14:22,650 --> 00:14:27,867
+We had the condition which people just sat
+there and answer the question.
+
+211
+00:14:27,868 --> 00:14:33,776
+And base on those answers, you would say
+that people would, eh, not interested in
+
+212
+00:14:33,776 --> 00:14:40,492
+any of our quirky sexual behaviors.
+They were always going to wear condoms and
+
+213
+00:14:40,492 --> 00:14:46,910
+they were not going to be deceitful and
+egregiously unethical to women.
+
+214
+00:14:46,911 --> 00:14:49,550
+Eh, when they were trying to get them to
+have sex with them.
+
+215
+00:14:49,550 --> 00:14:53,310
+So, people look quite fantastic in that
+regard.
+
+216
+00:14:53,310 --> 00:14:58,110
+But then we took the same men and
+sometimes different men and we gave them
+
+217
+00:14:58,110 --> 00:15:02,751
+the same computer interface.
+But before they started answering, some
+
+218
+00:15:02,751 --> 00:15:06,690
+pictures of nudity came about.
+We asked the group of undergraduate
+
+219
+00:15:06,690 --> 00:15:10,616
+students to pick the kind of pornography
+that other students would like.
+
+220
+00:15:10,616 --> 00:15:15,879
+And these pictures started appearing.
+And in addition to that, we asked them to
+
+221
+00:15:15,880 --> 00:15:19,848
+self stimulate.
+We gave them instructions of sit in you
+
+222
+00:15:19,848 --> 00:15:26,078
+room alone, get a towel, as the picture
+start appearing start stimulating yourself
+
+223
+00:15:26,078 --> 00:15:31,774
+with one hand and put the computer such
+that you can operate with only one, one
+
+224
+00:15:31,774 --> 00:15:33,955
+hand.
+And then, as we're going through this
+
+225
+00:15:33,955 --> 00:15:37,660
+self-stimulation process.
+We asked them to indicate how aroused they
+
+226
+00:15:37,660 --> 00:15:40,812
+were.
+And once the arousal reached a level of
+
+227
+00:15:40,812 --> 00:15:44,000
+about 75, 80% of the total arousal
+possible.
+
+228
+00:15:44,000 --> 00:15:50,650
+Between not aroused at all, to coming.
+Once it arrived that level, we asked them
+
+229
+00:15:50,650 --> 00:15:55,880
+to try to maintain that level of arousal,
+and the questions start to pop again.
+
+230
+00:15:55,880 --> 00:16:00,640
+So, now the questions popped out and they
+were asked, how would you behave when you
+
+231
+00:16:00,640 --> 00:16:02,957
+arouse?
+But now they were also aroused.
+
+232
+00:16:02,958 --> 00:16:07,035
+So think about it.
+Both groups were asked to predict how they
+
+233
+00:16:07,035 --> 00:16:11,160
+would behave.
+What sexual activities would they enjoy,
+
+234
+00:16:11,160 --> 00:16:16,547
+condom use, and misbehavior to women?
+How do we behave when aroused?
+
+235
+00:16:16,548 --> 00:16:19,656
+But the first group were not aroused, the
+second group aroused.
+
+236
+00:16:19,657 --> 00:16:23,540
+And again we have to remember that
+undergrads experience arousal quite
+
+237
+00:16:23,540 --> 00:16:26,576
+quickly, quite often.
+So, this is not something that they do not
+
+238
+00:16:26,576 --> 00:16:29,477
+have experience with.
+It's something they have experience with.
+
+239
+00:16:29,478 --> 00:16:32,214
+But nevertheless, they were dramatic
+differences.
+
+240
+00:16:32,214 --> 00:16:38,492
+In terms of the preferences the people who
+were aroused found everything more
+
+241
+00:16:38,492 --> 00:16:40,893
+exciting.
+Legal and illegal.
+
+242
+00:16:40,893 --> 00:16:47,325
+Everything, every possible activity was
+much more exciting.
+
+243
+00:16:47,326 --> 00:16:54,626
+In terms of safe behavior, people who are
+aroused, were not as interested in getting
+
+244
+00:16:54,626 --> 00:17:00,902
+condoms and acting safe in a sexual way.
+And finally, in terms of misbehaving, so
+
+245
+00:17:00,902 --> 00:17:06,629
+with women in ethical way the people who
+were in a cold state said I would never do
+
+246
+00:17:06,629 --> 00:17:12,227
+any of those, people in a hot state said,
+yes I could easily see myself doing that.
+
+247
+00:17:12,228 --> 00:17:17,967
+So, what we have here is that despite this
+being a common experience, when we have to
+
+248
+00:17:17,967 --> 00:17:23,477
+predict how would we behave when we are
+aroused, we don't predict it quite well.
+
+249
+00:17:23,478 --> 00:17:25,880
+And we're aroused, all of a sudden, we
+change.
+
+250
+00:17:25,880 --> 00:17:29,502
+We change as human beings.
+All of a sudden, what we want and what we
+
+251
+00:17:29,502 --> 00:17:32,955
+don't want is not the same.
+We look differently at the future, we look
+
+252
+00:17:32,955 --> 00:17:35,510
+differently at risk, we look differently
+at morality.
+
+253
+00:17:35,510 --> 00:17:40,859
+In essence, our desire takes over.
+Our thinking goes away.
+
+254
+00:17:40,860 --> 00:17:45,964
+But not only did, does that happen, but we
+also mispredict the extent this would
+
+255
+00:17:45,964 --> 00:17:49,540
+happen.
+So, this suggests for example, that if you
+
+256
+00:17:49,540 --> 00:17:55,216
+think to yourself oh, I'll go to a party
+and then if I ever get sexually aroused, I
+
+257
+00:17:55,216 --> 00:17:58,640
+will go and get a condom.
+You're doing that in a state in which
+
+258
+00:17:58,640 --> 00:18:03,159
+you're cold, in which you're unaroused.
+What are the odds that when you actually
+
+259
+00:18:03,159 --> 00:18:07,407
+get to that state, this will be the state
+of your mind and your set of preferences?
+
+260
+00:18:07,408 --> 00:18:11,290
+Very unlikely.
+So, in fact we have to understand how we
+
+261
+00:18:11,290 --> 00:18:15,865
+become different people when we get
+aroused and how we need to account for
+
+262
+00:18:15,865 --> 00:18:20,693
+that, how we need to make sure that our
+behaviors are consistent with that.
+
+263
+00:18:20,694 --> 00:18:24,429
+So you can either think about maybe you
+don't want to get to a state of arousal,
+
+264
+00:18:24,429 --> 00:18:27,906
+or maybe you have to recognize the fact
+that by the time you get to a state of
+
+265
+00:18:27,906 --> 00:18:31,908
+arousal, you would be a different person.
+Maybe you will want to have a condom with
+
+266
+00:18:31,908 --> 00:18:34,681
+you.
+By the way, there's a very troubling
+
+267
+00:18:34,681 --> 00:18:39,994
+result in the US, where you have a lot of
+young people who are signing all kinds of
+
+268
+00:18:39,994 --> 00:18:44,922
+pledges to not have sexual relationships
+and what you find is that the rate of
+
+269
+00:18:44,922 --> 00:18:50,158
+sexually transmitted disease among this
+group is actually very high, sometimes
+
+270
+00:18:50,158 --> 00:18:53,817
+higher than the people who don't take this
+pledge.
+
+271
+00:18:53,818 --> 00:18:55,982
+And why?
+Because the people who are taking the
+
+272
+00:18:55,982 --> 00:19:00,023
+pledge are also not taking a condom.
+And they say, oh yes, yes, I can always
+
+273
+00:19:00,023 --> 00:19:02,610
+resist the urges and I would always behave
+well.
+
+274
+00:19:02,610 --> 00:19:05,910
+When they get to, in that situation they
+can't behave very well.
+
+275
+00:19:05,910 --> 00:19:12,000
+And if they don't have a condom, this is
+very they're going to actually act in a
+
+276
+00:19:12,000 --> 00:19:16,118
+very risky way.
+This, by the way, I should point out is
+
+277
+00:19:16,118 --> 00:19:21,694
+not about forgiving people who commit all
+kinds of crimes of passion.
+
+278
+00:19:21,694 --> 00:19:26,380
+If you and I sat in a jury and there was
+somebody who committed some kind of
+
+279
+00:19:26,380 --> 00:19:31,840
+passion, crime of passion, whether it's
+sexual or physical or some other approach,
+
+280
+00:19:31,840 --> 00:19:36,832
+it's true that from our cold state we
+would not be able to understand their hot
+
+281
+00:19:36,832 --> 00:19:40,348
+state.
+And it's true that if they, somehow the
+
+282
+00:19:40,348 --> 00:19:44,971
+court procedure would get us to experience
+the hot state, all of a sudden we would
+
+283
+00:19:44,971 --> 00:19:49,590
+understand better what was causing that
+person to act to a much higher degree.
+
+284
+00:19:49,590 --> 00:19:54,418
+But understanding that, to an even higher
+degree, and understanding how emotion
+
+285
+00:19:54,418 --> 00:19:59,281
+changes, people doesn't necessarily mean
+we should just accept it all the time.
+
+286
+00:19:59,281 --> 00:20:02,157
+People are still responsible for their
+actions.
+
+287
+00:20:02,158 --> 00:20:07,000
+But when we design interventions, and we
+design educational programs and so on, we
+
+288
+00:20:07,000 --> 00:20:11,690
+need to understand the extent to which
+emotion changes us and the extent in which
+
+289
+00:20:11,690 --> 00:20:16,240
+it changes us without us understanding how
+effective it will be and how big the
+
+290
+00:20:16,240 --> 00:20:17,509
+difference will be.

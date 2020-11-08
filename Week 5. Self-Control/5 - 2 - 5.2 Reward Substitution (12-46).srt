@@ -1,0 +1,949 @@
+
+1
+00:00:00,637 --> 00:00:06,461
+The second case I want us to think about
+in terms of reward substitution is the
+
+2
+00:00:06,461 --> 00:00:12,816
+case of a medication called Coumadin.
+So, Coumadin is an anti-stroke medication.
+
+3
+00:00:12,816 --> 00:00:16,732
+It's a relatively good anti-stroke
+medication.
+
+4
+00:00:16,732 --> 00:00:22,756
+It reduces the chances of a second stroke
+for about 24% to about 4%.
+
+5
+00:00:22,757 --> 00:00:26,018
+Now, think about it.
+If you had a stroke and this was how much
+
+6
+00:00:26,018 --> 00:00:30,465
+this medication could reduce your second
+stroke, wouldn't you take it?
+
+7
+00:00:30,465 --> 00:00:34,616
+And Coumadin, by the way, has a few side
+effects, particularly ones that have to do
+
+8
+00:00:34,616 --> 00:00:38,459
+with eating and how you can eat leafy
+vegetables and some with bleeding, but
+
+9
+00:00:38,459 --> 00:00:43,460
+generally has low side effects.
+But, sadly, compliance is very low.
+
+10
+00:00:43,460 --> 00:00:47,223
+It's the same problem.
+What's good for you now, and what's good
+
+11
+00:00:47,223 --> 00:00:50,384
+for you in the future.
+Okay, so we have this problem, people had
+
+12
+00:00:50,384 --> 00:00:54,396
+a stroke don't want to take Coumadin or at
+least behave as if they don't want to take
+
+13
+00:00:54,396 --> 00:00:57,318
+Coumadin.
+And we can take this as an indication that
+
+14
+00:00:57,318 --> 00:01:01,807
+they don't care about taking another,
+getting another stroke or we could take it
+
+15
+00:01:01,807 --> 00:01:06,430
+as an indication that something is wrong
+about the incentive structure on how they
+
+16
+00:01:06,430 --> 00:01:10,068
+get discounted over time.
+So, to get into reward substitution we
+
+17
+00:01:10,068 --> 00:01:13,148
+want two things.
+We want to be able to measure something,
+
+18
+00:01:13,148 --> 00:01:16,044
+and we want to start rewarding or
+punishing it.
+
+19
+00:01:16,045 --> 00:01:19,440
+So, for the measurement perspective
+there's a new technology out there.
+
+20
+00:01:19,440 --> 00:01:23,225
+Maybe not so new, called Internet-enabled
+pillbox.
+
+21
+00:01:23,226 --> 00:01:27,270
+These are pillboxes that every time you
+open them it registers on the internet
+
+22
+00:01:27,270 --> 00:01:30,632
+somewhere and somebody can know that
+you've opened the pillbox.
+
+23
+00:01:30,633 --> 00:01:34,174
+Now, right now, they don't yet measure if
+you've taken the pill or not.
+
+24
+00:01:34,175 --> 00:01:38,618
+But we're going to assume that it's going
+to measure both, that you opened the
+
+25
+00:01:38,618 --> 00:01:42,520
+pillbox and took the pill.
+So, now we have this measurement approach.
+
+26
+00:01:42,520 --> 00:01:46,247
+The question is, how can we reward it?
+And how can we punish it?
+
+27
+00:01:46,248 --> 00:01:51,292
+So, think to yourself for a minute, you
+have this pillbox, people are on Coumadin,
+
+28
+00:01:51,292 --> 00:01:56,020
+what can you do?
+So, there's lots of things that we can do.
+
+29
+00:01:56,020 --> 00:01:59,477
+The easiest thing that probably comes to
+mind is paying people.
+
+30
+00:01:59,477 --> 00:02:02,675
+We can pay people.
+Maybe we can charege them.
+
+31
+00:02:02,675 --> 00:02:05,583
+Maybe we can tell their kids about it or
+their parents about it.
+
+32
+00:02:05,583 --> 00:02:10,203
+Maybe we can tell the doctor about it in
+hope that their parents or their doctors
+
+33
+00:02:10,203 --> 00:02:15,992
+would get them to feel guilty about it.
+Maybe we could create a competition
+
+34
+00:02:15,992 --> 00:02:20,370
+between people who are doing it.
+Maybe you can do something more extreme.
+
+35
+00:02:20,370 --> 00:02:24,594
+Maybe we can create a situation that
+unless you take your pill, you can't open
+
+36
+00:02:24,594 --> 00:02:27,408
+the refrigerator.
+Or maybe we can take the pills and cover
+
+37
+00:02:27,408 --> 00:02:29,930
+them with chocolate, creating immediate
+incentives.
+
+38
+00:02:29,930 --> 00:02:34,754
+But anyway, you could see there's a whole
+range of things you could do, the moment
+
+39
+00:02:34,754 --> 00:02:38,114
+that we need to add incentives to make
+that happen.
+
+40
+00:02:38,115 --> 00:02:41,948
+So, now I want to tell you about the few
+experiments we've done on this, and of
+
+41
+00:02:41,948 --> 00:02:45,812
+course, the potential range of experiments
+is just huge and we haven't done many of
+
+42
+00:02:45,812 --> 00:02:48,146
+them.
+So, these are experiments that we have
+
+43
+00:02:48,146 --> 00:02:52,294
+tried out on George Lowenstein and Kevin
+Volpp, and some of their colleagues have
+
+44
+00:02:52,294 --> 00:02:54,776
+tried it as well.
+I'm going to kind of give you a
+
+45
+00:02:54,776 --> 00:02:59,908
+combination of all of those experiments.
+So, what do you think would happen if we
+
+46
+00:02:59,908 --> 00:03:03,867
+gave people $3 a day to take their
+medication on time?
+
+47
+00:03:03,868 --> 00:03:07,766
+Turns out, nothing much.
+What do you think would happen if we gave
+
+48
+00:03:07,766 --> 00:03:11,349
+people $1,000 a day to take their
+medication on time?
+
+49
+00:03:11,350 --> 00:03:15,268
+I think much like you, the prediction is
+that yes, people would take their
+
+50
+00:03:15,268 --> 00:03:19,050
+medication on time for $1,000 a day.
+The problem is we don't have $1,000 a day,
+
+51
+00:03:19,050 --> 00:03:23,463
+we only have a little bit of money.
+So, the next task is to think about how we
+
+52
+00:03:23,463 --> 00:03:28,971
+can take a small amount of money and make
+it look larger, what is called super-size
+
+53
+00:03:28,971 --> 00:03:32,302
+the incentive.
+How we can take the same amount and make
+
+54
+00:03:32,302 --> 00:03:35,700
+it look larger.
+So, one of the things we try is to use a
+
+55
+00:03:35,700 --> 00:03:41,307
+principle called loss aversion.
+And loss aversion is the basic idea that
+
+56
+00:03:41,307 --> 00:03:47,157
+people like gaining, but we hate losing.
+Gaining 3 dollars is exciting, but losing
+
+57
+00:03:47,157 --> 00:03:51,366
+3 dollars is really miserable and the
+misery is much, much larger than the
+
+58
+00:03:51,366 --> 00:03:54,760
+happiness.
+And because of that, if we get people to
+
+59
+00:03:54,760 --> 00:03:58,795
+lose, it will be more effective.
+So, for example, what do you think would
+
+60
+00:03:58,795 --> 00:04:03,020
+happen if we pre-paid people as if they
+took their medication for 3 months, and
+
+61
+00:04:03,020 --> 00:04:07,050
+then, we would take money away from them
+for every day they don't take their
+
+62
+00:04:07,050 --> 00:04:09,624
+medication, turns out that's more
+effective.
+
+63
+00:04:10,810 --> 00:04:15,419
+You could come up with another idea.
+You could say, what if instead of giving
+
+64
+00:04:15,419 --> 00:04:20,980
+people $3 dollars a day, we would give a
+$100 dollars if the took their medication
+
+65
+00:04:20,980 --> 00:04:24,594
+for awhile.
+Then, the amount is larger, but remember
+
+66
+00:04:24,594 --> 00:04:29,571
+also the discount is higher and future
+events need to be much, much larger to
+
+67
+00:04:29,571 --> 00:04:34,046
+influence us today.
+So, you want to bring something to today,
+
+68
+00:04:34,046 --> 00:04:37,426
+the immediate reward.
+By the way, here is something I haven't
+
+69
+00:04:37,426 --> 00:04:42,020
+tested, but I would love to try it out.
+You go to people who are taking Coumadin,
+
+70
+00:04:42,020 --> 00:04:47,060
+and every morning you wake them up by
+showing them a particular kid in Africa
+
+71
+00:04:47,060 --> 00:04:51,020
+who might get fed today if they take the
+medication on time.
+
+72
+00:04:51,020 --> 00:04:55,640
+It's against $3 and not only that, that
+money might go to that kid, they also know
+
+73
+00:04:55,640 --> 00:04:59,700
+that kid would get to see them in the
+evening and say good night to them,
+
+74
+00:04:59,700 --> 00:05:02,500
+whether they've taken the medication or
+not.
+
+75
+00:05:02,500 --> 00:05:06,964
+And I've predicted under those conditions,
+it would be incredibly hard for people not
+
+76
+00:05:06,964 --> 00:05:10,808
+to give the money, because it would go to
+somebody else, to fulfill a really
+
+77
+00:05:10,808 --> 00:05:14,652
+important goal and you'll have to look
+into this person's eyes later in the
+
+78
+00:05:14,652 --> 00:05:18,834
+evening and feel incredibly guilty, if
+they haven't taken their medication.
+
+79
+00:05:18,834 --> 00:05:23,384
+There's lots of ethical problems, as you
+can see, with all of these, but we'll
+
+80
+00:05:23,384 --> 00:05:26,307
+continue.
+Now, here's some stuff that Kevin and
+
+81
+00:05:26,307 --> 00:05:29,989
+George have done which I think it
+incredibly inspiring.
+
+82
+00:05:29,990 --> 00:05:33,210
+The first thing they did was they said,
+you know what?
+
+83
+00:05:33,210 --> 00:05:38,901
+Money is great, but people love lotteries.
+In fact, the columnists often call
+
+84
+00:05:38,901 --> 00:05:44,589
+lotteries a taxation on stupidity because
+they expected value is usually quite very,
+
+85
+00:05:44,589 --> 00:05:47,050
+very low.
+But nevertheless people love lotteries.
+
+86
+00:05:47,050 --> 00:05:51,089
+That's why we have Vegas.
+That's why we have random reinforcements.
+
+87
+00:05:51,090 --> 00:05:56,796
+So, what do you think would happen if
+instead of giving people $3 in cash for
+
+88
+00:05:56,796 --> 00:06:00,124
+sure, you give them 10% chance of making
+$30?
+
+89
+00:06:00,124 --> 00:06:05,614
+Turns out, that's much more exciting.
+In fact, the ideal way to create a lottery
+
+90
+00:06:05,614 --> 00:06:10,455
+is to create a lottery with two things.
+You have one big reward that you could
+
+91
+00:06:10,455 --> 00:06:13,519
+dream about, but get very, very
+infrequently.
+
+92
+00:06:13,520 --> 00:06:17,930
+But that fulfills the aspiration level.
+And then, you have smaller rewards that
+
+93
+00:06:17,930 --> 00:06:21,210
+have a higher probability of actually
+being given out.
+
+94
+00:06:21,210 --> 00:06:25,053
+So, from time to time, if you're in the
+system you can get some reward and it
+
+95
+00:06:25,053 --> 00:06:28,030
+reminds you that you have a chance of
+getting the big one.
+
+96
+00:06:28,030 --> 00:06:31,050
+If you only had the big one, then most
+days you don't get anything.
+
+97
+00:06:31,050 --> 00:06:34,308
+It's not that exciting.
+So, you want a combination of a really big
+
+98
+00:06:34,308 --> 00:06:38,613
+reward and some small rewards that keep
+people in the game and feel excited.
+
+99
+00:06:38,613 --> 00:06:42,078
+So, lotteries are good, but they didn't
+stop there.
+
+100
+00:06:42,078 --> 00:06:45,081
+They added another component called
+regret.
+
+101
+00:06:45,081 --> 00:06:50,463
+And regret is a really interesting idea
+and it's worthwhile stopping and thinking
+
+102
+00:06:50,463 --> 00:06:53,089
+about it for a while.
+So, what is regret?
+
+103
+00:06:53,089 --> 00:06:57,786
+Regret is about the fact that our
+happiness with where we are in life is not
+
+104
+00:06:57,786 --> 00:07:02,791
+about where we are, it's a comparison
+between where we are and where we think we
+
+105
+00:07:02,791 --> 00:07:05,944
+could have been.
+And if this other place where we think we
+
+106
+00:07:05,944 --> 00:07:09,150
+could have been is better than where we
+are, we feel terrible.
+
+107
+00:07:09,150 --> 00:07:13,630
+And if this other place where we think we
+could have been is worse than where we
+
+108
+00:07:13,630 --> 00:07:16,890
+are, we feel good about it.
+So, here's an example.
+
+109
+00:07:16,890 --> 00:07:19,089
+When do you think you would be more
+unhappy?
+
+110
+00:07:19,090 --> 00:07:23,237
+If you missed your flight by 2 minutes or
+by 2 hours?
+
+111
+00:07:23,237 --> 00:07:25,780
+Of course, by two minutes.
+But why?
+
+112
+00:07:25,780 --> 00:07:30,610
+You're stuck at O'Hare with the same bad
+airport food, with the same unpleasant
+
+113
+00:07:30,610 --> 00:07:33,410
+airport.
+Why you're more unhappy if you missed your
+
+114
+00:07:33,410 --> 00:07:36,818
+flight by 2 minutes?
+Because you can imagine the many ways you
+
+115
+00:07:36,818 --> 00:07:40,180
+would have made it.
+You could say to yourself, if the TSA
+
+116
+00:07:40,180 --> 00:07:45,348
+agent had one more IQ point, everything
+would have gone well, this is the security
+
+117
+00:07:45,348 --> 00:07:47,834
+people.
+You could say to yourself, if the person
+
+118
+00:07:47,834 --> 00:07:51,952
+in front of me understood what taking your
+shoes off mean, everything would have been
+
+119
+00:07:51,952 --> 00:07:54,476
+fine.
+There are many, many ways in which you can
+
+120
+00:07:54,476 --> 00:07:58,572
+imagine how you would have been in this
+other reality, and then, the contrast
+
+121
+00:07:58,572 --> 00:08:01,399
+between these two realities is incredibly
+salient.
+
+122
+00:08:02,580 --> 00:08:07,260
+If you missed your by 2 hours, there's no
+way for you to imagine that reality.
+
+123
+00:08:07,260 --> 00:08:13,016
+So, it's not creating the same contrast.
+By the way, it's a personal observation.
+
+124
+00:08:13,016 --> 00:08:17,566
+I should tell you that I think that one of
+the reasons that I think I'm generally
+
+125
+00:08:17,566 --> 00:08:21,976
+happy in life is that because after
+sustaining a very serious injury, I have
+
+126
+00:08:21,976 --> 00:08:26,526
+lots of reminders about that injury and
+the contrast between where I am now and
+
+127
+00:08:26,526 --> 00:08:30,490
+where I was for many years in hospital, is
+incredibly clear to me.
+
+128
+00:08:30,490 --> 00:08:35,176
+I think that if I had an injury that I had
+the same misery for a long time, but then,
+
+129
+00:08:35,176 --> 00:08:38,819
+it went away, I don't think I would have
+had the same benefit.
+
+130
+00:08:38,819 --> 00:08:44,327
+So, while these scars and some of the pain
+that they give me everyday is have some
+
+131
+00:08:44,327 --> 00:08:49,820
+unpleasantness, I think it is useful as a
+reminder of how things could have been.
+
+132
+00:08:49,820 --> 00:08:55,430
+It makes it harder for me to forget this
+contrast between where I am now and where
+
+133
+00:08:55,430 --> 00:08:59,597
+I was, and therefore, I think I am happier
+because of that.
+
+134
+00:08:59,598 --> 00:09:03,120
+This is not a good experiment, of course
+just my intuition.
+
+135
+00:09:03,120 --> 00:09:09,711
+In a very different domain, in some of the
+Olympics, they took pictures of people who
+
+136
+00:09:09,711 --> 00:09:12,478
+won medals.
+And they asked the question of what
+
+137
+00:09:12,478 --> 00:09:17,218
+determines the size of the smile.
+And you would think that the gold, people
+
+138
+00:09:17,218 --> 00:09:21,730
+with gold would smile the most, silver
+less, and bronze less.
+
+139
+00:09:21,730 --> 00:09:26,736
+But when you actually look at it, it's
+gold, bronze, silver.
+
+140
+00:09:26,737 --> 00:09:30,182
+The people with silver are the one who are
+smiling the least.
+
+141
+00:09:30,182 --> 00:09:34,008
+How could that be?
+Well, put yourself in the mindset of
+
+142
+00:09:34,008 --> 00:09:38,120
+somebody who just won the silver medal.
+What are they thinking?
+
+143
+00:09:38,120 --> 00:09:42,580
+What's going through their mind?
+They probably say to themselves, I was
+
+144
+00:09:42,580 --> 00:09:45,285
+this close.
+In fact, it's probably not something that
+
+145
+00:09:45,285 --> 00:09:48,558
+is this close like in the Olympics, like
+it could be milliseconds.
+
+146
+00:09:48,558 --> 00:09:51,037
+And what is the person with bronze
+thinking?
+
+147
+00:09:51,038 --> 00:09:52,840
+They say, well at least I'm here on this
+stage.
+
+148
+00:09:52,840 --> 00:09:54,810
+Look at all the other people that didn't
+get here at all.
+
+149
+00:09:54,810 --> 00:10:00,400
+So, now you can see how in this case, but
+also probably in areas of your own life,
+
+150
+00:10:00,400 --> 00:10:05,990
+happiness is not determined by where we
+are, but what reality we are comparing
+
+151
+00:10:05,990 --> 00:10:09,489
+ourselves to.
+And if this reality is better, we feel
+
+152
+00:10:09,489 --> 00:10:12,439
+miserable.
+If this reality is worse, we feel good
+
+153
+00:10:12,439 --> 00:10:15,570
+about it.
+So, let's take regret and roll it back for
+
+154
+00:10:15,570 --> 00:10:20,334
+experiment with Coumadin.
+Imagine that we have a big gorup of people
+
+155
+00:10:20,334 --> 00:10:23,130
+taking Coumadin.
+And imagine part of these people are
+
+156
+00:10:23,130 --> 00:10:27,083
+taking the medication on time and another
+part of these people are not taking the
+
+157
+00:10:27,083 --> 00:10:30,206
+medication on time.
+If we just do the, the rewards by
+
+158
+00:10:30,206 --> 00:10:35,174
+lotteries to the people who've taken the
+medication on time, we take all the people
+
+159
+00:10:35,174 --> 00:10:39,998
+who took the medication on time, we sample
+10% of them and we give them the lottery
+
+160
+00:10:39,998 --> 00:10:42,778
+ticket.
+We call them up, we say congratulations
+
+161
+00:10:42,778 --> 00:10:46,347
+and we give them the lottery tickets.
+Now, there's no regret.
+
+162
+00:10:46,348 --> 00:10:49,646
+The people who are winning feel good and
+the people who are not taking their
+
+163
+00:10:49,646 --> 00:10:52,974
+medication, don't really know that
+anything bad has happened.
+
+164
+00:10:52,975 --> 00:10:58,798
+How do we add regret to the equation?
+We're doing it by giving a lottery ticket
+
+165
+00:10:58,798 --> 00:11:02,570
+for everybody in the sample.
+We give it to the people who've taken
+
+166
+00:11:02,570 --> 00:11:05,681
+their medication on time and we giving it
+to the people who did not take the
+
+167
+00:11:05,681 --> 00:11:08,430
+medication on time.
+And if it's somebody who did not take
+
+168
+00:11:08,430 --> 00:11:12,584
+their medication on time that comes up in
+the lottery, we call them up, and we say,
+
+169
+00:11:12,584 --> 00:11:16,390
+congratulations, it is your lucky day.
+The stars are smiling on you.
+
+170
+00:11:16,390 --> 00:11:21,984
+You're the winner of the coveted lottery.
+Sadly, you did not take your pill on time,
+
+171
+00:11:21,984 --> 00:11:26,407
+so you're not getting the prize, you're
+not getting the reward.
+
+172
+00:11:26,408 --> 00:11:29,364
+Now, think about it, this is the essence
+of regret.
+
+173
+00:11:29,364 --> 00:11:34,062
+Now, you can say to yourself, my goodness,
+there was a tiny little act in the morning
+
+174
+00:11:34,062 --> 00:11:38,550
+of taking the medication that if I would
+have engaged on that, I would been on the
+
+175
+00:11:38,550 --> 00:11:41,760
+other side of that fence.
+And I really don't want to be on that
+
+176
+00:11:41,760 --> 00:11:45,257
+other side of the fence again.
+And now what happens?
+
+177
+00:11:45,258 --> 00:11:51,318
+You combine lotteries and you combine
+regret and compliance rate goes up to
+
+178
+00:11:51,318 --> 00:11:55,123
+about 97%-98%.
+Now, here's the thing, when you look at
+
+179
+00:11:55,123 --> 00:12:00,337
+something like Coumadin, you say many
+people just don't take their medication
+
+180
+00:12:00,337 --> 00:12:03,910
+regularly on time, and it's terrible.
+It's a blood thinner.
+
+181
+00:12:03,910 --> 00:12:06,005
+You should take your medication on time if
+you're on Coumadin.
+
+182
+00:12:06,005 --> 00:12:13,220
+Luckily, we can add reward substitution.
+We can add $3, potentially could add
+
+183
+00:12:13,220 --> 00:12:16,052
+shame.
+We could add all kinds of other things and
+
+184
+00:12:16,052 --> 00:12:19,737
+not only that, we can think about how to
+maximize that incentive.
+
+185
+00:12:19,738 --> 00:12:23,879
+We can take, for example, $3 and think
+about how we super-size it.
+
+186
+00:12:23,880 --> 00:12:30,575
+How do we add lotteries to it, randomness?
+How do we add counterfactual thinking and
+
+187
+00:12:30,575 --> 00:12:35,189
+regret and by doing so, get people to
+behave as if they care.
+
+188
+00:12:35,190 --> 00:12:40,545
+About getting another stroke, eventually
+getting people to behave in a way that is
+
+189
+00:12:40,545 --> 00:12:45,570
+better for them, better for the families
+and of course better for the health care
+
+190
+00:12:45,570 --> 00:12:46,113
+system.

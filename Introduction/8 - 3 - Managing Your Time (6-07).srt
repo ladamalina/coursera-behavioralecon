@@ -1,0 +1,481 @@
+
+1
+00:00:00,580 --> 00:00:03,246
+You're probably starting this class 
+thinking that you're going to do all the 
+
+2
+00:00:03,246 --> 00:00:05,510
+work. 
+You're going to be a great student. 
+
+3
+00:00:05,510 --> 00:00:07,590
+You're going to start by watching all the 
+videos. 
+
+4
+00:00:07,590 --> 00:00:09,680
+You're going to take the quizzes. 
+You're going to do readings. 
+
+5
+00:00:09,680 --> 00:00:11,720
+You're going to take the readings 
+quizzes. 
+
+6
+00:00:11,720 --> 00:00:17,559
+And, you'll be 100% with the class. 
+Except that you're human, just like all 
+
+7
+00:00:17,559 --> 00:00:20,540
+the rest of us. 
+So probably, you'll procrastinate. 
+
+8
+00:00:20,540 --> 00:00:24,359
+You're about to do the readings and your 
+friend calls you at the movie you've been 
+
+9
+00:00:24,359 --> 00:00:28,121
+hearing about, or the trampoline gym, or 
+just wants to go out for drinks and hang 
+
+10
+00:00:28,121 --> 00:00:30,538
+out. 
+It happens to all of us. 
+
+11
+00:00:30,538 --> 00:00:33,610
+But, procrastination doesn't have to be 
+counterproductive. 
+
+12
+00:00:33,610 --> 00:00:38,550
+For example, as I'm making this video, 
+I'm thinking about finishing the quizzes. 
+
+13
+00:00:38,550 --> 00:00:45,44
+I really should finish the quizzes. 
+A big contributor to procrastination is 
+
+14
+00:00:45,44 --> 00:00:48,170
+what Kahneman and Tversky would call the 
+planning fallacy. 
+
+15
+00:00:48,170 --> 00:00:52,724
+Basically, the planning fallacy says that 
+even when we have a lot of experience 
+
+16
+00:00:52,724 --> 00:00:56,864
+with something, we still tend to 
+underestimate the amount of time it'll 
+
+17
+00:00:56,864 --> 00:00:59,955
+take us. 
+This explains a whole lot, for example, 
+
+18
+00:00:59,955 --> 00:01:04,180
+why are they running 10 minutes late to 
+everything this week, even though, I go 
+
+19
+00:01:04,180 --> 00:01:07,793
+to these places all the time. 
+Think about the last time you had an 
+
+20
+00:01:07,793 --> 00:01:12,8
+assignment to do or a trip to pack for. 
+Did you find yourself right up agaist the 
+
+21
+00:01:12,8 --> 00:01:15,976
+deadline, did you find yourself staying 
+up all night to pack, and forgetting 
+
+22
+00:01:15,976 --> 00:01:19,907
+something like an adaptor? 
+This is pretty common. 
+
+23
+00:01:19,907 --> 00:01:24,867
+So, the next time you have something to 
+plan for, an assignment or a quiz for 
+
+24
+00:01:24,867 --> 00:01:30,147
+example, try estimating, it'll take you 
+twice as long and then it might get done 
+
+25
+00:01:30,147 --> 00:01:30,816
+on time. 
+
+26
+00:01:30,816 --> 00:01:34,870
+ >> Deadlines are important. 
+Now, of course, you already knew that. 
+
+27
+00:01:34,870 --> 00:01:39,158
+But, I'm going to really drill it in for 
+you by telling you about some researches 
+
+28
+00:01:39,158 --> 00:01:41,710
+that Dan conducted with Klaus 
+Wertenbroch. 
+
+29
+00:01:41,710 --> 00:01:45,545
+This is actually in one of your assigned 
+readings for week five on self-control. 
+
+30
+00:01:45,545 --> 00:01:47,846
+But I'm just going to give you a little 
+preview. 
+
+31
+00:01:47,846 --> 00:01:51,866
+This study basically looked at whether 
+people spontaneously set deadlines for 
+
+32
+00:01:51,866 --> 00:01:55,460
+themselves, and if they do, how optimally 
+they set these deadlines. 
+
+33
+00:01:55,460 --> 00:01:59,78
+Dan and Klaus let some students choose 
+their own deadlines for three papers that 
+
+34
+00:01:59,78 --> 00:02:01,0
+were going to be due at the end of the 
+term. 
+
+35
+00:02:01,0 --> 00:02:05,355
+And for the other students, they had to 
+abide by these preset deadlines that were 
+
+36
+00:02:05,355 --> 00:02:09,200
+spaced evenly throughout. 
+For those who are allowed to choose their 
+
+37
+00:02:09,200 --> 00:02:12,720
+own deadlines, the rational thing to do 
+would be to set them all on the due date 
+
+38
+00:02:12,720 --> 00:02:16,3
+and not a minute earlier. 
+After all, they can always turn in their 
+
+39
+00:02:16,3 --> 00:02:20,95
+papers early and this would give them the 
+maximum amount of time to work on each. 
+
+40
+00:02:20,95 --> 00:02:24,142
+But, the students had some intuition that 
+they would run into self-control problems 
+
+41
+00:02:24,142 --> 00:02:28,294
+and probably procrastinate. 
+And, so they, they sort of distributed 
+
+42
+00:02:28,294 --> 00:02:32,127
+their papers throughout the term. 
+So far, great. 
+
+43
+00:02:32,127 --> 00:02:36,50
+But, did they distribute these deadlines 
+optimally? 
+
+44
+00:02:36,50 --> 00:02:39,182
+Not quite. 
+If we take a look at the performance of 
+
+45
+00:02:39,182 --> 00:02:42,562
+those who impose their own deadlines and 
+those who are given deadlines, we see 
+
+46
+00:02:42,562 --> 00:02:45,545
+that on average, the second group scored 
+higher on their papers. 
+
+47
+00:02:45,545 --> 00:02:49,385
+So far it looks like self-imposed 
+deadlines are just not as effective as 
+
+48
+00:02:49,385 --> 00:02:53,254
+externally imposed deadlines. 
+But, when we look a little closer at the 
+
+49
+00:02:53,254 --> 00:02:57,544
+group that set their own deadlines, we 
+can see that the students among them who 
+
+50
+00:02:57,544 --> 00:03:01,636
+set evenly spaced deadlines actually did 
+just as well as those in the other 
+
+51
+00:03:01,636 --> 00:03:04,157
+condition. 
+It doesn't really matter who sets the 
+
+52
+00:03:04,157 --> 00:03:06,295
+deadlines, just that they're evenly 
+spaced. 
+
+53
+00:03:06,295 --> 00:03:10,68
+So, bottom line, in the face of 
+self-control problems like 
+
+54
+00:03:10,68 --> 00:03:12,792
+procrastination, smart deadlines help. 
+
+55
+00:03:12,792 --> 00:03:19,350
+ >> Are you a Sponge or are you a Roomba? 
+We really want to know what approach 
+
+56
+00:03:19,350 --> 00:03:22,793
+you're going to take to this course. 
+So we're asking you to sign a commitment 
+
+57
+00:03:22,793 --> 00:03:26,228
+contract. 
+That means, some of you will choose to be 
+
+58
+00:03:26,228 --> 00:03:29,970
+more passive sponges. 
+You're going to watch the lectures and 
+
+59
+00:03:29,970 --> 00:03:33,352
+not much else. 
+Some of you will be fully engaged in the 
+
+60
+00:03:33,352 --> 00:03:35,485
+course. 
+You're going to complete all the 
+
+61
+00:03:35,485 --> 00:03:39,410
+assignments, watch the lectures, 
+participate in the discussion boards. 
+
+62
+00:03:39,410 --> 00:03:43,122
+There is not a right or a wrong choice, 
+but we'd really like to know what 
+
+63
+00:03:43,122 --> 00:03:47,192
+approach you're going to take. 
+So, please go to the About the Course 
+
+64
+00:03:47,192 --> 00:03:52,226
+section and look at the timeline. 
+There, you'll have the opportunity to 
+
+65
+00:03:52,226 --> 00:03:55,930
+make a commitment contract to one of the 
+categories. 
+
+66
+00:03:55,930 --> 00:04:00,210
+One way we'd like to help you manage your 
+time is by posting an online calendar. 
+
+67
+00:04:00,210 --> 00:04:05,235
+This calendar has all of the assignments 
+and deadlines you need to complete this 
+
+68
+00:04:05,235 --> 00:04:08,199
+course. 
+It's also something that you can easily 
+
+69
+00:04:08,199 --> 00:04:12,770
+upload to your own online calendar in 
+whatever format works best for you. 
+
+70
+00:04:12,770 --> 00:04:17,711
+You'll notice that all the assignments 
+are due at 11:59 p.m., EST, that's 
+
+71
+00:04:17,711 --> 00:04:22,610
+Eastern Standard Time. 
+We're at lovely Durham, North Carolina 
+
+72
+00:04:22,610 --> 00:04:27,870
+and real cities like Washington DC and 
+New York City are located. 
+
+73
+00:04:27,870 --> 00:04:33,242
+You'll have a full week to get to know 
+the material before the quizzes due. 
+
+74
+00:04:33,242 --> 00:04:39,38
+But, since this is about procrastination, 
+you might want to finish those quizzes a 
+
+75
+00:04:39,38 --> 00:04:40,488
+little bit earlier. 
+
+76
+00:04:40,488 --> 00:04:43,599
+ >> The last thing we want to talk to you 
+about is how to spend your time wisely so 
+
+77
+00:04:43,599 --> 00:04:47,946
+that you get the most out of this course? 
+One way to do this is thorough testing. 
+
+78
+00:04:47,946 --> 00:04:52,569
+Now, testing has pretty bad reputation, 
+especially in some circles, but when it's 
+
+79
+00:04:52,569 --> 00:04:55,730
+done, right it can really help you retain 
+information. 
+
+80
+00:04:55,730 --> 00:04:59,636
+So if you take the passive sponge 
+approach that Susan described to you, you 
+
+81
+00:04:59,636 --> 00:05:03,983
+might feel like you're getting all of the 
+information, that you're understanding 
+
+82
+00:05:03,983 --> 00:05:06,561
+everything. 
+But, until you put yourself into a 
+
+83
+00:05:06,561 --> 00:05:11,169
+slightly vulnerable position, you might 
+not realize that you haven't picked up as 
+
+84
+00:05:11,169 --> 00:05:14,554
+much of it as you thought. 
+What the research suggests on this and we 
+
+85
+00:05:14,554 --> 00:05:18,194
+supplied you with an article in the 
+Pre-course Recommended Reading, is that, 
+
+86
+00:05:18,194 --> 00:05:21,666
+when we're passively absorbing 
+information and everything seems to make 
+
+87
+00:05:21,666 --> 00:05:25,474
+sense, we're not aware of those gaps in 
+our understanding that really only reveal 
+
+88
+00:05:25,474 --> 00:05:28,248
+themselves once we try to retrieve that 
+information. 
+
+89
+00:05:28,248 --> 00:05:33,84
+So our brains go uh-oh, I guess I didn't 
+really understand that, as well as I 
+
+90
+00:05:33,84 --> 00:05:36,582
+thought I did, and we try to fill in that 
+information. 
+
+91
+00:05:36,582 --> 00:05:40,252
+And, once we try to fill in those gaps, 
+we start to learn more. 
+
+92
+00:05:40,252 --> 00:05:44,770
+So, it turns out that highlighting is 
+mostly a waste of time. 
+
+93
+00:05:44,770 --> 00:05:47,720
+I can't get sued by the highlighter 
+companies for that, can I? 
+
+94
+00:05:47,720 --> 00:05:51,816
+Unless you just want to add some color to 
+an otherwise drab piece of paper, it's 
+
+95
+00:05:51,816 --> 00:05:53,248
+not going to get you very far. 
+
+96
+00:05:53,248 --> 00:06:04,394
+ >> We know you want to learn, so test 
+yourself. 
+
+97
+00:06:04,394 --> 00:06:07,31
+[MUSIC]. 
+

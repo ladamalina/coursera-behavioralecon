@@ -1,0 +1,900 @@
+
+1
+00:00:00,777 --> 00:00:08,325
+One of the most interesting findings in
+behavioral economics, and definitely in
+
+2
+00:00:08,325 --> 00:00:14,580
+one of the earliest finding, has been this
+idea of loss of aversion.
+
+3
+00:00:14,580 --> 00:00:20,894
+And loss of aversion is the idea that we
+get happy when we make money.
+
+4
+00:00:20,894 --> 00:00:27,067
+But, we really suffer when we lose money.
+So, for example, ask yourself, if I flip
+
+5
+00:00:27,067 --> 00:00:32,108
+the coin and you got the $150.
+If it fell on tails and you lost a $100,
+
+6
+00:00:32,108 --> 00:00:35,398
+if it fell on heads would you take this
+bet?
+
+7
+00:00:35,398 --> 00:00:38,970
+The expected value is positive, but would
+you take it?
+
+8
+00:00:38,970 --> 00:00:42,675
+Most people would say no.
+And if you say yes to that one, what about
+
+9
+00:00:42,675 --> 00:00:47,570
+if the positive was 125 and the negative
+was minus 100, will you take that?
+
+10
+00:00:47,570 --> 00:00:52,662
+At some point, most people say I would not
+take it even though the expected value,
+
+11
+00:00:52,662 --> 00:00:55,791
+the average of those two outcomes is
+positive.
+
+12
+00:00:55,792 --> 00:01:00,181
+Also, if you've invested in the stock
+market, you probably realize that on days
+
+13
+00:01:00,181 --> 00:01:04,521
+when you make 2%, you're happy.
+But on days that you lose 2%, you're
+
+14
+00:01:04,521 --> 00:01:08,594
+really miserable.
+And this asymmetry around the neutral
+
+15
+00:01:08,594 --> 00:01:13,290
+point has become very important, and this
+be calling Loss Aversion.
+
+16
+00:01:13,290 --> 00:01:18,972
+Gains make us happy, but losses make us
+really miserable.
+
+17
+00:01:18,973 --> 00:01:24,447
+And there are all kind of consequences of
+this idea of, of loss aversion.
+
+18
+00:01:24,447 --> 00:01:30,560
+For example, it's important to realize
+that the losses are not just around the
+
+19
+00:01:30,560 --> 00:01:35,659
+zero, it's around where you are.
+So, for example, imagine that all of a
+
+20
+00:01:35,659 --> 00:01:39,882
+sudden I give you some salary.
+I give you maybe $50,000 a year as a
+
+21
+00:01:39,882 --> 00:01:43,034
+salary.
+Once I gave you that amount of money, what
+
+22
+00:01:43,034 --> 00:01:46,419
+do you think about the reduction of your
+salary?
+
+23
+00:01:46,420 --> 00:01:49,065
+Are you looking at compared to zero?
+No.
+
+24
+00:01:49,065 --> 00:01:52,664
+You look at it from this new point of
+making $50,000.
+
+25
+00:01:52,664 --> 00:01:58,502
+And if I try to take something away from
+you, it's becoming incredibly unpleasant.
+
+26
+00:01:58,503 --> 00:02:02,120
+So, how might we use this idea of loss
+aversion?
+
+27
+00:02:02,120 --> 00:02:05,040
+First of all, let's think about the
+following example.
+
+28
+00:02:05,040 --> 00:02:09,380
+Imagine that you're working for me, you're
+a sales person and you're selling TVs for
+
+29
+00:02:09,380 --> 00:02:13,290
+example.
+And you're selling TV A and TVs B's.
+
+30
+00:02:13,290 --> 00:02:17,192
+And both of those companies pay
+commission.
+
+31
+00:02:17,192 --> 00:02:22,408
+Company A pays you when you sell a TV A's,
+and company B sell you gives you
+
+32
+00:02:22,408 --> 00:02:28,386
+commission when you sell TV B.
+How could these companies get you to sell
+
+33
+00:02:28,386 --> 00:02:32,360
+more of their TVs?
+Of course, they could increase their
+
+34
+00:02:32,360 --> 00:02:35,116
+commission.
+If you got more commission from one TV,
+
+35
+00:02:35,116 --> 00:02:38,341
+you would sell that more.
+If you got more commission from the other
+
+36
+00:02:38,341 --> 00:02:42,037
+TV, you would sell that more.
+But can we use loss aversion?
+
+37
+00:02:42,038 --> 00:02:46,227
+So, imagine what would happen if one of
+the companies prepaid you.
+
+38
+00:02:46,228 --> 00:02:51,322
+They, they said look, we think that this
+year you're going to sell 300 TVs from our
+
+39
+00:02:51,322 --> 00:02:55,062
+TVs and we're going to give you all the
+commission up front.
+
+40
+00:02:55,062 --> 00:03:01,057
+And then, every TV you don't sell that is
+ours, you have to give us the money back.
+
+41
+00:03:01,058 --> 00:03:05,362
+So, we run many experiments like this.
+And we get people to be in the position of
+
+42
+00:03:05,362 --> 00:03:08,698
+the salesperson.
+And for one type of TV they sell, they get
+
+43
+00:03:08,698 --> 00:03:13,686
+commission after the fact.
+And for the other type of TV, they get the
+
+44
+00:03:13,686 --> 00:03:17,544
+comission in advance as if they always
+sold just this TV.
+
+45
+00:03:17,544 --> 00:03:22,807
+And then, they can, if they don't sell the
+TV, they have to give the money back.
+
+46
+00:03:22,808 --> 00:03:27,394
+So, imagine for example, that I am the
+salesperson.
+
+47
+00:03:27,394 --> 00:03:31,611
+And if I sell one of the TVs, TV B, I make
+$12.
+
+48
+00:03:31,611 --> 00:03:34,050
+But then, if I, and if I sell TV A, I make
+$10.
+
+49
+00:03:34,050 --> 00:03:39,072
+But if TV A prepays me, it means that if I
+sell, if I sell TV B I get $12 and I have
+
+50
+00:03:39,072 --> 00:03:45,007
+to pay back $10.
+Now, it's still a good deal for me because
+
+51
+00:03:45,007 --> 00:03:50,895
+I get more money and have to get rid of
+less, right?
+
+52
+00:03:50,895 --> 00:03:55,860
+If I sell TV A, I'm, I'm, I've gotten $10
+and nothing happened.
+
+53
+00:03:55,860 --> 00:04:00,570
+If I sell TV B, I have to give back $10
+but I actually made more money.
+
+54
+00:04:00,570 --> 00:04:05,855
+What happened in the experiment?
+People oversell the TV that's prepaid.
+
+55
+00:04:05,855 --> 00:04:09,542
+Even when it's irrational, even when they
+lose money.
+
+56
+00:04:09,542 --> 00:04:14,624
+Which suggests that once you give people
+money, they value that money to a higher
+
+57
+00:04:14,624 --> 00:04:19,905
+degree, they don't want to give it up.
+And because of that, they are redirecting
+
+58
+00:04:19,905 --> 00:04:22,992
+their efforts.
+Here's another way to think about how
+
+59
+00:04:22,992 --> 00:04:26,269
+these effects might work.
+So, imagine you work for a company.
+
+60
+00:04:26,270 --> 00:04:30,376
+And every month you can save money in your
+retirement plan.
+
+61
+00:04:30,376 --> 00:04:35,290
+And the way it usually works is that you
+put some money in, let's say 5% of your
+
+62
+00:04:35,290 --> 00:04:38,670
+salary, and the company matches 5% of your
+salary.
+
+63
+00:04:38,670 --> 00:04:43,290
+And those 5%, and 5% go into your
+long-term savings account.
+
+64
+00:04:43,290 --> 00:04:46,677
+Now, what if your company actually matches
+up to 10%?
+
+65
+00:04:46,677 --> 00:04:51,760
+If you're putting 5 and they're putting 5,
+you're leaving some money on the table but
+
+66
+00:04:51,760 --> 00:04:55,660
+you don't see it being left on the table.
+One of the things that we predict would
+
+67
+00:04:55,660 --> 00:05:00,703
+happen is the following.
+What if the company gave 10% up front and
+
+68
+00:05:00,703 --> 00:05:05,224
+then you matched it?
+But you only put 5%.
+
+69
+00:05:05,224 --> 00:05:09,942
+And then, they take those other 5% that
+you did not match, and they take it back.
+
+70
+00:05:09,943 --> 00:05:13,561
+Now, we have the principal of loss
+aversion working, right?
+
+71
+00:05:13,562 --> 00:05:17,523
+Now, you see money going into your
+long-term savings.
+
+72
+00:05:17,524 --> 00:05:21,290
+You see that you are not matching all of
+it, and you see some of it going away.
+
+73
+00:05:21,290 --> 00:05:25,524
+And the idea is that money that we don't
+get, it's a shame.
+
+74
+00:05:25,525 --> 00:05:29,240
+But money that goes away have a lot of
+psychological impact.
+
+75
+00:05:29,240 --> 00:05:35,136
+And because of the prediction is that
+under those conditions, people would save
+
+76
+00:05:35,136 --> 00:05:38,116
+more money.
+There's another implication for loss
+
+77
+00:05:38,116 --> 00:05:42,743
+aversion which is very interesting, which
+is something called the endowment effect.
+
+78
+00:05:42,743 --> 00:05:47,549
+And again, the idea is once we get
+something, we get used to owning it.
+
+79
+00:05:47,550 --> 00:05:52,202
+And from that starting point, we think
+about gaining from that perspective, or
+
+80
+00:05:52,202 --> 00:05:56,408
+losing from that perspective.
+But we've adjusted to this new level of
+
+81
+00:05:56,408 --> 00:05:59,230
+ownership, right?
+We get the salary, we get the house.
+
+82
+00:05:59,230 --> 00:06:03,130
+Whatever it is.
+The initial experiments on the endowment
+
+83
+00:06:03,130 --> 00:06:07,190
+effect were done with mugs.
+They took a big group of students.
+
+84
+00:06:07,190 --> 00:06:11,377
+They gave half of them mugs and they gave
+half of them candy.
+
+85
+00:06:11,378 --> 00:06:17,022
+And then they said, look, the people who
+have the mugs, how much would you sell
+
+86
+00:06:17,022 --> 00:06:20,010
+your mug for?
+And then they told them, and how much
+
+87
+00:06:20,010 --> 00:06:23,350
+would you pay for candy?
+And the people who had the candy, the
+
+88
+00:06:23,350 --> 00:06:26,062
+chocolate bar, they say, how much would
+you sell?
+
+89
+00:06:26,062 --> 00:06:29,170
+You can be, bar four, and how much would
+you buy a mug for?
+
+90
+00:06:29,170 --> 00:06:33,726
+Now, because you assigned the mugs and the
+candies randomly, 50% of the people got
+
+91
+00:06:33,726 --> 00:06:38,198
+those, 50% of the people got those.
+You would expect that for 50%, they would
+
+92
+00:06:38,198 --> 00:06:41,769
+prefer the other good.
+But what happens when you do it?
+
+93
+00:06:41,770 --> 00:06:46,579
+Almost nobody switches.
+The people who owned mugs say, oh my
+
+94
+00:06:46,579 --> 00:06:49,927
+goodness, mugs are wonderful.
+I don't want to give them up.
+
+95
+00:06:49,927 --> 00:06:52,467
+Let me keep them.
+I'm not willing to give them up.
+
+96
+00:06:52,468 --> 00:06:56,080
+People who owned the candy bars say, oh,
+candy bars are just fantastic.
+
+97
+00:06:56,080 --> 00:07:01,691
+I'm not willing to give up the candy.
+So, what happen is the moment you give
+
+98
+00:07:01,691 --> 00:07:04,800
+people mugs, they get used to mugs.
+They think mugs are great.
+
+99
+00:07:04,800 --> 00:07:08,297
+And they want a high price for giving up
+these mugs.
+
+100
+00:07:08,298 --> 00:07:11,520
+The people who get candy, all of a sudden,
+want a high price for candy.
+
+101
+00:07:11,520 --> 00:07:15,379
+And because of that, there's no switching
+in this marketplace.
+
+102
+00:07:15,380 --> 00:07:19,671
+We did these experiments with Duke
+basketball tickets.
+
+103
+00:07:19,671 --> 00:07:23,260
+I teach at Duke.
+At Duke, there's a huge basketball team.
+
+104
+00:07:23,260 --> 00:07:26,047
+It's really important for the students.
+It's something very central.
+
+105
+00:07:26,047 --> 00:07:30,271
+And toward the end of the season, if the
+team is doing very well, there's some
+
+106
+00:07:30,271 --> 00:07:34,426
+really important games.
+And the students are camping in order to
+
+107
+00:07:34,426 --> 00:07:37,963
+get tickets for these games.
+But in that particular year, there were
+
+108
+00:07:37,963 --> 00:07:40,642
+not going to be enough tickets for all the
+students.
+
+109
+00:07:40,642 --> 00:07:43,820
+So, the students camped out in order to be
+in line for the tickets.
+
+110
+00:07:43,820 --> 00:07:47,288
+They camped for many days.
+And at the end of those many days, they
+
+111
+00:07:47,288 --> 00:07:49,828
+had a lottery.
+And they said, well, all of you camped,
+
+112
+00:07:49,828 --> 00:07:52,962
+all of you deserve tickets.
+But, we don't have tickets for all of you.
+
+113
+00:07:52,962 --> 00:07:57,395
+So, we're going to have a lottery and some
+of you are going to get the tickets and
+
+114
+00:07:57,395 --> 00:08:00,650
+some of you are not.
+So, we had the group that all had high
+
+115
+00:08:00,650 --> 00:08:05,411
+interest in those tickets and they were
+randomly assigned by the lottery to people
+
+116
+00:08:05,411 --> 00:08:08,883
+who are ticket owners and people who are
+not ticket owners.
+
+117
+00:08:08,883 --> 00:08:11,656
+So, together we achieve common, we called
+up these people.
+
+118
+00:08:11,656 --> 00:08:16,418
+We found out what the lottery outcome was.
+And we knew who was the ticket owner and
+
+119
+00:08:16,418 --> 00:08:21,228
+who was not, and we called them up and we
+said, hey, if you're a ticket owner, can
+
+120
+00:08:21,228 --> 00:08:24,980
+we tempt you to sell us the tickets?
+And if you were not a ticket owner, we
+
+121
+00:08:24,980 --> 00:08:27,990
+said, hey, we might get a ticket for you.
+How much would you pay for it?
+
+122
+00:08:27,990 --> 00:08:32,386
+What happened?
+The people who were ticket owners wanted
+
+123
+00:08:32,386 --> 00:08:36,350
+about $2,000 to give up their tickets.
+Lots of money.
+
+124
+00:08:36,350 --> 00:08:41,036
+The people who did not have tickets were
+willing to buy one for a hundred and some
+
+125
+00:08:41,036 --> 00:08:45,210
+dollars but not more than that.
+What happened is the moment people became
+
+126
+00:08:45,210 --> 00:08:49,498
+ticket owners, they value it to a higher
+degree, and giving it up became much more
+
+127
+00:08:49,498 --> 00:08:52,909
+important.
+The people who did not own the ticket did
+
+128
+00:08:52,909 --> 00:08:55,555
+not value it as much.
+Now, not only that.
+
+129
+00:08:55,555 --> 00:09:00,594
+But when we asked them to explain their
+reasons, the reasons were very different.
+
+130
+00:09:00,594 --> 00:09:03,650
+Now, these two people are on two sides of
+the transaction.
+
+131
+00:09:03,650 --> 00:09:06,874
+They have reasons for switching to the
+other side and they have reasons for
+
+132
+00:09:06,874 --> 00:09:09,864
+keeping where they are.
+If you have a ticket, you have a reason to
+
+133
+00:09:09,864 --> 00:09:13,640
+try and sell the ticket to get money, and
+you have your reasons to go to the game.
+
+134
+00:09:13,640 --> 00:09:17,174
+If you don't have a ticket, you have
+reasons to go to the game, and to keep the
+
+135
+00:09:17,174 --> 00:09:20,920
+money or not to spend the money.
+But what we heard from people when we
+
+136
+00:09:20,920 --> 00:09:25,380
+asked them why, were reasons only about
+their side of the transaction.
+
+137
+00:09:25,380 --> 00:09:31,030
+People who had this ticket said, going to
+his game is going to be my defining moment
+
+138
+00:09:31,030 --> 00:09:33,622
+to do.
+It's going to be incredibly important,
+
+139
+00:09:33,622 --> 00:09:36,881
+it's something that would be the capstone
+of my experience.
+
+140
+00:09:36,881 --> 00:09:39,450
+I will tell my children about it and my
+grandchildren about it.
+
+141
+00:09:39,450 --> 00:09:41,710
+I'll keep on remember it.
+I'll think about it.
+
+142
+00:09:41,710 --> 00:09:46,940
+It'll be a huge part of my experience.
+The people who did not have the ticket,
+
+143
+00:09:46,940 --> 00:09:51,011
+could also give us this reason.
+They could say, I want to go to the game
+
+144
+00:09:51,011 --> 00:09:55,555
+because it will be apart of my life,
+telling my children, but no, those people
+
+145
+00:09:55,555 --> 00:09:59,192
+thought about the money.
+They said, well, I don't want to spend so
+
+146
+00:09:59,192 --> 00:10:02,370
+much money on a ticket.
+I can go to a bar, I could see the game
+
+147
+00:10:02,370 --> 00:10:06,859
+for free, and maybe buy some drinks, and
+that would actually be more interesting
+
+148
+00:10:06,859 --> 00:10:10,190
+for me.
+So, what happens is the moment you move on
+
+149
+00:10:10,190 --> 00:10:15,527
+the ownership curve, you start to evaluate
+things from that perspective.
+
+150
+00:10:15,528 --> 00:10:19,390
+And you think very differently about what
+you're going to lose and what you're going
+
+151
+00:10:19,390 --> 00:10:22,016
+to gain.
+And in that particular case, when you're
+
+152
+00:10:22,016 --> 00:10:26,368
+thinking about selling a ticket, you're
+thinking about what you're going to give
+
+153
+00:10:26,368 --> 00:10:28,520
+up, the ticket.
+And that's what you focus on.
+
+154
+00:10:28,520 --> 00:10:31,308
+And that's what you think about the
+experiences.
+
+155
+00:10:31,308 --> 00:10:33,500
+If you have money but no ticket, what are
+you thinking?
+
+156
+00:10:33,500 --> 00:10:37,382
+You're thinking about giving up the money.
+You're thinking about that side of the
+
+157
+00:10:37,382 --> 00:10:40,693
+transaction.
+So, it seems that loss of aversion is a
+
+158
+00:10:40,693 --> 00:10:45,200
+very general way for us to think about
+what we have and what we own.
+
+159
+00:10:45,200 --> 00:10:50,678
+And the moment you own something, you
+think about your changes in terms of gains
+
+160
+00:10:50,678 --> 00:10:56,073
+and losses, and then losses are more
+salient and prominent, and actually more
+
+161
+00:10:56,073 --> 00:11:00,308
+important in our decision.
+As a final thing, you can think about what
+
+162
+00:11:00,308 --> 00:11:03,677
+does 30 day money back guarantee basically
+provide.
+
+163
+00:11:03,677 --> 00:11:08,679
+It basically says, yeah, look.
+Why don't you buy a sofa, take it home,
+
+164
+00:11:08,679 --> 00:11:12,595
+see how it is, and you could always bring
+it back, right?
+
+165
+00:11:12,595 --> 00:11:15,450
+And from you as a consumer, it says, okay,
+I have no risk.
+
+166
+00:11:15,450 --> 00:11:20,845
+I can take this sofa home, I can try it, I
+can get, I can get see how it works for
+
+167
+00:11:20,845 --> 00:11:22,726
+me.
+What you don't probably appreciate is loss
+
+168
+00:11:22,726 --> 00:11:26,767
+aversion, the endowment affect.
+Probably what you don't appreciate is by
+
+169
+00:11:26,767 --> 00:11:33,332
+the time you bring the sofa home, and you
+use it for a few days, you become to like
+
+170
+00:11:33,332 --> 00:11:38,800
+it to a slightly higher degree.
+All of a sudden, it's yours, and giving it
+
+171
+00:11:38,800 --> 00:11:42,126
+up is more difficult.
+So, while you initially value the
+
+172
+00:11:42,126 --> 00:11:46,481
+transaction and saying, oh, that's not a
+big deal, let me just take it home and I
+
+173
+00:11:46,481 --> 00:11:50,250
+will evaluate how it works.
+Once you take it home, you get used to it.
+
+174
+00:11:50,250 --> 00:11:55,050
+You change your position to think of
+yourself as an owner of that sofa.
+
+175
+00:11:55,050 --> 00:11:58,371
+Now, all of a sudden, giving it up is
+tougher.
+
+176
+00:11:58,372 --> 00:12:01,669
+So, in summary, loss of aversion is really
+interesting.
+
+177
+00:12:01,669 --> 00:12:05,630
+It's one of the first important findings
+in behavioral economics.
+
+178
+00:12:05,630 --> 00:12:07,487
+And if you think about it, it's
+everywhere.
+
+179
+00:12:07,487 --> 00:12:12,734
+And you can also think about how to
+introduce it in places where people could
+
+180
+00:12:12,734 --> 00:12:17,833
+actually be prompted by it, like in
+financial savings, to behave better.

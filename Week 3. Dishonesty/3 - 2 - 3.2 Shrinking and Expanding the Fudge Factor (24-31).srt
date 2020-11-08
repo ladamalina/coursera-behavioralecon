@@ -1,0 +1,1865 @@
+
+1
+00:00:00,652 --> 00:00:06,862
+So what we thought, was that maybe what's
+going on here, and there's a fudge factor,
+
+2
+00:00:06,862 --> 00:00:12,722
+that people try to balance two forces.
+On one hand, we want to look at the mirror
+
+3
+00:00:12,722 --> 00:00:18,863
+and feel that we're good honest wonderful
+moral people, that's the psychological
+
+4
+00:00:18,863 --> 00:00:24,977
+benefit of viewing ourself positively.
+On the other hand, we want to benefit from
+
+5
+00:00:24,977 --> 00:00:30,080
+cheating, that's the economic incentive.
+Now usually you would say, you can have
+
+6
+00:00:30,080 --> 00:00:32,749
+one or the other.
+How can you both think of yourself as a
+
+7
+00:00:32,749 --> 00:00:36,180
+wonderful honest person, and benefit from
+cheating at the same time?
+
+8
+00:00:36,180 --> 00:00:39,772
+It doesn't work.
+Well, maybe, maybe due to our flexible
+
+9
+00:00:39,772 --> 00:00:45,148
+cognitive ability, maybe due to the fact
+that we can rationalize things very
+
+10
+00:00:45,148 --> 00:00:50,776
+quickly, as long as we cheat just a little
+bit, we can both benefit from cheating,
+
+11
+00:00:50,776 --> 00:00:55,610
+just a little bit, and we can still view
+ourself as honorable people.
+
+12
+00:00:55,610 --> 00:01:00,018
+And that's what we call the fudge factor.
+That the moment we start creating a
+
+13
+00:01:00,018 --> 00:01:04,698
+dishonest behavior, there's a range before
+it invokes a different concept of
+
+14
+00:01:04,698 --> 00:01:07,746
+ourselves.
+And in that range, we could both be
+
+15
+00:01:07,746 --> 00:01:11,617
+dishonest, and still think of our self as
+honest people.
+
+16
+00:01:11,618 --> 00:01:17,550
+So how do we test this kind of a theory?
+The first thing we wanted to do, is we
+
+17
+00:01:17,550 --> 00:01:21,080
+wanted to take some approaches and shrink
+the fudge factor.
+
+18
+00:01:21,080 --> 00:01:26,136
+We want to get people to cheat less by,
+but not by manipulating their economic
+
+19
+00:01:26,136 --> 00:01:29,256
+variables.
+And the first idea for this came from a
+
+20
+00:01:29,256 --> 00:01:31,824
+little joke.
+And the joke is that a guy goes to the
+
+21
+00:01:31,824 --> 00:01:35,982
+Rabbi and he said, Rabbi you wouldn't
+believe what happened to me, somebody
+
+22
+00:01:35,982 --> 00:01:39,656
+stole my bicycle from Synagogue.
+And the Rabbi is appalled, he say I can't
+
+23
+00:01:39,656 --> 00:01:42,260
+believe this is happening, this is awful,
+this is terrible.
+
+24
+00:01:42,260 --> 00:01:46,050
+I tell you what you do, come to synagogue
+next week and sit in the front row.
+
+25
+00:01:46,050 --> 00:01:51,528
+And as we go over the Ten Commandments,
+turn around, and look at everybody in the
+
+26
+00:01:51,528 --> 00:01:54,304
+aisles.
+And when we get to Thou Shalt Not Steal,
+
+27
+00:01:54,304 --> 00:01:57,992
+see who can't look you in the eyes, you'll
+know that's your thief.
+
+28
+00:01:57,993 --> 00:02:01,067
+The guy's very excited about the advice.
+The rabbi is very excited about the
+
+29
+00:02:01,067 --> 00:02:03,412
+advice.
+He comes to synagogue, sit in the front
+
+30
+00:02:03,412 --> 00:02:05,915
+row, turns around during the Ten
+Commandments.
+
+31
+00:02:05,915 --> 00:02:08,408
+He comes to the Rabbi at the end of the
+service.
+
+32
+00:02:08,408 --> 00:02:13,745
+He says, "Rabbi, you wouldn't believe it.
+What a fantastic idea, it worked just like
+
+33
+00:02:13,745 --> 00:02:17,927
+a charm.
+The moment, the moment we got to "Thou
+
+34
+00:02:17,927 --> 00:02:23,957
+shall not commit adultery" I remembered
+where I left my bike.
+
+35
+00:02:23,957 --> 00:02:27,240
+Now where, [laugh] where is this joke
+leading us?
+
+36
+00:02:27,240 --> 00:02:31,310
+You probably think to yourself where is
+the experiment in this thing?
+
+37
+00:02:31,310 --> 00:02:35,918
+Well, we went to UCLA, and we asked about
+500 students to try and recall the ten
+
+38
+00:02:35,918 --> 00:02:38,576
+commandments.
+Interestingly by the way, none of them
+
+39
+00:02:38,576 --> 00:02:42,074
+could recall all ten commandments and
+quite a few of them invented new ones, but
+
+40
+00:02:42,074 --> 00:02:47,924
+that's a topic for a different discussion.
+But after getting them to try and recall
+
+41
+00:02:47,924 --> 00:02:51,376
+the ten commandments we gave them the same
+math task.
+
+42
+00:02:51,376 --> 00:02:55,938
+And we were wondering how much would they
+cheat after just thinking about the ten
+
+43
+00:02:55,938 --> 00:02:57,489
+commandments.
+What did we see?
+
+44
+00:02:57,489 --> 00:03:01,438
+Zero cheating.
+Now it wasn't as if the people remembered
+
+45
+00:03:01,438 --> 00:03:05,425
+moral commandments.
+Presuming the more religious people
+
+46
+00:03:05,425 --> 00:03:09,110
+cheated less, and the people who could
+hardly remember any commandment cheated
+
+47
+00:03:09,110 --> 00:03:11,938
+more?
+No, nobody cheated.
+
+48
+00:03:11,938 --> 00:03:16,774
+In fact even when we take self-declared
+atheist, and we asked them to swear on the
+
+49
+00:03:16,774 --> 00:03:21,382
+Bible, and then we give them a chance to
+steal from us in the same way in the same
+
+50
+00:03:21,382 --> 00:03:26,850
+task, we see no cheating whatsoever.
+So this suggests that it's not about
+
+51
+00:03:26,850 --> 00:03:30,945
+cost-benefit, it's not about people
+thinking about heaven or hell and this is
+
+52
+00:03:30,945 --> 00:03:35,136
+why they should be honest or not.
+It's about reminding people about their
+
+53
+00:03:35,136 --> 00:03:39,759
+own morality, because even if you remind
+people about morality that is not their
+
+54
+00:03:39,759 --> 00:03:43,662
+own, like atheists are being reminded
+about the Ten Commandments.
+
+55
+00:03:43,662 --> 00:03:48,422
+Being, thinking, just thinking about
+morality, shrinks our fudge factor, get us
+
+56
+00:03:48,422 --> 00:03:52,902
+to be a bit more careful about our own
+behavior and therefore allowing us to be
+
+57
+00:03:52,902 --> 00:03:56,665
+more, more honest.
+Now, eh, this was kind of an interesting
+
+58
+00:03:56,665 --> 00:03:59,700
+idea.
+But you know religion and civic society
+
+59
+00:03:59,700 --> 00:04:05,220
+and there's all kinds of issues whether we
+want to involve religion in many, in many
+
+60
+00:04:05,220 --> 00:04:10,180
+places, so the next thing we decided to do
+was to try a secular version of it.
+
+61
+00:04:10,180 --> 00:04:13,230
+And at the university it's very natural to
+use the honor code.
+
+62
+00:04:13,230 --> 00:04:16,560
+So we did this model at MIT and at Yale.
+We went to the students.
+
+63
+00:04:16,560 --> 00:04:19,860
+And we edit one sentence to the beginning
+of the test.
+
+64
+00:04:19,860 --> 00:04:24,496
+I understand that this short survey falls
+under the MIT or Yale honor code
+
+65
+00:04:24,496 --> 00:04:27,476
+signature.
+What happened?
+
+66
+00:04:27,476 --> 00:04:32,357
+People signed, they did the test, they
+shredded, no cheating whatsoever.
+
+67
+00:04:32,358 --> 00:04:37,188
+And no cheating whatsoever despite the
+fact that neither MIT nor Yale actually
+
+68
+00:04:37,188 --> 00:04:40,780
+have an honor code.
+Now this means that those two universities
+
+69
+00:04:40,780 --> 00:04:44,064
+don't have specific costs associated with
+cheating.
+
+70
+00:04:44,065 --> 00:04:49,851
+But nevertheless, being reminded about
+some moral element decreased cheating so
+
+71
+00:04:49,851 --> 00:04:54,075
+dramatically we couldn't detect any.
+Now in contrast, we went to another
+
+72
+00:04:54,075 --> 00:04:56,220
+university that has a very strong honor
+code.
+
+73
+00:04:56,220 --> 00:04:59,150
+We went to Princeton.
+Princeton has a very strong honor code.
+
+74
+00:04:59,150 --> 00:05:05,463
+They take the freshmen and they give them
+a, a week long, a lesson on honesty.
+
+75
+00:05:05,463 --> 00:05:09,694
+There's lectures and discussion, the a
+capella group has a song about it, it's,
+
+76
+00:05:09,694 --> 00:05:12,102
+the whole week is a crash course on
+morality.
+
+77
+00:05:12,102 --> 00:05:16,400
+We waited two weeks, after these freshmen
+finished with their crash course on
+
+78
+00:05:16,400 --> 00:05:20,822
+morality, and we tempted them to cheat in
+the same way, some of them with signing,
+
+79
+00:05:20,822 --> 00:05:24,361
+some of them without signing.
+What do you think happened?
+
+80
+00:05:24,361 --> 00:05:27,840
+Would the Princeton student be different
+than the Yale, and MIT student?
+
+81
+00:05:27,840 --> 00:05:30,550
+They were not.
+When they did not sign the code, they
+
+82
+00:05:30,550 --> 00:05:33,180
+cheated just like the MIT and Yale
+student.
+
+83
+00:05:33,180 --> 00:05:37,982
+When they signed, they didn't cheat just
+like the MIT and Yale students.
+
+84
+00:05:37,982 --> 00:05:42,228
+So this is kind of a good news, bad news.
+The bad news, is that a week-long crash
+
+85
+00:05:42,228 --> 00:05:47,940
+course on morality doesn't seem to have
+any measurable effects two weeks down the
+
+86
+00:05:47,940 --> 00:05:51,320
+road, at least not the Princeton version
+of it.
+
+87
+00:05:51,320 --> 00:05:57,638
+And I think the same thing applies to many
+corporate lessons and, university, classes
+
+88
+00:05:57,638 --> 00:06:01,680
+and so on, in morality.
+Morality training just doesn't seem to be
+
+89
+00:06:01,680 --> 00:06:06,052
+that effective, that's the bad news.
+The good news, is that reminding people
+
+90
+00:06:06,052 --> 00:06:10,532
+about their own morality, whether it has
+consequences or not when, like Princeton,
+
+91
+00:06:10,532 --> 00:06:15,012
+it has really huge penalty if you're being
+caught cheating versus MIT and Yale, that
+
+92
+00:06:15,012 --> 00:06:18,252
+you don't, that seemed to actually make a
+big difference.
+
+93
+00:06:18,252 --> 00:06:22,352
+So rather than thinking about global
+cultural changes, that might be very nice
+
+94
+00:06:22,352 --> 00:06:25,884
+but very hard to achieve.
+Maybe what we need to focus on, is to
+
+95
+00:06:25,884 --> 00:06:31,060
+think about how we change things just
+before people are tempted to be dishonest.
+
+96
+00:06:31,060 --> 00:06:35,941
+In the next version of this we tried one
+more thing, we tried some people signed
+
+97
+00:06:35,941 --> 00:06:40,257
+first, before they did the test, and some
+people signed afterward.
+
+98
+00:06:40,258 --> 00:06:43,440
+What did we find?
+If you signed first, people don't cheat.
+
+99
+00:06:43,440 --> 00:06:47,235
+If you sign at the end, people cheat just
+a lot, because it's finished, you finished
+
+100
+00:06:47,235 --> 00:06:50,127
+cheating.
+And so with this idea we went to the IRS
+
+101
+00:06:50,127 --> 00:06:53,407
+and we said to the IRS think about all the
+IRS forms.
+
+102
+00:06:53,408 --> 00:06:56,456
+Right.
+People finish the IRS form and then at the
+
+103
+00:06:56,456 --> 00:07:00,898
+end, many pages later you sign.
+At that point your signature is not doing
+
+104
+00:07:00,898 --> 00:07:05,228
+anything to prime morality.
+And nobody's going to say, oh, yes, let me
+
+105
+00:07:05,228 --> 00:07:09,150
+sign, let me go back and fix things.
+No, cheating is over by that time.
+
+106
+00:07:09,150 --> 00:07:12,882
+The form is being finished.
+So we said to the IRS, why don't you put
+
+107
+00:07:12,882 --> 00:07:16,040
+the signature up front?
+Why don't you start by signing?
+
+108
+00:07:16,040 --> 00:07:20,804
+Eh, well the people at the IRS said this
+is illegal, because signature is meant for
+
+109
+00:07:20,804 --> 00:07:25,500
+verification, not for priming morality.
+And you can actually see how signature has
+
+110
+00:07:25,500 --> 00:07:29,217
+these two very different functions, if
+it's in the front or in the back.
+
+111
+00:07:29,218 --> 00:07:33,300
+So we said okay, we understand this.
+Why don't you put both the signature in
+
+112
+00:07:33,300 --> 00:07:37,814
+the front and the signature in the back?
+Well, they said, the people at the IRS
+
+113
+00:07:37,814 --> 00:07:41,872
+said, well, that's confusing.
+I don't know if you've seen the IRS forms
+
+114
+00:07:41,872 --> 00:07:46,142
+recently, or the IRS tax a code, but you
+know the idea that signing twice is
+
+115
+00:07:46,142 --> 00:07:49,788
+confusing, baffled me a little bit.
+I was speechless.
+
+116
+00:07:49,788 --> 00:07:54,508
+But then I said okay, if that's confusing
+how about if the first item on the tax
+
+117
+00:07:54,508 --> 00:07:59,814
+return, would ask people would you give
+$25 to a task force to fight corruption.
+
+118
+00:07:59,815 --> 00:08:04,030
+And we said this is not just a signature,
+this is asking people whether they want to
+
+119
+00:08:04,030 --> 00:08:07,476
+put money towards something.
+And if people commit, and commit money
+
+120
+00:08:07,476 --> 00:08:11,823
+towards something, there's a good chance
+that later on, they will continue acting
+
+121
+00:08:11,823 --> 00:08:14,367
+in a more, eh, appropriate, honest,
+behavior.
+
+122
+00:08:14,367 --> 00:08:18,088
+Plus, we said, the people that don't want
+to give money a task force to fight
+
+123
+00:08:18,088 --> 00:08:21,231
+corruption, maybe you can audit them, to a
+higher degree.
+
+124
+00:08:21,232 --> 00:08:23,530
+Anyway, the IRS did not want to talk to us
+anymore.
+
+125
+00:08:23,530 --> 00:08:26,302
+But we went to talk to an insurance
+company.
+
+126
+00:08:26,302 --> 00:08:30,446
+Interesting, this was insurance company
+that insures, eh, homes and houses, lots
+
+127
+00:08:30,446 --> 00:08:33,379
+of personal things.
+And they told us, that they think that
+
+128
+00:08:33,379 --> 00:08:37,181
+their cheating, that they are seeing, is
+very much like in our experiments.
+
+129
+00:08:37,181 --> 00:08:42,434
+They think that very few people invent
+burglaries, and arsenies, and larceny, and
+
+130
+00:08:42,434 --> 00:08:47,070
+car theft, but lots and lots and lots of
+people, when something bad happen
+
+131
+00:08:47,070 --> 00:08:51,548
+exaggerated by 10, 15%.
+And they estimated that these exaggeration
+
+132
+00:08:51,548 --> 00:08:56,180
+cost industry about $24 billion, a year
+which is lots and lots of money.
+
+133
+00:08:56,180 --> 00:08:59,393
+I know we through lots of big numbers
+these days, but 24 billion is still a big
+
+134
+00:08:59,393 --> 00:09:03,927
+number.
+So we came up with all kinds of ideas.
+
+135
+00:09:03,928 --> 00:09:08,764
+We said, what if when people were waiting
+on hold, you would play religious music
+
+136
+00:09:08,764 --> 00:09:11,518
+for them?
+What would happen if you would put images
+
+137
+00:09:11,518 --> 00:09:14,120
+of eyes, as if they're being watched, on
+the form?
+
+138
+00:09:14,120 --> 00:09:18,644
+What if you got them to sign first?
+What if you got some declaration that had
+
+139
+00:09:18,644 --> 00:09:22,925
+to do something with religion as well?
+We had all kind of ideas about how you
+
+140
+00:09:22,925 --> 00:09:26,630
+increase, em, honesty.
+But you know, we had lots of good ideals
+
+141
+00:09:26,630 --> 00:09:31,229
+and they had lawyers and when you have
+good ideas and lawyers together in the
+
+142
+00:09:31,229 --> 00:09:35,610
+same room nothing ever happen.
+So after six months of trying very hard to
+
+143
+00:09:35,610 --> 00:09:40,760
+get this, nothing was done.
+But my contact in this insurance company
+
+144
+00:09:40,760 --> 00:09:44,086
+felt very bad for me.
+So he came to me and he gave me this form,
+
+145
+00:09:44,086 --> 00:09:48,370
+where you mail it to people and you ask
+them to report how many miles you drove
+
+146
+00:09:48,370 --> 00:09:50,932
+last year.
+Now imagine you got one of those form,
+
+147
+00:09:50,932 --> 00:09:53,588
+what would you want to shade the number,
+up or down?
+
+148
+00:09:53,588 --> 00:09:57,116
+If you shade it up, it would mean your
+premium would go up, if you shade it down
+
+149
+00:09:57,116 --> 00:10:00,709
+your premium will go down, so you'll
+probably want to shade it down.
+
+150
+00:10:00,710 --> 00:10:05,512
+They gave us 20,000 forms and we did one
+thing, we moved the signature line to the
+
+151
+00:10:05,512 --> 00:10:08,640
+top.
+Half the people got the signature on the
+
+152
+00:10:08,640 --> 00:10:12,221
+top first and half the people got it at
+the bottom.
+
+153
+00:10:12,221 --> 00:10:15,800
+Some people signed first, and then filled
+the mileage, some people fill the mileage
+
+154
+00:10:15,800 --> 00:10:17,660
+then sign.
+What did we see?
+
+155
+00:10:17,660 --> 00:10:22,060
+There was a difference of about 2400 miles
+on average.
+
+156
+00:10:22,060 --> 00:10:27,040
+The people who signed first reported
+driving 2400 miles more.
+
+157
+00:10:27,040 --> 00:10:31,584
+Now we don't know if they didn't cheat at
+all, but we know the cheating was much
+
+158
+00:10:31,584 --> 00:10:34,465
+reduced.
+And that actually gives me great hope that
+
+159
+00:10:34,465 --> 00:10:38,689
+we can create those small interventions
+and get them to work not just in the lab,
+
+160
+00:10:38,689 --> 00:10:42,222
+but get them in the field in all kinds of
+other versions like that.
+
+161
+00:10:42,222 --> 00:10:46,138
+Okay, so all that was about how we shrink
+the fudge factor.
+
+162
+00:10:46,138 --> 00:10:50,761
+How do we get people to, at the moment,
+tolerate less of their own immortality and
+
+163
+00:10:50,761 --> 00:10:56,452
+be more careful about what they're doing?
+The next question we wanted to ask, was
+
+164
+00:10:56,452 --> 00:11:00,047
+how do you get people to cheat more, how
+do you expand the fudge factor?
+
+165
+00:11:00,047 --> 00:11:04,118
+And of course, this is not an objective to
+increase cheating in society, but for the
+
+166
+00:11:04,118 --> 00:11:08,189
+purpose of understanding it, what kind of
+things would get people to cheat more and
+
+167
+00:11:08,189 --> 00:11:10,707
+nevertheless feel comfortable with
+themselves.
+
+168
+00:11:10,708 --> 00:11:12,580
+And the idea here also came from a little
+joke.
+
+169
+00:11:12,580 --> 00:11:16,935
+And the little joke is, that little Johnny
+comes home from school with a note from
+
+170
+00:11:16,935 --> 00:11:20,965
+the teacher that says that little Johnny
+stole a pencil from the kid who was
+
+171
+00:11:20,965 --> 00:11:24,103
+sitting next to him.
+And Johnny's father is furious and he
+
+172
+00:11:24,103 --> 00:11:27,260
+said, Johnny I'm humiliated and
+embarrassed and I'm angry.
+
+173
+00:11:27,260 --> 00:11:31,080
+And you're grounded for three weeks and
+just wait until your mother comes.
+
+174
+00:11:31,080 --> 00:11:34,849
+You never, never, never steal a pencil
+from the kid who is sitting next to you.
+
+175
+00:11:34,850 --> 00:11:39,000
+And beside Johnny if you need something,
+if you need a pencil you know very well
+
+176
+00:11:39,000 --> 00:11:43,591
+you can just say something.
+You can just ask and I will bring you
+
+177
+00:11:43,591 --> 00:11:48,310
+dozens of pencils from work.
+If you find this funny it's probably
+
+178
+00:11:48,310 --> 00:11:52,798
+because you realize that taking a pencil
+from work feels very differently than
+
+179
+00:11:52,798 --> 00:11:57,354
+taking 10 cents from petty cash box, even
+if you were going to use those 10 cents to
+
+180
+00:11:57,354 --> 00:12:01,596
+buy yourself a pencil.
+Perhaps the moment something becomes
+
+181
+00:12:01,596 --> 00:12:05,958
+multiple steps removed from money, there
+are more stories we can tell ourselves.
+
+182
+00:12:05,958 --> 00:12:08,885
+Right, you could say the workplace wants
+us to have these pencils, otherwise they
+
+183
+00:12:08,885 --> 00:12:11,724
+wouldn't put them there.
+Or you could say other people take them,
+
+184
+00:12:11,724 --> 00:12:13,920
+as well.
+Or you could say, even if I take them and
+
+185
+00:12:13,920 --> 00:12:17,440
+give them to my kids, they will leave me
+alone and that would allow me to answer
+
+186
+00:12:17,440 --> 00:12:20,230
+two more emails.
+Good for the workplace.
+
+187
+00:12:20,230 --> 00:12:25,351
+And all of those distance allow us to tell
+ourselves stories, allow us to rationalize
+
+188
+00:12:25,351 --> 00:12:30,319
+things that basically create this ability
+to cheat more, but nevertheless to feel
+
+189
+00:12:30,319 --> 00:12:34,738
+better about ourselves.
+So the first experiment we did on this, is
+
+190
+00:12:34,738 --> 00:12:40,349
+I walked around campus and I put six packs
+of Cokes, in some common refrigerators.
+
+191
+00:12:40,350 --> 00:12:43,492
+Now these were refrigerators that
+everybody had their own stuff, but
+
+192
+00:12:43,492 --> 00:12:46,200
+multiple people had their stuff in the
+same refrigerator.
+
+193
+00:12:46,200 --> 00:12:50,560
+And I basically wanted to see what is the
+half lifetime of Coke.
+
+194
+00:12:50,560 --> 00:12:53,130
+How long will it take for my Cokes to
+disappear?
+
+195
+00:12:53,130 --> 00:12:58,489
+And basically within 72 hours no Cokes
+were left there, everything was gone.
+
+196
+00:12:58,490 --> 00:13:03,770
+Now in contrast, I took a plate with six
+$1 bills, I put in the same refrigerators
+
+197
+00:13:03,770 --> 00:13:06,785
+and I waited.
+And now what happened, nobody touched a
+
+198
+00:13:06,785 --> 00:13:09,864
+single dollar.
+Now the students could have taken a
+
+199
+00:13:09,864 --> 00:13:15,032
+dollar, putting it in the nearby vending
+machine, get coke and change, but nobody
+
+200
+00:13:15,032 --> 00:13:17,412
+did.
+When something is directly about money, we
+
+201
+00:13:17,412 --> 00:13:22,168
+feel very differently about it.
+When something is removed from money, more
+
+202
+00:13:22,168 --> 00:13:27,160
+abstract, there are some stories we can
+tell ourselves, rationalizing and,
+
+203
+00:13:27,160 --> 00:13:31,650
+therefore, we can be more dishonest.
+Now this is not an ideal experiment,
+
+204
+00:13:31,650 --> 00:13:35,790
+because it's often the case that you open
+the refrigerator and you find Coke.
+
+205
+00:13:35,790 --> 00:13:39,255
+It's not so common that you open the
+refrigerator and find a plate with six $1
+
+206
+00:13:39,255 --> 00:13:41,590
+bills, so something must have been very
+strange.
+
+207
+00:13:41,590 --> 00:13:46,920
+So we did the same experiment, the same
+principle with the same matrix test and
+
+208
+00:13:46,920 --> 00:13:51,530
+here's the experiment.
+Some people got the sheet, solved it, came
+
+209
+00:13:51,530 --> 00:13:56,822
+to the experimenter, looked him in the
+eyes and said, Mister experimenter I
+
+210
+00:13:56,822 --> 00:14:01,039
+solved x problems, give me x dollars.
+So they looked him in the eyes and they
+
+211
+00:14:01,039 --> 00:14:04,892
+cheated for dollars.
+The second group did the same thing, but
+
+212
+00:14:04,892 --> 00:14:09,244
+when they came to the experiment, the guy
+looked him in the eyes, and they said, "Mr
+
+213
+00:14:09,244 --> 00:14:12,106
+Experimenter, I solved x problems; give me
+x tokens.
+
+214
+00:14:12,106 --> 00:14:16,201
+So they were lying not for money, they
+were lying for something that is tokens.
+
+215
+00:14:16,201 --> 00:14:19,916
+And we gave them tokens.
+They took 12 feet to the side; they walked
+
+216
+00:14:19,916 --> 00:14:23,980
+12 feet to the side, and they replaced
+these tokens for money.
+
+217
+00:14:23,980 --> 00:14:28,877
+Now they were lying for a pencil, but it
+was a pencil for only a few seconds.
+
+218
+00:14:28,878 --> 00:14:32,902
+It was one step removed from money, but
+for a very, very short duration.
+
+219
+00:14:32,903 --> 00:14:35,920
+What happened?
+Our participant doubled their cheating in
+
+220
+00:14:35,920 --> 00:14:39,390
+that condition.
+And by the way this is for me one of the
+
+221
+00:14:39,390 --> 00:14:41,846
+most worrisome experiments we've ever
+done.
+
+222
+00:14:41,846 --> 00:14:45,746
+Because if you think about it, we're
+moving to becoming a cashless society, as
+
+223
+00:14:45,746 --> 00:14:49,084
+consumers there's all these discussions
+about digital wallets.
+
+224
+00:14:49,084 --> 00:14:53,415
+On Wall Street there's of course all these
+complex financial tools that are becoming
+
+225
+00:14:53,415 --> 00:14:57,390
+more steps removed from money.
+People own more and more things like stock
+
+226
+00:14:57,390 --> 00:14:59,640
+options and things that are removed from
+money.
+
+227
+00:14:59,640 --> 00:15:03,910
+And if being close to money and observing
+it directly is what's keeping us
+
+228
+00:15:03,910 --> 00:15:08,670
+relatively honest, is it the case that in
+all kinds of domains of life, electronic
+
+229
+00:15:08,670 --> 00:15:13,500
+wallets, financial markets, the more this
+distance is increasing, the more we can
+
+230
+00:15:13,500 --> 00:15:17,910
+allow ourselves to both be dishonest and
+think of our self as hon-, as honest
+
+231
+00:15:17,910 --> 00:15:21,198
+people.
+And that really, really worries me.
+
+232
+00:15:21,199 --> 00:15:26,357
+So that was the first thing that got
+people to cheat more, distance from money.
+
+233
+00:15:26,358 --> 00:15:30,594
+The next thing we wondered, is we wondered
+what happened when you watched other
+
+234
+00:15:30,594 --> 00:15:34,938
+people cheat in an egregious way?
+After all we open the newspaper everyday
+
+235
+00:15:34,938 --> 00:15:38,025
+and we see all kinds of stories about big
+cheaters.
+
+236
+00:15:38,025 --> 00:15:42,610
+What is the affect of observing other
+people in society does to our own
+
+237
+00:15:42,610 --> 00:15:45,220
+morality?
+So we repeated this same experiment with
+
+238
+00:15:45,220 --> 00:15:48,410
+two changes.
+The first one was that we prepaid people,
+
+239
+00:15:48,410 --> 00:15:53,417
+everybody got an envelope with all the
+money as if they solved all the problems.
+
+240
+00:15:53,418 --> 00:15:57,212
+And we asked them at the end, to pay us
+back the money they didn't make and to
+
+241
+00:15:57,212 --> 00:16:01,140
+take only the money they deserve.
+That was the first change.
+
+242
+00:16:01,140 --> 00:16:04,310
+The second change was that we hired an
+acting student.
+
+243
+00:16:04,310 --> 00:16:08,888
+That acting student sat in the front seat
+in the, in the classroom.
+
+244
+00:16:08,888 --> 00:16:13,554
+And 30 seconds into the experiment, he
+raised his hand and said, excuse me, I
+
+245
+00:16:13,554 --> 00:16:18,090
+solved everything, what do I do now?
+Now imagine you were in that experiment.
+
+246
+00:16:18,090 --> 00:16:21,402
+You're solving, you're working very hard,
+you're still on problem number one, and
+
+247
+00:16:21,402 --> 00:16:24,587
+all of a sudden you see somebody who
+claimed that they've solved everything.
+
+248
+00:16:24,588 --> 00:16:27,487
+You know for sure, without cheating,
+there's no other way.
+
+249
+00:16:27,488 --> 00:16:30,180
+And the experimenter said, "You've solved
+everything?
+
+250
+00:16:30,180 --> 00:16:33,776
+You're free to go." And you see that
+person taking the envelope with all the
+
+251
+00:16:33,776 --> 00:16:38,052
+money and leaving the room.
+What would happen now to your own
+
+252
+00:16:38,052 --> 00:16:41,120
+morality?
+Lots and lots of moral people cheat.
+
+253
+00:16:41,120 --> 00:16:44,700
+Now there's two ways to interpret this
+result.
+
+254
+00:16:44,700 --> 00:16:48,220
+One is to say this is about cost/benefit
+analysis.
+
+255
+00:16:48,220 --> 00:16:51,919
+Before you saw that guy cheating in an
+egregious way, you thought to yourself, I
+
+256
+00:16:51,919 --> 00:16:54,060
+don't know what's the cost of cheating
+here.
+
+257
+00:16:54,060 --> 00:16:56,540
+Maybe they will catch me.
+Maybe somebody would run after me.
+
+258
+00:16:56,540 --> 00:17:00,892
+But after you saw a demonstration of
+somebody cheating in this egregious way
+
+259
+00:17:00,892 --> 00:17:04,900
+and nobody going after them, you say
+there's no cost here let me cheat.
+
+260
+00:17:04,900 --> 00:17:09,661
+The other possibility, is that it's not
+about the cost benefit analysis, but its
+
+261
+00:17:09,661 --> 00:17:13,676
+about what you call social proof.
+Its about giving people a demonstration
+
+262
+00:17:13,676 --> 00:17:17,924
+that people like them, from their society,
+from their community, students at the same
+
+263
+00:17:17,924 --> 00:17:20,694
+university are cheating in such
+circumstance.
+
+264
+00:17:20,695 --> 00:17:24,916
+And maybe because of that it is okay to
+cheat in those things, not from a moral
+
+265
+00:17:24,916 --> 00:17:29,010
+perspective, but from a social agreement
+persepctive this is the behavior.
+
+266
+00:17:29,010 --> 00:17:33,962
+Here is someone who has done it and is not
+even feeling sorry about that.
+
+267
+00:17:33,962 --> 00:17:37,630
+As an analogy you can think about what if
+everybody around you is downin-,
+
+268
+00:17:37,630 --> 00:17:41,590
+downloading illegal content, at some
+point, do you start saying, okay, this is
+
+269
+00:17:41,590 --> 00:17:46,180
+just, I guess what is okay to do.
+To separate those two things, we tried
+
+270
+00:17:46,180 --> 00:17:48,300
+these two explanations, we tried two
+things.
+
+271
+00:17:48,300 --> 00:17:52,640
+The first one, is that instead of the
+student cheating, we asked him to just
+
+272
+00:17:52,640 --> 00:17:57,050
+raise his hand and said excuse me, but
+with this set of instructions, can't I
+
+273
+00:17:57,050 --> 00:18:00,857
+just say I solved everything and take all
+the money and go home?
+
+274
+00:18:00,858 --> 00:18:04,359
+And the instructor said you know what?
+You can, it's up to you.
+
+275
+00:18:04,360 --> 00:18:09,180
+So now it was clear that from a cost
+benefit analysis you can cheat and get
+
+276
+00:18:09,180 --> 00:18:13,433
+away with it, but there was no example of
+somebody actually doing it.
+
+277
+00:18:13,433 --> 00:18:18,144
+What happened now when we did this?
+Cheating did not go up it actually went
+
+278
+00:18:18,144 --> 00:18:20,554
+down.
+We did another version of this and in the
+
+279
+00:18:20,554 --> 00:18:23,956
+other version we changed the outfit of
+this acting student.
+
+280
+00:18:23,957 --> 00:18:27,820
+We ran this experiment at Carnegie Mellon.
+All the students were Carnegie Mellon.
+
+281
+00:18:27,820 --> 00:18:29,760
+The acting student was a Carnegie Mellon
+student.
+
+282
+00:18:29,760 --> 00:18:34,460
+They were all from that group.
+In the second experiment, we ran this, eh,
+
+283
+00:18:34,460 --> 00:18:39,948
+version, but we dressed the acting student
+with University of Pittsburgh outfit.
+
+284
+00:18:39,948 --> 00:18:44,440
+Now, when they stood up and say, excuse
+me, I solved everything, and walked home
+
+285
+00:18:44,440 --> 00:18:49,064
+with all the money, you would still know
+that it's the same cost benefit analysis,
+
+286
+00:18:49,064 --> 00:18:53,348
+that now in this experiment you're not
+going to be punished, but there was no
+
+287
+00:18:53,348 --> 00:18:56,266
+social proof.
+It wasn't as if somebody from your social
+
+288
+00:18:56,266 --> 00:19:00,160
+group, from your friends, from your
+community is cheating this way, it's those
+
+289
+00:19:00,160 --> 00:19:03,500
+other people from this other university
+that we don't like so much.
+
+290
+00:19:03,500 --> 00:19:06,170
+It's those people who are immoral.
+What happened now?
+
+291
+00:19:06,170 --> 00:19:10,703
+Cheating did not go up, it went down.
+And basically I think that two things
+
+292
+00:19:10,703 --> 00:19:13,416
+happened.
+The first one, was that people were
+
+293
+00:19:13,416 --> 00:19:18,448
+reminded about morality and honesty by
+seeing an egregious act of misbehavior, a
+
+294
+00:19:18,448 --> 00:19:21,471
+little bit like the ten commandments
+version.
+
+295
+00:19:21,472 --> 00:19:25,634
+But it wasn't their group, it was what we
+called an out group, it was somebody else
+
+296
+00:19:25,634 --> 00:19:28,643
+behaving this way.
+And therefore they did not take it as a
+
+297
+00:19:28,643 --> 00:19:31,242
+signal that it's okay for them to do this
+as well.
+
+298
+00:19:31,243 --> 00:19:34,430
+So, so far we found two things that make
+people cheat more.
+
+299
+00:19:34,430 --> 00:19:38,522
+We found that the distance for money and
+we found the social acceptance, kind of
+
+300
+00:19:38,522 --> 00:19:40,980
+seeing other people behave in egregious
+way.
+
+301
+00:19:40,980 --> 00:19:46,524
+But we also wanted to find out what are
+personality traits, which are the people
+
+302
+00:19:46,524 --> 00:19:50,100
+that would cheat more?
+Now you could speculate a lot of things.
+
+303
+00:19:50,100 --> 00:19:53,935
+You can say maybe the people who are more
+egocentric or maybe the people who are
+
+304
+00:19:53,935 --> 00:19:56,410
+more competitive, maybe the people hate
+losing.
+
+305
+00:19:56,410 --> 00:20:00,638
+You can speculate on a lot of things, but
+if you think about our theory.
+
+306
+00:20:00,638 --> 00:20:04,800
+Our theory is that people want to view
+themselves as honest people and also want
+
+307
+00:20:04,800 --> 00:20:08,030
+to benefit from cheating.
+We want to have the cake and eat it too.
+
+308
+00:20:08,030 --> 00:20:11,670
+We want both of those things.
+Who are the people that could do that?
+
+309
+00:20:11,670 --> 00:20:14,669
+And what we thought was that maybe those
+are creative people.
+
+310
+00:20:14,670 --> 00:20:19,347
+Because if it's all about rationalization,
+if this kind of cheating we discover is
+
+311
+00:20:19,347 --> 00:20:23,190
+all about being able to cheat and
+rationalize it, so it doesn't affect our
+
+312
+00:20:23,190 --> 00:20:27,540
+own image, people who are more creative
+presumably can just tell better stories.
+
+313
+00:20:27,540 --> 00:20:32,921
+They can cheat more and rationalize it to
+an even higher degree, so we tried that.
+
+314
+00:20:32,921 --> 00:20:37,224
+We tried to measure people creativity and
+measure how much they cheat, and we found
+
+315
+00:20:37,224 --> 00:20:41,575
+that more creative people cheat more.
+We tried to increase creativity with some
+
+316
+00:20:41,575 --> 00:20:45,220
+creativity enhancing exercises.
+And we found that as we were increase
+
+317
+00:20:45,220 --> 00:20:48,419
+creativity slightly, we also got cheating
+to increase slightly.
+
+318
+00:20:49,590 --> 00:20:54,079
+We also went to a big advertising agency,
+and we checked the moral flexibility of
+
+319
+00:20:54,079 --> 00:20:57,190
+people in different jobs in that
+advertising agency.
+
+320
+00:20:57,190 --> 00:21:01,100
+And we saw that as the job required more
+creativity, people cheated more.
+
+321
+00:21:01,100 --> 00:21:04,812
+There was less cheating in accounting,
+accounting much more cheating in the
+
+322
+00:21:04,812 --> 00:21:08,101
+creative professions.
+And, you know, maybe it is good that
+
+323
+00:21:08,101 --> 00:21:13,000
+there's less cheating in accounting, but
+it clearly supports this theory that our
+
+324
+00:21:13,000 --> 00:21:16,460
+version of cheating, it's all about this
+rationalizing.
+
+325
+00:21:16,460 --> 00:21:21,220
+It's about acting badly and rationalizing,
+and the question is to what extent can we
+
+326
+00:21:21,220 --> 00:21:23,803
+do it.
+If we're multiple distance, multiple steps
+
+327
+00:21:23,803 --> 00:21:26,320
+removed from money, we can do it to a
+higher degree.
+
+328
+00:21:26,320 --> 00:21:29,984
+If people around us are doing it more, we
+can do it to a higher degree.
+
+329
+00:21:29,984 --> 00:21:33,923
+If we ourselves are better storytellers,
+more creative storytellers, we can do it
+
+330
+00:21:33,923 --> 00:21:37,296
+to a higher degree.
+All of those things are contributing to a
+
+331
+00:21:37,296 --> 00:21:40,704
+very high degree.
+So what have we learned up to this point?
+
+332
+00:21:40,704 --> 00:21:45,376
+I think if we think about the Becker
+model, that cheating is basically driven
+
+333
+00:21:45,376 --> 00:21:49,632
+by how much to I stand gain?
+What's the probability of being caught?
+
+334
+00:21:49,632 --> 00:21:54,168
+What kind of punishment will I get?
+And doing some cost benefit analysis.
+
+335
+00:21:54,168 --> 00:22:00,344
+That doesn't explain much of our behavior.
+It's also not the case that we have bad
+
+336
+00:22:00,344 --> 00:22:02,937
+apples.
+If you think about what is real cheating
+
+337
+00:22:02,937 --> 00:22:05,329
+due to?
+In Enron, and other cases, is it due to
+
+338
+00:22:05,329 --> 00:22:09,197
+bad apples, or is it due to lots and lots
+of people cheating a little bit?
+
+339
+00:22:09,198 --> 00:22:13,089
+I think it's much more due to lots and
+lots of people, cheating a little bit.
+
+340
+00:22:13,090 --> 00:22:17,567
+And specifically we learned a few things
+that either hinder it or increase it.
+
+341
+00:22:17,568 --> 00:22:22,860
+So we learned that getting people to think
+more carefully about their morality
+
+342
+00:22:22,860 --> 00:22:27,347
+shrinks the fudge factor and gets people
+to behave more honestly.
+
+343
+00:22:27,348 --> 00:22:29,576
+We also learned that it's all about
+rationalization.
+
+344
+00:22:29,576 --> 00:22:33,939
+So, when we have something that is
+multiple steps removed from money, we can
+
+345
+00:22:33,939 --> 00:22:36,733
+cheat more, and at the same time
+rationalize it.
+
+346
+00:22:36,733 --> 00:22:41,576
+When you see other people around us
+behaving in immoral ways, we can cheat a
+
+347
+00:22:41,576 --> 00:22:45,765
+bit more, and rationalizing it.
+And when we ourselves are creative, we can
+
+348
+00:22:45,765 --> 00:22:49,832
+rationalize, we can tell better stories,
+cheat more, and feel good about ourselves.
+
+349
+00:22:49,832 --> 00:22:54,359
+And I think that if we have this
+perspective, it means we should not direct
+
+350
+00:22:54,359 --> 00:22:57,651
+much of our attention to the cost-benefit
+analysis.
+
+351
+00:22:57,652 --> 00:23:02,925
+We should not think about something like,
+how do we expose people, and how do we
+
+352
+00:23:02,925 --> 00:23:06,382
+punish them, and how do we, eh,
+surveillance them?
+
+353
+00:23:06,382 --> 00:23:10,332
+Because all of those approaches are driven
+to this idea that people are just doing
+
+354
+00:23:10,332 --> 00:23:13,891
+the cost-benefit analysis.
+And if you say no, most of the cheating is
+
+355
+00:23:13,891 --> 00:23:18,000
+not about that, it's about what people can
+feel comfortable with themselves.
+
+356
+00:23:18,000 --> 00:23:20,958
+Now we have to ask with different
+approaches, how do we get people to be
+
+357
+00:23:20,958 --> 00:23:24,559
+comfortable with less cheating?
+How do we get people to become aware of
+
+358
+00:23:24,559 --> 00:23:28,110
+their own traps?
+How do we create rules that don't allow
+
+359
+00:23:28,110 --> 00:23:31,313
+this flexibility in terms of
+rationalization?
+
+360
+00:23:31,313 --> 00:23:34,573
+And I think this will be the actual
+Improvement.
+
+361
+00:23:34,574 --> 00:23:39,341
+You know, across all of our experiments,
+we ran about 30,000 people, we found about
+
+362
+00:23:39,341 --> 00:23:43,189
+12 people that cheated a lot, and we lost
+about $150 to these guys.
+
+363
+00:23:43,189 --> 00:23:48,859
+We found about 18,000 people who cheated
+just a little bit, and we lost about
+
+364
+00:23:48,859 --> 00:23:52,444
+$36,000 to those people.
+And I think that this is probably a good
+
+365
+00:23:52,444 --> 00:23:55,890
+reflection of what's happening in society.
+Sure, there are bad apples.
+
+366
+00:23:55,890 --> 00:23:58,974
+There are people who steal, and so on.
+And it's terrible.
+
+367
+00:23:58,974 --> 00:24:03,549
+But economically, it's a small potato,
+these are small things in terms of
+
+368
+00:24:03,549 --> 00:24:06,885
+economic impact.
+The big economic impact comes from lots of
+
+369
+00:24:06,885 --> 00:24:11,043
+people cheating a little bit, but because
+there are so many of them the economic
+
+370
+00:24:11,043 --> 00:24:14,514
+impact is much higher.
+And I don't think we need to stop thinking
+
+371
+00:24:14,514 --> 00:24:18,804
+about the crooks, but I think we need to
+pay more attention to the people who can
+
+372
+00:24:18,804 --> 00:24:21,982
+change just a little bit and feel good
+about themselves.
+
+373
+00:24:21,982 --> 00:24:31,483
+Now, I think if we do it, everybody would
+be better off.

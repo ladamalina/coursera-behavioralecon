@@ -1,0 +1,1531 @@
+
+1
+00:00:06,420 --> 00:00:10,506
+My name is Eli Finkel, I'm a professor of 
+psychology at Northwestern University. 
+
+2
+00:00:10,506 --> 00:00:14,25
+And I'll be presenting some research that 
+has been spearheaded by Paul Eastwick, a 
+
+3
+00:00:14,25 --> 00:00:17,340
+former graduate student of mine who is 
+now a professor at Texas, at University 
+
+4
+00:00:17,340 --> 00:00:21,72
+of Texas. 
+And the title of the talk is the delusion 
+
+5
+00:00:21,72 --> 00:00:24,830
+of romantic self-insight. 
+And I want to talk about how dating has 
+
+6
+00:00:24,830 --> 00:00:28,2
+changed in the Internet era, and in 
+particular, I want to talk about online 
+
+7
+00:00:28,2 --> 00:00:31,304
+dating. 
+One of the major assumptions of online 
+
+8
+00:00:31,304 --> 00:00:35,180
+dating is that we can look at profiles of 
+potential romantic partners and discern 
+
+9
+00:00:35,180 --> 00:00:40,260
+from reading those profiles who is 
+romantically compatible with us. 
+
+10
+00:00:40,260 --> 00:00:43,677
+So, if that's true, that we have insight 
+into our preferences, and can tell who's 
+
+11
+00:00:43,677 --> 00:00:46,941
+compatible with us, then this is an 
+outstanding way that we could go about 
+
+12
+00:00:46,941 --> 00:00:52,250
+selecting our romantic partner or at 
+least reducing the size of the pool. 
+
+13
+00:00:52,250 --> 00:00:56,2
+But if it's not true that we have insight 
+into our romantic preferences, then not 
+
+14
+00:00:56,2 --> 00:00:59,586
+only are we wasting a great deal of time 
+by browsing all these profiles, but we 
+
+15
+00:00:59,586 --> 00:01:02,890
+are also limiting or ruling out people 
+from the dating pool who might be 
+
+16
+00:01:02,890 --> 00:01:08,700
+especially compatible with us. 
+And so, what I'll do today is talk about 
+
+17
+00:01:08,700 --> 00:01:12,0
+the degree to which we have accurate 
+insight into our romantic preferences and 
+
+18
+00:01:12,0 --> 00:01:15,710
+this question boils down to two distinct 
+questions. 
+
+19
+00:01:15,710 --> 00:01:19,244
+The, the first one is, are there sex 
+differences in what people are looking 
+
+20
+00:01:19,244 --> 00:01:23,577
+for in a potential romantic partner? 
+And, and the short answer to that is of 
+
+21
+00:01:23,577 --> 00:01:26,336
+course there are. 
+Men are especially interested in looks, 
+
+22
+00:01:26,336 --> 00:01:29,180
+much more then women are. 
+Women are especially interested in 
+
+23
+00:01:29,180 --> 00:01:32,697
+earning prospects, more then men are. 
+Those are widely replicated sex 
+
+24
+00:01:32,697 --> 00:01:34,943
+differences. 
+I want to probe a little deeper and find 
+
+25
+00:01:34,943 --> 00:01:38,210
+out whether those sex differences hold up 
+when it really matters. 
+
+26
+00:01:38,210 --> 00:01:41,420
+And the second question I have doesn't 
+involve sex differences. 
+
+27
+00:01:41,420 --> 00:01:45,388
+It says, we as individuals, to what 
+degree do we have accurate insight into 
+
+28
+00:01:45,388 --> 00:01:49,960
+what it is that tends to inspire our 
+romantic attraction? 
+
+29
+00:01:49,960 --> 00:01:52,750
+If we do have good insight, then browsing 
+profiles is a great way to go about 
+
+30
+00:01:52,750 --> 00:01:55,486
+finding a partner. 
+If we don't, then we really should 
+
+31
+00:01:55,486 --> 00:01:58,216
+probably meet face-to-face to get a 
+chemistry check of who's compatible with 
+
+32
+00:01:58,216 --> 00:02:01,871
+us. 
+Let's start by talking about sex 
+
+33
+00:02:01,871 --> 00:02:04,644
+differences. 
+There are large sex differences in stated 
+
+34
+00:02:04,644 --> 00:02:07,857
+preferences, that is, if you ask people 
+to what degree do you value a certain 
+
+35
+00:02:07,857 --> 00:02:11,223
+series of characteristics, many things 
+men and women agree on, we all like warm 
+
+36
+00:02:11,223 --> 00:02:16,445
+partners kind partners, etcetera. 
+But there are two massive sex differences 
+
+37
+00:02:16,445 --> 00:02:19,504
+that I mentioned earlier. 
+The first is physical attractiveness, men 
+
+38
+00:02:19,504 --> 00:02:22,452
+like that more than women, the second is 
+earning prospects, women like that more 
+
+39
+00:02:22,452 --> 00:02:26,302
+than men. 
+But, before we conclude that these sex 
+
+40
+00:02:26,302 --> 00:02:30,328
+differences are totally universal, let's 
+first examine a little bit about the 
+
+41
+00:02:30,328 --> 00:02:36,120
+research paradigms that people have used 
+to try to establish those effects. 
+
+42
+00:02:36,120 --> 00:02:39,288
+One of the major research programs or 
+research paradigms is to ask people about 
+
+43
+00:02:39,288 --> 00:02:42,815
+hypothetical partners. 
+Specifically, ask them to what degree are 
+
+44
+00:02:42,815 --> 00:02:45,875
+you looking for somebody who posses 
+characteristics like good earning 
+
+45
+00:02:45,875 --> 00:02:50,196
+prospects or a good earning potential. 
+And you see the sex differences there, 
+
+46
+00:02:50,196 --> 00:02:54,80
+men want looks more than women do, women 
+want earning prospects more than men do. 
+
+47
+00:02:54,80 --> 00:02:56,870
+A second paradigm as you look at the 
+effects of physical attractiveness in 
+
+48
+00:02:56,870 --> 00:03:00,596
+people depicted in photographs. 
+So when you're evaluating photographs, 
+
+49
+00:03:00,596 --> 00:03:03,928
+men are more inspired by the attractive, 
+relative to the unattractive women more 
+
+50
+00:03:03,928 --> 00:03:07,358
+than, more than women are attracted to 
+the, attractive versus the unattractive 
+
+51
+00:03:07,358 --> 00:03:10,726
+men. 
+And the best research looks at personal 
+
+52
+00:03:10,726 --> 00:03:13,606
+ads or online dating profiles, and 
+specifically, what we see in those is 
+
+53
+00:03:13,606 --> 00:03:16,966
+that men tend to advertise things about 
+themselves oriented toward demonstrating 
+
+54
+00:03:16,966 --> 00:03:19,990
+their earning prospects, women tend to 
+accentuate things related to their 
+
+55
+00:03:19,990 --> 00:03:24,890
+physical attractiveness. 
+And when men and women respond to 
+
+56
+00:03:24,890 --> 00:03:28,600
+personal ads or online dating profiles, 
+they tend to be differentially influenced 
+
+57
+00:03:28,600 --> 00:03:33,140
+in a way that's consistent with all those 
+other sex differences. 
+
+58
+00:03:33,140 --> 00:03:36,621
+But I have a question, what about after 
+men and women have actually met a 
+
+59
+00:03:36,621 --> 00:03:41,130
+significant other, a another person 
+face-to-face, right? 
+
+60
+00:03:41,130 --> 00:03:43,875
+Do these sex differences that hold up so 
+well in all those paradigms we've 
+
+61
+00:03:43,875 --> 00:03:46,890
+discussed already, continue to hold up 
+once you've met an actual flesh and blood 
+
+62
+00:03:46,890 --> 00:03:51,108
+person? 
+Well, one empirical approach, one method 
+
+63
+00:03:51,108 --> 00:03:56,20
+that we can use to start unpacking that 
+question is speed dating. 
+
+64
+00:03:56,20 --> 00:03:58,596
+And so, Paul Eastwick and I at 
+Northwestern University, ran a whole 
+
+65
+00:03:58,596 --> 00:04:03,0
+series of speed dating events. 
+I, in fact, served as MC of these events. 
+
+66
+00:04:03,0 --> 00:04:06,850
+And the way speed dating works is, is 
+these were heterosexual events we had 12 
+
+67
+00:04:06,850 --> 00:04:11,416
+men and 12 women attend each event. 
+So if you're a man, you would go on a 
+
+68
+00:04:11,416 --> 00:04:15,310
+4-minute date with each woman and then 
+the MC, I in this case, would blow a 
+
+69
+00:04:15,310 --> 00:04:19,960
+whistle and you would rotate to the next 
+person. 
+
+70
+00:04:19,960 --> 00:04:22,480
+Alright, so the way it works is that all 
+of the men went on 4-minute dates with 
+
+71
+00:04:22,480 --> 00:04:25,40
+all the women, all the women, of course, 
+went on 4-minute dates with all of the 
+
+72
+00:04:25,40 --> 00:04:29,140
+men. 
+And what we were able to do with this 
+
+73
+00:04:29,140 --> 00:04:32,660
+method is we were able to look at the 
+degree to which physical attractiveness 
+
+74
+00:04:32,660 --> 00:04:36,345
+and earning prospects actually predict 
+romantic attraction to flesh and blood 
+
+75
+00:04:36,345 --> 00:04:41,480
+partners you have met in person. 
+And one of the things we wanted to do is 
+
+76
+00:04:41,480 --> 00:04:44,200
+establish from the very outset that are, 
+that there was nothing strange about our 
+
+77
+00:04:44,200 --> 00:04:48,204
+sample of participants. 
+So before they attended the speed dating 
+
+78
+00:04:48,204 --> 00:04:51,825
+event, they reported about a week earlier 
+on their preferences, the standard, sorts 
+
+79
+00:04:51,825 --> 00:04:56,323
+of measures that people regularly use. 
+To what degree are you interested in 
+
+80
+00:04:56,323 --> 00:04:59,573
+somebody, to what degree is it important 
+to you that a potential partner is 
+
+81
+00:04:59,573 --> 00:05:02,573
+good-looking or has good earning 
+prospects or is highly personable and 
+
+82
+00:05:02,573 --> 00:05:07,116
+kind and warm? 
+And as you can see here in the graph men 
+
+83
+00:05:07,116 --> 00:05:10,234
+care more than women about physical 
+attractiveness. 
+
+84
+00:05:10,234 --> 00:05:13,430
+Again, this is on the, the questionnaire 
+that our speed daters completed the week 
+
+85
+00:05:13,430 --> 00:05:17,770
+before they attended the lab session, the 
+speed, the speed dating even rather. 
+
+86
+00:05:17,770 --> 00:05:20,524
+Women cared more about earning prospects 
+than men do. 
+
+87
+00:05:20,524 --> 00:05:23,774
+And men and woman, as has been shown in 
+previous research, care about, equally 
+
+88
+00:05:23,774 --> 00:05:26,900
+about how warm and kind a potential 
+partner is. 
+
+89
+00:05:26,900 --> 00:05:30,300
+So here we are replicating the, the same 
+effects that everybody else replicates, 
+
+90
+00:05:30,300 --> 00:05:33,110
+except we wanted to do something 
+different. 
+
+91
+00:05:33,110 --> 00:05:36,192
+We wanted to take these same people, who 
+showed these standard sex differences, 
+
+92
+00:05:36,192 --> 00:05:39,136
+and then introduce them to flesh and 
+blood partners through the speed dating 
+
+93
+00:05:39,136 --> 00:05:42,107
+event. 
+And here, in this graph, you're going to 
+
+94
+00:05:42,107 --> 00:05:46,140
+see some different information. 
+What you see on the y-axis is you see the 
+
+95
+00:05:46,140 --> 00:05:51,110
+correlation of, of, of an attribute, the 
+physical attractiveness for example, with 
+
+96
+00:05:51,110 --> 00:05:55,650
+attraction, right? 
+And so the idea should be that the more 
+
+97
+00:05:55,650 --> 00:05:58,550
+the higher the correlation that you're 
+going to see here, means the more 
+
+98
+00:05:58,550 --> 00:06:03,451
+strongly that characteristic iInspires 
+romantic attraction to the person. 
+
+99
+00:06:03,451 --> 00:06:06,551
+And what you can see is, here are the 
+effects for physical attractiveness, 
+
+100
+00:06:06,551 --> 00:06:10,260
+correlation is in about the 0.4 range, 
+but no sex difference. 
+
+101
+00:06:10,260 --> 00:06:14,55
+The degree to which romantic physical 
+attractiveness inspires your romantic 
+
+102
+00:06:14,55 --> 00:06:18,930
+attraction is equally strong regardless 
+of whether you're a man or a woman. 
+
+103
+00:06:18,930 --> 00:06:21,850
+Now, let's turn to earning prospects. 
+Here, you can see that in general, 
+
+104
+00:06:21,850 --> 00:06:24,775
+earning prospects are a little bit less 
+important in this sample than than 
+
+105
+00:06:24,775 --> 00:06:27,475
+physical attractiveness is, the 
+correlations are in the, you know, 0.2 
+
+106
+00:06:27,475 --> 00:06:31,142
+range. 
+But, what you can see is, once again, the 
+
+107
+00:06:31,142 --> 00:06:34,390
+correlations are equally strong for men 
+and women. 
+
+108
+00:06:34,390 --> 00:06:37,142
+None of these correlations was anywhere 
+close to statistic, statistically 
+
+109
+00:06:37,142 --> 00:06:40,50
+significant. 
+And personable is also pretty attractive, 
+
+110
+00:06:40,50 --> 00:06:43,100
+somewhere in between physically 
+attractive and earning prospects, and 
+
+111
+00:06:43,100 --> 00:06:46,526
+once again, no sex difference. 
+Now, you might think, I hear you 
+
+112
+00:06:46,526 --> 00:06:48,910
+thinking, right, so come on that's just 
+one study. 
+
+113
+00:06:48,910 --> 00:06:52,188
+This is a very surprising effect. 
+Could it really be the case that men and 
+
+114
+00:06:52,188 --> 00:06:55,337
+women don't actually have different 
+preferences for physical attractiveness 
+
+115
+00:06:55,337 --> 00:06:59,130
+or earning prospects once they meet a 
+flesh and blood partner? 
+
+116
+00:06:59,130 --> 00:07:02,378
+So what we wanted to do is we, we wanted 
+to conduct a meta-analysis, and 
+
+117
+00:07:02,378 --> 00:07:05,850
+specifically, what that means Is we track 
+down every single published and 
+
+118
+00:07:05,850 --> 00:07:09,546
+unpublished article that has looked at 
+people who have met face-to-face with a 
+
+119
+00:07:09,546 --> 00:07:13,130
+potential partner and reported on that 
+partner how attracted they are or how 
+
+120
+00:07:13,130 --> 00:07:18,740
+satisfied they are. 
+This also includes not only initial 
+
+121
+00:07:18,740 --> 00:07:21,908
+attraction, but also in your marriage, 
+how satisfied are you and committed are 
+
+122
+00:07:21,908 --> 00:07:25,847
+you to the marriage, etcetera. 
+But they have to report on a specific 
+
+123
+00:07:25,847 --> 00:07:29,179
+person they've met face-to-face, not on 
+some hypothetical person who might be an 
+
+124
+00:07:29,179 --> 00:07:32,918
+ideal partner for them. 
+The dependent variable that I was 
+
+125
+00:07:32,918 --> 00:07:36,710
+suggesting earlier is, is an amalgam, a 
+combined sort of measure, right? 
+
+126
+00:07:36,710 --> 00:07:40,238
+So, in an initial attraction context, 
+it's things like romantic liking, or 
+
+127
+00:07:40,238 --> 00:07:44,312
+attraction, or sexual desire. 
+In marriage, for example, you'll see 
+
+128
+00:07:44,312 --> 00:07:49,574
+things like relationship satisfaction or 
+how much you love your partner, etcetera. 
+
+129
+00:07:49,574 --> 00:07:53,370
+And study, the other criterion we needed 
+to include studies in this meta-analysis, 
+
+130
+00:07:53,370 --> 00:07:56,802
+include articles in this meta-analysis, 
+was that it had to have some measure of 
+
+131
+00:07:56,802 --> 00:08:01,0
+physical attractiveness, earning 
+prospects, or both. 
+
+132
+00:08:01,0 --> 00:08:03,510
+And some of these measures are the 
+participant's report. 
+
+133
+00:08:03,510 --> 00:08:06,194
+So if I'm reporting how attracted I am to 
+you or how satisfied I am in our 
+
+134
+00:08:06,194 --> 00:08:09,54
+marriage, then it could be my report of 
+how good-looking you are or my report of 
+
+135
+00:08:09,54 --> 00:08:12,800
+your earning prospects. 
+It could be your report, so how 
+
+136
+00:08:12,800 --> 00:08:15,652
+good-looking do you think you are or how 
+good, how promising you think your 
+
+137
+00:08:15,652 --> 00:08:19,524
+earning prospects are or it could be an 
+objective assessment. 
+
+138
+00:08:19,524 --> 00:08:22,710
+For example a consensus rating of a 
+photograph of you in terms of how 
+
+139
+00:08:22,710 --> 00:08:27,880
+attractive you are or a measure of how, 
+what your actual income is, right? 
+
+140
+00:08:27,880 --> 00:08:30,970
+So we, we look at all of those different 
+types of measures. 
+
+141
+00:08:30,970 --> 00:08:34,574
+Now, for physical attractiveness, we were 
+able to find 73 articles with a total of 
+
+142
+00:08:34,574 --> 00:08:38,344
+28,000 participants. 
+For earning prospects, we were able to 
+
+143
+00:08:38,344 --> 00:08:41,844
+track down 44 articles with about 46,000 
+participants. 
+
+144
+00:08:41,844 --> 00:08:44,616
+So, these are large samples, they really 
+put us in a good position to test, is 
+
+145
+00:08:44,616 --> 00:08:47,784
+there a difference between men and women 
+and their earning prospects and can we 
+
+146
+00:08:47,784 --> 00:08:51,340
+detect a statistically significant 
+difference? 
+
+147
+00:08:51,340 --> 00:08:54,60
+We've got a lot of ability to do that in 
+a sample this large. 
+
+148
+00:08:54,60 --> 00:08:56,902
+And what you see here, again, on the left 
+side of this graph is physical 
+
+149
+00:08:56,902 --> 00:09:00,234
+attractiveness, on the right side, you 
+see earning prospects and once again, you 
+
+150
+00:09:00,234 --> 00:09:05,30
+see nothing close to a statistically 
+significant difference. 
+
+151
+00:09:05,30 --> 00:09:07,872
+So again, the take home message, not only 
+from the speed dating work at 
+
+152
+00:09:07,872 --> 00:09:11,106
+Northwestern, but from the full corpus of 
+evidence that exists anywhere in the 
+
+153
+00:09:11,106 --> 00:09:15,50
+world on this topic. 
+That physical attractiveness, big 
+
+154
+00:09:15,50 --> 00:09:18,250
+correlate of how attractive you are to 
+people, big correlate of how happy you 
+
+155
+00:09:18,250 --> 00:09:22,660
+are in your marriage, but not 
+differentially for men and women. 
+
+156
+00:09:22,660 --> 00:09:26,116
+Earning prospects, a less significant 
+predictor of initial attraction and 
+
+157
+00:09:26,116 --> 00:09:31,0
+satisfaction in your marriage, but once 
+again, not different for men and women. 
+
+158
+00:09:31,0 --> 00:09:33,70
+Now, this raises a different set of 
+questions, right? 
+
+159
+00:09:33,70 --> 00:09:36,727
+So the first set of questions were, well, 
+are there really sex differences in these 
+
+160
+00:09:36,727 --> 00:09:40,120
+things that we assume to be sex 
+differentiated? 
+
+161
+00:09:40,120 --> 00:09:42,788
+And the evidence now appears to be 
+overwhelming that there are not sex 
+
+162
+00:09:42,788 --> 00:09:47,110
+differences in those mate preferences 
+once you meet a flesh and blood partner. 
+
+163
+00:09:47,110 --> 00:09:49,260
+Now, the question is, well, what's going 
+on? 
+
+164
+00:09:49,260 --> 00:09:52,204
+If those same people who reported a week 
+ago that they really cared a lot about 
+
+165
+00:09:52,204 --> 00:09:55,194
+earning prospects and they cared less 
+about physical attractiveness, then a 
+
+166
+00:09:55,194 --> 00:09:58,276
+week later meet a series of people in the 
+flesh and blood, a series of speed dating 
+
+167
+00:09:58,276 --> 00:10:02,871
+partners, for example. 
+And they don't show those sorts of sex 
+
+168
+00:10:02,871 --> 00:10:05,815
+differences that exhibited, that they 
+exhibited a week earlier, there's an 
+
+169
+00:10:05,815 --> 00:10:08,943
+interesting question that emerges from 
+that, which is do people really know what 
+
+170
+00:10:08,943 --> 00:10:13,385
+they want in the first place? 
+And this harken, harkens back, of course, 
+
+171
+00:10:13,385 --> 00:10:16,630
+to the online dating question, the 
+profile browsing question. 
+
+172
+00:10:16,630 --> 00:10:20,595
+So, ignoring sex differences, do people 
+who believe they value a certain 
+
+173
+00:10:20,595 --> 00:10:25,360
+characteristic actually prize it more 
+than other people do? 
+
+174
+00:10:25,360 --> 00:10:28,777
+And so, what we wanted to look at here is 
+the, the correspondence between what you 
+
+175
+00:10:28,777 --> 00:10:31,786
+said you cared about in a romantic 
+partner, a week ago, and the degree to 
+
+176
+00:10:31,786 --> 00:10:35,50
+which that characteristic actually 
+inspires your attraction once you meet 
+
+177
+00:10:35,50 --> 00:10:39,433
+face-to-face. 
+And, if you look here in the, in this 
+
+178
+00:10:39,433 --> 00:10:42,835
+first graph on the upper left, what you 
+see is how physically attractive the 
+
+179
+00:10:42,835 --> 00:10:48,480
+partner is that you're rating. 
+And this black line represents people 
+
+180
+00:10:48,480 --> 00:10:52,8
+who, who said that physical 
+attractiveness was extremely important to 
+
+181
+00:10:52,8 --> 00:10:54,660
+them. 
+So, you can imagine, people vary in the 
+
+182
+00:10:54,660 --> 00:10:57,140
+degree to which they say physical 
+attractiveness is important, these are 
+
+183
+00:10:57,140 --> 00:11:00,90
+people who said, yes, it's extremely 
+important to me. 
+
+184
+00:11:00,90 --> 00:11:03,290
+And not surprisingly, you see a strong 
+positive correlation such that as the 
+
+185
+00:11:03,290 --> 00:11:06,490
+person you're rating goes from low 
+attractiveness to high attractiveness, 
+
+186
+00:11:06,490 --> 00:11:10,220
+there on the x-axis. 
+The amount of romantic attraction you 
+
+187
+00:11:10,220 --> 00:11:12,890
+experienced for the person goes up 
+sharply. 
+
+188
+00:11:12,890 --> 00:11:15,800
+Now, this is crucial. 
+If it's the case that people who say, I'm 
+
+189
+00:11:15,800 --> 00:11:19,550
+actually not that interested in romantic 
+attraction, it doesn't actually matter 
+
+190
+00:11:19,550 --> 00:11:22,950
+I'm sorry, in physical attractiveness, 
+that is, it doesn't actually matter that 
+
+191
+00:11:22,950 --> 00:11:28,649
+much to me, then you should be, see a 
+weaker slope, maybe something like this. 
+
+192
+00:11:28,649 --> 00:11:31,798
+And what that slope would suggest, given 
+that it's, that it's not parallel to the 
+
+193
+00:11:31,798 --> 00:11:34,473
+black slope. 
+What you see here is, yes, of course, 
+
+194
+00:11:34,473 --> 00:11:37,463
+it's nice to be with somebody better 
+looking than somebody worse looking, but 
+
+195
+00:11:37,463 --> 00:11:40,545
+the level of attraction is less strong of 
+a predictor among people who say I don't 
+
+196
+00:11:40,545 --> 00:11:45,968
+care about physical attractiveness. 
+But that's not what the data show. 
+
+197
+00:11:45,968 --> 00:11:50,70
+This is what the data show, an exactly 
+parallel line. 
+
+198
+00:11:50,70 --> 00:11:53,172
+What that means is regardless of what you 
+told us a week ago of the extent to which 
+
+199
+00:11:53,172 --> 00:11:57,440
+physical attractiveness is important to 
+you in a mate. 
+
+200
+00:11:57,440 --> 00:12:00,36
+The degree to which you like the 
+attractive people more than, more than 
+
+201
+00:12:00,36 --> 00:12:03,762
+the unattractive was the same. 
+Everybody was about equally inspired by 
+
+202
+00:12:03,762 --> 00:12:07,313
+the, by the degree to which the person 
+was attractive and their previous reports 
+
+203
+00:12:07,313 --> 00:12:10,599
+of how much they thought physical 
+attractiveness would matter to them was 
+
+204
+00:12:10,599 --> 00:12:14,340
+irrelevant. 
+How about earning prospects? 
+
+205
+00:12:14,340 --> 00:12:18,81
+Over here on the upper right, you can see 
+that graph, and what do you see? 
+
+206
+00:12:18,81 --> 00:12:20,388
+Two parallel lines. 
+People who say they care a lot about 
+
+207
+00:12:20,388 --> 00:12:23,470
+earning prospects, people who say they 
+don't care much about earning prospects 
+
+208
+00:12:23,470 --> 00:12:26,414
+end up being equally inspired by the 
+people with high relative to low earning 
+
+209
+00:12:26,414 --> 00:12:29,906
+prospects. 
+Over here on the lower left, now we have 
+
+210
+00:12:29,906 --> 00:12:33,410
+personable, how warm and kind and 
+friendly is the person? 
+
+211
+00:12:33,410 --> 00:12:37,363
+Once again, two parallel lines regardless 
+of how personable you said you wanted 
+
+212
+00:12:37,363 --> 00:12:40,962
+your, how, how important it was for you 
+that romantic partners are high in 
+
+213
+00:12:40,962 --> 00:12:45,151
+personability, was irrelevant to how much 
+high versus low personable people matter 
+
+214
+00:12:45,151 --> 00:12:48,77
+to you. 
+Now, is this a statistical artifact, or a 
+
+215
+00:12:48,77 --> 00:12:51,933
+statistical confound in our design? 
+Is it the case maybe that people don't 
+
+216
+00:12:51,933 --> 00:12:58,80
+actually have any preferences for 
+anything? 
+
+217
+00:12:58,80 --> 00:13:01,986
+Well, we want to suggest that the story 
+is very complicated for mating, for a 
+
+218
+00:13:01,986 --> 00:13:07,459
+variety of reasons, one of which is, 
+mates vary on a lot of dimensions. 
+
+219
+00:13:07,459 --> 00:13:10,550
+People are very complicated, much more 
+complicated than say, a sofa. 
+
+220
+00:13:10,550 --> 00:13:14,88
+But also, the mate has to like you back 
+and these things all factor into the 
+
+221
+00:13:14,88 --> 00:13:17,130
+evaluation. 
+So we did a final little quirky study 
+
+222
+00:13:17,130 --> 00:13:20,298
+where, where what we wanted to do was see 
+whether we could find evidence for this 
+
+223
+00:13:20,298 --> 00:13:23,562
+predictive validity hypothesis, for this 
+hypothesis that, when you say you care 
+
+224
+00:13:23,562 --> 00:13:26,490
+about something, you actually are 
+inspired by that thing and we looked at 
+
+225
+00:13:26,490 --> 00:13:30,929
+cereals. 
+Specifically, we looked at the sugar 
+
+226
+00:13:30,929 --> 00:13:34,164
+content of cereals. 
+People vary in the degree to which they 
+
+227
+00:13:34,164 --> 00:13:39,300
+say they're looking for sugar, they like 
+sugary versus non-sugary cereals. 
+
+228
+00:13:39,300 --> 00:13:42,600
+And then what we did is we had them 
+sample a range of different cereals and 
+
+229
+00:13:42,600 --> 00:13:46,285
+their report of those, of how much they 
+like those cereals was quite different as 
+
+230
+00:13:46,285 --> 00:13:51,420
+a function of whether they really value 
+sugary cereals or not. 
+
+231
+00:13:51,420 --> 00:13:54,837
+And specifically, the story is this, when 
+people say they strongly value sugary 
+
+232
+00:13:54,837 --> 00:13:59,90
+cereals, the more sugar content in the 
+cereal, the more they like it. 
+
+233
+00:13:59,90 --> 00:14:01,508
+If they say that they don't care that 
+much about how much sugar is in cereal, 
+
+234
+00:14:01,508 --> 00:14:04,820
+then sugar content is irrelevant to how 
+much they like the cereal. 
+
+235
+00:14:04,820 --> 00:14:07,748
+That is a totally self-evident silly 
+point, but contrast the slide on the 
+
+236
+00:14:07,748 --> 00:14:10,820
+lower right to the other three slides, 
+and you can see that there's something 
+
+237
+00:14:10,820 --> 00:14:14,944
+about the mating domain. 
+We seem not to have insight into what it 
+
+238
+00:14:14,944 --> 00:14:19,10
+is that we like in the mating domain. 
+What will inspire our attraction? 
+
+239
+00:14:19,10 --> 00:14:22,159
+Even though we a good sense of that in a 
+simpler domain like cereal. 
+
+240
+00:14:23,250 --> 00:14:26,288
+These are college students at 
+Northwestern, maybe upper social economic 
+
+241
+00:14:26,288 --> 00:14:29,30
+status on average. 
+What about middle-aged people? 
+
+242
+00:14:29,30 --> 00:14:31,567
+And what about people who aren't 
+reporting on initial attraction, but 
+
+243
+00:14:31,567 --> 00:14:35,490
+people who are actually involved in an 
+established romantic relationship, right? 
+
+244
+00:14:35,490 --> 00:14:38,416
+Would you see the same sorts of patterns? 
+Maybe, maybe our ideal preferences start, 
+
+245
+00:14:38,416 --> 00:14:41,452
+for a certain trait, start to be much 
+more important once we're making marriage 
+
+246
+00:14:41,452 --> 00:14:45,705
+decisions for example. 
+So here, we're looking at the distinction 
+
+247
+00:14:45,705 --> 00:14:48,414
+between, at the correspondence between 
+what you say is important to you and 
+
+248
+00:14:48,414 --> 00:14:51,540
+what's actually important in a much older 
+sample. 
+
+249
+00:14:51,540 --> 00:14:55,552
+Specifically, 500 participants and the 
+average age of these participants was 41 
+
+250
+00:14:55,552 --> 00:14:58,236
+years old. 
+The procedure was simple, people 
+
+251
+00:14:58,236 --> 00:15:02,330
+completed an online questionnaire, they 
+were all romantically unattached. 
+
+252
+00:15:02,330 --> 00:15:05,36
+they were single at the time they 
+reported on that they first started the 
+
+253
+00:15:05,36 --> 00:15:07,760
+study, and they reported their mate 
+preferences. 
+
+254
+00:15:07,760 --> 00:15:10,595
+So, on a scale from 1 to 9, how much do 
+you value earning prospects, how much do 
+
+255
+00:15:10,595 --> 00:15:14,285
+you value good looks, etcetera. 
+And then, we let 2 and a half years pass 
+
+256
+00:15:14,285 --> 00:15:17,164
+and we followed up with the same 500 
+people again. 
+
+257
+00:15:17,164 --> 00:15:19,804
+And they reported on either a current 
+partner, if they were involved in a 
+
+258
+00:15:19,804 --> 00:15:22,752
+relationship at this point, which many of 
+them were or they reported on a desired 
+
+259
+00:15:22,752 --> 00:15:25,744
+partner, the person that they were most 
+interested in, if they weren't currently 
+
+260
+00:15:25,744 --> 00:15:31,275
+involved with somebody. 
+And then we accessed romantic interest. 
+
+261
+00:15:31,275 --> 00:15:34,741
+So how romantically attracted are you? 
+How satisfied are you with this person, 
+
+262
+00:15:34,741 --> 00:15:36,980
+etcetera? 
+Marriage intentions, to what degree would 
+
+263
+00:15:36,980 --> 00:15:39,687
+you like to marry this person? 
+And marital status, because some of our 
+
+264
+00:15:39,687 --> 00:15:43,270
+people who were single when the study 
+started were now engaged or married. 
+
+265
+00:15:43,270 --> 00:15:45,830
+And it turns out as you can see in this 
+graph, which I won't, I won't present all 
+
+266
+00:15:45,830 --> 00:15:48,600
+the graphs, but this is illustrative, 
+illustrative. 
+
+267
+00:15:48,600 --> 00:15:51,760
+So on the dimension of warmth, how much 
+do you care about warmth? 
+
+268
+00:15:51,760 --> 00:15:54,973
+Turns out that people who say they care a 
+great deal about warmth are equally 
+
+269
+00:15:54,973 --> 00:15:58,186
+inspired by how warm their current 
+partner is than people who say they don't 
+
+270
+00:15:58,186 --> 00:16:02,480
+care that much about warmth. 
+And here again, you have two exactly 
+
+271
+00:16:02,480 --> 00:16:05,235
+parallel lines just like I kept showing 
+you repeatedly. 
+
+272
+00:16:05,235 --> 00:16:08,511
+Now, I won't show you all 21 of the, of 
+the graphs, but they all basically look 
+
+273
+00:16:08,511 --> 00:16:11,787
+like this and not one of them showed 
+different lines as a function of whether 
+
+274
+00:16:11,787 --> 00:16:15,219
+you strongly cared about the trade in 
+question versus said you didn't care that 
+
+275
+00:16:15,219 --> 00:16:21,490
+much about the, the trade in question. 
+So, let's revisit the two questions, are 
+
+276
+00:16:21,490 --> 00:16:25,900
+there in fact these sex differences that 
+we all believe to be true? 
+
+277
+00:16:25,900 --> 00:16:29,682
+Is it true that men prefer physical 
+attractiveness in a partner more then 
+
+278
+00:16:29,682 --> 00:16:34,970
+women do, that women prefer earning 
+prospects in man more then men do? 
+
+279
+00:16:34,970 --> 00:16:38,444
+No, that is, yes, we have these theories 
+that we care about those things. 
+
+280
+00:16:38,444 --> 00:16:41,889
+Those theories that we care about those 
+things influence how we behave when it 
+
+281
+00:16:41,889 --> 00:16:46,325
+comes to online dating or personal ads. 
+But once we have met somebody in the 
+
+282
+00:16:46,325 --> 00:16:49,955
+flesh and blood, there is no longer any 
+sex difference in the degree to which and 
+
+283
+00:16:49,955 --> 00:16:54,919
+women care about earning prospects and 
+physical attractiveness. 
+
+284
+00:16:54,919 --> 00:16:59,780
+Now, the second question is, do we really 
+know what our romantic preferences are? 
+
+285
+00:16:59,780 --> 00:17:03,66
+That is, can we introspect, do we have 
+self-insight and know what it is that 
+
+286
+00:17:03,66 --> 00:17:07,584
+really makes us attracted to people? 
+And here, again, there appears to be no 
+
+287
+00:17:07,584 --> 00:17:10,653
+evidence that we do. 
+across study after study after study and 
+
+288
+00:17:10,653 --> 00:17:13,802
+analysis after analysis after analysis, 
+when we look at people who said, I care a 
+
+289
+00:17:13,802 --> 00:17:17,92
+great deal about this characteristic, and 
+compared them to people who said, I don't 
+
+290
+00:17:17,92 --> 00:17:21,263
+really care that much about that 
+characteristic. 
+
+291
+00:17:21,263 --> 00:17:24,318
+They were in fact equally inspired, 
+equally attracted to people as a function 
+
+292
+00:17:24,318 --> 00:17:27,608
+of how much they had the characteristic 
+in question, like physical attractiveness 
+
+293
+00:17:27,608 --> 00:17:32,350
+or warmth for example. 
+And finally, I want to call, I want to 
+
+294
+00:17:32,350 --> 00:17:36,310
+come back to the way dating works in the 
+modern era and ask, is it really sensible 
+
+295
+00:17:36,310 --> 00:17:39,490
+for us to decide or learn who is 
+compatible with us on the basis of 
+
+296
+00:17:39,490 --> 00:17:45,130
+browsing people's profiles? 
+And I want to suggest to you that the 
+
+297
+00:17:45,130 --> 00:17:48,826
+answer is, no, that browsing profiles or 
+20 seconds versus 20 minutes versus 20 
+
+298
+00:17:48,826 --> 00:17:52,522
+hours is not going to give you different 
+insight into who's compatible with you 
+
+299
+00:17:52,522 --> 00:17:56,106
+and online dating is a very useful tool 
+as a way to broaden the amount of people 
+
+300
+00:17:56,106 --> 00:18:01,706
+in your dating pool. 
+But before you start ruling people out on 
+
+301
+00:18:01,706 --> 00:18:04,698
+the basis of their profile, remember, you 
+might not know your preferences as much 
+
+302
+00:18:04,698 --> 00:18:07,426
+as you thought you did and you might be 
+spending a whole lot of time browsing 
+
+303
+00:18:07,426 --> 00:18:12,100
+profiles that actually won't be 
+informative to your mating life. 
+
+304
+00:18:12,100 --> 00:18:17,950
+What I encourage you to do is, sure, use 
+online dating, use speed dating, and so 
+
+305
+00:18:17,950 --> 00:18:24,800
+forth, but get offline quickly for a 
+quick chemistry check. 
+
+306
+00:18:24,800 --> 00:18:31,513
+That's the way you're going to learn 
+whether there's romantic chemistry here. 
+

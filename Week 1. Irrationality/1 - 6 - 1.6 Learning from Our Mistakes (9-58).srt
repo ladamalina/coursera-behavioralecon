@@ -1,0 +1,739 @@
+
+1
+00:00:00,953 --> 00:00:10,802
+When we think about all the mistakes
+people make in decisions what, what does
+
+2
+00:00:10,802 --> 00:00:14,646
+it tell us.
+So first we can think about what does it
+
+3
+00:00:14,646 --> 00:00:19,642
+tell us about standard economics.
+In standard economics, we have a beautiful
+
+4
+00:00:19,642 --> 00:00:23,370
+view of human nature.
+Shakespeare wrote, what a piece of work is
+
+5
+00:00:23,370 --> 00:00:26,630
+man.
+How noble in reason, and so on, and so
+
+6
+00:00:26,630 --> 00:00:29,636
+forth.
+And now, while this is a very nice view of
+
+7
+00:00:29,636 --> 00:00:34,424
+human nature, it would be really nice to
+think about people as capable and able
+
+8
+00:00:34,424 --> 00:00:38,428
+unencumbered by emotions, able to think
+about all the options.
+
+9
+00:00:38,428 --> 00:00:43,120
+Compute everything, consider everything in
+a deep way and making always, always,
+
+10
+00:00:43,120 --> 00:00:47,176
+always the right decision.
+In behavior economics we are not that
+
+11
+00:00:47,176 --> 00:00:50,995
+generous to people.
+Instead we think of people as myopic and
+
+12
+00:00:50,995 --> 00:00:55,970
+vindictive, easily confused, don't know
+what they want, and so on and so forth.
+
+13
+00:00:55,970 --> 00:01:00,642
+In many ways this is a more depressing
+perspective of human nature, but I also
+
+14
+00:01:00,642 --> 00:01:03,804
+think it's much more useful as a
+perspective.
+
+15
+00:01:03,805 --> 00:01:07,780
+In fact I think there are three main
+lessons that we can take from behavior
+
+16
+00:01:07,780 --> 00:01:11,646
+economics.
+The first one is to recognize that we have
+
+17
+00:01:11,646 --> 00:01:16,346
+many, many faults.
+The many decision biases the many things
+
+18
+00:01:16,346 --> 00:01:19,918
+we don't do right.
+That's the first thing is just to realize
+
+19
+00:01:19,918 --> 00:01:23,070
+that we have these faults across a huge
+range of activities.
+
+20
+00:01:23,070 --> 00:01:26,569
+The second thing to realize is that we
+don't have good intuition.
+
+21
+00:01:26,570 --> 00:01:30,384
+About all of those faults.
+Is not, it's not as if we see them, and we
+
+22
+00:01:30,384 --> 00:01:34,660
+recognize them easily.
+And then the third point, which comes from
+
+23
+00:01:34,660 --> 00:01:39,992
+the first two, is that if we have faults
+and we don't recognize them, we need
+
+24
+00:01:39,992 --> 00:01:42,850
+experiments.
+We need not to rely on our intuition.
+
+25
+00:01:42,850 --> 00:01:46,034
+Instead we need to measure exactly what is
+going on.
+
+26
+00:01:46,035 --> 00:01:50,770
+In the same way that in a visual illusion,
+you have to measure exactly the length of
+
+27
+00:01:50,770 --> 00:01:54,102
+a table in a table illusion.
+You have to measure the color in the cube
+
+28
+00:01:54,102 --> 00:01:56,690
+illusion.
+If you rely on your own intuition you will
+
+29
+00:01:56,690 --> 00:02:00,770
+get it wrong, in the same way that when we
+set things that rely on human behavior, we
+
+30
+00:02:00,770 --> 00:02:04,650
+can't just rely on our intuitions.
+We have to rely on actual measurement.
+
+31
+00:02:04,650 --> 00:02:07,971
+We have to do experiments, and we have to
+test ourselves.
+
+32
+00:02:07,971 --> 00:02:12,072
+And maybe a good analogy to think about is
+the American FDA.
+
+33
+00:02:12,072 --> 00:02:16,351
+So the Food and Drug Administration forces
+physicians to do experiments.
+
+34
+00:02:16,352 --> 00:02:21,142
+They take physicians who think they have a
+good idea of how to do something better.
+
+35
+00:02:21,142 --> 00:02:25,564
+And they say before you implement it and
+before you force some patients to do it,
+
+36
+00:02:25,564 --> 00:02:29,919
+we want you to prove to us that this is
+going to pass through some scientific
+
+37
+00:02:29,919 --> 00:02:32,795
+barrier.
+And you know what, there's lots of things
+
+38
+00:02:32,795 --> 00:02:36,307
+that after doing them for many years we
+discover were bad idea.
+
+39
+00:02:36,308 --> 00:02:40,208
+For example, cough medications.
+For 30 years, we gave cough medication to
+
+40
+00:02:40,208 --> 00:02:43,410
+kids until we figure out that this was
+actually a bad idea.
+
+41
+00:02:43,410 --> 00:02:46,200
+Not a neutral idea.
+A bad idea.
+
+42
+00:02:46,200 --> 00:02:50,860
+Back surgeries, for a long time they did
+all kinds of back surgery for things that
+
+43
+00:02:50,860 --> 00:02:55,210
+they showed later on were useless.
+And so there's many, many exp, experiments
+
+44
+00:02:55,210 --> 00:02:58,980
+and things like that, that you have an
+intuition of why this particular
+
+45
+00:02:58,980 --> 00:03:02,074
+medication, this particular procedure
+would work.
+
+46
+00:03:02,075 --> 00:03:06,386
+But in fact they don't and you know what
+we have to force physicians with these
+
+47
+00:03:06,386 --> 00:03:09,332
+experiments.
+Because the physicians think that they
+
+48
+00:03:09,332 --> 00:03:12,243
+know whats good.
+They have a theory of what would work and
+
+49
+00:03:12,243 --> 00:03:16,402
+they want to give it to all the patients.
+But we don't let them we stop them and we
+
+50
+00:03:16,402 --> 00:03:19,570
+say sorry you can't just follow your
+intuition and do it.
+
+51
+00:03:19,570 --> 00:03:22,970
+And I think we need the same discipline.
+For governments and businesses.
+
+52
+00:03:22,970 --> 00:03:27,593
+I think we need the same intuition to tell
+people in government before you apply any
+
+53
+00:03:27,593 --> 00:03:31,881
+particular policy that is going to be
+affecting a lot of people, we want you to
+
+54
+00:03:31,881 --> 00:03:35,080
+test it and show us that in, it's indeed
+actually useful.
+
+55
+00:03:35,080 --> 00:03:37,826
+And to businesses too.
+I think businesses before they apply
+
+56
+00:03:37,826 --> 00:03:40,592
+something or do something, I think they
+should have their own barrier.
+
+57
+00:03:40,592 --> 00:03:45,330
+Of what is the proof that they are going
+to consider before they go in to apply
+
+58
+00:03:45,330 --> 00:03:49,905
+something and if we took a bit more
+modesty in what our opinions are and how
+
+59
+00:03:49,905 --> 00:03:54,148
+successful and correct we are.
+I think we would actually do things in a
+
+60
+00:03:54,148 --> 00:03:57,874
+better way.
+In, in Roman times, there was this famous
+
+61
+00:03:57,874 --> 00:04:02,957
+saying called Memento Mori.
+And the idea was that as generals had
+
+62
+00:04:02,957 --> 00:04:07,442
+victories in all kinds of battle fields,
+they would come to Rome and they would
+
+63
+00:04:07,442 --> 00:04:10,142
+have a parade.
+And people would yell at them and
+
+64
+00:04:10,142 --> 00:04:14,698
+celebrate, and they would wear gold and
+all kinds of, get gifts and showered with
+
+65
+00:04:14,698 --> 00:04:17,979
+presents and so on.
+But in the same way that they were hailed
+
+66
+00:04:17,979 --> 00:04:21,515
+as gods for the day...
+They also had a slave that was stationed
+
+67
+00:04:21,515 --> 00:04:25,148
+next to them, walking next to them.
+And saying all the time in the ear,
+
+68
+00:04:25,148 --> 00:04:29,210
+memento mori, memento mori, which meant,
+remember, you are mortal.
+
+69
+00:04:29,210 --> 00:04:33,140
+Remember, you are mortal, don't let get,
+that get into your head.
+
+70
+00:04:33,140 --> 00:04:36,230
+And that's, I think it's the same way to
+remind us of.
+
+71
+00:04:36,230 --> 00:04:39,424
+Remember that we're limited.
+Remember that we're irrational.
+
+72
+00:04:39,425 --> 00:04:44,020
+Remember that we have all of these
+decisions, problems, and we need to think
+
+73
+00:04:44,020 --> 00:04:48,500
+about how to test ourself and check
+ourself and don't trust our intuition to a
+
+74
+00:04:48,500 --> 00:04:52,885
+high degree.
+So if you start doubting yourself, what do
+
+75
+00:04:52,885 --> 00:04:55,972
+you do?
+And for me the big lesson to take is to
+
+76
+00:04:55,972 --> 00:05:00,806
+follow what computer hackers do.
+So, I have a very good friend who's a
+
+77
+00:05:00,806 --> 00:05:03,900
+computer hacker and I love what he's
+doing.
+
+78
+00:05:03,900 --> 00:05:06,330
+And he basically told me what computer
+hackers do.
+
+79
+00:05:06,330 --> 00:05:11,430
+And he said that what computer hackers do
+is they take a procedure and they write it
+
+80
+00:05:11,430 --> 00:05:14,190
+in exact details.
+They say this is server and there's a
+
+81
+00:05:14,190 --> 00:05:16,580
+computer, and there's a protocol that
+happens here.
+
+82
+00:05:16,580 --> 00:05:19,793
+And there's a handshake happening here,
+and this information passes, this
+
+83
+00:05:19,793 --> 00:05:23,261
+information passes and they look at the
+whole sequence, very, very long sequence
+
+84
+00:05:23,261 --> 00:05:27,100
+of things that can happen.
+And then they say, and where can we
+
+85
+00:05:27,100 --> 00:05:29,645
+interrupt?
+And where can we slow down and what can we
+
+86
+00:05:29,645 --> 00:05:32,367
+change?
+And how can we get a different result?
+
+87
+00:05:32,368 --> 00:05:35,720
+And I think from a behavioral perspective,
+we want to do the same thing.
+
+88
+00:05:35,720 --> 00:05:39,050
+We want to look at the small details of
+how something happens.
+
+89
+00:05:39,050 --> 00:05:43,390
+How do we enroll in the retirement plan?
+And how do you enroll in organ donation?
+
+90
+00:05:43,390 --> 00:05:45,809
+And how do you decide what TV to get and
+so on?
+
+91
+00:05:45,810 --> 00:05:48,240
+And then we want to say, where can we
+interfere in?
+
+92
+00:05:48,240 --> 00:05:52,252
+Where can we get things to behave
+differently, and where can we improve
+
+93
+00:05:52,252 --> 00:05:55,242
+things?
+And I think this is basically the recipe
+
+94
+00:05:55,242 --> 00:05:59,190
+for how to take social science research
+and make it applicable.
+
+95
+00:05:59,190 --> 00:06:03,478
+You make a list of the exact behavior in
+small details and then you think about
+
+96
+00:06:03,478 --> 00:06:10,251
+where you could apply different things.
+And as a final point, I want to go back to
+
+97
+00:06:10,251 --> 00:06:13,597
+my nurses.
+As I told you I started thinking about
+
+98
+00:06:13,597 --> 00:06:18,069
+this whole field by thinking about how to
+remove bandages from burn patients.
+
+99
+00:06:18,069 --> 00:06:22,658
+When I finished all my research I went
+back to the hospital, I gave a lecture to
+
+100
+00:06:22,658 --> 00:06:26,728
+the doctors and the nurses.
+And they listened and responded, and we
+
+101
+00:06:26,728 --> 00:06:30,133
+had some discussion.
+But when I finished, my favorite nurse,
+
+102
+00:06:30,133 --> 00:06:33,470
+Etty, came to me and she said two really
+interesting things.
+
+103
+00:06:33,470 --> 00:06:37,397
+The first thing that she said was that I
+did not think about her pain.
+
+104
+00:06:37,398 --> 00:06:40,492
+This was no picnic for her, either.
+She was standing there removing my
+
+105
+00:06:40,492 --> 00:06:42,335
+bandages.
+This was not something that she was
+
+106
+00:06:42,335 --> 00:06:44,756
+enjoying.
+Maybe she was not suffering like I was,
+
+107
+00:06:44,756 --> 00:06:50,353
+but this was not great for her either.
+But we quickly agree that, [laugh] role of
+
+108
+00:06:50,354 --> 00:06:55,060
+medical treatment is not to minimize the
+nurse's pain.
+
+109
+00:06:55,060 --> 00:06:58,360
+Even though for her, it would have been
+good to just squeeze the duration.
+
+110
+00:06:58,360 --> 00:07:01,460
+Make it as short as possible.
+And get out of there as quickly as
+
+111
+00:07:01,460 --> 00:07:05,576
+possible.
+But then I said, okay but why don't you
+
+112
+00:07:05,576 --> 00:07:08,240
+just try my suggestion?
+You don't have to accept it.
+
+113
+00:07:08,240 --> 00:07:12,077
+You don't have to adopt it for all time.
+Why don't you just do it a few times?
+
+114
+00:07:12,078 --> 00:07:15,864
+And what she said was really interesting.
+She said, every day she could have done
+
+115
+00:07:15,864 --> 00:07:20,328
+what she thought was the right thing to
+do, which is the quick removal of the
+
+116
+00:07:20,328 --> 00:07:23,017
+bandages.
+What everybody does, which is the quick
+
+117
+00:07:23,017 --> 00:07:26,244
+removal of the bandages.
+And what she thought was good for me and
+
+118
+00:07:26,244 --> 00:07:30,497
+good for her.
+Or, she could do what I suggested.
+
+119
+00:07:30,498 --> 00:07:33,840
+Which was not good for her.
+She thought was not good for me.
+
+120
+00:07:33,840 --> 00:07:38,070
+And nobody else did it.
+And under those conditions, everyday she
+
+121
+00:07:38,070 --> 00:07:41,560
+was just following her best intuition of
+what's the best thing to do.
+
+122
+00:07:41,560 --> 00:07:46,890
+And she was doing every day and every day.
+And I think it happens to us all the time.
+
+123
+00:07:46,890 --> 00:07:50,565
+We stand at intersection in the road
+every, many times a day.
+
+124
+00:07:50,565 --> 00:07:55,173
+And there's a path that we've taken
+before, that everybody else takes and our
+
+125
+00:07:55,173 --> 00:07:58,779
+intuition tells us to take.
+And then this other path that we haven't
+
+126
+00:07:58,779 --> 00:08:02,712
+taken before and we don't know much about
+it but our intuitions are pointing us away
+
+127
+00:08:02,712 --> 00:08:06,432
+from that.
+And I think that if you thought that you
+
+128
+00:08:06,432 --> 00:08:09,363
+might be irrational, and you might have
+bad intuitions.
+
+129
+00:08:09,363 --> 00:08:13,924
+It also means that, from time to time, it
+will be useful to try and take this other
+
+130
+00:08:13,924 --> 00:08:14,480
+path.
+You know?
+
+131
+00:08:14,480 --> 00:08:16,200
+And sometimes, you might take this other
+path.
+
+132
+00:08:16,200 --> 00:08:18,387
+And you would realize that you were right
+all along.
+
+133
+00:08:18,388 --> 00:08:21,161
+And that's perfectly fine.
+Then you've wasted a little bit of time,
+
+134
+00:08:21,161 --> 00:08:24,130
+money, and effort.
+But sometimes, you might take this path,
+
+135
+00:08:24,130 --> 00:08:27,419
+and you might realize that this was
+actually a better path.
+
+136
+00:08:27,420 --> 00:08:33,132
+And if you take the big lesson from me,
+from all of social science, it's to doubt
+
+137
+00:08:33,132 --> 00:08:36,200
+our intuitions.
+And if you doubt your intuition, it means
+
+138
+00:08:36,200 --> 00:08:39,755
+you should experiment more.
+You should ask yourself, why am I making
+
+139
+00:08:39,755 --> 00:08:42,830
+this decision?
+Is it because it's really better, or I
+
+140
+00:08:42,830 --> 00:08:45,990
+just think so?
+And if it's only because I just think so,
+
+141
+00:08:45,990 --> 00:08:49,054
+maybe it's the right time to try something
+else.
+
+142
+00:08:49,055 --> 00:08:53,120
+Maybe I should try it and figure out.
+And for particularly for things we are
+
+143
+00:08:53,120 --> 00:08:57,140
+going to make decisions over and over and
+over, there is huge potential payoff in
+
+144
+00:08:57,140 --> 00:09:00,696
+trying something out and seeing whether it
+leads to better efforts.
+
+145
+00:09:00,696 --> 00:09:04,816
+So this is it for today.
+I hope this was useful.
+
+146
+00:09:04,816 --> 00:09:09,843
+I hope you would have a bit more humility
+in how you...
+
+147
+00:09:09,844 --> 00:09:16,316
+Think about yourself and hoping for better
+decisions in the future.
+
+148
+00:09:37,634 --> 00:09:58,943
+[music].

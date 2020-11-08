@@ -1,0 +1,869 @@
+
+1
+00:00:00,707 --> 00:00:07,769
+One of the economic dreams about pricing
+things on the internet is to partition
+
+2
+00:00:07,769 --> 00:00:14,310
+things to small amounts, and charge people
+only for the things they take.
+
+3
+00:00:14,310 --> 00:00:19,454
+And this is called micro-pricing.
+You're getting software, maybe you don't
+
+4
+00:00:19,454 --> 00:00:23,282
+pay for the whole software, you only pay
+for the feature that you're using and so
+
+5
+00:00:23,282 --> 00:00:25,706
+on and so forth.
+You're not getting a whole album, you're
+
+6
+00:00:25,706 --> 00:00:29,939
+just getting the songs that you want.
+And the question is, is micro-payment a
+
+7
+00:00:29,939 --> 00:00:33,640
+good idea or a bad idea?
+Now, what we talked about, which is the
+
+8
+00:00:33,640 --> 00:00:36,774
+pain of paying, suggests that this might
+not be ideal.
+
+9
+00:00:36,775 --> 00:00:42,332
+That in fact, thinking a hundred times
+about whether to pay one penny could be
+
+10
+00:00:42,332 --> 00:00:46,404
+much, much worse than paying in one time
+one dollar, right?
+
+11
+00:00:46,404 --> 00:00:51,600
+So these things did not accumulate.
+So together with Joseph Silver, we tried a
+
+12
+00:00:51,600 --> 00:00:54,727
+couple of experiments, and here is what we
+did.
+
+13
+00:00:54,727 --> 00:01:00,059
+We got people in the lab, and we say,
+look, for the next hour, you have to, you
+
+14
+00:01:00,059 --> 00:01:05,938
+can do only one of three things.
+You can read cartoons and this will cost
+
+15
+00:01:05,938 --> 00:01:10,056
+you some money.
+You could read news or sports and this
+
+16
+00:01:10,056 --> 00:01:13,450
+would cost you less.
+Or you could look at post-modern
+
+17
+00:01:13,450 --> 00:01:15,747
+literature.
+And this would be for free.
+
+18
+00:01:15,748 --> 00:01:19,064
+This by the way, the post-modern
+literature was not really a post-modern
+
+19
+00:01:19,064 --> 00:01:23,186
+literature.
+The was a, a website that was generating,
+
+20
+00:01:23,186 --> 00:01:27,610
+generating random sequences that looked
+like post-modern literature.
+
+21
+00:01:27,610 --> 00:01:30,277
+And the subjective feeling I had reading
+them, is that.
+
+22
+00:01:30,278 --> 00:01:34,068
+When you read these things, everything
+looked like it was making sense.
+
+23
+00:01:34,068 --> 00:01:37,160
+But, in fact, when you finished a, a
+sentence or a paragraph.
+
+24
+00:01:37,160 --> 00:01:40,470
+You said to yourself, what, what was this
+that I just, I just read?
+
+25
+00:01:40,470 --> 00:01:42,979
+And I was into it.
+It sounded like it was making sense.
+
+26
+00:01:42,980 --> 00:01:47,115
+But I have no idea what it is, and the
+people who designed this website, this was
+
+27
+00:01:47,115 --> 00:01:49,891
+their idea of what post-modern literature
+really is.
+
+28
+00:01:49,892 --> 00:01:53,497
+Anyway, so, this was by the way, not
+really fun to do.
+
+29
+00:01:53,498 --> 00:01:58,683
+So, cartoons, extra fun, you pay more,
+news and sports, you pay less.
+
+30
+00:01:58,683 --> 00:02:01,009
+Post-modern literature, you could do for
+free.
+
+31
+00:02:02,160 --> 00:02:07,485
+And this was the same for everybody, but
+we had groups of people that were faced
+
+32
+00:02:07,485 --> 00:02:11,900
+with different payment mechanisms.
+We gave everybody $10, and some people we
+
+33
+00:02:11,900 --> 00:02:16,084
+put them in the micro-payment condition.
+Which meant that for every piece of thing
+
+34
+00:02:16,084 --> 00:02:19,561
+they were going to pay, not the post
+literature, but the post-modern
+
+35
+00:02:19,561 --> 00:02:22,634
+literature, but for the[COUGH] cartoons
+and for the news.
+
+36
+00:02:22,634 --> 00:02:26,103
+It would prompt them and say, hey, would
+you like to pay for this?
+
+37
+00:02:26,103 --> 00:02:31,026
+And the cost was very, very cheap.
+The cost was one penny for the cartoons
+
+38
+00:02:31,026 --> 00:02:35,968
+and half a penny for news and sports.
+Not a lot of money, but they would, they
+
+39
+00:02:35,968 --> 00:02:38,114
+would pay for it.
+Say, hey, would you like, are you sure you
+
+40
+00:02:38,114 --> 00:02:39,619
+want to pay for it?
+So they had to do that.
+
+41
+00:02:41,110 --> 00:02:45,016
+Another group of people did the same
+thing, and we charged them the same way,
+
+42
+00:02:45,016 --> 00:02:47,387
+the piecemeal, but we charged them at the
+end.
+
+43
+00:02:47,388 --> 00:02:51,131
+This is kind of like electricity bill.
+You consume and you consume and you
+
+44
+00:02:51,131 --> 00:02:54,643
+consume and you consume.
+At the end, you pay for it.
+
+45
+00:02:54,644 --> 00:02:57,848
+Another group, we got them to prepay.
+We got them to put some money in an
+
+46
+00:02:57,848 --> 00:03:00,095
+electronic wallet.
+Then we say, hey.
+
+47
+00:03:00,095 --> 00:03:02,754
+This is just going to deduct money as you
+go along.
+
+48
+00:03:02,754 --> 00:03:06,737
+And finally, we had another group that
+had, a subscription.
+
+49
+00:03:06,738 --> 00:03:09,538
+They could pay for the whole thing.
+Right?
+
+50
+00:03:09,539 --> 00:03:13,961
+And they would pay like a package deal
+that gave them access to everything that
+
+51
+00:03:13,961 --> 00:03:17,214
+they wanted.
+What did we find?
+
+52
+00:03:17,214 --> 00:03:22,594
+We find that the people who got the
+subscription paid much, much more than the
+
+53
+00:03:22,594 --> 00:03:27,162
+people who got the micro-payment.
+In fact the people in the micro-payment
+
+54
+00:03:27,162 --> 00:03:30,802
+condition spend most of their time.
+Reading post-modern literature.
+
+55
+00:03:30,802 --> 00:03:33,650
+And, by the way, having a really miserable
+time in it.
+
+56
+00:03:33,650 --> 00:03:38,190
+On average, I think they paid basically
+four pennies that's it in this hour.
+
+57
+00:03:38,190 --> 00:03:42,118
+So they hardly paid anything.
+Every transaction, half a penny, penny,
+
+58
+00:03:42,118 --> 00:03:45,366
+was just too much for them.
+They decided they much rather read the
+
+59
+00:03:45,366 --> 00:03:48,366
+post-modern literature, the fake
+post-modern literature.
+
+60
+00:03:48,366 --> 00:03:50,518
+And they were quite miserable with the
+whole thing.
+
+61
+00:03:50,518 --> 00:03:53,480
+The people who got the subscription were
+much happier why?
+
+62
+00:03:53,480 --> 00:03:55,773
+They paid much more.
+Right?
+
+63
+00:03:55,774 --> 00:03:59,163
+They paid much, much more, ten times more.
+But they were happy.
+
+64
+00:03:59,163 --> 00:04:03,294
+To do it, because they were not
+encountering this decision every time,
+
+65
+00:04:03,294 --> 00:04:06,759
+should I pay half a cent, should I pay a
+penny, and so on.
+
+66
+00:04:06,760 --> 00:04:10,950
+And then what about the people who paid
+the end versus the people paid in the
+
+67
+00:04:10,950 --> 00:04:13,620
+beginning?
+Which one was better?
+
+68
+00:04:13,620 --> 00:04:17,588
+Well, it turns out the people who paid in
+the beginning spend more money.
+
+69
+00:04:17,588 --> 00:04:20,665
+Why?
+Because of they put it in an account
+
+70
+00:04:20,665 --> 00:04:23,693
+already.
+They sign it to an account, this account
+
+71
+00:04:23,693 --> 00:04:27,126
+was a sign.
+To get money for this particular purchase,
+
+72
+00:04:27,126 --> 00:04:29,928
+it was tougher.
+So, if you look at the order of these
+
+73
+00:04:29,928 --> 00:04:33,847
+effects, people in the micro condition,
+micropayment paid the least.
+
+74
+00:04:33,848 --> 00:04:38,240
+People in the post condition paid more.
+The pre-condition, they paid more.
+
+75
+00:04:38,240 --> 00:04:41,699
+And the most was paid by the people in the
+subscription.
+
+76
+00:04:41,700 --> 00:04:45,024
+Now, the other interesting thing from this
+experiment.
+
+77
+00:04:45,025 --> 00:04:48,231
+Is that people basically realize this
+effect.
+
+78
+00:04:48,231 --> 00:04:52,662
+At the end of the study we asked people,
+hey, by the way, in which condition would
+
+79
+00:04:52,662 --> 00:04:55,174
+you have liked to be?
+And even in the people in the
+
+80
+00:04:55,174 --> 00:04:59,002
+micro-payment condition said, you know
+what, we would have been much better in
+
+81
+00:04:59,002 --> 00:05:01,110
+the subscription condition.
+Why?
+
+82
+00:05:01,110 --> 00:05:04,480
+We don't like making decisions about one
+penny and one penny.
+
+83
+00:05:04,480 --> 00:05:07,845
+We don't, we don't like those decisions.
+We would much prefer to pay for everything
+
+84
+00:05:07,845 --> 00:05:11,598
+and enjoy it to a higher degree.
+They would have preferred to eliminate the
+
+85
+00:05:11,598 --> 00:05:16,610
+pain of paying from their ways.
+And I want us to think about two things in
+
+86
+00:05:16,610 --> 00:05:19,584
+this regard.
+One is if you look at something like the
+
+87
+00:05:19,584 --> 00:05:21,990
+iTune stores, everything is kind of the
+same price.
+
+88
+00:05:21,990 --> 00:05:27,207
+Or maybe they have two, two prices for,
+for songs.
+
+89
+00:05:27,208 --> 00:05:29,509
+Why not have lots of prices?
+Why $0.99?
+
+90
+00:05:29,509 --> 00:05:34,070
+Why not some of them be 87 and 91 and 101
+and so on?
+
+91
+00:05:34,070 --> 00:05:37,850
+And the idea is that if all the songs have
+the same price or two price points we
+
+92
+00:05:37,850 --> 00:05:42,733
+basically say yes or no.
+But if there's lot of variability in the
+
+93
+00:05:42,733 --> 00:05:49,120
+prices all of a sudden, it makes the
+decision much more difficult.
+
+94
+00:05:49,120 --> 00:05:52,300
+Is this worth another penny, should I pay
+another $0.03?
+
+95
+00:05:52,300 --> 00:05:54,700
+And we start thinking about small amounts
+of money.
+
+96
+00:05:54,700 --> 00:05:58,462
+And thinking about these small amounts of
+money might make the experience less
+
+97
+00:05:58,462 --> 00:06:02,518
+appealing.
+So having prices that are the same, maybe
+
+98
+00:06:02,518 --> 00:06:07,479
+like the dollar store, actually make
+things much more.
+
+99
+00:06:07,480 --> 00:06:11,321
+Easy for us to process.
+We don't look at small prices.
+
+100
+00:06:11,321 --> 00:06:13,370
+We don't start weighing them against other
+things.
+
+101
+00:06:13,370 --> 00:06:19,682
+We just decide, do we want it or not?
+The other point I want to make is about
+
+102
+00:06:19,682 --> 00:06:22,297
+the App Store.
+And there's a couple of points that are,
+
+103
+00:06:22,297 --> 00:06:28,506
+are actually worthwhile making about this.
+The first one is that the App Store has
+
+104
+00:06:28,506 --> 00:06:34,660
+basically very few very few prices.
+And you can ask yourself what would of
+
+105
+00:06:34,660 --> 00:06:37,480
+happened if there were more different
+prices out there.
+
+106
+00:06:37,480 --> 00:06:40,880
+It would have been incredible difficult to
+make these decisions.
+
+107
+00:06:40,880 --> 00:06:46,015
+But the moment they've settled on a few
+prices, this decision is becoming much
+
+108
+00:06:46,015 --> 00:06:49,172
+easier.
+Now, when you buy things on the App Store,
+
+109
+00:06:49,172 --> 00:06:53,047
+I don't know if you've realized, but Apple
+waits a little bit.
+
+110
+00:06:53,048 --> 00:06:57,348
+They wait a little bit, and they try to
+send you a receipt with multiple things
+
+111
+00:06:57,348 --> 00:06:58,856
+that you bought.
+Why?
+
+112
+00:06:58,856 --> 00:07:02,150
+Because it actually reduces some of your
+pain of paying.
+
+113
+00:07:02,150 --> 00:07:05,228
+It puts things together.
+So, rather than send you an email, hey,
+
+114
+00:07:05,228 --> 00:07:08,248
+you bought something for $0.99 and hey,
+you bought something for $0.99 cents.
+
+115
+00:07:08,249 --> 00:07:12,717
+It's sends you and email and says you've
+done all of those things together.
+
+116
+00:07:12,717 --> 00:07:17,389
+By the way, this strategy also saves them
+some money on the fee with the credit
+
+117
+00:07:17,389 --> 00:07:20,373
+card.
+But in addition, it reduces the che-, the
+
+118
+00:07:20,373 --> 00:07:24,424
+feeling of the pain of paying, making it
+less of a micro-payment.
+
+119
+00:07:24,424 --> 00:07:28,035
+How does the eye still make things look
+even less like micro-payments?
+
+120
+00:07:28,036 --> 00:07:32,900
+Gift certificates, or prepayment right?
+If you buy a $25 or $50 certificate for
+
+121
+00:07:32,900 --> 00:07:37,730
+the iTunes store, all of a sudden you have
+an account that you associate with buying
+
+122
+00:07:37,730 --> 00:07:40,948
+these things.
+You, you, you draw down on it, but you
+
+123
+00:07:40,948 --> 00:07:44,814
+don't feel in the same way that you're
+doing micropayments.
+
+124
+00:07:45,920 --> 00:07:50,888
+The final thing I wanted to say about the
+App Store, which relates to the psychology
+
+125
+00:07:50,888 --> 00:07:55,352
+of free, is that I think it has been a
+tremendous mistake to include price of
+
+126
+00:07:55,352 --> 00:08:00,310
+free as one of the options.
+I see people all the time buying the free
+
+127
+00:08:00,310 --> 00:08:04,802
+apps when a, a better version of the app
+exists at $0.99.
+
+128
+00:08:04,802 --> 00:08:08,153
+And it's not as if those are people that
+don't have 99 cents.
+
+129
+00:08:08,154 --> 00:08:12,807
+Those are the same people who then go for
+a latte, and spend $4 on a cup of coffee.
+
+130
+00:08:12,808 --> 00:08:15,712
+They could have spent one cup of coffee
+less a day.
+
+131
+00:08:15,713 --> 00:08:21,419
+And upgrade four of their apps.
+But the moment the price of free exists.
+
+132
+00:08:21,420 --> 00:08:27,130
+As a version of the app, spending $0.99
+more is not just a direct increase.
+
+133
+00:08:27,130 --> 00:08:30,011
+Oh, this is what I'm not saying this is
+what I'm willing to pay, and what are the
+
+134
+00:08:30,011 --> 00:08:32,532
+other benefits.
+Now, the moment something has a free
+
+135
+00:08:32,532 --> 00:08:36,128
+version, the free version is so much more
+appealing that it's taking a
+
+136
+00:08:36,128 --> 00:08:40,163
+disproportional size of the market.
+And all of a sudden, people are much more
+
+137
+00:08:40,163 --> 00:08:43,499
+appealing to it.
+And the reason why I think this is a shame
+
+138
+00:08:43,499 --> 00:08:46,974
+because I think its killing the paid
+market for the apps.
+
+139
+00:08:46,974 --> 00:08:51,838
+What would happen, you can ask if free was
+not an option if the lowest price was
+
+140
+00:08:51,838 --> 00:08:56,111
+$0.05 or $0.10 cents or $0.25.
+Under those conditions the appeal of a
+
+141
+00:08:56,111 --> 00:08:58,860
+small price would not have been that
+strong.
+
+142
+00:08:58,860 --> 00:09:03,392
+An app store that has.
+A free version, and a version at $0.99,
+
+143
+00:09:03,392 --> 00:09:06,600
+create a huge barrier to switch to the
+$0.99.
+
+144
+00:09:06,600 --> 00:09:12,227
+An app store that has something at $0.05
+and $0.99, now the barrier is not as high.
+
+145
+00:09:12,228 --> 00:09:17,505
+It's only 90 eh, $0.94 more sense.
+It's not the same as moving from free to a
+
+146
+00:09:17,505 --> 00:09:20,536
+paid.
+And if you think about the ecosystem of
+
+147
+00:09:20,536 --> 00:09:23,460
+app developers.
+There's a question of how do we support
+
+148
+00:09:23,460 --> 00:09:26,705
+these activities?
+People are developing all kinds of stuff,
+
+149
+00:09:26,705 --> 00:09:29,530
+initially, for free out of an interest in
+this.
+
+150
+00:09:29,530 --> 00:09:33,717
+But if this ecosystem is not going to
+support them, people are going to stop.
+
+151
+00:09:33,718 --> 00:09:37,314
+Or the kind of app that will appear would
+be very specific, and eh, many people
+
+152
+00:09:37,314 --> 00:09:40,130
+would not make them.
+If think, if you, we really wanted to
+
+153
+00:09:40,130 --> 00:09:44,500
+support this ecosystem.
+Both on the Android side and on the Apple
+
+154
+00:09:44,500 --> 00:09:49,940
+side, it's important not to create the
+zero price because the gravitation to zero
+
+155
+00:09:49,940 --> 00:09:54,137
+is too much, and it would actually
+undermine the whole market.
+
+156
+00:09:54,138 --> 00:09:59,499
+So to summarize, the psychology of money
+is a really interestingueh topic.
+
+157
+00:09:59,500 --> 00:10:04,025
+Eh, we think we're experts with money.
+We use money all the time, but if you take
+
+158
+00:10:04,025 --> 00:10:06,635
+a step back, you realize how interesting
+It is.
+
+159
+00:10:06,635 --> 00:10:09,907
+And not only is it interesting its going
+to become more interesting.
+
+160
+00:10:09,908 --> 00:10:14,450
+We're inventing electronic wallets, we're
+inventing new way of payment.
+
+161
+00:10:14,450 --> 00:10:18,336
+We're inventing ways for people to pay
+each other, to split checks differently,
+
+162
+00:10:18,336 --> 00:10:22,297
+to pay merchants differently, for
+merchants to pay other people differently.
+
+163
+00:10:22,297 --> 00:10:25,012
+We have circle lending we have all kinds
+of things that are emerging.
+
+164
+00:10:25,012 --> 00:10:29,640
+And of course those would make it more
+interesting to study, but we should also
+
+165
+00:10:29,640 --> 00:10:33,637
+ask ourselves, how do you want these
+payment methods to look like?
+
+166
+00:10:33,638 --> 00:10:37,987
+If we're designing a new electronic
+wallet, how do we want it to look like?
+
+167
+00:10:37,988 --> 00:10:41,700
+Do we want it to make people make better
+decisions or worse decisions?
+
+168
+00:10:41,700 --> 00:10:44,684
+Do we want it to be better for the
+merchants or for the individuals?
+
+169
+00:10:44,684 --> 00:10:49,378
+For long term savings or short term fun?
+Do we want to eliminate the pain of
+
+170
+00:10:49,378 --> 00:10:53,290
+paying, or do we want to make it central.
+I think it's incredibly important.
+
+171
+00:10:53,290 --> 00:10:57,706
+We are the designers of our money.
+And we have to understand how money works,
+
+172
+00:10:57,706 --> 00:11:01,211
+and think about how do we want to design
+the payment method.
+
+173
+00:11:01,211 --> 00:11:04,172
+So they will actually make us the best of
+we can.
+
+174
+00:11:04,172 --> 00:11:42,724
+[music].

@@ -1,0 +1,521 @@
+
+1
+00:00:06,130 --> 00:00:09,436
+Hi my name is Leslie John, and I am a 
+professor of marketing at Harvard 
+
+2
+00:00:09,436 --> 00:00:13,376
+Business School. 
+In my job I study why people make 
+
+3
+00:00:13,376 --> 00:00:17,654
+irrational decisions. 
+And I try to use these moments of 
+
+4
+00:00:17,654 --> 00:00:21,610
+irrationality to help people help 
+themselves. 
+
+5
+00:00:21,610 --> 00:00:25,630
+In other words, I try to take all the 
+silly things that we do and I try to use 
+
+6
+00:00:25,630 --> 00:00:30,914
+them to people's own benefit. 
+So have you ever wondered why we often 
+
+7
+00:00:30,914 --> 00:00:34,970
+fail to do things that we know are good 
+for ourselves? 
+
+8
+00:00:34,970 --> 00:00:40,342
+For example, we buy gym club memberships 
+only to see the membership cards collect 
+
+9
+00:00:40,342 --> 00:00:44,155
+dust. 
+We regularly pledge to exercise more, but 
+
+10
+00:00:44,155 --> 00:00:49,144
+then day after day we come home to veg 
+out in front of the computer. 
+
+11
+00:00:49,144 --> 00:00:54,160
+People try to take their prescription 
+medications on time, but they regularly 
+
+12
+00:00:54,160 --> 00:00:58,904
+fail to do so. 
+Or put differently, have you ever 
+
+13
+00:00:58,904 --> 00:01:05,62
+wondered why people knowingly engage in 
+harmful behavior like risky sex? 
+
+14
+00:01:05,62 --> 00:01:11,490
+We'll, a lot of these behaviors can be 
+explained by lapses in self-control. 
+
+15
+00:01:11,490 --> 00:01:14,870
+And today, I'm going to talk to you about 
+a way that we can try to overcome some of 
+
+16
+00:01:14,870 --> 00:01:20,112
+these problems. 
+So it should come really as no surprise 
+
+17
+00:01:20,112 --> 00:01:25,263
+that if you pay people to do things, 
+they'll often do things for you. 
+
+18
+00:01:25,263 --> 00:01:29,103
+But it turns out that this is not the 
+most efficient way to get people to do 
+
+19
+00:01:29,103 --> 00:01:32,950
+things. 
+My colleagues and I, Kevin Volpe and 
+
+20
+00:01:32,950 --> 00:01:37,834
+George Lowenstein, we've been working on 
+ways to make these expenses work even 
+
+21
+00:01:37,834 --> 00:01:44,130
+better as in change more behavior. 
+So lots of employers, they will pay for 
+
+22
+00:01:44,130 --> 00:01:47,586
+their employees to use the gym, hoping 
+that their employees will then use the 
+
+23
+00:01:47,586 --> 00:01:52,896
+gym and be healthier. 
+But we've been finding that these simple 
+
+24
+00:01:52,896 --> 00:01:58,356
+direct subsidization, they're not really 
+that efficient in getting people to go to 
+
+25
+00:01:58,356 --> 00:02:02,109
+gym. 
+It turns out that there's a way that 
+
+26
+00:02:02,109 --> 00:02:07,334
+gives you much more bang for your buck. 
+So what we do is we, the trick is instead 
+
+27
+00:02:07,334 --> 00:02:13,610
+of just paying people to do things, we 
+capitalize on people's irrationality. 
+
+28
+00:02:13,610 --> 00:02:17,563
+So, in other words, we try to take these 
+biases that people have in their 
+
+29
+00:02:17,563 --> 00:02:21,610
+decisions and use them to people's 
+advantage. 
+
+30
+00:02:21,610 --> 00:02:26,362
+So today, I'll tell you about some work 
+we've done where we've used two biases to 
+
+31
+00:02:26,362 --> 00:02:30,754
+try to help people to lose weight, that 
+is one, the over weighting of small 
+
+32
+00:02:30,754 --> 00:02:37,290
+probabilities and two, loss aversion. 
+Let me explain, so over weighting of 
+
+33
+00:02:37,290 --> 00:02:41,382
+small probabilities. 
+Have you ever wondered why people play a 
+
+34
+00:02:41,382 --> 00:02:47,460
+lottery even though there's almost zero 
+chance that they'll win? 
+
+35
+00:02:47,460 --> 00:02:52,603
+Or why people bet on underdogs? 
+Well, it turns out that we human beings, 
+
+36
+00:02:52,603 --> 00:02:56,153
+we're actually really bad at 
+understanding and estimating 
+
+37
+00:02:56,153 --> 00:03:01,450
+probabilities. 
+So, we tend to overestimate, extremely 
+
+38
+00:03:01,450 --> 00:03:05,548
+unlikely events. 
+So, extremely unlikely events feel to us 
+
+39
+00:03:05,548 --> 00:03:10,600
+like they're much more likely to happen 
+than they actually are. 
+
+40
+00:03:10,600 --> 00:03:15,712
+So in other words, these low probability 
+events exert a disproportionate influence 
+
+41
+00:03:15,712 --> 00:03:21,500
+on our judgments and decisions. 
+And this can explain a lot of crazy 
+
+42
+00:03:21,500 --> 00:03:26,808
+beliefs that people have. 
+For example, an ungodly number of 
+
+43
+00:03:26,808 --> 00:03:31,596
+Americans think that they will win the 
+lottery and in fact some people truly 
+
+44
+00:03:31,596 --> 00:03:37,772
+believe that Winning the lottery. 
+For them, winning the lottery is their 
+
+45
+00:03:37,772 --> 00:03:41,150
+retirement plan. 
+So how can we use this normally 
+
+46
+00:03:41,150 --> 00:03:46,620
+pernicious bias to help people? 
+Well, what let me explain how we did this 
+
+47
+00:03:46,620 --> 00:03:50,713
+with weight loss. 
+So instead of just paying people to lose 
+
+48
+00:03:50,713 --> 00:03:55,649
+weight we took advantage of lotteries. 
+So instead of paying someone a dollar to 
+
+49
+00:03:55,649 --> 00:04:00,200
+lose weight. 
+We gave people, say, a 1% chance of 
+
+50
+00:04:00,200 --> 00:04:04,380
+winning $100. 
+So importantly, the cost is the same, but 
+
+51
+00:04:04,380 --> 00:04:09,700
+the difference in the impact on human 
+behavior is actually quite extraordinary. 
+
+52
+00:04:09,700 --> 00:04:14,55
+So what we did was we gave participants 
+in our study a weight loss goal, so we 
+
+53
+00:04:14,55 --> 00:04:19,830
+told them every day what their weight 
+loss goal was. 
+
+54
+00:04:19,830 --> 00:04:24,252
+And at the beginning of the study, each 
+participant got to choose a lucky number, 
+
+55
+00:04:24,252 --> 00:04:28,975
+a two digit lucky number. 
+And now, every day of the study, we put 
+
+56
+00:04:28,975 --> 00:04:34,220
+all the numbers into a hat and we drew 
+out one lucky number every day. 
+
+57
+00:04:34,220 --> 00:04:40,520
+So if your lucky number was drawn, you 
+could win $100, pretty great. 
+
+58
+00:04:40,520 --> 00:04:45,545
+But there was one catch and there was one 
+aspect that made this lottery scheme way 
+
+59
+00:04:45,545 --> 00:04:49,715
+more potent. 
+That is, you would only get the $100 if 
+
+60
+00:04:49,715 --> 00:04:54,660
+you had actually attained your weight 
+loss goal that day. 
+
+61
+00:04:54,660 --> 00:04:58,412
+So, what we did was, suppose your number 
+was drawn, but you hadn't lost the weight 
+
+62
+00:04:58,412 --> 00:05:03,650
+that you were supposed to lose that day. 
+What we did, we sent you a really mean 
+
+63
+00:05:03,650 --> 00:05:07,594
+text message that said well 
+congratulations, you're number came up, 
+
+64
+00:05:07,594 --> 00:05:13,910
+but unfortunately, you didn't meet your 
+weight loss goal today. 
+
+65
+00:05:13,910 --> 00:05:17,760
+You would have won a $100 if you had only 
+lost the weight. 
+
+66
+00:05:17,760 --> 00:05:21,864
+so this incentive scheme, not only does 
+it leverage the power of over weighting 
+
+67
+00:05:21,864 --> 00:05:25,284
+of small probabilities, it feels like 
+you're more likely to win than you 
+
+68
+00:05:25,284 --> 00:05:30,490
+actually are. 
+But it also harnesses the strong 
+
+69
+00:05:30,490 --> 00:05:34,910
+motivations that people have to avoid 
+regret, avoid that sense of, oh, what if 
+
+70
+00:05:34,910 --> 00:05:39,650
+my number came up and I hadn't lost the 
+weight. 
+
+71
+00:05:39,650 --> 00:05:44,72
+so the second bias that I'll to you about 
+before I tell you about the results of 
+
+72
+00:05:44,72 --> 00:05:48,818
+this study. 
+We also in this study made use of loss 
+
+73
+00:05:48,818 --> 00:05:54,220
+aversion, which is a classic bias, loss 
+aversion. 
+
+74
+00:05:54,220 --> 00:06:00,0
+So loss aversion, refers to how the pain 
+of losing something is much more poignant 
+
+75
+00:06:00,0 --> 00:06:05,525
+to us, then is the pleasure that we get 
+with an objectively equivalently sized 
+
+76
+00:06:05,525 --> 00:06:11,333
+gain. 
+So in other words, people hate losing 
+
+77
+00:06:11,333 --> 00:06:15,190
+money way more than they enjoy getting 
+money. 
+
+78
+00:06:15,190 --> 00:06:20,440
+And just like the over weighting of small 
+probabilities, this bias can explain a 
+
+79
+00:06:20,440 --> 00:06:25,315
+lot of suboptimal behavior, for example, 
+it explains why investors hold onto 
+
+80
+00:06:25,315 --> 00:06:31,720
+losing stocks for far too long, when 
+really they should. 
+
+81
+00:06:31,720 --> 00:06:34,658
+They should see their losers. 
+They should get rid of their losing 
+
+82
+00:06:34,658 --> 00:06:37,153
+stocks. 
+And again just like with the over 
+
+83
+00:06:37,153 --> 00:06:41,47
+weighting small probabilities we use this 
+bias in this case to help people lose 
+
+84
+00:06:41,47 --> 00:06:44,500
+weight. 
+How do we do this? 
+
+85
+00:06:44,500 --> 00:06:48,973
+So what we did was we gave dieters the 
+opportunity to put their own money down 
+
+86
+00:06:48,973 --> 00:06:53,542
+towards losing weight. 
+So they could wager their own money 
+
+87
+00:06:53,542 --> 00:06:57,141
+towards losing weight. 
+So they put their money down, and if they 
+
+88
+00:06:57,141 --> 00:07:01,17
+didn't lose their weight, if they didn't 
+lose, if they didn't attain their weight 
+
+89
+00:07:01,17 --> 00:07:05,256
+loss goal, then they forfeited or lost 
+their money. 
+
+90
+00:07:05,256 --> 00:07:09,569
+If they did attain their goal then they 
+would get their money back, plus a match. 
+
+91
+00:07:09,569 --> 00:07:12,260
+So in other words, they were make, they 
+were making a bet. 
+
+92
+00:07:12,260 --> 00:07:15,476
+They were begging on themselves that they 
+would lose weight. 
+
+93
+00:07:15,476 --> 00:07:20,588
+Now, how do these two different incentive 
+systems that are designed to capitalize 
+
+94
+00:07:20,588 --> 00:07:25,274
+on irrationality, how do these incentive 
+systems fare when we compare them to a 
+
+95
+00:07:25,274 --> 00:07:31,472
+control incentive condition? 
+Well, the results after four months, 
+
+96
+00:07:31,472 --> 00:07:36,229
+participants that were randomly assigned 
+to use these incentive schemes, they lost 
+
+97
+00:07:36,229 --> 00:07:42,31
+way more weight than the people in the 
+control condition, good news. 
+
+98
+00:07:42,31 --> 00:07:46,855
+however, the tricky thing, even trickier 
+than losing weight in the first place, is 
+
+99
+00:07:46,855 --> 00:07:51,176
+keeping weight off once we remove the 
+incentives. 
+
+100
+00:07:51,176 --> 00:07:54,419
+And I think I'll save that for another 
+lecture or two altogether because that's 
+
+101
+00:07:54,419 --> 00:07:57,906
+another big problem that we're currently 
+trying to solve. 
+
+102
+00:07:57,906 --> 00:08:03,106
+so summing up, today I've talked about 
+how we can leverage or capitalize on 
+
+103
+00:08:03,106 --> 00:08:08,306
+people's irrationality to help people 
+make better decisions and live better 
+
+104
+00:08:08,306 --> 00:08:13,93
+lives. 
+Thanks. 
+

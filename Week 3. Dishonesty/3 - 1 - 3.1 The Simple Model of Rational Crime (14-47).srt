@@ -1,0 +1,1079 @@
+
+1
+00:00:01,880 --> 00:00:08,982
+The topic of this section is dishonesty,
+the ways we lie and cheat but still think
+
+2
+00:00:08,982 --> 00:00:13,900
+of our self as good people.
+A guy goes into a church and goes into
+
+3
+00:00:13,900 --> 00:00:19,574
+confession, and he says to the priest,
+forgive me Father for I have sinned.
+
+4
+00:00:19,575 --> 00:00:22,587
+And the father said, what have you done my
+son?
+
+5
+00:00:22,588 --> 00:00:28,577
+And the guy said, I'm 72 years old and I
+just had sex with two 25 year old twins.
+
+6
+00:00:28,578 --> 00:00:33,908
+And the priest said, this is terrible.
+Please say 700 times Hail Mary and walk
+
+7
+00:00:33,908 --> 00:00:38,728
+around the church seven times, and give a
+$1,000 to charity.
+
+8
+00:00:38,728 --> 00:00:42,687
+And how long has it been since your last
+confession?
+
+9
+00:00:42,688 --> 00:00:46,428
+I said, I've never been to confession.
+And the priest said, you're 72 years old
+
+10
+00:00:46,428 --> 00:00:49,857
+and you've never been to confession?
+How can that be?
+
+11
+00:00:49,858 --> 00:00:54,708
+The guy says, I'm Jewish.
+So then, the priest said, so what are you
+
+12
+00:00:54,708 --> 00:00:59,500
+doing here and why you telling me?
+And the guy said, I'm telling everybody.
+
+13
+00:00:59,501 --> 00:01:05,232
+What is it about dishonesty?
+When we think about dishonesty, we have a
+
+14
+00:01:05,232 --> 00:01:08,728
+very simple model of dishonesty.
+We have a model that people do the cost
+
+15
+00:01:08,728 --> 00:01:10,860
+benefit analysis.
+What do we tend to gain?
+
+16
+00:01:10,860 --> 00:01:13,757
+What do we tend to lose?
+Is this worth it?
+
+17
+00:01:13,758 --> 00:01:17,800
+But it turns out that throughout the
+studies you will see in this section, this
+
+18
+00:01:17,800 --> 00:01:22,612
+is not actually a good model.
+Instead, lots of other things are driving
+
+19
+00:01:22,612 --> 00:01:27,861
+us to both, be honest and be dishonest.
+And as you will see, in more nuance and
+
+20
+00:01:27,861 --> 00:01:32,689
+complete understanding of this problem is
+both going to help us figure out what's
+
+21
+00:01:32,689 --> 00:01:36,146
+going on.
+And also help us figure out how to fight
+
+22
+00:01:36,146 --> 00:01:56,304
+dishonesty.
+So, first of all, try to be honest and ask
+
+23
+00:01:56,304 --> 00:02:13,855
+yourself whether you have cheated in the
+last year.
+
+24
+00:02:13,856 --> 00:02:19,317
+If you have, raise your hand.
+What about the last month?
+
+25
+00:02:19,318 --> 00:02:22,471
+What about the last week?
+What about today?
+
+26
+00:02:22,471 --> 00:02:28,310
+The reality's, as you probably realized,
+that we lie and cheat lots of the time.
+
+27
+00:02:28,310 --> 00:02:32,526
+And at the same time, while we do those
+actions, we don't think of our self as
+
+28
+00:02:32,526 --> 00:02:36,286
+being immoral.
+And that's kind of the dilemma I want to
+
+29
+00:02:36,286 --> 00:02:39,440
+talk about.
+We often think about, crime, as a few
+
+30
+00:02:39,440 --> 00:02:44,315
+individuals who steal a lot of money and
+cheat a lot, but I want us to think about
+
+31
+00:02:44,315 --> 00:02:49,190
+the cheating that we can all do, that we
+can all be part of, and how does it really
+
+32
+00:02:49,190 --> 00:02:53,117
+work.
+Okay, so I actually started thinking about
+
+33
+00:02:53,118 --> 00:02:57,717
+dishonesty when Enron kind of collapsed
+all of a sudden.
+
+34
+00:02:57,718 --> 00:03:02,698
+And my question, the question that puzzled
+me at the time was, what was the cause for
+
+35
+00:03:02,698 --> 00:03:07,442
+the collapse of Enron?
+Were there three bad apples that planned
+
+36
+00:03:07,442 --> 00:03:11,250
+and plotted and executed this incredible
+accounting scheme?
+
+37
+00:03:11,250 --> 00:03:14,320
+Is this the best explanation for what's
+going on?
+
+38
+00:03:14,320 --> 00:03:19,934
+Or, is the explanation to a lots of people
+at Enron and around Enron that were not
+
+39
+00:03:19,934 --> 00:03:25,884
+active vicious people, but were turning a
+blind eye to something really bad that was
+
+40
+00:03:25,884 --> 00:03:31,217
+going on and benefiting them at the same
+time, kind of wishful blindness?
+
+41
+00:03:31,218 --> 00:03:36,389
+And I happened to meet John Perry Barlow,
+who used to write lyrics and manage a
+
+42
+00:03:36,389 --> 00:03:41,890
+group called the, Grateful Dead.
+And at some point John Perry Barlow, who's
+
+43
+00:03:41,890 --> 00:03:45,516
+a wonderful person, became a consultant
+for Enron.
+
+44
+00:03:45,516 --> 00:03:49,802
+And this, of course, could be thought of
+as a commentary of the times.
+
+45
+00:03:49,802 --> 00:03:54,464
+But beyond that, when I met John Perry
+Barlow, he told me that when he was a
+
+46
+00:03:54,464 --> 00:03:59,348
+consultant for Enron, not only was he
+oblivious to what was going on, he created
+
+47
+00:03:59,348 --> 00:04:03,788
+an ideology for, from himself that
+protected him from seeing all the bad
+
+48
+00:04:03,788 --> 00:04:08,350
+things that were happening around.
+So, this was not just wish for blindness,
+
+49
+00:04:08,350 --> 00:04:12,077
+this was active blindness.
+When he was trying to create an ideology
+
+50
+00:04:12,077 --> 00:04:16,633
+to make himself not see all the bad things
+that he didn't want to see, because he was
+
+51
+00:04:16,633 --> 00:04:18,798
+getting paid.
+So, this question of how do we want to
+
+52
+00:04:18,798 --> 00:04:22,017
+think about dishonesty.
+Do we want to think about it as the
+
+53
+00:04:22,017 --> 00:04:27,372
+property of a few bad apples, or do we
+want to think about it, about something
+
+54
+00:04:27,372 --> 00:04:30,833
+that we can all do, is actually very
+important?
+
+55
+00:04:30,834 --> 00:04:35,667
+Because, for example, what should we do
+about dishonesty as a company?
+
+56
+00:04:35,668 --> 00:04:40,027
+If we think it's only bad apples, then we
+should improve our HR processes, we should
+
+57
+00:04:40,027 --> 00:04:43,917
+just not hire bad apples.
+Or, if people become bad apples, we should
+
+58
+00:04:43,917 --> 00:04:47,296
+fire them later on.
+But if everybody's capable of that, that's
+
+59
+00:04:47,296 --> 00:04:49,605
+not very easy.
+The same thing we can ask about
+
+60
+00:04:49,605 --> 00:04:52,518
+governemnt.
+What should the government do with bad
+
+61
+00:04:52,518 --> 00:04:54,956
+apples?
+If it's just a few of them, we can think
+
+62
+00:04:54,956 --> 00:04:58,895
+about how to kick them off.
+But there's something about the fabric of
+
+63
+00:04:58,895 --> 00:05:03,210
+how the government governs and how people
+are influenced by each other.
+
+64
+00:05:03,210 --> 00:05:06,180
+Then, we need to think very differently
+about these structures.
+
+65
+00:05:06,180 --> 00:05:09,097
+And, of course, the same thing happens
+with individuals cheating.
+
+66
+00:05:09,097 --> 00:05:16,375
+So, let's take a step back and let's say,
+what do we know about cheating and how do
+
+67
+00:05:16,375 --> 00:05:19,289
+we measure it?
+So, let's start with the measurement
+
+68
+00:05:19,289 --> 00:05:21,311
+issue.
+I do experiments, I try to create
+
+69
+00:05:21,311 --> 00:05:25,406
+something that I can measure a bit more
+precisely than asking people for their
+
+70
+00:05:25,406 --> 00:05:27,930
+opinions about something or what they
+would do.
+
+71
+00:05:27,930 --> 00:05:33,046
+And here is the method I came up with.
+We gave people a sheet of paper with 20
+
+72
+00:05:33,046 --> 00:05:36,712
+simple math problems.
+These were math problems that everybody
+
+73
+00:05:36,712 --> 00:05:40,294
+could solve given enough time.
+You would just have to look for the
+
+74
+00:05:40,294 --> 00:05:44,477
+different cells in the matrix and look for
+the two numbers that add to ten.
+
+75
+00:05:44,478 --> 00:05:48,093
+There's lots of those combinations.
+And when you find the one that, the two
+
+76
+00:05:48,093 --> 00:05:50,850
+numbers that add to ten, you know that
+you've found it.
+
+77
+00:05:50,850 --> 00:05:55,746
+But, it takes a while to find this.
+So, we give people a sheet of these
+
+78
+00:05:55,746 --> 00:05:59,050
+problems, we give them 20 problems in one
+sheet.
+
+79
+00:05:59,050 --> 00:06:03,259
+And we say, why don't you go ahead and
+solve as many of those as you can in the
+
+80
+00:06:03,259 --> 00:06:07,744
+next five minutes and we will pay you,
+let's say, a dollar per question for each
+
+81
+00:06:07,744 --> 00:06:11,726
+one you get correct.
+We say to people, please flip the page and
+
+82
+00:06:11,726 --> 00:06:15,689
+get go, start, and people start.
+They work as fast as they can.
+
+83
+00:06:15,690 --> 00:06:20,402
+And the end of the five minutes we say,
+stop, put your pencil down and count how
+
+84
+00:06:20,402 --> 00:06:24,771
+many questions you got correctly.
+Again, these are questions that are quite
+
+85
+00:06:24,771 --> 00:06:27,410
+self-evident whether you got the right or
+not.
+
+86
+00:06:27,410 --> 00:06:32,402
+People count how many ones they got
+correctly and then we say, now please take
+
+87
+00:06:32,402 --> 00:06:37,316
+the sheet of paper and go to the back of
+the room, and please shred the sheet of
+
+88
+00:06:37,316 --> 00:06:39,502
+paper.
+And then, come back to the front of the
+
+89
+00:06:39,502 --> 00:06:42,570
+room and tell me how many questions you
+got correctly, and I will pay you
+
+90
+00:06:42,570 --> 00:06:45,531
+accordingly.
+People do this, they count, they shred,
+
+91
+00:06:45,531 --> 00:06:49,953
+the come back to the front of the room,
+and they announce how many questions they
+
+92
+00:06:49,953 --> 00:06:54,080
+got correctly.
+People on average announced that they
+
+93
+00:06:54,080 --> 00:06:56,480
+solved six problems and they get paid
+accordingly.
+
+94
+00:06:56,480 --> 00:07:01,840
+What the people in this experiment do not
+know is that we fixed the shredder so the
+
+95
+00:07:01,840 --> 00:07:04,758
+shredder only shreds the sides of the
+page.
+
+96
+00:07:04,758 --> 00:07:09,046
+So, when you put the page in, it gives you
+the satisfaction of the noise of the
+
+97
+00:07:09,046 --> 00:07:13,194
+shredder and the slowness of the
+progression but the main part of the page
+
+98
+00:07:13,194 --> 00:07:16,132
+remains intact.
+And we can jump in later on and find out
+
+99
+00:07:16,132 --> 00:07:18,777
+how many problems people really solve
+correctly.
+
+100
+00:07:18,778 --> 00:07:23,146
+And what do we find when we do it?
+We find that people solve 4 problems, but
+
+101
+00:07:23,146 --> 00:07:27,108
+they report to be solving 6.
+Now you can ask the question of, how is
+
+102
+00:07:27,108 --> 00:07:31,755
+this distribution of cheating looks like?
+Is it most people are honest, reporting
+
+103
+00:07:31,755 --> 00:07:34,828
+four and solving really four?
+And a few people are cheating a lot, and
+
+104
+00:07:34,828 --> 00:07:38,702
+they are shifting the average?
+No, it turns out that lots and lots of
+
+105
+00:07:38,702 --> 00:07:42,140
+people cheat.
+In fact, we find very few people that
+
+106
+00:07:42,140 --> 00:07:47,132
+cheat in a egregious way, and instead we
+find lots and lots of people who cheat
+
+107
+00:07:47,132 --> 00:07:50,222
+just a little.
+Now, you can say, okay.
+
+108
+00:07:50,222 --> 00:07:55,036
+So, let's find out why are people and why
+are people cheating a little bit.
+
+109
+00:07:55,036 --> 00:08:00,204
+So, to examine this, let's first think
+about what is the economic rational theory
+
+110
+00:08:00,204 --> 00:08:03,066
+of cheating.
+An economic rational theory of cheating
+
+111
+00:08:03,066 --> 00:08:05,880
+goes back to the famous Chicago economist,
+Gary Becker.
+
+112
+00:08:05,880 --> 00:08:10,096
+And the story goes that Gary Becker is one
+day driving to the University of Chicago
+
+113
+00:08:10,096 --> 00:08:14,412
+looking for a place to park his car.
+He can't find a legal parking spot and
+
+114
+00:08:14,412 --> 00:08:18,680
+he's about to be late for a meeting.
+And Gary Becker does a quick calculation.
+
+115
+00:08:18,680 --> 00:08:22,740
+He said, what is the benefit of getting to
+the meeting on time?
+
+116
+00:08:22,740 --> 00:08:28,250
+What is the cost of parking illegally?
+And he makes, he compares those things.
+
+117
+00:08:28,250 --> 00:08:31,539
+Decide to park illegally and gets to the
+meeting on time.
+
+118
+00:08:31,540 --> 00:08:36,205
+And as he walks around the University of
+Chicago to the meeting, he thinks that
+
+119
+00:08:36,205 --> 00:08:40,091
+what he has done is basically a
+cost/benefit analysis about a crime, a
+
+120
+00:08:40,091 --> 00:08:43,480
+minor crime, but a crime.
+He was thinking about the benefit of
+
+121
+00:08:43,480 --> 00:08:47,512
+getting to the meeting on time, he was
+thinking about the risk of being caught
+
+122
+00:08:47,512 --> 00:08:51,733
+and getting a ticket and the cost of such
+parking ticket, and he was comparing the
+
+123
+00:08:51,733 --> 00:08:54,775
+two of them.
+And in comparing the benefit and the cost,
+
+124
+00:08:54,775 --> 00:08:58,525
+he decided, well, it's worthwhile for him
+to park illegally, or not.
+
+125
+00:08:58,526 --> 00:09:03,630
+And from that point on, Gary Becker said
+that all decisions about moral issues and
+
+126
+00:09:03,630 --> 00:09:08,227
+dishonesty are like that.
+They're about the cost and benefits.
+
+127
+00:09:08,228 --> 00:09:12,252
+So, for example, every time you pass by a
+grocery store or a gas station, you should
+
+128
+00:09:12,252 --> 00:09:14,884
+ask yourself, how much money is in the
+till?
+
+129
+00:09:14,885 --> 00:09:18,970
+What's the chance of catch me if I rob
+this grocery store and gas station?
+
+130
+00:09:18,970 --> 00:09:21,930
+How much time will I get in prison minus
+the time for good behavior?
+
+131
+00:09:21,930 --> 00:09:27,166
+And you should do a cost benefit analysis
+and decide whether to hit the gas station
+
+132
+00:09:27,166 --> 00:09:30,069
+or not.
+Realize that in this conception of this
+
+133
+00:09:30,069 --> 00:09:35,103
+problem, there's no morality.
+It's just about cost and benefit.
+
+134
+00:09:35,104 --> 00:09:40,078
+So, that's with this understanding about
+constant benefit and the rational approach
+
+135
+00:09:40,078 --> 00:09:43,397
+for dishonesty.
+Let's take a step back and let's go back
+
+136
+00:09:43,397 --> 00:09:48,215
+to the method, the little experiment with
+the matrices, and see, can we test the
+
+137
+00:09:48,215 --> 00:09:50,924
+Becker theory?
+So, the Becker theory has three
+
+138
+00:09:50,924 --> 00:09:53,324
+components.
+How much money you intend to gain?
+
+139
+00:09:53,325 --> 00:09:56,806
+What's the probability you will get
+caught, and how much time will you get in
+
+140
+00:09:56,806 --> 00:09:58,870
+prison?
+What's the side of the punishment?
+
+141
+00:09:58,870 --> 00:10:02,530
+We started with the first one, how much
+money do you stand to gain?
+
+142
+00:10:02,530 --> 00:10:06,670
+We gave this sheet to some people and we
+said, if you solve these problems
+
+143
+00:10:06,670 --> 00:10:09,953
+correctly, for each on you solve, you will
+get 10 cents.
+
+144
+00:10:09,954 --> 00:10:13,132
+To another group you said, for each
+problem you will solve, you will get 25
+
+145
+00:10:13,132 --> 00:10:17,314
+cents.
+Another group we offered 50 cents, another
+
+146
+00:10:17,314 --> 00:10:20,826
+$1, $2, $5.
+The highest group was promised $10 per
+
+147
+00:10:20,826 --> 00:10:23,926
+correct question.
+We gave them, we gave them five minutes,
+
+148
+00:10:23,926 --> 00:10:26,877
+they did the task, they shredded the piece
+of paper, they reported.
+
+149
+00:10:26,878 --> 00:10:31,108
+How much cheating did we see?
+And what happened to cheating as a
+
+150
+00:10:31,108 --> 00:10:36,060
+function of how much money they were
+promised per correct question?
+
+151
+00:10:36,060 --> 00:10:39,714
+Before I go to the answer for this, we
+created another experiment in which we
+
+152
+00:10:39,714 --> 00:10:42,710
+just describe to people in the same way
+I'm describing to you.
+
+153
+00:10:42,710 --> 00:10:46,225
+We describe to people the experiment.
+And we say, hey, if this was the
+
+154
+00:10:46,225 --> 00:10:51,189
+experiment, how much do you think people
+would cheat at 25 cents, 50 cents, $1, $2,
+
+155
+00:10:51,189 --> 00:10:55,003
+$5, $10?
+And what people predicted, what they
+
+156
+00:10:55,003 --> 00:10:59,287
+thought would happen was that cheating
+would increase as the amount of the reward
+
+157
+00:10:59,287 --> 00:11:01,864
+goes up.
+In essence, people had the same theory as
+
+158
+00:11:01,864 --> 00:11:05,726
+Becker, that cheating is influenced by the
+amount of money we stand to gain.
+
+159
+00:11:05,726 --> 00:11:09,600
+And therefore, as the amount of money goes
+up, so will the level of cheating.
+
+160
+00:11:09,600 --> 00:11:13,479
+But when we did the experiment for real,
+what did we find?
+
+161
+00:11:13,480 --> 00:11:17,020
+We find lots of people cheating just by a
+little bit.
+
+162
+00:11:17,020 --> 00:11:21,268
+And this amount of cheating was
+independent on the amount of money that
+
+163
+00:11:21,268 --> 00:11:24,696
+they got.
+In fact, for $10 per correct question,
+
+164
+00:11:24,696 --> 00:11:28,870
+cheating was slightly lower than for all
+other amounts.
+
+165
+00:11:28,870 --> 00:11:31,975
+So, first of all, it doesn't go up.
+And if anything, it goes down.
+
+166
+00:11:31,976 --> 00:11:36,307
+That was the first part of the Becker
+element.
+
+167
+00:11:36,308 --> 00:11:38,840
+What about the next one?
+What about the probability of being
+
+168
+00:11:38,840 --> 00:11:40,549
+caught?
+We played with that as well.
+
+169
+00:11:40,549 --> 00:11:45,352
+Some people, we asked them to tear half
+the sheet and only shred half the sheet
+
+170
+00:11:45,352 --> 00:11:50,077
+and submit to us the other half so we
+would have some evidence of what they did
+
+171
+00:11:50,077 --> 00:11:54,458
+and some evidence were eliminated.
+Other people we asked to eliminate and
+
+172
+00:11:54,458 --> 00:11:58,442
+shred the whole sheet of paper.
+Another group we asked to shred the piece
+
+173
+00:11:58,442 --> 00:12:02,522
+of paper, leave the room, and pay
+themselves from a bowl of money that had
+
+174
+00:12:02,522 --> 00:12:06,487
+over $100 in it.
+Now, if you think about it, shredding half
+
+175
+00:12:06,487 --> 00:12:09,957
+the page has some probability of being
+caught.
+
+176
+00:12:09,958 --> 00:12:12,490
+Shredding the whole page has less
+probability of being caught.
+
+177
+00:12:12,490 --> 00:12:15,974
+Shredding the whole page and leaving and
+paying yourself with a bowl of money had
+
+178
+00:12:15,974 --> 00:12:19,068
+even lower probability of being caught.
+What happened?
+
+179
+00:12:19,068 --> 00:12:23,350
+Again, before I tell you the real result,
+we ask people to predict.
+
+180
+00:12:23,350 --> 00:12:27,705
+What do you think would happen?
+And people predicted, as the probability
+
+181
+00:12:27,705 --> 00:12:30,920
+of being caught will go down, the amount
+of cheating will go up.
+
+182
+00:12:30,920 --> 00:12:35,543
+Again, suggesting that peoples' naive
+theories about driving, what's driving
+
+183
+00:12:35,543 --> 00:12:39,167
+this dishonesty, is very much in line with
+the Becker theory.
+
+184
+00:12:39,168 --> 00:12:41,420
+But what did we find when we did the
+experiments for real?
+
+185
+00:12:41,420 --> 00:12:46,070
+We found that lots of people cheated just
+by a little bit independent of the
+
+186
+00:12:46,070 --> 00:12:51,020
+probability of being caught.
+Now, you might say something else.
+
+187
+00:12:51,020 --> 00:12:55,180
+You might say, you know, maybe what's
+going on here is the people think they can
+
+188
+00:12:55,180 --> 00:12:59,342
+cheat a little bit and not being caught.
+If you say, oh, you know, if I really saw
+
+189
+00:12:59,342 --> 00:13:02,120
+four and I only report six, nobody will be
+suspicious.
+
+190
+00:13:02,120 --> 00:13:05,979
+But if I report seven, all of a sudden
+people would become suspicious of that.
+
+191
+00:13:05,980 --> 00:13:09,980
+So, we tried that as well.
+We told some people, we say, hey, the
+
+192
+00:13:09,980 --> 00:13:14,127
+average person in this experiment solves
+four problems.
+
+193
+00:13:14,128 --> 00:13:17,788
+We told another group that the average
+person in the experiment solves eight
+
+194
+00:13:17,788 --> 00:13:20,429
+problems.
+Now, if people just don't want to be
+
+195
+00:13:20,429 --> 00:13:25,257
+detected when they're told other people
+have solved four, maybe they would claim
+
+196
+00:13:25,257 --> 00:13:27,440
+six.
+And when they were told other people would
+
+197
+00:13:27,440 --> 00:13:30,819
+solve eight, they could report ten.
+But what happened?
+
+198
+00:13:30,820 --> 00:13:33,180
+No difference between those two
+conditions.
+
+199
+00:13:33,180 --> 00:13:37,810
+In both of them, people really solved four
+and reported six.
+
+200
+00:13:37,810 --> 00:13:42,162
+So again, it doesn't look like it's about
+the probability of being caught or about
+
+201
+00:13:42,162 --> 00:13:45,763
+wanting to go above some threshold, and
+not even about the reward.
+
+202
+00:13:45,764 --> 00:13:50,690
+So, what is going on here?
+You could say, well, people don't care
+
+203
+00:13:50,690 --> 00:13:56,140
+about the rewards and punishment.
+How much they stand to gain, probability
+
+204
+00:13:56,140 --> 00:13:59,736
+of being caught.
+People are just moral, wonderful,
+
+205
+00:13:59,736 --> 00:14:03,006
+creatures.
+Maybe in Freudian terms, it would be the
+
+206
+00:14:03,006 --> 00:14:05,618
+super ego.
+We have this notion of society about what
+
+207
+00:14:05,618 --> 00:14:08,904
+is appropriate and inappropriate and we've
+internalized that.
+
+208
+00:14:08,905 --> 00:14:11,190
+And that's basically what's ruling our
+behavior.
+
+209
+00:14:11,190 --> 00:14:14,378
+What kind of angels?
+But, you know, we can't say that as well
+
+210
+00:14:14,378 --> 00:14:16,540
+because we see lots of people are
+cheating.
+
+211
+00:14:16,540 --> 00:14:19,268
+Just a little bit but lots of people are
+cheating.
+
+212
+00:14:19,268 --> 00:14:23,560
+So, we have this tension that people are
+dishonest but at the same time people
+
+213
+00:14:23,560 --> 00:14:29,800
+don't react to their economic incentives.
+So, what we need is a new model of what
+
+214
+00:14:29,800 --> 00:14:37,144
+causes people to be dishonest that is not
+relying solely on economic incentive of
+
+215
+00:14:37,144 --> 00:14:43,732
+the amount of money to be gained,
+probability of being caught, and time in
+
+216
+00:14:43,732 --> 00:14:44,642
+prison.

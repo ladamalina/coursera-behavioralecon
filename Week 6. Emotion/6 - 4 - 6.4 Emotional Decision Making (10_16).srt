@@ -1,0 +1,730 @@
+
+1
+00:00:01,236 --> 00:00:09,556
+one very useful story to help us think
+about the identifiable victim effect is
+
+2
+00:00:09,556 --> 00:00:15,562
+the story of Baby Jessica.
+Baby Jessica was a little girl in Texas
+
+3
+00:00:15,562 --> 00:00:19,536
+that fell to a hole.
+This was u, some kind of digging h, device
+
+4
+00:00:19,536 --> 00:00:24,420
+and she fell into it and she was there for
+quite a long time for I think about 50
+
+5
+00:00:24,420 --> 00:00:26,860
+hours or so.
+But she, she was stuck there.
+
+6
+00:00:26,860 --> 00:00:31,051
+It was really, it was really sad and our
+hearts went to her.
+
+7
+00:00:31,051 --> 00:00:36,107
+And you know what, she had more CNN and
+coverage than Rwanda and Darfur put
+
+8
+00:00:36,107 --> 00:00:38,340
+together.
+And the question is why?
+
+9
+00:00:38,340 --> 00:00:44,597
+And of course it's about the fact that she
+was young, cute, innocent girl, who fell
+
+10
+00:00:44,597 --> 00:00:48,340
+into the well.
+And we could all look at the TV coverage.
+
+11
+00:00:48,340 --> 00:00:51,909
+We could all sympathize.
+We could all feel her pain and the pain of
+
+12
+00:00:51,909 --> 00:00:56,088
+her parents.
+And there were some as this drama evolved.
+
+13
+00:00:56,088 --> 00:01:02,306
+Eventually somebody rescued her and that
+picture is an incredibly iconic picture in
+
+14
+00:01:02,306 --> 00:01:05,349
+the history of rescue.
+And everybody was very happy.
+
+15
+00:01:05,350 --> 00:01:09,550
+By the way, after the fact, people started
+donating money to Baby Jessica.
+
+16
+00:01:09,550 --> 00:01:12,155
+She was already safe.
+But after the fact, she don-, they donated
+
+17
+00:01:12,155 --> 00:01:15,246
+money for her.
+And she became a very wealthy young lady,
+
+18
+00:01:15,246 --> 00:01:19,109
+when she, came of age, and could get,
+could get this money.
+
+19
+00:01:20,500 --> 00:01:26,587
+Why do we care so much about her and not
+about, not about other things?
+
+20
+00:01:26,588 --> 00:01:29,339
+And this of course is the problem of
+genocide.
+
+21
+00:01:29,339 --> 00:01:33,479
+And you can look at the history of the
+world and you can look at all kinds of
+
+22
+00:01:33,479 --> 00:01:38,290
+terrible things that have happened.
+And every time, we wake up after the
+
+23
+00:01:38,290 --> 00:01:40,970
+tragedy and we say, never again, never
+again.
+
+24
+00:01:40,970 --> 00:01:44,316
+And every time, it happens again and again
+and again.
+
+25
+00:01:44,316 --> 00:01:49,966
+And if you just look at the list of all
+the genocide that happen in the world this
+
+26
+00:01:49,966 --> 00:01:54,200
+is just incredibly sad.
+And this of course is not new observation.
+
+27
+00:01:54,200 --> 00:01:59,084
+You can see all kinds of thoughtful people
+in our past who have commented on this
+
+28
+00:01:59,084 --> 00:02:02,280
+idea.
+>> [music] I am deeply moved if I see one
+
+29
+00:02:02,280 --> 00:02:05,762
+man suffering and would risk my life for
+him.
+
+30
+00:02:05,763 --> 00:02:10,768
+Then I talk impersonally about the
+possible pulverization of our big cities,
+
+31
+00:02:10,768 --> 00:02:14,485
+with a hundred million dead.
+I am unable to multiply one man's
+
+32
+00:02:14,485 --> 00:02:21,256
+suffering by a hundred million.
+>> The numbers are important, and yet
+
+33
+00:02:21,256 --> 00:02:25,189
+there are not everything.
+For whatever reasons, images often strike
+
+34
+00:02:25,189 --> 00:02:28,193
+us more powerfully, more deeply than
+numbers.
+
+35
+00:02:28,194 --> 00:02:32,622
+We seem unable to hold the emotions
+aroused by numbers for nearly as long as
+
+36
+00:02:32,622 --> 00:02:35,726
+those of images.
+We quickly grow numb to the facts and the
+
+37
+00:02:35,726 --> 00:02:42,594
+math.
+>> The atrocities that were known remained
+
+38
+00:02:42,594 --> 00:02:48,790
+abstract and remote.
+Because the savagery of genocide so defies
+
+39
+00:02:48,790 --> 00:02:53,222
+our everyday experience, many of us failed
+to wrap our minds around it.
+
+40
+00:02:53,222 --> 00:02:57,898
+Bystanders were thus able to retreat to
+the twilight between knowing and not
+
+41
+00:02:57,898 --> 00:03:03,193
+knowing.
+>> The discussion of an infallible victim
+
+42
+00:03:03,193 --> 00:03:07,280
+effect is mostly kind of depressing, but
+there is a brighter version of it, which
+
+43
+00:03:07,280 --> 00:03:11,738
+is to look at what spammers are doing.
+And spammers are interesting because they
+
+44
+00:03:11,738 --> 00:03:15,786
+try different version, they learn what's
+working and not working.
+
+45
+00:03:15,786 --> 00:03:20,125
+And if you got spam, you probably got spam
+that looks much like this.
+
+46
+00:03:20,125 --> 00:03:25,230
+From somebody who's a twenty three year
+old female in somewhere in Africa and she
+
+47
+00:03:25,230 --> 00:03:30,180
+has a particular problem and you can get
+pictures of her and you can create all of
+
+48
+00:03:30,180 --> 00:03:33,800
+those things.
+And of course, what spammers are trying to
+
+49
+00:03:33,800 --> 00:03:38,975
+do are trying to create an emotional link
+with us, they try to portray themselves as
+
+50
+00:03:38,975 --> 00:03:43,858
+individuals, individuals in problems.
+When they try to get us to care about
+
+51
+00:03:43,858 --> 00:03:47,444
+them, to want to work with them, to want
+to help them.
+
+52
+00:03:47,445 --> 00:03:53,466
+I've talked to some people who are working
+for companies like Yahoo and Microsoft and
+
+53
+00:03:53,466 --> 00:03:58,944
+trying to basically reduce the chances
+that they're users are going to fall for
+
+54
+00:03:58,944 --> 00:04:03,509
+those scams.
+And what, what happens, what they say
+
+55
+00:04:03,509 --> 00:04:07,994
+often is that they get them through some
+church bulletin board or through some
+
+56
+00:04:07,994 --> 00:04:11,419
+online dating.
+And they started to create a relationship
+
+57
+00:04:11,419 --> 00:04:15,399
+with them that last over a while.
+And they ask for money first and they ask
+
+58
+00:04:15,399 --> 00:04:18,050
+for then a little bit and little bit more
+and so on.
+
+59
+00:04:18,050 --> 00:04:23,610
+It's the relationship that they build and
+the caring that they build and then they
+
+60
+00:04:23,610 --> 00:04:28,264
+abuse to a very high degree.
+And, so this is what spammers and, you
+
+61
+00:04:28,264 --> 00:04:33,682
+know, people who tries to get us to part
+with our money, doing the internet in
+
+62
+00:04:33,682 --> 00:04:37,200
+terms of using the identifiable victim
+effect.
+
+63
+00:04:37,200 --> 00:04:41,360
+There's one more thing that is not
+connected to that, that is just worthwhile
+
+64
+00:04:41,360 --> 00:04:44,791
+mentioning as long as we deal with
+spammers and scammers.
+
+65
+00:04:44,791 --> 00:04:50,012
+If you got these letters, these emails,
+you probably noticed that their grammar is
+
+66
+00:04:50,012 --> 00:04:52,617
+not that good.
+And the question is why.
+
+67
+00:04:52,618 --> 00:04:55,547
+And one possibility is that they just
+can't write.
+
+68
+00:04:55,548 --> 00:04:58,610
+But there's been another suggestion, which
+is kind of interesting.
+
+69
+00:04:58,610 --> 00:05:00,835
+And that suggestion is that they do it on
+purpose.
+
+70
+00:05:00,836 --> 00:05:06,090
+The their problem is that they send lots
+of emails out, and they want the email
+
+71
+00:05:06,090 --> 00:05:11,502
+that comes back to be from the people who
+are the most gullible, the most ones who
+
+72
+00:05:11,502 --> 00:05:15,464
+are likely to follow.
+If many of us who would never go with
+
+73
+00:05:15,464 --> 00:05:20,469
+those scams, would start writing them,
+they would be burdened by the amount of
+
+74
+00:05:20,469 --> 00:05:25,089
+work that they have to respond to all
+these people as they try to push them
+
+75
+00:05:25,089 --> 00:05:30,039
+through the different steps of the scams.
+So what they want is they want a system
+
+76
+00:05:30,039 --> 00:05:34,938
+that would leave the gullible people in
+the system and get rid of all the people
+
+77
+00:05:34,938 --> 00:05:39,685
+who might not follow with them.
+And one suggestion has been that adding
+
+78
+00:05:39,685 --> 00:05:45,510
+spelling mistakes are actually a way to
+differentiate between those two people.
+
+79
+00:05:45,510 --> 00:05:49,416
+But if they wrote in a nice way, maybe
+more people who would not be, giving the
+
+80
+00:05:49,416 --> 00:05:53,560
+money at the end of the day will come into
+the final, wouldn't waste their time.
+
+81
+00:05:53,560 --> 00:05:58,048
+So by creating lots of spelling mistakes,
+they get rid of some of the less gullible
+
+82
+00:05:58,048 --> 00:06:00,380
+people.
+They stay with the more gullible people.
+
+83
+00:06:00,380 --> 00:06:03,260
+And this way they can concentrate their
+efforts.
+
+84
+00:06:03,260 --> 00:06:08,275
+Now, the evidence for this is just
+starting to build up, but I think it's
+
+85
+00:06:08,275 --> 00:06:11,980
+interesting.
+In any case I think that spammers are
+
+86
+00:06:11,980 --> 00:06:17,017
+people who are getting very quick learning
+process because they get to send lots of
+
+87
+00:06:17,017 --> 00:06:20,220
+emails.
+They get to get lots of responses back,
+
+88
+00:06:20,220 --> 00:06:22,964
+and very quickly, they can learn and
+adapt.
+
+89
+00:06:22,964 --> 00:06:29,896
+Sad, but if you wanted to be in the domain
+of learning something about human behavior
+
+90
+00:06:29,897 --> 00:06:36,647
+spamming this probably a good place to
+learn how people really think and behave.
+
+91
+00:06:36,648 --> 00:06:40,991
+When we thing of that emotions and
+cognitive inputs into, into decision,
+
+92
+00:06:40,991 --> 00:06:44,787
+there's a question of when does one of
+them overpower the other.
+
+93
+00:06:44,787 --> 00:06:48,763
+And when do we get the kind of information
+is actually good for us.
+
+94
+00:06:48,764 --> 00:06:52,717
+So there was one early experiment that I
+really, really love.
+
+95
+00:06:52,718 --> 00:06:57,690
+And they got people into a room and they
+say, which jam would you like to buy?
+
+96
+00:06:57,690 --> 00:07:01,340
+And they showed them all kind of jams.
+And to other people they said, which kind
+
+97
+00:07:01,340 --> 00:07:05,364
+of poster would you like to get?
+And then the people got the jam that they
+
+98
+00:07:05,364 --> 00:07:09,844
+wanted or got the poster they wanted and
+they went to their dorm room and ate or
+
+99
+00:07:09,844 --> 00:07:13,039
+didn't eat the jam and hang or didn't hang
+the poster.
+
+100
+00:07:13,039 --> 00:07:17,654
+And they went back and they measured later
+how much jam did they eat and did they
+
+101
+00:07:17,654 --> 00:07:20,877
+hang the poster or not.
+But here's a thing.
+
+102
+00:07:20,877 --> 00:07:25,810
+When they initially made them decide, some
+people, they just said, just decide.
+
+103
+00:07:25,810 --> 00:07:27,579
+Use your emotion.
+What would you like?
+
+104
+00:07:27,580 --> 00:07:30,340
+And some people, they gave them cognitive
+input.
+
+105
+00:07:30,340 --> 00:07:34,253
+They gave them ratings from experts.
+They gave them all kinds of other
+
+106
+00:07:34,253 --> 00:07:37,200
+information.
+Which one of them do you think was the
+
+107
+00:07:37,200 --> 00:07:39,790
+right one?
+The ones including just the emotion in the
+
+108
+00:07:39,790 --> 00:07:43,280
+beginning of the one including both the
+emotion and the cognitive input.
+
+109
+00:07:43,280 --> 00:07:47,259
+Well, when people just based, work based
+on emotion.
+
+110
+00:07:47,260 --> 00:07:51,820
+They made decisions they liked better on.
+If they bought jam based on emotions, they
+
+111
+00:07:51,820 --> 00:07:55,295
+got jam and they ate the jam.
+If they got their poster based on emotion,
+
+112
+00:07:55,295 --> 00:07:57,407
+they got their poster and they put it on
+the wall.
+
+113
+00:07:57,408 --> 00:08:01,140
+But if people started using more of
+cognitive thought, all of a sudden they
+
+114
+00:08:01,140 --> 00:08:04,750
+got jam that they did not use and they got
+poster that they did not hang up.
+
+115
+00:08:04,750 --> 00:08:08,918
+Why?
+The reality is the consumption experience
+
+116
+00:08:08,918 --> 00:08:12,137
+of jams and posters is all about the
+emotions.
+
+117
+00:08:12,138 --> 00:08:14,827
+What do you get?
+What kind of pleasure do you get?
+
+118
+00:08:14,828 --> 00:08:17,310
+When it's on your wall or when you're
+eating it in the morning.
+
+119
+00:08:17,310 --> 00:08:21,490
+It's not about cognitive thought.
+So what this suggest is that when the
+
+120
+00:08:21,490 --> 00:08:26,458
+decision environment Includes the same
+element as the consumption environment,
+
+121
+00:08:26,458 --> 00:08:30,262
+that will be the ideal situation.
+And if you have a situation in which
+
+122
+00:08:30,262 --> 00:08:34,282
+includes something irrelevant to the
+consumption, that is not going to work
+
+123
+00:08:34,282 --> 00:08:36,819
+out.
+So it means to think, it means that their
+
+124
+00:08:36,819 --> 00:08:39,476
+inputs or emotional cognition are
+different.
+
+125
+00:08:39,476 --> 00:08:43,346
+And it means that you want to think about
+what is your conceptional experience when
+
+126
+00:08:43,346 --> 00:08:46,302
+to be like.
+Are you going to be consuming based on
+
+127
+00:08:46,302 --> 00:08:50,270
+emotion or based on cognition, and how can
+you make the decision environment
+
+128
+00:08:50,270 --> 00:08:53,717
+encapsulate those elements that are going
+to be relevant later.
+
+129
+00:08:53,718 --> 00:08:56,364
+Another example for this is from Chris
+Hsee.
+
+130
+00:08:56,364 --> 00:09:00,858
+Imagine you go into a store and you see
+different speakers for your new, wonderful
+
+131
+00:09:00,858 --> 00:09:04,578
+stereo.
+And some speakers look more beautiful, and
+
+132
+00:09:04,578 --> 00:09:08,046
+some sound better.
+What's more important?
+
+133
+00:09:08,046 --> 00:09:12,557
+Well, when you stand in the store, you see
+them side by side.
+
+134
+00:09:12,558 --> 00:09:17,160
+So now, all of a sudden, tiny differences
+in quality might seem very big for you.
+
+135
+00:09:17,160 --> 00:09:20,544
+Because you put your headphone on, and you
+say, left, right, left, right.
+
+136
+00:09:20,544 --> 00:09:24,027
+And tiny differences in quality might seem
+relevant.
+
+137
+00:09:24,028 --> 00:09:27,619
+And you might decide to get the ugly one
+that sounds likely better.
+
+138
+00:09:29,040 --> 00:09:32,560
+But then you take it home, and when you
+take it home you only have one speaker.
+
+139
+00:09:32,560 --> 00:09:36,590
+And you can't do the, compare this one to
+this one and this one to this one, all of
+
+140
+00:09:36,590 --> 00:09:40,710
+a sudden you get just one.
+And now you got one that has slightly
+
+141
+00:09:40,710 --> 00:09:47,080
+higher quality of sound but is uglier, and
+the ugliness stays with you for a long,
+
+142
+00:09:47,080 --> 00:09:51,039
+for a long time.
+So, think about this notion, of the fit,
+
+143
+00:09:51,039 --> 00:09:55,807
+between the decision environment and the
+consumption environment.
+
+144
+00:09:55,808 --> 00:10:00,661
+And think about what roles are emotions
+playing in one, versus the other.
+
+145
+00:10:00,661 --> 00:10:05,185
+And if you can get those to be more
+compatible and more similar, you can
+
+146
+00:10:05,185 --> 00:10:09,348
+actually get people, and yourself, to make
+better decisions.

@@ -1,0 +1,504 @@
+
+1
+00:00:00,000 --> 00:00:03,445
+As we said, thinking about money in the
+right way is a difficult thing to do so we
+
+2
+00:00:03,445 --> 00:00:05,356
+find tricks to think about it in a wrong
+way.
+
+3
+00:00:05,356 --> 00:00:09,376
+And one of those tricks is thinking about
+money in relative rather than absolute
+
+4
+00:00:09,376 --> 00:00:16,951
+terms.
+So let me first give you some examples to
+
+5
+00:00:16,951 --> 00:00:26,275
+how to, how to think about it.
+A very classic and standard example is the
+
+6
+00:00:26,275 --> 00:00:29,931
+following.
+Imagine you're going to buy a pen, and you
+
+7
+00:00:29,931 --> 00:00:32,933
+find a pen that you like and that pen is
+$15.
+
+8
+00:00:32,933 --> 00:00:36,908
+And as you're about to check it at the
+cashier, the cashier tells you, you know
+
+9
+00:00:36,908 --> 00:00:38,660
+what?
+You have such a lovely face.
+
+10
+00:00:38,660 --> 00:00:43,723
+You have such a lovely smile.
+I don't want to abuse you, so I'll tell
+
+11
+00:00:43,723 --> 00:00:50,114
+you what, our competitor sells the exact
+same pen instead of for $15 for $7.
+
+12
+00:00:50,115 --> 00:00:54,467
+It's three blocks down the street, it's up
+to you if you want to buy the pen here or
+
+13
+00:00:54,467 --> 00:00:57,410
+go to this other place and now you can
+think to yourself.
+
+14
+00:00:57,410 --> 00:01:02,014
+Would you walk three blocks down the
+street, to save $8 on this pen?
+
+15
+00:01:02,014 --> 00:01:06,427
+And most people when given this decision,
+say yes, I will do that.
+
+16
+00:01:06,428 --> 00:01:10,495
+Now imagine a slightly different case.
+You're coming and you're buying a camera,
+
+17
+00:01:10,495 --> 00:01:12,481
+it's an expensive camera, its cost:
+$1,015.
+
+18
+00:01:12,482 --> 00:01:16,842
+And as you're about to check out, the
+salesperson says you know what, you have
+
+19
+00:01:16,842 --> 00:01:19,709
+such a lovely face, you have such a lovely
+smile.
+
+20
+00:01:19,710 --> 00:01:23,900
+I'll tell you what.
+Our competitor is selling the same exact
+
+21
+00:01:23,900 --> 00:01:29,595
+camera, three blocks down the street for
+$8 dollars less, instead of $1,015, for
+
+22
+00:01:29,595 --> 00:01:33,616
+$1,007.00 dollars.
+Would you now take the trip down to the
+
+23
+00:01:33,616 --> 00:01:37,770
+other store to buy the camera?
+And most people now say, absolutely not.
+
+24
+00:01:37,770 --> 00:01:42,432
+Now the reality is that your checking
+account doesn't care where the $8 came
+
+25
+00:01:42,432 --> 00:01:47,168
+from, they came from a pen, or they came
+from a camera, or they came from a small
+
+26
+00:01:47,168 --> 00:01:50,287
+amount of purchase, or a big amount of
+purchase.
+
+27
+00:01:50,287 --> 00:01:56,650
+But we care, $8 from 15 looks like a
+really big amount, more than half, $8 from
+
+28
+00:01:56,650 --> 00:02:01,653
+1,015 looks like a tiny amount, doesn't
+seem to be worth it.
+
+29
+00:02:01,653 --> 00:02:07,038
+Or think about the following example.
+Imagine you buying a car, you're going to
+
+30
+00:02:07,038 --> 00:02:12,040
+buy a car, the car is $40,000 and the
+sales person tells you that for $2,000
+
+31
+00:02:12,040 --> 00:02:16,823
+more you could get leather seats.
+Now I'm not really sure what the benefit
+
+32
+00:02:16,823 --> 00:02:21,651
+of leather seats are, but let's say that
+there are benefits for the leather seats,
+
+33
+00:02:21,651 --> 00:02:25,628
+and the question is, is it worth $2,000
+when you buy a $40,000 car.
+
+34
+00:02:25,628 --> 00:02:30,787
+Or imagine the second case, you going to
+buy a chair for your office and the sales,
+
+35
+00:02:30,787 --> 00:02:36,177
+the sales person tells you that for $2,000
+more, the chair costs $500, and for $2,000
+
+36
+00:02:36,177 --> 00:02:39,830
+more you could get the leather seat.
+Would you do it?
+
+37
+00:02:39,830 --> 00:02:43,414
+Now for most people they would say the
+first one is an easy decision the second
+
+38
+00:02:43,414 --> 00:02:47,502
+one seem offensive.
+Spend $2,000 more on a $500 chair, just to
+
+39
+00:02:47,502 --> 00:02:50,426
+get leather.
+Now presumably, you sit more in your
+
+40
+00:02:50,426 --> 00:02:54,584
+office chair then in the car and whatever
+the benefits are from leather would be
+
+41
+00:02:54,584 --> 00:02:58,367
+higher in the office then in the car, but
+that's not how we think about it.
+
+42
+00:02:58,368 --> 00:03:04,346
+You spend $40,000, $2,000 seems very
+small, you spend $500, $2,000 looks
+
+43
+00:03:04,346 --> 00:03:08,015
+incredibly large.
+And here's another example.
+
+44
+00:03:08,016 --> 00:03:13,148
+If you're like me, a couple of times,
+we've renovated, our house.
+
+45
+00:03:13,148 --> 00:03:17,234
+And when you renovate your house, the
+contractors come and give you an initial
+
+46
+00:03:17,234 --> 00:03:20,954
+price and then there's all kinds of
+options for upgrades and changes and so
+
+47
+00:03:20,954 --> 00:03:23,906
+on.
+And what I found myself doing, and I think
+
+48
+00:03:23,906 --> 00:03:28,815
+it's universal, is making very, very quick
+decisions on big sums of money.
+
+49
+00:03:28,816 --> 00:03:31,914
+Why?
+Because the renovation is incredibly
+
+50
+00:03:31,914 --> 00:03:36,378
+expensive, so all of a sudden spending
+only, you know, x extra thousands of
+
+51
+00:03:36,378 --> 00:03:41,058
+dollars on, you know, better tile or
+French something or another or Italian or
+
+52
+00:03:41,058 --> 00:03:45,320
+counter tops or granite, all of a sudden
+seems like a good, a good deal.
+
+53
+00:03:45,320 --> 00:03:50,010
+But at the same day, that they spend this
+huge amount of money in a quick decision,
+
+54
+00:03:50,010 --> 00:03:54,630
+I can go to the supermarket and look very
+carefully, do I want the more expensive
+
+55
+00:03:54,630 --> 00:03:58,420
+tomatoes then the cheaper tomatoes.
+Which one makes more sense?
+
+56
+00:03:58,420 --> 00:04:03,586
+Now my whole life of making decisions
+about tomatoes could not sum up to that
+
+57
+00:04:03,586 --> 00:04:07,444
+snap decision I made a few hours ago with
+the contractor.
+
+58
+00:04:07,444 --> 00:04:12,500
+But because the amount of money we start
+with, with the contractor is so large,
+
+59
+00:04:12,500 --> 00:04:16,098
+it's incredibly easy to make snap quick
+decisions.
+
+60
+00:04:16,099 --> 00:04:20,166
+And by the way all of this also should
+tell you that there are probably ways to
+
+61
+00:04:20,166 --> 00:04:23,714
+think about how to fight this.
+That what we don't want to do, is we don't
+
+62
+00:04:23,714 --> 00:04:27,716
+want to make a decision based on something
+relative that we're spending, we want to
+
+63
+00:04:27,716 --> 00:04:32,044
+think about them as independent.
+And the question is how can we do that?
+
+64
+00:04:32,044 --> 00:04:37,416
+And now this, these decisions are not just
+about how we feel about spending money,
+
+65
+00:04:37,416 --> 00:04:42,048
+they're also about happiness.
+So ask yourself for example, what would
+
+66
+00:04:42,048 --> 00:04:46,532
+you prefer to be, to be a person that
+makes $90,000 a year, which is a very
+
+67
+00:04:46,532 --> 00:04:51,337
+good, salary in a company where everyone
+makes between 90 and 100.
+
+68
+00:04:51,337 --> 00:04:58,520
+So you're making 90, but you're the lowest
+paid employee, versus to work in a company
+
+69
+00:04:58,520 --> 00:05:05,351
+that pays less, between 60 and 85,000 and
+you're the highest paid employee, you get
+
+70
+00:05:05,351 --> 00:05:08,615
+85,000.
+So in an absolute way, you would get paid
+
+71
+00:05:08,615 --> 00:05:13,115
+less in the second company, but in a
+relative way you would be at the top at
+
+72
+00:05:13,115 --> 00:05:17,020
+you game, while in the first company you
+would be at the bottom.
+
+73
+00:05:17,020 --> 00:05:21,916
+Now the interesting thing is when you ask
+people these choices next to each other,
+
+74
+00:05:21,916 --> 00:05:26,812
+most people say I'll take the first one, I
+prefer to get more money and be the lowest
+
+75
+00:05:26,812 --> 00:05:29,864
+paid employee.
+When you ask people where they would be
+
+76
+00:05:29,864 --> 00:05:33,983
+happier with, most people recognize,
+they'll be probably happy in the second.
+
+77
+00:05:33,984 --> 00:05:38,290
+Okay, So'll be the highest paid employee
+even if they get paid less for it.
+
+78
+00:05:38,290 --> 00:05:42,442
+Now, this is an interesting question of
+yes, we do understand the issue of
+
+79
+00:05:42,442 --> 00:05:46,930
+relativity and we do understand the
+influence of happiness, but are we willing
+
+80
+00:05:46,930 --> 00:05:49,610
+to pay a premium for this increased
+happiness?
+
+81
+00:05:49,610 --> 00:05:55,466
+And the answer is not so much.
+Now if you think about all these examples,
+
+82
+00:05:55,466 --> 00:06:01,937
+of relativity, they all come about the
+fact that we have diminishing returns.
+
+83
+00:06:01,938 --> 00:06:05,732
+We have this function in which our
+happiness starts very high, and then we
+
+84
+00:06:05,732 --> 00:06:09,292
+have diminishing returns.
+And another way to think about it is that
+
+85
+00:06:09,292 --> 00:06:12,564
+we think in terms of percentages, so ratio
+increases.
+
+86
+00:06:12,565 --> 00:06:17,858
+So think about the following graph.
+What we have on the x-axis is the amount
+
+87
+00:06:17,858 --> 00:06:21,967
+of money, the physical amount of money,
+how much is actually involved.
+
+88
+00:06:21,968 --> 00:06:26,250
+And what we have on the y-axis is the
+psychological intensity of that.
+
+89
+00:06:26,250 --> 00:06:32,098
+Now because this curve has a diminishing
+return shape function to it, what does it
+
+90
+00:06:32,098 --> 00:06:35,132
+mean?
+It means that if we take an amount of
+
+91
+00:06:35,132 --> 00:06:39,987
+money, on the x-axis, in the left side of
+the lower end of the scale.
+
+92
+00:06:39,988 --> 00:06:44,864
+And we take an amount that is exactly the
+same in terms of the amount of money on
+
+93
+00:06:44,864 --> 00:06:49,202
+the, far right, they project very
+different psychologically.
+
+94
+00:06:49,203 --> 00:06:54,130
+So this is why, 7, 8 dollars out of 15,
+which is represented by the left two
+
+95
+00:06:54,130 --> 00:06:59,132
+columns, look like it has a huge
+psychological effect between thirty and
+
+96
+00:06:59,132 --> 00:07:03,782
+forty something on that scale.
+Where $8 on the right side of the scale,
+
+97
+00:07:03,782 --> 00:07:08,418
+even though it has the same $8 effect,
+psychologically it has a much, much
+
+98
+00:07:08,418 --> 00:07:12,346
+smaller effect.
+And this is basically the way that
+
+99
+00:07:12,346 --> 00:07:16,100
+relativity works, and how diminishing
+returns work.
+
+100
+00:07:16,100 --> 00:07:23,520
+And why the same physical amount in terms
+of money has very different psychological
+
+101
+00:07:23,520 --> 00:07:24,953
+implications.

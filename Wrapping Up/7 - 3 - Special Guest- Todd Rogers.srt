@@ -1,0 +1,1490 @@
+
+1
+00:00:00,12 --> 00:00:02,311
+Hello. 
+My name is Todd Rogers. 
+
+2
+00:00:02,311 --> 00:00:07,320
+I'm a professor of Public Policy at the 
+Harvard Kennedy School. 
+
+3
+00:00:07,320 --> 00:00:11,675
+Today, we're going to be talking about a 
+specific domain, voter mobilization, and 
+
+4
+00:00:11,675 --> 00:00:16,95
+how behavioral science can be applied to 
+a specific problem, mobilizing voters, 
+
+5
+00:00:16,95 --> 00:00:22,226
+and the kind of progress that's possible 
+after years of focus on it. 
+
+6
+00:00:23,410 --> 00:00:26,758
+I started as a political poster and I 
+realized there was a science behavior 
+
+7
+00:00:26,758 --> 00:00:30,150
+change that we weren't really using in 
+politics. 
+
+8
+00:00:30,150 --> 00:00:34,506
+So, I went to grad school, learned about 
+this, and then I went back to Washington 
+
+9
+00:00:34,506 --> 00:00:38,400
+and started a research institute with 
+others, co-founded it, where we 
+
+10
+00:00:38,400 --> 00:00:44,873
+translated the insights of Behavioral 
+Science into political strategy. 
+
+11
+00:00:44,873 --> 00:00:49,295
+We focused on things like donation, 
+volunteerism resource allocation, and 
+
+12
+00:00:49,295 --> 00:00:52,715
+voter mobilization. 
+Today, we're going to be talking of just 
+
+13
+00:00:52,715 --> 00:00:55,897
+that one outcome. 
+How do we maximize the impact of money 
+
+14
+00:00:55,897 --> 00:00:59,850
+spent on mobilizing voters? 
+We're going to see the kind of progress 
+
+15
+00:00:59,850 --> 00:01:03,126
+that's possible as this field of 
+Behavioral Science has been applied to 
+
+16
+00:01:03,126 --> 00:01:09,184
+this one problem. 
+So, to begin, here's a picture of me 10 
+
+17
+00:01:09,184 --> 00:01:13,772
+years ago. 
+I was volunteering for a campaign, I had 
+
+18
+00:01:13,772 --> 00:01:18,60
+a lot more hair, and I was making a phone 
+call that was completely consistent with 
+
+19
+00:01:18,60 --> 00:01:23,434
+the norms of about a decade ago. 
+I would begin the script by saying, 
+
+20
+00:01:23,434 --> 00:01:26,360
+hello, Mrs.Smith. 
+It's easy to vote. 
+
+21
+00:01:26,360 --> 00:01:28,980
+The issues at stake are important, it's 
+going to be close. 
+
+22
+00:01:28,980 --> 00:01:33,420
+So, your vote matters, and it's your 
+civic responsibility to vote. 
+
+23
+00:01:33,420 --> 00:01:36,960
+Do you intend to vote? 
+Now, of course, she says, like everybody, 
+
+24
+00:01:36,960 --> 00:01:40,880
+95% of people say this, yes, I intend to 
+vote. 
+
+25
+00:01:40,880 --> 00:01:44,710
+So, I say, great, thanks. 
+Have a nice night. 
+
+26
+00:01:44,710 --> 00:01:47,655
+So, that's the standard. 
+That's the, the industry standard, the 
+
+27
+00:01:47,655 --> 00:01:51,740
+most common kind of message that was used 
+up to about a decade ago. 
+
+28
+00:01:51,740 --> 00:01:55,583
+And if you unpack it, you can see that 
+what we're really emphasizing are very 
+
+29
+00:01:55,583 --> 00:01:59,256
+rational variables. 
+Things like, it's easy to vote, 
+
+30
+00:01:59,256 --> 00:02:04,45
+suggesting that the cost is low. 
+It's important, the race is important, so 
+
+31
+00:02:04,45 --> 00:02:09,869
+if you have an impact, it's going to be 
+high because the consequences are high. 
+
+32
+00:02:11,210 --> 00:02:14,359
+The, it's a close election, meaning you 
+could be the pivotal voter, and it's your 
+
+33
+00:02:14,359 --> 00:02:18,328
+civic duty to vote. 
+Now if you unpack this, each of these is 
+
+34
+00:02:18,328 --> 00:02:23,710
+part of the rational voter model. 
+What's fascinating is, up until about 
+
+35
+00:02:23,710 --> 00:02:29,510
+2004, this was the most sophisticated 
+kind of of voter mobilization message. 
+
+36
+00:02:29,510 --> 00:02:33,570
+And experimentalists like Don Green and 
+Alan Gerber at Yale randomized controlled 
+
+37
+00:02:33,570 --> 00:02:37,50
+experiments in the field testing 
+different elements of these to get out 
+
+38
+00:02:37,50 --> 00:02:41,402
+the vote scripts. 
+They learned that emphasizing that it's 
+
+39
+00:02:41,402 --> 00:02:44,735
+easy has no impact of a voter 
+mobilization message. 
+
+40
+00:02:44,735 --> 00:02:48,540
+Emphasizing that it's an important 
+election, similarly, no effect. 
+
+41
+00:02:48,540 --> 00:02:51,906
+Emphasizing that you could be the pivotal 
+voter, that it's a close election, no 
+
+42
+00:02:51,906 --> 00:02:55,785
+effect. 
+Emphasizing that it's your civic duty, no 
+
+43
+00:02:55,785 --> 00:02:58,252
+effect. 
+So, what they concluded in this 
+
+44
+00:02:58,252 --> 00:03:01,788
+meta-analysis of many of these studies is 
+that the content of what you say doesn't 
+
+45
+00:03:01,788 --> 00:03:06,446
+matter, so much as the mode of contact. 
+And what they found at the time was that 
+
+46
+00:03:06,446 --> 00:03:12,602
+the more personal, the more effective. 
+Canvasing door-to-door is more effective 
+
+47
+00:03:12,602 --> 00:03:18,10
+than impersonal robocall and things like 
+that. 
+
+48
+00:03:18,10 --> 00:03:20,908
+So, this was the, the work of behavioral 
+scientists and psychologists like myself 
+
+49
+00:03:20,908 --> 00:03:23,638
+and, in fact, Alan Gerber and Don Green 
+also moved into this direction where we 
+
+50
+00:03:23,638 --> 00:03:26,326
+start testing psychological elements, 
+behavioral elements, that could be 
+
+51
+00:03:26,326 --> 00:03:31,309
+included into the, these scripts. 
+We'll start with the project that I 
+
+52
+00:03:31,309 --> 00:03:36,480
+conducted with a collaborator named David 
+Nickerson at Notre Dame. 
+
+53
+00:03:36,480 --> 00:03:39,130
+So, what we have is the state of 
+Pennsylvania in the 2008 primary 
+
+54
+00:03:39,130 --> 00:03:41,920
+election. 
+So, this is[UNKNOWN] Presidential 
+
+55
+00:03:41,920 --> 00:03:45,715
+election, Barack Obama versus Hillary 
+Clinton, the presidential primary for the 
+
+56
+00:03:45,715 --> 00:03:49,235
+democratic party has not been resolved 
+yet with a bunch of potential voters, 
+
+57
+00:03:49,235 --> 00:03:53,926
+about 300,000 of them. 
+What we do is we randomly assign them to 
+
+58
+00:03:53,926 --> 00:03:57,944
+one of four different conditions. 
+The first condition gets no contact at 
+
+59
+00:03:57,944 --> 00:03:59,400
+all. 
+No phone call. 
+
+60
+00:03:59,400 --> 00:04:03,95
+They're the untreated control group. 
+The second condition gets a standard 
+
+61
+00:04:03,95 --> 00:04:06,313
+voter mobilization script. 
+It's important, please vote. 
+
+62
+00:04:06,313 --> 00:04:11,278
+You could be a pivotal voter. 
+The next group gets the standard, plus do 
+
+63
+00:04:11,278 --> 00:04:14,920
+you intend to vote. 
+Just eliciting a commitment or an 
+
+64
+00:04:14,920 --> 00:04:18,326
+intention. 
+And now, the fourth gets the standard, 
+
+65
+00:04:18,326 --> 00:04:23,396
+plus the intention, plus a battery of 
+questions designed to elicit a concrete 
+
+66
+00:04:23,396 --> 00:04:27,791
+plan. 
+Do you intend to vote? 
+
+67
+00:04:27,791 --> 00:04:29,340
+Yes. 
+What time will you vote? 
+
+68
+00:04:29,340 --> 00:04:31,320
+How will you get there? 
+Where will you be coming from? 
+
+69
+00:04:31,320 --> 00:04:35,810
+This is a very concrete set of questions. 
+Now, this is inspired by research in 
+
+70
+00:04:35,810 --> 00:04:38,900
+Cognitive Psychology, on implementation 
+intentions. 
+
+71
+00:04:38,900 --> 00:04:42,596
+People like Peter Gollwitzer at NYU and 
+others have worked on this for decades, 
+
+72
+00:04:42,596 --> 00:04:46,124
+and they found that as you unpack the 
+concrete details of an act, it makes you 
+
+73
+00:04:46,124 --> 00:04:50,762
+more likely to follow through on it for 
+two reasons. 
+
+74
+00:04:50,762 --> 00:04:54,920
+One, you're more likely to schedule it, 
+it's pure mechanical scheduling. 
+
+75
+00:04:54,920 --> 00:04:58,696
+But the second more sophisticated 
+interesting psychological piece is that 
+
+76
+00:04:58,696 --> 00:05:02,708
+when you unpack the concrete details, you 
+say, oh, on Tuesday, I'm going to drop my 
+
+77
+00:05:02,708 --> 00:05:07,140
+kids off at school and then I'm going to 
+go vote. 
+
+78
+00:05:07,140 --> 00:05:10,788
+That when you, when that time arrives, 
+and you're driving home from dropping 
+
+79
+00:05:10,788 --> 00:05:14,209
+your kids off at school, it pops in your 
+mind. 
+
+80
+00:05:14,209 --> 00:05:17,800
+It's just more likely because you've 
+created the association between that 
+
+81
+00:05:17,800 --> 00:05:22,570
+context and the planned intention. 
+So, what we're going to do here is study 
+
+82
+00:05:22,570 --> 00:05:27,740
+what's the impact of adding that to voter 
+mobilization call. 
+
+83
+00:05:27,740 --> 00:05:30,740
+Whether you vote or not is public 
+records, so this is the outcome measure 
+
+84
+00:05:30,740 --> 00:05:34,36
+we're going to be using. 
+Many people don't realize that whether 
+
+85
+00:05:34,36 --> 00:05:36,740
+you vote, or whether you show up or not, 
+is public. 
+
+86
+00:05:36,740 --> 00:05:42,104
+Who you vote for, not public at all, 1892 
+Federal Law, secret ballot. 
+
+87
+00:05:42,104 --> 00:05:46,821
+But whether you vote is public. 
+So, we find when we graph here the impact 
+
+88
+00:05:46,821 --> 00:05:50,526
+of these calls versus no call, we find 
+that the people who receive the standard 
+
+89
+00:05:50,526 --> 00:05:54,835
+call, please vote, it's important, it's 
+important. 
+
+90
+00:05:54,835 --> 00:05:59,302
+No, no effect. 
+Just like dozens of other experiments, 
+
+91
+00:05:59,302 --> 00:06:03,718
+reminding people of an election is, has 
+no meaningful effect even though millions 
+
+92
+00:06:03,718 --> 00:06:08,676
+of dollars are spent on it. 
+Asking them, do they intend to vote, 
+
+93
+00:06:08,676 --> 00:06:14,550
+eliciting a self-prediction, and this is 
+the most sophisticated call as of 2008. 
+
+94
+00:06:14,550 --> 00:06:18,460
+Asking them to elicit a self-prediction, 
+do you intend to vote. 
+
+95
+00:06:18,460 --> 00:06:21,530
+Everybody says, yes. 
+Has a small effect, a two percentage 
+
+96
+00:06:21,530 --> 00:06:24,650
+point effect. 
+It's a real effect. 
+
+97
+00:06:24,650 --> 00:06:27,650
+and other studies have sort of, are 
+consistent with this. 
+
+98
+00:06:27,650 --> 00:06:31,270
+It's in effect but it's about 2 
+percentage points. 
+
+99
+00:06:31,270 --> 00:06:34,534
+This is in line with other kinds of 
+studies on voter mobilization phone calls 
+
+100
+00:06:34,534 --> 00:06:38,100
+without anything psychologically 
+sophisticated in them. 
+
+101
+00:06:38,100 --> 00:06:42,289
+It might even be a little bit smaller 
+than that than those studies might 
+
+102
+00:06:42,289 --> 00:06:46,8
+suggest. 
+But adding the plan making battery, more 
+
+103
+00:06:46,8 --> 00:06:49,852
+than doubles the impact of what was at 
+the time the most effective get out to 
+
+104
+00:06:49,852 --> 00:06:53,962
+vote call. 
+So, adding a plan making battery, this 
+
+105
+00:06:53,962 --> 00:06:57,683
+very small marginal cost addition can 
+more then double the get out to vote 
+
+106
+00:06:57,683 --> 00:07:01,15
+phone call. 
+So, when I was talking about woman I 
+
+107
+00:07:01,15 --> 00:07:05,2
+should have added, Mrs. 
+Smith, please remember what time will you 
+
+108
+00:07:05,2 --> 00:07:09,510
+vote, how will you get there, where will 
+you be coming from? 
+
+109
+00:07:09,510 --> 00:07:14,225
+That's one like of research that 
+collaborators and I have worked on. 
+
+110
+00:07:14,225 --> 00:07:19,43
+Another looks at how do we emphasize, how 
+should we emphasize the way turnout is 
+
+111
+00:07:19,43 --> 00:07:22,730
+going to be? 
+Should we emphasize that not enough 
+
+112
+00:07:22,730 --> 00:07:25,560
+people are voting? 
+You hear this a lot, not enough young 
+
+113
+00:07:25,560 --> 00:07:29,120
+people are voting, not enough low income 
+people are voting, etc. 
+
+114
+00:07:29,120 --> 00:07:32,305
+Or should we have them say, lots of other 
+people joining, voting so please join 
+
+115
+00:07:32,305 --> 00:07:35,280
+them. 
+We, in 2004, I surveyed self-reported 
+
+116
+00:07:35,280 --> 00:07:39,540
+experts and voter mobilization, basically 
+political consultants who work on voter 
+
+117
+00:07:39,540 --> 00:07:43,507
+mobilizations. 
+And they were roughly split, 50/50, and 
+
+118
+00:07:43,507 --> 00:07:48,586
+which is more effective, emphasizing high 
+turnout or emphasizing low turnout? 
+
+119
+00:07:48,586 --> 00:07:52,734
+Now, what we find across several 
+experiments, this is with Alan Gerber at 
+
+120
+00:07:52,734 --> 00:07:57,494
+Yale, is that emphasizing high turnout is 
+much more effective in motivating people 
+
+121
+00:07:57,494 --> 00:08:02,800
+to participate[COUGH] than emphasizing 
+low turnout. 
+
+122
+00:08:02,800 --> 00:08:04,950
+We've, we've seen this with self-reported 
+intention to vote. 
+
+123
+00:08:04,950 --> 00:08:07,878
+We've seen this with click through and 
+e-mail and across a lot of other 
+
+124
+00:08:07,878 --> 00:08:10,626
+behaviors. 
+We see that, that people conform to the 
+
+125
+00:08:10,626 --> 00:08:14,308
+behavior of others. 
+And I imagine that that some of you are 
+
+126
+00:08:14,308 --> 00:08:17,866
+familiar with that. 
+So, when I was talking to Mrs. 
+
+127
+00:08:17,866 --> 00:08:21,226
+Smith, I should have also said in 
+addition to what time will you vote, how 
+
+128
+00:08:21,226 --> 00:08:24,810
+will you get there, where will you be 
+coming from, I should have said, join the 
+
+129
+00:08:24,810 --> 00:08:29,19
+millions of others who are going to be 
+voting. 
+
+130
+00:08:29,19 --> 00:08:32,205
+Turn outs are going to be high so please 
+join the others, emphasizing high 
+
+131
+00:08:32,205 --> 00:08:34,763
+turnout. 
+Even though ironically, more people 
+
+132
+00:08:34,763 --> 00:08:37,463
+voting decreases the likelihood that 
+you're going to be pivotal but the 
+
+133
+00:08:37,463 --> 00:08:41,300
+likelihood that you're going to pivotal 
+is 1 in 10 million anyway. 
+
+134
+00:08:41,300 --> 00:08:43,225
+The likelihood that it's going to be a 
+tie and your vote is going to be the 
+
+135
+00:08:43,225 --> 00:08:45,395
+difference is less than the likelihood 
+that you're going to get hit by a car on 
+
+136
+00:08:45,395 --> 00:08:49,728
+your way to the polling place. 
+So, a third line of research explores the 
+
+137
+00:08:49,728 --> 00:08:54,6
+question of how do we deal with how, how 
+should we emphasize, how should we refer 
+
+138
+00:08:54,6 --> 00:08:58,206
+to people? 
+Should we refer to them as voters or as 
+
+139
+00:08:58,206 --> 00:09:03,35
+the kinds of people who can vote? 
+And so, the underlying principle here is 
+
+140
+00:09:03,35 --> 00:09:07,966
+that people have multiple identities. 
+I'm a father, I'm a Philadelphia Eagles 
+
+141
+00:09:07,966 --> 00:09:10,572
+fan. 
+And when you elicit one identity, I'm 
+
+142
+00:09:10,572 --> 00:09:14,415
+more likely to behave in certain ways 
+that are consistent with it than when I 
+
+143
+00:09:14,415 --> 00:09:19,317
+elicit another identity. 
+So, in this case, with Carol Dweck at 
+
+144
+00:09:19,317 --> 00:09:23,541
+Stanford and Greg Walton at Stanford and 
+Chris Bryan who is the lead author on 
+
+145
+00:09:23,541 --> 00:09:27,237
+this at UCSD, we did a series of 
+experiments where we asked people to 
+
+146
+00:09:27,237 --> 00:09:31,527
+complete a survey, in which all that we 
+varied was whether we, we said to vote or 
+
+147
+00:09:31,527 --> 00:09:38,326
+to be a voter. 
+So, basically a verb or a noun. 
+
+148
+00:09:38,326 --> 00:09:41,178
+So, for example, we say, how important is 
+it to you to vote in the tomorrow's 
+
+149
+00:09:41,178 --> 00:09:44,216
+election? 
+In another condition, we say, how 
+
+150
+00:09:44,216 --> 00:09:48,669
+important is it to you to be a voter in 
+tomorrow's election? 
+
+151
+00:09:49,780 --> 00:09:53,928
+So, what we find is that emphasizing the 
+voter identity is remarkably powerful in 
+
+152
+00:09:53,928 --> 00:09:58,230
+making people more likely to conform to 
+that behavior. 
+
+153
+00:09:58,230 --> 00:10:01,317
+And we see this across a series of 
+studies both in this now in verb format, 
+
+154
+00:10:01,317 --> 00:10:04,355
+we also see it in other studies where 
+it's, where we say as the kind of person 
+
+155
+00:10:04,355 --> 00:10:10,892
+who votes versus as someone who can vote. 
+So, when I was talking to Mrs. 
+
+156
+00:10:10,892 --> 00:10:14,552
+Smith, I should have also said, as the 
+kind of person who votes, please be a 
+
+157
+00:10:14,552 --> 00:10:18,512
+voter in the upcoming election, please be 
+a voter, in addition to make a plan and 
+
+158
+00:10:18,512 --> 00:10:23,872
+join lots of others. 
+And now, in very recent research, that we 
+
+159
+00:10:23,872 --> 00:10:27,282
+are just now be in the process to 
+publishing and this is inspired by 
+
+160
+00:10:27,282 --> 00:10:31,560
+fascinating research, that I encourage 
+you all to look into by Alan Gerber, Don 
+
+161
+00:10:31,560 --> 00:10:38,222
+Green, and Christian Larimer. 
+that research showed that sending people 
+
+162
+00:10:38,222 --> 00:10:42,574
+their vote histories and their neighbors' 
+vote histories and also sending their 
+
+163
+00:10:42,574 --> 00:10:46,798
+neighbors all that information, creating 
+this sort of social pressure so that 
+
+164
+00:10:46,798 --> 00:10:52,767
+everyone knows who voted and who didn't. 
+And then committing to after the 
+
+165
+00:10:52,767 --> 00:10:55,929
+election, we're going to send an update 
+so everyone knows who voted and who 
+
+166
+00:10:55,929 --> 00:10:59,760
+didn't. 
+Though it's incredibly creepy and elicits 
+
+167
+00:10:59,760 --> 00:11:03,725
+backlash and that people are very upset 
+about it, incredibly powerful at 
+
+168
+00:11:03,725 --> 00:11:08,104
+increasing turnout. 
+So, what we're trying to do in this next 
+
+169
+00:11:08,104 --> 00:11:12,48
+study is really tease apart, what is the 
+impact of inducing accountability, the, 
+
+170
+00:11:12,48 --> 00:11:15,528
+the, the sense that you are going to have 
+to talk with someone, and have to 
+
+171
+00:11:15,528 --> 00:11:20,459
+potentially justify whether you voted or 
+not. 
+
+172
+00:11:21,460 --> 00:11:25,294
+And so, we have this most sophisticated 
+psychological mailer which you can see on 
+
+173
+00:11:25,294 --> 00:11:28,160
+the screen. 
+And it, and it basically uses all the 
+
+174
+00:11:28,160 --> 00:11:31,170
+principles. 
+It has a pop-out box for make a plan. 
+
+175
+00:11:31,170 --> 00:11:35,870
+It emphasizes repeatedly as the kind of 
+person who votes, as a voter. 
+
+176
+00:11:35,870 --> 00:11:41,200
+It emphasizes high turnout, all the sort, 
+all the best practices. 
+
+177
+00:11:41,200 --> 00:11:45,555
+and what it also does for half the 
+people, and there about 650,000 people in 
+
+178
+00:11:45,555 --> 00:11:50,668
+this experiment, for half of them, we 
+send them this letter. 
+
+179
+00:11:50,668 --> 00:11:54,574
+And for the other half, and this in the 
+2010 general election, and the other 
+
+180
+00:11:54,574 --> 00:11:58,858
+half, we add them in the top right corner 
+you may be called after the election to 
+
+181
+00:11:58,858 --> 00:12:05,130
+discuss your voting experience. 
+Basically, this, this threat that you may 
+
+182
+00:12:05,130 --> 00:12:09,418
+be called, so it's supposed to create the 
+sense that maybe you may have to explain 
+
+183
+00:12:09,418 --> 00:12:15,302
+to someone whether you voted or not. 
+And we add a paragraph in which we also 
+
+184
+00:12:15,302 --> 00:12:18,563
+described that. 
+So, what we find is that adding just this 
+
+185
+00:12:18,563 --> 00:12:22,31
+little call out box and a paragraph 
+reiterating, basically saying we may call 
+
+186
+00:12:22,31 --> 00:12:25,550
+you after the election, look out for our 
+call, increased the effectiveness of that 
+
+187
+00:12:25,550 --> 00:12:30,23
+mailer by more than 40%. 
+So, we already have the most 
+
+188
+00:12:30,23 --> 00:12:33,270
+psychologically sophisticated mailer that 
+we can develop. 
+
+189
+00:12:33,270 --> 00:12:36,910
+It uses all these best practices that 
+we've learned from dozens or hundreds of 
+
+190
+00:12:36,910 --> 00:12:39,823
+experiments. 
+And then we add, just add in the 
+
+191
+00:12:39,823 --> 00:12:43,463
+top-right corner, we may call you after 
+the election, and we reiterated in the 
+
+192
+00:12:43,463 --> 00:12:48,180
+text, and that increases the 
+effectiveness by more than 40%. 
+
+193
+00:12:48,180 --> 00:12:50,342
+So, let's pull it all together. 
+So, when I was talking to Mrs. 
+
+194
+00:12:50,342 --> 00:12:53,181
+Smith, I should have said, what time will 
+you vote? 
+
+195
+00:12:53,181 --> 00:12:55,730
+How will you get there? 
+Where are you coming from? 
+
+196
+00:12:55,730 --> 00:12:58,570
+And also, lots of others will vote, you 
+should join them. 
+
+197
+00:12:58,570 --> 00:13:01,790
+And also, you're the kind of person who 
+votes. 
+
+198
+00:13:01,790 --> 00:13:04,806
+Thanks for being a voter. 
+And also, this last bit about adding the 
+
+199
+00:13:04,806 --> 00:13:09,84
+prospect of accountability we may call 
+you after the election, look out for our 
+
+200
+00:13:09,84 --> 00:13:14,860
+call. 
+So, what we see now, in the 2012 
+
+201
+00:13:14,860 --> 00:13:20,66
+election, this research was widely used. 
+We, we think, in total, this probably 
+
+202
+00:13:20,66 --> 00:13:24,440
+doubles or triples the impact per dollar 
+spent on voter mobilization. 
+
+203
+00:13:24,440 --> 00:13:27,806
+So, there are tens of millions of dollars 
+during the 2012 election spent on this 
+
+204
+00:13:27,806 --> 00:13:30,684
+activity. 
+And what we're doing here is we're, 
+
+205
+00:13:30,684 --> 00:13:34,39
+we're, I'm now capturing as much of it as 
+I can and I want to see and I'm going to 
+
+206
+00:13:34,39 --> 00:13:38,999
+show you, how some of it was used. 
+So, here's a mailer that I actually 
+
+207
+00:13:38,999 --> 00:13:41,990
+received, saying, this is the voter 
+report card. 
+
+208
+00:13:41,990 --> 00:13:45,457
+You were a voter in the past, please 
+continue to be a voter. 
+
+209
+00:13:45,457 --> 00:13:49,40
+Be a voter this Tuesday, and it compares 
+my turnout to others. 
+
+210
+00:13:49,40 --> 00:13:52,680
+So, it basically says, lots of others are 
+voting, you should join them. 
+
+211
+00:13:52,680 --> 00:13:56,337
+Even though your past vote history, which 
+we're now looking at appears that you 
+
+212
+00:13:56,337 --> 00:14:00,624
+have voted less than others. 
+This, just so everyone knows, this is an 
+
+213
+00:14:00,624 --> 00:14:04,162
+artifact of having moved and the, the 
+registrar had not updated my voting 
+
+214
+00:14:04,162 --> 00:14:07,874
+record. 
+There's no way my neighbors have voted 
+
+215
+00:14:07,874 --> 00:14:10,463
+more than me. 
+just want to be clear, this is data 
+
+216
+00:14:10,463 --> 00:14:12,634
+error. 
+Nonetheless, it's fascinating that I 
+
+217
+00:14:12,634 --> 00:14:15,832
+received this treatment. 
+That I've, that I've learned that has 
+
+218
+00:14:15,832 --> 00:14:19,660
+been mailed to literally millions of 
+people in the 2012 election, this mailer, 
+
+219
+00:14:19,660 --> 00:14:24,640
+which emphasizes, be a voter, join lots 
+of others who are voting. 
+
+220
+00:14:24,640 --> 00:14:28,174
+This is an e-mail from a national 
+security organization called the Truman 
+
+221
+00:14:28,174 --> 00:14:32,702
+National Security Project. 
+And if you unpack the messaging in it, it 
+
+222
+00:14:32,702 --> 00:14:38,89
+says, lots of others are voting. 
+Make sure you know where your, where your 
+
+223
+00:14:38,89 --> 00:14:41,996
+voting place is, so it emphasizes, make a 
+plan. 
+
+224
+00:14:41,996 --> 00:14:47,108
+it emphasizes you're the kind of person 
+who votes and, so it emphasizes all three 
+
+225
+00:14:47,108 --> 00:14:51,196
+of those. 
+It's a, it's a really sophisticated, and 
+
+226
+00:14:51,196 --> 00:14:55,244
+even the subject line is do you have a 
+voting plan? 
+
+227
+00:14:55,244 --> 00:15:00,290
+So now, on the weekend before the 
+election, a woman came knocking on my 
+
+228
+00:15:00,290 --> 00:15:06,730
+door volunteering for the Elizabeth 
+Warren campaign. 
+
+229
+00:15:06,730 --> 00:15:10,790
+And you can see her thumb in this image 
+here, she came, she read me a script. 
+
+230
+00:15:10,790 --> 00:15:14,180
+It was fascinating and it reflected all 
+of this research. 
+
+231
+00:15:14,180 --> 00:15:17,744
+She's talking to me, asking me to make a 
+plan, saying, lots of others are going to 
+
+232
+00:15:17,744 --> 00:15:21,870
+vote, calling me a voter and the kind of 
+person who votes. 
+
+233
+00:15:21,870 --> 00:15:25,90
+It was great, so afterwards, of course, I 
+said, yes and I do have a plan. 
+
+234
+00:15:25,90 --> 00:15:26,946
+I know when I'm going to vote, I know 
+where I'm going to be coming from, I know 
+
+235
+00:15:26,946 --> 00:15:30,604
+how I'm going to get there, thank you. 
+And would you mind if I took a picture of 
+
+236
+00:15:30,604 --> 00:15:34,340
+your script and of your finger and your 
+hand while you're doing it? 
+
+237
+00:15:34,340 --> 00:15:36,877
+So, all I got was the tip of her finger, 
+but this is a picture of the actual 
+
+238
+00:15:36,877 --> 00:15:40,420
+script that they were using for the 
+Elizabeth Warren campaign. 
+
+239
+00:15:40,420 --> 00:15:46,210
+She won in the 2012 Senate race in 
+Massachusetts against Scott Brown. 
+
+240
+00:15:46,210 --> 00:15:49,864
+Now, here's an e-mail that was sent 
+several weeks before the election by the 
+
+241
+00:15:49,864 --> 00:15:55,29
+Obama campaign to their e-mail list, in 
+which they said, make a plan. 
+
+242
+00:15:55,29 --> 00:15:57,440
+And then they said, what time will you 
+vote? 
+
+243
+00:15:57,440 --> 00:15:59,444
+How will you get here? 
+Where will you be coming from? 
+
+244
+00:15:59,444 --> 00:16:01,774
+These are the specific questions we used 
+in our search. 
+
+245
+00:16:01,774 --> 00:16:04,980
+So, this is fantastic. 
+And I presume that what they were going 
+
+246
+00:16:04,980 --> 00:16:09,262
+to do was e-mail back to me right before 
+the election day. 
+
+247
+00:16:09,262 --> 00:16:13,438
+Continuing with the Obama campaign, so 
+this is the the week the night before the 
+
+248
+00:16:13,438 --> 00:16:18,620
+election, it says, do you have a plan for 
+tomorrow, is the subject line. 
+
+249
+00:16:18,620 --> 00:16:22,118
+And as you read through it, you can see 
+all the best practices we've been talking 
+
+250
+00:16:22,118 --> 00:16:25,414
+about. 
+Now finally, this, I really want to focus 
+
+251
+00:16:25,414 --> 00:16:28,470
+in on. 
+this is the script from the Obama 
+
+252
+00:16:28,470 --> 00:16:32,690
+campaign's calling tool. 
+So, they had millions of calls made by 
+
+253
+00:16:32,690 --> 00:16:36,370
+volunteers. 
+Delivered the, the, the week before the 
+
+254
+00:16:36,370 --> 00:16:41,260
+election, mobilizing other targets that 
+the campaign had. 
+
+255
+00:16:41,260 --> 00:16:45,408
+So, if you read this script, I, I called 
+in, I logged in and made some phone calls 
+
+256
+00:16:45,408 --> 00:16:49,680
+and I, and I, and I took a picture of the 
+script. 
+
+257
+00:16:49,680 --> 00:16:53,710
+This is the exact script they use, and as 
+you unpack it, you can see each of these 
+
+258
+00:16:53,710 --> 00:16:57,198
+things. 
+It says, I'm calling because records 
+
+259
+00:16:57,198 --> 00:17:01,220
+showed that you voted in 2008. 
+we're reminding voters like you. 
+
+260
+00:17:01,220 --> 00:17:04,874
+If you keep reading it, it says we've 
+talked to a lot of people in your town 
+
+261
+00:17:04,874 --> 00:17:09,229
+today who are planning to vote. 
+This election is going to be close and we 
+
+262
+00:17:09,229 --> 00:17:11,730
+really need your vote. 
+But they talked to a lot of people who 
+
+263
+00:17:11,730 --> 00:17:15,478
+are going to vote. 
+I have your polling place listed as this, 
+
+264
+00:17:15,478 --> 00:17:20,479
+and that the hours are this. 
+I know everyone is busy, so what time you 
+
+265
+00:17:20,479 --> 00:17:24,180
+plan to vote? 
+Next question, will you be heading there 
+
+266
+00:17:24,180 --> 00:17:29,10
+from work or somewhere else? 
+Basically, this is, let's elicit a plan. 
+
+267
+00:17:29,10 --> 00:17:30,700
+And then, and then finally, do you need a 
+ride? 
+
+268
+00:17:30,700 --> 00:17:34,296
+The, the goal of that question, of 
+course, they're, they're, they're 
+
+269
+00:17:34,296 --> 00:17:38,264
+ingratiating themselves, offering, we'll 
+give you a ride, but they're also 
+
+270
+00:17:38,264 --> 00:17:44,604
+prompting the target to make a plan. 
+So, contrast that script with the Romney 
+
+271
+00:17:44,604 --> 00:17:47,460
+script. 
+So, I, I made calls, I signed, I used the 
+
+272
+00:17:47,460 --> 00:17:51,90
+calling tool to capture the scripts for 
+both campaigns, to see what people were 
+
+273
+00:17:51,90 --> 00:17:54,870
+saying. 
+And as you can see here on the screen, 
+
+274
+00:17:54,870 --> 00:17:59,79
+the Romney script did not reflect any of 
+the published, widely available 
+
+275
+00:17:59,79 --> 00:18:03,564
+behavioral research, that has been proven 
+to double and triple the impact per 
+
+276
+00:18:03,564 --> 00:18:10,282
+dollar spent on voter mobilzation. 
+I found this baffling and I, I don't come 
+
+277
+00:18:10,282 --> 00:18:14,0
+at this as I'm presenting this from a 
+partisan perspective. 
+
+278
+00:18:14,0 --> 00:18:18,620
+It was just surprising as someone who 
+does research and publishes his research 
+
+279
+00:18:18,620 --> 00:18:22,890
+to find that the Obama campaign 
+internalized this behavioral science to 
+
+280
+00:18:22,890 --> 00:18:27,930
+maximize its impact when communicating to 
+voters and the Romney campaign apparently 
+
+281
+00:18:27,930 --> 00:18:34,595
+didn't use any of it. 
+But that said, the research in total has 
+
+282
+00:18:34,595 --> 00:18:39,530
+made a, a ton of progress in about a 
+decade of, of focus. 
+
+283
+00:18:39,530 --> 00:18:42,233
+So, with dozens and hundreds of 
+experiments focused on how do we 
+
+284
+00:18:42,233 --> 00:18:45,446
+translate behavioral science into 
+strategies to increase voter turnout, 
+
+285
+00:18:45,446 --> 00:18:49,953
+we've made substantial progress. 
+To make a plan, emphasize high turnout, 
+
+286
+00:18:49,953 --> 00:18:53,13
+emphasize the voter identity, introduce 
+the prospect of post election 
+
+287
+00:18:53,13 --> 00:18:58,66
+accountability. 
+And we've, from this problem of 
+
+288
+00:18:58,66 --> 00:19:02,92
+increasing turnout, we've managed to 
+really build a set of tools and best 
+
+289
+00:19:02,92 --> 00:19:06,580
+practices that made voter mobilization 
+efforts substantially more effective, 
+
+290
+00:19:06,580 --> 00:19:11,446
+which increased participation in 
+elections. 
+
+291
+00:19:11,446 --> 00:19:15,538
+In the end, this is about increasing 
+representative, representation and 
+
+292
+00:19:15,538 --> 00:19:20,440
+increasing participation. 
+And it's publicly available research. 
+
+293
+00:19:20,440 --> 00:19:22,280
+Now, thank you. 
+Please vote. 
+
+294
+00:19:22,280 --> 00:19:25,466
+If you want to learn more, this is my 
+website, and I also think, if you are 
+
+295
+00:19:25,466 --> 00:19:28,976
+interested in this research, here's a 
+list of other political scientists who 
+
+296
+00:19:28,976 --> 00:19:33,250
+work on voter mobilization, do 
+fascinating work. 
+
+297
+00:19:33,250 --> 00:19:38,382
+And also, a list of my collaborators on 
+this research. 
+
+298
+00:19:38,382 --> 00:19:51,444
+Thank you. 
+

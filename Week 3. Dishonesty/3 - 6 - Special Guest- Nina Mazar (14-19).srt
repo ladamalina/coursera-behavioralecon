@@ -1,0 +1,986 @@
+
+1
+00:00:08,50 --> 00:00:10,400
+Good day. 
+My name is Nina Mazar. 
+
+2
+00:00:10,400 --> 00:00:14,926
+And today, I want to talk to you about 
+our model pendulum or how the social and 
+
+3
+00:00:14,926 --> 00:00:19,233
+moral actions that we engaging in the 
+here and now do not just happen in a 
+
+4
+00:00:19,233 --> 00:00:26,580
+vacuum, but actually effects our 
+subsequent behaviors and decisions. 
+
+5
+00:00:26,580 --> 00:00:29,928
+So, let's first engage in a short 
+exercise. 
+
+6
+00:00:29,928 --> 00:00:33,384
+I would like you to think about a recent 
+situation where you were tempted to go 
+
+7
+00:00:33,384 --> 00:00:39,520
+against your social and moral beliefs, 
+and where you gave into that temptation. 
+
+8
+00:00:39,520 --> 00:00:42,258
+How did that make you feel? 
+And do you think it changed how you 
+
+9
+00:00:42,258 --> 00:00:46,896
+subsequently behaved? 
+And if so, how, why? 
+
+10
+00:00:46,896 --> 00:00:52,144
+Well, I recently passed by a group of 
+students that was raising money for food 
+
+11
+00:00:52,144 --> 00:00:56,396
+bank. 
+And here, I found myself being tempted to 
+
+12
+00:00:56,396 --> 00:01:00,149
+be selfish because I was thirsty, I was 
+tired. 
+
+13
+00:01:00,149 --> 00:01:04,53
+And I was thinking, oh, I could use the 
+change to buy myself a warm cup of tea 
+
+14
+00:01:04,53 --> 00:01:08,85
+and in that moment, I'm ashamed to say, 
+it just felt like the better idea and I 
+
+15
+00:01:08,85 --> 00:01:13,870
+went with the cup of tea. 
+But once I had the cup of tea and I had a 
+
+16
+00:01:13,870 --> 00:01:17,469
+few sips, you know, I said, I feel bad 
+about myself because that was not the 
+
+17
+00:01:17,469 --> 00:01:23,108
+person how I thought of myself. 
+I have a different self image of myself 
+
+18
+00:01:23,108 --> 00:01:27,76
+and somehow, you know, it didn't feel 
+right, I should have used my change to 
+
+19
+00:01:27,76 --> 00:01:31,310
+actually donate that money to a good 
+cause. 
+
+20
+00:01:31,310 --> 00:01:35,160
+So, without really understanding what was 
+happening, I subsequently found myself 
+
+21
+00:01:35,160 --> 00:01:39,568
+being particularly nice to other people. 
+I would hold the door open for the 
+
+22
+00:01:39,568 --> 00:01:43,722
+people, I would smile at other people, I 
+would engage in small talk. 
+
+23
+00:01:43,722 --> 00:01:48,825
+And what I was basically doing is I was 
+compensating for my previous selfish 
+
+24
+00:01:48,825 --> 00:01:54,690
+behavior to reestablish my positive moral 
+view of myself. 
+
+25
+00:01:54,690 --> 00:01:57,730
+And that's basically what a moral 
+pendulum is. 
+
+26
+00:01:57,730 --> 00:02:02,830
+So, the good news is that we are, in 
+general, motivated to do good things. 
+
+27
+00:02:02,830 --> 00:02:05,575
+And sometimes, when we transgress, you 
+know, that happens once in a while 
+
+28
+00:02:05,575 --> 00:02:08,480
+because there are a lot of temptations 
+around us. 
+
+29
+00:02:08,480 --> 00:02:11,925
+Then, we will be highly motivated to 
+compensate for those transgressions, to 
+
+30
+00:02:11,925 --> 00:02:14,935
+reestablish the positive view of 
+ourselves. 
+
+31
+00:02:14,935 --> 00:02:23,380
+Now unfortunately, the bad news is, a 
+pendulum swings both ways. 
+
+32
+00:02:23,380 --> 00:02:27,520
+So, we are likely, least likely to 
+scrutinize moral implications of our 
+
+33
+00:02:27,520 --> 00:02:32,800
+actions right after our moral self has 
+just experienced a boost. 
+
+34
+00:02:32,800 --> 00:02:36,86
+So, after we have engaged in a virtuous 
+act, a good act, a moral act, so a good 
+
+35
+00:02:36,86 --> 00:02:41,370
+deed, it's highly likely that we feel 
+very, very good about ourselves. 
+
+36
+00:02:41,370 --> 00:02:44,232
+As a consequence, we have earned 
+ourselves some more credits or 
+
+37
+00:02:44,232 --> 00:02:47,850
+credentials that license ourselves to 
+subsequently be more selfish, if we find 
+
+38
+00:02:47,850 --> 00:02:52,310
+ourselves in a situation where we can 
+benefit from them. 
+
+39
+00:02:52,310 --> 00:02:55,778
+And that's basically the question that my 
+co-author, Chen-Bo Zhong and I, that we 
+
+40
+00:02:55,778 --> 00:02:58,940
+wanted to test and we decided that we 
+wanted to test it in the domain of green 
+
+41
+00:02:58,940 --> 00:03:03,65
+consumption. 
+Because over the years, consumers have 
+
+42
+00:03:03,65 --> 00:03:07,110
+become increasingly attentive to social 
+and ethical conservations. 
+
+43
+00:03:07,110 --> 00:03:09,530
+And this includes, actually, my co-author 
+and me. 
+
+44
+00:03:09,530 --> 00:03:15,11
+And so, we thought, well, maybe if people 
+engage in green consumption and we 
+
+45
+00:03:15,11 --> 00:03:22,100
+moralize green consumption, that might 
+lead to a licensing effect. 
+
+46
+00:03:22,100 --> 00:03:26,30
+But before we went out to test that, we 
+actually first ran a very quick survey. 
+
+47
+00:03:26,30 --> 00:03:31,295
+We had half of our students rate how 
+altruistic, how cooperative, how ethical 
+
+48
+00:03:31,295 --> 00:03:38,170
+they thought a person is that purchases 
+conventional products. 
+
+49
+00:03:38,170 --> 00:03:41,734
+And we ask the other half of the students 
+to rate how they thought of a person that 
+
+50
+00:03:41,734 --> 00:03:45,82
+purchases organic and, and, and 
+environment-friendly products on those 
+
+51
+00:03:45,82 --> 00:03:49,930
+same three dimensions. 
+And what did we find? 
+
+52
+00:03:49,930 --> 00:03:54,1
+We actually did find that people thought 
+that people who purchase green products, 
+
+53
+00:03:54,1 --> 00:03:58,131
+environment-friendly products, organic 
+products that they have higher moral and 
+
+54
+00:03:58,131 --> 00:04:02,335
+pro-social value. 
+So, in all three dimensions that we had, 
+
+55
+00:04:02,335 --> 00:04:05,580
+those people were rated higher than 
+people who purchase conventional 
+
+56
+00:04:05,580 --> 00:04:08,793
+products. 
+So, based on, on that observation, we 
+
+57
+00:04:08,793 --> 00:04:12,185
+thought, okay, green consumption might 
+actually lead to a licensing effect 
+
+58
+00:04:12,185 --> 00:04:17,410
+further down the road. 
+And here's how we went out to test it. 
+
+59
+00:04:17,410 --> 00:04:21,650
+So, we designed two online stores. 
+One store that carried mainly 
+
+60
+00:04:21,650 --> 00:04:26,850
+conventional products, one store that 
+carried mainly green products. 
+
+61
+00:04:26,850 --> 00:04:30,632
+Both stores had the same number of 
+products, the same type of products, the 
+
+62
+00:04:30,632 --> 00:04:34,292
+same prices, and we simply randomly 
+assigned half of our students to one 
+
+63
+00:04:34,292 --> 00:04:40,194
+store, the other half to the other store. 
+But the students didn't know that both 
+
+64
+00:04:40,194 --> 00:04:43,390
+stores existed. 
+They only saw this one store. 
+
+65
+00:04:43,390 --> 00:04:47,359
+And within each store type, half of our 
+students were asked to simply browse 
+
+66
+00:04:47,359 --> 00:04:51,202
+through the store and then rate the 
+products based on the design and on the 
+
+67
+00:04:51,202 --> 00:04:57,587
+informativeness of, of their description. 
+While the other half was invited to 
+
+68
+00:04:57,587 --> 00:05:00,515
+purchase items. 
+So, we asked them, choose products that 
+
+69
+00:05:00,515 --> 00:05:03,740
+you would like to purchase and put them 
+in your shopping cart. 
+
+70
+00:05:03,740 --> 00:05:06,756
+You can do this with up to $25 in value, 
+and we told them that 1 in every 25 
+
+71
+00:05:06,756 --> 00:05:10,240
+students would be randomly selected to 
+actually receive the items that they had 
+
+72
+00:05:10,240 --> 00:05:16,50
+in their cart for free from us. 
+So, half of the students basically were 
+
+73
+00:05:16,50 --> 00:05:21,75
+merely exposed to the products, while the 
+other half of students, they actually 
+
+74
+00:05:21,75 --> 00:05:26,391
+made purchasing decisions. 
+So, that was the first part of the 
+
+75
+00:05:26,391 --> 00:05:29,274
+experiment. 
+And then, in the second part of the 
+
+76
+00:05:29,274 --> 00:05:33,109
+experiment, in an ostensibly unrelated 
+task, we told participants that they 
+
+77
+00:05:33,109 --> 00:05:37,121
+would engage in something that has been 
+called the dictator game, actually, a 
+
+78
+00:05:37,121 --> 00:05:42,920
+variation of the dictator game. 
+And what is the dictator game? 
+
+79
+00:05:42,920 --> 00:05:45,818
+Well, imagine you come to the lab and we 
+tell you, you know what, you have been 
+
+80
+00:05:45,818 --> 00:05:50,150
+paired with an anonymous other person 
+that is sitting in a different room. 
+
+81
+00:05:50,150 --> 00:05:53,261
+You will never find out who that other 
+person is and that other person will 
+
+82
+00:05:53,261 --> 00:05:57,676
+never find out who you are. 
+And you know what, randomly you are now, 
+
+83
+00:05:57,676 --> 00:06:01,966
+you have been selected to play the role 
+of the dictator. 
+
+84
+00:06:01,966 --> 00:06:06,126
+And as a dictator, we've given you $6 for 
+real, and you decide how much of the $6 
+
+85
+00:06:06,126 --> 00:06:13,220
+you want to keep for yourself versus give 
+to the other person in the other room. 
+
+86
+00:06:13,220 --> 00:06:17,230
+So, you can decide, there is no right or 
+wrong answer. 
+
+87
+00:06:17,230 --> 00:06:20,834
+And the nice thing about this very simple 
+game is that since there isn't really any 
+
+88
+00:06:20,834 --> 00:06:24,279
+downside to not showing any money, 
+because there are no social consequences, 
+
+89
+00:06:24,279 --> 00:06:29,160
+if you want, you can keep every, 
+everything, so the entire $6. 
+
+90
+00:06:29,160 --> 00:06:31,890
+But if you do care about altruism, you 
+will share. 
+
+91
+00:06:31,890 --> 00:06:36,730
+And so, it's a very nice simple task to 
+measure how, how altruistic people are. 
+
+92
+00:06:36,730 --> 00:06:40,490
+So now, what did we find in our 
+experimental session? 
+
+93
+00:06:40,490 --> 00:06:43,946
+We actually found that people who had 
+just purchased in the green store, they 
+
+94
+00:06:43,946 --> 00:06:47,672
+ended up sharing significantly less money 
+with their anonymous other person than 
+
+95
+00:06:47,672 --> 00:06:52,870
+those participants who had just purchased 
+in the conventional store. 
+
+96
+00:06:52,870 --> 00:06:56,570
+And that fits very nicely with that 
+licensing hypothesis. 
+
+97
+00:06:56,570 --> 00:06:59,408
+So, the idea that those people who had 
+just purchased green products, they felt 
+
+98
+00:06:59,408 --> 00:07:02,720
+very good about themselves. 
+They pat themselves on the back. 
+
+99
+00:07:02,720 --> 00:07:06,617
+They felt morally superior. 
+And that earned themself the license to 
+
+100
+00:07:06,617 --> 00:07:10,334
+subsequently be a bit more selfish 
+because it would not threaten their view 
+
+101
+00:07:10,334 --> 00:07:16,12
+that they had about themselves. 
+Now, remember that we had a variation in 
+
+102
+00:07:16,12 --> 00:07:20,152
+that purchasing task. 
+Only half of our participants actually 
+
+103
+00:07:20,152 --> 00:07:23,770
+were purchasing, right, the other half 
+was only exposed to the products, so they 
+
+104
+00:07:23,770 --> 00:07:30,0
+could not really engage in a good deed. 
+And for those participants who are merely 
+
+105
+00:07:30,0 --> 00:07:35,250
+exposed to the products, we actually did 
+not find any licensing effect whatsoever. 
+
+106
+00:07:35,250 --> 00:07:39,121
+In fact, we actually found the opposite. 
+So, people who were purchasing the green 
+
+107
+00:07:39,121 --> 00:07:42,605
+store, we're sharing significantly more 
+money with the anonymous other person 
+
+108
+00:07:42,605 --> 00:07:46,500
+than those who had purchased in the 
+conventional store. 
+
+109
+00:07:46,500 --> 00:07:51,220
+And that fits very nicely with something 
+that has been coined, the priming effect. 
+
+110
+00:07:51,220 --> 00:07:55,312
+So, a priming effect happens when subtly 
+cues in the environment activate 
+
+111
+00:07:55,312 --> 00:08:00,95
+associated norms, that then lead to 
+corresponding behavior. 
+
+112
+00:08:00,95 --> 00:08:04,757
+So, for my opinion, two of the most or 
+two of the coolest priming experiments 
+
+113
+00:08:04,757 --> 00:08:11,476
+show, for example, how exposure to the 
+upper[UNKNOWN] increases creativity. 
+
+114
+00:08:11,476 --> 00:08:16,100
+And another one shows how exposure to 
+pictures of exclusive upscale restaurants 
+
+115
+00:08:16,100 --> 00:08:20,730
+increase or improves people's eating 
+manners. 
+
+116
+00:08:20,730 --> 00:08:25,814
+And, and I think along similar lines, 
+people who have been exposed to green 
+
+117
+00:08:25,814 --> 00:08:31,226
+products being exposed to the green 
+products activated those higher moral 
+
+118
+00:08:31,226 --> 00:08:36,310
+norms that people seem to have when it 
+comes to green products and that lead 
+
+119
+00:08:36,310 --> 00:08:45,352
+them to behave consistently with those, 
+with those beliefs and norms. 
+
+120
+00:08:45,352 --> 00:08:49,330
+Now, you can say, okay, so what? 
+So, people who purchase in the green 
+
+121
+00:08:49,330 --> 00:08:54,592
+store, they were a bit less altruistic. 
+But that's not necessarily a bad thing, 
+
+122
+00:08:54,592 --> 00:08:57,515
+right? 
+And, you would be right if you're saying 
+
+123
+00:08:57,515 --> 00:08:59,408
+that. 
+But what my co-author and I were 
+
+124
+00:08:59,408 --> 00:09:02,762
+wondering was, well, how strong can the 
+licensing effect actually get? 
+
+125
+00:09:02,762 --> 00:09:07,784
+What did even make people transgress in 
+such a way that they would engage in 
+
+126
+00:09:07,784 --> 00:09:14,60
+clear immoral transgressions, such as 
+lying or even stealing. 
+
+127
+00:09:14,60 --> 00:09:17,134
+And that's what we tested in our second 
+experiment. 
+
+128
+00:09:17,134 --> 00:09:20,460
+So, again, we had our two stores, the 
+conventional store and the green store. 
+
+129
+00:09:20,460 --> 00:09:24,360
+This time, we only ask participants to 
+purchase in either of those two stores, 
+
+130
+00:09:24,360 --> 00:09:29,664
+it was the first part of the experiment. 
+And then, in the second part of the 
+
+131
+00:09:29,664 --> 00:09:32,360
+experiment, the ostensibly unrelated 
+task. 
+
+132
+00:09:32,360 --> 00:09:39,750
+We we asked them to participate in a 
+computer-based visual perception task. 
+
+133
+00:09:39,750 --> 00:09:42,490
+So, how did that visual perception task 
+look like? 
+
+134
+00:09:42,490 --> 00:09:46,89
+Imagine you're sitting in front of the 
+computer, in front of the computer 
+
+135
+00:09:46,89 --> 00:09:50,720
+screen, and you'll see a box or a square 
+on that computer screen. 
+
+136
+00:09:50,720 --> 00:09:55,27
+And that square is divided by one 
+diagonal line, and for one second, you 
+
+137
+00:09:55,27 --> 00:10:00,440
+see 20 dots scattered inside that box, 
+then they disappear. 
+
+138
+00:10:00,440 --> 00:10:03,320
+And you just simply have to say whether 
+there more dots on the left or more dots 
+
+139
+00:10:03,320 --> 00:10:07,660
+on the right side of that diagonal line. 
+And it, imagine further that there are 90 
+
+140
+00:10:07,660 --> 00:10:10,360
+such trials, and on each trial, the 
+pattern of the dots is, is very 
+
+141
+00:10:10,360 --> 00:10:13,856
+different. 
+Now what happens, oh, I actually should 
+
+142
+00:10:13,856 --> 00:10:17,366
+say that people are extremely good at 
+this task, they're very, very accurate, 
+
+143
+00:10:17,366 --> 00:10:21,249
+because of, our visual perception is 
+fairly good. 
+
+144
+00:10:22,340 --> 00:10:25,891
+But now, what happens when we introduce a 
+payment scheme such that every time you 
+
+145
+00:10:25,891 --> 00:10:30,130
+say that there are more dots on the left, 
+you earn half a cent. 
+
+146
+00:10:30,130 --> 00:10:33,532
+Every time you say that there are more 
+dots on the right, you earn 10 times the 
+
+147
+00:10:33,532 --> 00:10:37,693
+amount, 5 cents. 
+So, now I bet, oh, and let's imagine that 
+
+148
+00:10:37,693 --> 00:10:43,20
+the computer pays you regardless if your 
+answer is correct or not. 
+
+149
+00:10:43,20 --> 00:10:46,140
+So now, I bet when you see that there are 
+more dots on the lower pay side, you will 
+
+150
+00:10:46,140 --> 00:10:49,20
+find yourself tempted to just simply say, 
+hey, there are more dots on the 
+
+151
+00:10:49,20 --> 00:10:55,174
+right-hand side, so the higher pay side. 
+And, and so that you earn more money. 
+
+152
+00:10:55,174 --> 00:10:59,103
+And that's what we wanted to see. 
+We wanted to see would people cheat for 
+
+153
+00:10:59,103 --> 00:11:02,110
+more money. 
+What did we find? 
+
+154
+00:11:02,110 --> 00:11:06,205
+Well, consistent with the licensing 
+effect, people who had just purchased in 
+
+155
+00:11:06,205 --> 00:11:10,363
+the green store, well, they actually 
+ended up cheating significantly more for 
+
+156
+00:11:10,363 --> 00:11:15,410
+higher pay than those people in the 
+conventional store. 
+
+157
+00:11:15,410 --> 00:11:18,258
+Actually, in fact, the people in the 
+conventioal store were completely honest. 
+
+158
+00:11:18,258 --> 00:11:21,737
+And, and not only that. 
+So, once the computer task was over, 
+
+159
+00:11:21,737 --> 00:11:25,580
+participants would see on the final 
+screen how much money they earned and 
+
+160
+00:11:25,580 --> 00:11:29,612
+they were instructed to pay themselves 
+out of an envelope with cash that they 
+
+161
+00:11:29,612 --> 00:11:35,6
+would find on their desk. 
+And what we wanted to see is, would 
+
+162
+00:11:35,6 --> 00:11:38,830
+people take out the amount of money that 
+they see on the screen? 
+
+163
+00:11:38,830 --> 00:11:42,720
+Or would they overpay themselves? 
+So, basically steal some money from us. 
+
+164
+00:11:42,720 --> 00:11:46,271
+And again, people who had just purchased 
+in a green store also took out more money 
+
+165
+00:11:46,271 --> 00:11:51,136
+than what they were supposed to. 
+So overall, because of lying and because 
+
+166
+00:11:51,136 --> 00:11:55,426
+of stealing, people in the green store 
+overpaid themselves by about $0.83 more 
+
+167
+00:11:55,426 --> 00:12:00,10
+than those participants in a conventional 
+store. 
+
+168
+00:12:00,10 --> 00:12:04,400
+And that might not seem like a lot, but 
+it is a lot. 
+
+169
+00:12:04,400 --> 00:12:08,353
+When you think about that, if people were 
+completely honest and accurate in that 
+
+170
+00:12:08,353 --> 00:12:12,810
+visual perception task, they would have 
+made only about $2. 
+
+171
+00:12:12,810 --> 00:12:19,714
+So, what's the morale of this research 
+that I just presented to you? 
+
+172
+00:12:19,714 --> 00:12:23,806
+Well, if you're about to say that green 
+people are bad people, that they are 
+
+173
+00:12:23,806 --> 00:12:29,560
+immoral and not social, think again, 
+because that is not the takeaway. 
+
+174
+00:12:29,560 --> 00:12:34,954
+So, it's not the takeaway simply because 
+we did not compare green people to 
+
+175
+00:12:34,954 --> 00:12:39,576
+non-green people. 
+We had the same group of students and we 
+
+176
+00:12:39,576 --> 00:12:43,615
+just randomly assinged them to one store 
+or the other store. 
+
+177
+00:12:43,615 --> 00:12:48,453
+So, the takeaway of our experiment is 
+that if you engage in actions that 
+
+178
+00:12:48,453 --> 00:12:53,701
+produce a sense of moral, of moral glow 
+that make you feel superior that then, 
+
+179
+00:12:53,701 --> 00:13:00,10
+you are more likely to subsequently 
+transgress. 
+
+180
+00:13:00,10 --> 00:13:03,941
+So, you license yourself for, to 
+transgress further down the road. 
+
+181
+00:13:03,941 --> 00:13:08,760
+So, as long we engage in behaviors that 
+we moralize, such as, for example, 
+
+182
+00:13:08,760 --> 00:13:14,830
+purchasing green products, we will find 
+the licensing effect. 
+
+183
+00:13:14,830 --> 00:13:17,509
+But if we do not moralize green 
+consumption, if we were to engage in it 
+
+184
+00:13:17,509 --> 00:13:20,423
+just because it is, it feels like the 
+right thing to do, it is a norm, we don't 
+
+185
+00:13:20,423 --> 00:13:25,945
+pat ourselves on the back. 
+Then, we would not expect the licensing 
+
+186
+00:13:25,945 --> 00:13:30,120
+effect of then we would not expect to 
+find the licensing effect. 
+
+187
+00:13:30,120 --> 00:13:33,190
+The licensing effect requires that you 
+feel a boost to your self-concept. 
+
+188
+00:13:33,190 --> 00:13:37,320
+So, the good news is that many of us 
+wanted a good and that many of us think 
+
+189
+00:13:37,320 --> 00:13:43,530
+of themselves as good pro-social and as 
+moral human beings. 
+
+190
+00:13:43,530 --> 00:13:46,824
+We just need a bit, we just need to be a 
+bit cautious about, when we engage in 
+
+191
+00:13:46,824 --> 00:13:50,118
+good behaviors, that we don't feel 
+superior, and that we don't feel like, 
+
+192
+00:13:50,118 --> 00:13:55,282
+that we have done enough. 
+Because if we feel that way, then we will 
+
+193
+00:13:55,282 --> 00:13:59,314
+be less motivated to continue doing good 
+and we'll be more likely to license 
+
+194
+00:13:59,314 --> 00:14:03,840
+ourselves to transgress further down the 
+road. 
+
+195
+00:14:03,840 --> 00:14:08,390
+And I think even the most ethical ones 
+among us, they can benefit from such kind 
+
+196
+00:14:08,390 --> 00:14:14,522
+of a self-reflection from time to time. 
+And that's basically all I have to tell 
+
+197
+00:14:14,522 --> 00:14:19,656
+you about the moral pendulum. 
+Thank you. 
+

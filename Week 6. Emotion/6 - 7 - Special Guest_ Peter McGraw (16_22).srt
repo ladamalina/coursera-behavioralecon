@@ -1,0 +1,1040 @@
+
+1
+00:00:06,70 --> 00:00:09,728
+My name is Peter McGraw and I'm an 
+Associate Professor of Marketing and 
+
+2
+00:00:09,728 --> 00:00:13,880
+Psychology at the University of Colorado 
+at Boulder. 
+
+3
+00:00:13,880 --> 00:00:17,291
+And I've studied judgement, emotion and 
+choice. 
+
+4
+00:00:17,291 --> 00:00:22,950
+And along my travels on this research 
+topic I stumbled onto the question. 
+
+5
+00:00:22,950 --> 00:00:29,160
+What makes things funny? 
+And as a result of that that experience. 
+
+6
+00:00:29,160 --> 00:00:32,610
+I started the humor research lab at the 
+University of Colorado, Boulder. 
+
+7
+00:00:32,610 --> 00:00:36,640
+And I'm going to be talking about what 
+makes things funny from a psychological 
+
+8
+00:00:36,640 --> 00:00:41,50
+perspective. 
+So the question of what makes things 
+
+9
+00:00:41,50 --> 00:00:44,120
+funny is actually a surprisingly 
+important question. 
+
+10
+00:00:44,120 --> 00:00:49,190
+And that is the consequences of humor 
+have really important implications for 
+
+11
+00:00:49,190 --> 00:00:53,920
+how we live. 
+So people who are funny are well liked. 
+
+12
+00:00:53,920 --> 00:00:56,620
+Humorous things are really attention 
+getting. 
+
+13
+00:00:56,620 --> 00:01:00,280
+It's something that influences the 
+choices that we make in terms of how we 
+
+14
+00:01:00,280 --> 00:01:03,870
+spend our leisure time, our leisure 
+dollars. 
+
+15
+00:01:03,870 --> 00:01:08,420
+It influences who our friends are, who we 
+end up dating, who we end up marrying, 
+
+16
+00:01:08,420 --> 00:01:13,309
+and unfortunately sometimes who we end up 
+divorcing. 
+
+17
+00:01:15,50 --> 00:01:18,380
+Those types of effects are really obvious 
+and very clear. 
+
+18
+00:01:18,380 --> 00:01:24,610
+What's less clear is what it is that 
+actually makes things humourous. 
+
+19
+00:01:24,610 --> 00:01:27,737
+And I'm going to focus today on the 
+antecedents and at the end of the talk 
+
+20
+00:01:27,737 --> 00:01:32,385
+I'll connect these antecedents to some of 
+these important consequences. 
+
+21
+00:01:32,385 --> 00:01:37,270
+So let's do a little bit of housekeeping 
+first. 
+
+22
+00:01:37,270 --> 00:01:41,808
+What is humor? 
+I think of humor as a response, a 
+
+23
+00:01:41,808 --> 00:01:50,58
+response that people experience in one of 
+three ways, or all of three ways. 
+
+24
+00:01:50,58 --> 00:01:55,419
+So humor is a cognitive response, a 
+judgement. 
+
+25
+00:01:55,419 --> 00:01:59,509
+Hey, that's funny. 
+It's an emotional response. 
+
+26
+00:01:59,509 --> 00:02:04,53
+This positive of feeling, this positive 
+feeling of amusement that we have when we 
+
+27
+00:02:04,53 --> 00:02:09,180
+perceive something as humorous. 
+And then finally a behavioral response. 
+
+28
+00:02:09,180 --> 00:02:12,84
+The tendency to laugh. 
+Now, of course, you don't always laugh at 
+
+29
+00:02:12,84 --> 00:02:14,690
+things that you see funny, but it tends 
+to have a theory there. 
+
+30
+00:02:14,690 --> 00:02:15,15
+So, there are many theories of humor. 
+They go back thousands of years. 
+
+31
+00:02:15,15 --> 00:02:20,610
+Freud had a theory of what makes things 
+funny. 
+
+32
+00:02:20,610 --> 00:02:31,400
+In which he described humor as a release 
+of sexual or aggressive tensions. 
+
+33
+00:02:31,400 --> 00:02:34,590
+And many things that people laugh at seem 
+to have that element. 
+
+34
+00:02:34,590 --> 00:02:39,660
+Although Freud's theory has been largely 
+abandoned. 
+
+35
+00:02:39,660 --> 00:02:44,700
+Plato and Socrates talked about humor and 
+described it as something that occurs 
+
+36
+00:02:44,700 --> 00:02:51,429
+when bad things happen to other people, 
+that we laugh at other people's misery. 
+
+37
+00:02:52,450 --> 00:02:58,654
+I think Hobbes put it best in Laviathan 
+he wrote that humor, the laughter occurs 
+
+38
+00:02:58,654 --> 00:03:04,330
+in response to sudden glory over our 
+enemies. 
+
+39
+00:03:04,330 --> 00:03:08,746
+And then the most sort of compelling 
+predominate theory of humor today is one 
+
+40
+00:03:08,746 --> 00:03:13,683
+based on incongruity. 
+That is that there's something surprising 
+
+41
+00:03:13,683 --> 00:03:17,930
+or something that we expect but don't 
+actually get. 
+
+42
+00:03:17,930 --> 00:03:21,480
+There's some mismatch between 
+expectations and reality. 
+
+43
+00:03:21,480 --> 00:03:26,663
+And some pretty fart smart folks like 
+Emmanuel Cont has suggested that, that 
+
+44
+00:03:26,663 --> 00:03:30,920
+humor occurs as a response to 
+incongruity. 
+
+45
+00:03:30,920 --> 00:03:34,439
+So the research that we've been doing in 
+the humor research lab says, shows that 
+
+46
+00:03:34,439 --> 00:03:38,850
+there's some problems with each of these 
+different types of theories. 
+
+47
+00:03:38,850 --> 00:03:43,486
+So putting them all together, 
+accidentally killing a loved one would 
+
+48
+00:03:43,486 --> 00:03:48,426
+would foster a release in aggressive 
+tension, would assert your superiority 
+
+49
+00:03:48,426 --> 00:03:54,360
+and certainly would be an expected turn 
+of events. 
+
+50
+00:03:54,360 --> 00:04:00,778
+But it's hard, hardly laughable. 
+Instead what we argue is that humor comes 
+
+51
+00:04:00,778 --> 00:04:05,560
+from benign violations. 
+So what do I mean by benign violations? 
+
+52
+00:04:05,560 --> 00:04:10,864
+Well it's actually a little bit of a 
+counter intuitive thought, that idea that 
+
+53
+00:04:10,864 --> 00:04:16,402
+humor actually starts with something that 
+is wrong Unsettling, threatening in some 
+
+54
+00:04:16,402 --> 00:04:22,30
+way. 
+It violates the way you see the world. 
+
+55
+00:04:22,30 --> 00:04:25,780
+The way the world ought to be. 
+Some pretty smart people have recognized 
+
+56
+00:04:25,780 --> 00:04:30,54
+this to be the case. 
+Mark Twain said that the secret source of 
+
+57
+00:04:30,54 --> 00:04:36,210
+humor is not joy, it's sorrow. 
+There is no laughter in heaven. 
+
+58
+00:04:36,210 --> 00:04:40,430
+That is there's nothing wrong in heaven, 
+thus there's nothing to laugh about. 
+
+59
+00:04:40,430 --> 00:04:43,615
+So in each of the previous theories I've 
+discussed, you can see those negative 
+
+60
+00:04:43,615 --> 00:04:48,246
+elements. 
+Aggressive things tend to be negative. 
+
+61
+00:04:48,246 --> 00:04:53,560
+as, asserting superiority. 
+Bad things are happening to other people. 
+
+62
+00:04:53,560 --> 00:04:58,120
+And in the sense that things that are 
+unexpected, if they're unexpectedly bad. 
+
+63
+00:04:58,120 --> 00:05:02,748
+They can be violations. 
+Now in the benign violation theory the 
+
+64
+00:05:02,748 --> 00:05:06,140
+range of violations is really quite 
+broad. 
+
+65
+00:05:06,140 --> 00:05:11,490
+It could be physical threats. 
+It could be violations of social norms. 
+
+66
+00:05:11,490 --> 00:05:15,938
+It could be violations of cultural norms. 
+It could be violations of linguistic 
+
+67
+00:05:15,938 --> 00:05:18,812
+norms. 
+So that things that are wrong vary. 
+
+68
+00:05:18,812 --> 00:05:24,425
+really quite broad. 
+But of course, violations don't normally 
+
+69
+00:05:24,425 --> 00:05:27,860
+make us laugh, they cause negative 
+emotions. 
+
+70
+00:05:27,860 --> 00:05:30,472
+And that's where you need the benign 
+condition. 
+
+71
+00:05:30,472 --> 00:05:37,122
+That violation needs to simultaneously be 
+seen as okay, acceptable, safe, or in our 
+
+72
+00:05:37,122 --> 00:05:43,700
+vernacular, benign. 
+So, take tickling for example, or play 
+
+73
+00:05:43,700 --> 00:05:48,420
+fighting, both are benign violations, 
+they're mock attacks. 
+
+74
+00:05:48,420 --> 00:05:52,68
+So, they're threatening events, or 
+physically threatening events that are 
+
+75
+00:05:52,68 --> 00:05:56,191
+not intended to hurt. 
+And, when is it that they cause laughter, 
+
+76
+00:05:56,191 --> 00:06:00,828
+that cause a humorous response? 
+Well it's when they're not done too 
+
+77
+00:06:00,828 --> 00:06:05,750
+aggressively and when they're done by 
+someone Who you trust. 
+
+78
+00:06:05,750 --> 00:06:08,600
+So, for instance, you can't tickle 
+yourself. 
+
+79
+00:06:08,600 --> 00:06:13,580
+There's no violation there, there's 
+nothing threatening about that situation. 
+
+80
+00:06:13,580 --> 00:06:18,404
+Similarly, if a creepy stranger walked up 
+to you on the street and tired to tickle 
+
+81
+00:06:18,404 --> 00:06:23,60
+you, it's hardly going to be a funny 
+situation. 
+
+82
+00:06:23,60 --> 00:06:28,850
+That situation is purely a violation. 
+There is nothing okay about it. 
+
+83
+00:06:28,850 --> 00:06:35,252
+Benign violation approach also explains 
+things like word play and puns to take 
+
+84
+00:06:35,252 --> 00:06:42,350
+for example, this situation. 
+If you find this this situation funny, 
+
+85
+00:06:42,350 --> 00:06:47,630
+it's likely cause you see how the 
+phrasing of pen and is both wrong and not 
+
+86
+00:06:47,630 --> 00:06:51,984
+wrong. 
+At the same time. 
+
+87
+00:06:51,984 --> 00:06:56,520
+So I'm going to present to you four good 
+reasons why benign violations is a good 
+
+88
+00:06:56,520 --> 00:07:03,580
+theory for what makes things funny. 
+So let's start with the idea of distance. 
+
+89
+00:07:03,580 --> 00:07:08,930
+so Mark Twain said, that comedy is 
+tragedy plus time. 
+
+90
+00:07:08,930 --> 00:07:14,120
+And Mel Brooks similarly quipped that, 
+tragedy is when I cut my finger. 
+
+91
+00:07:14,120 --> 00:07:17,988
+Comedy is when you fall down an open 
+sewer and die. 
+
+92
+00:07:17,988 --> 00:07:23,13
+In both cases these humorists recognize 
+that being far away from, being distant 
+
+93
+00:07:23,13 --> 00:07:30,85
+from a tragedy helps enhance humor. 
+And research in in our lab the Humor 
+
+94
+00:07:30,85 --> 00:07:34,726
+Research Lab, AKA HURL, has found that to 
+be the case. 
+
+95
+00:07:34,726 --> 00:07:38,756
+So, what happens is, is that for really 
+severe violations like tragedies, 
+
+96
+00:07:38,756 --> 00:07:43,111
+distance helps lower the threat of of the 
+violation and helps transform this 
+
+97
+00:07:43,111 --> 00:07:50,81
+violation into a benign violation. 
+But what's interesting is that distance 
+
+98
+00:07:50,81 --> 00:07:56,960
+doesn't always help in some situations. 
+As in the case of mild mishaps. 
+
+99
+00:07:56,960 --> 00:08:00,40
+Actually, moving closer may help enhance 
+humor. 
+
+100
+00:08:00,40 --> 00:08:04,460
+So let me give you an example, that, that 
+illustrates this. 
+
+101
+00:08:04,460 --> 00:08:08,680
+Imagine a situation where you've been hit 
+by a car. 
+
+102
+00:08:08,680 --> 00:08:13,230
+Which of the two situations would be 
+funnier whether if it happened five years 
+
+103
+00:08:13,230 --> 00:08:18,381
+ago or if it happened yesterday. 
+But what about a mild violation, like 
+
+104
+00:08:18,381 --> 00:08:22,285
+stubbing your toe, in what situation is 
+more likely to be funny if it happened 
+
+105
+00:08:22,285 --> 00:08:27,517
+five years ago or yesterday? 
+Well, participants in our laboratory 
+
+106
+00:08:27,517 --> 00:08:32,90
+demonstrate how this reversal occurs. 
+How the effect of distance depends on the 
+
+107
+00:08:32,90 --> 00:08:35,740
+severity of the violation. 
+Getting hit by a car five years ago is 
+
+108
+00:08:35,740 --> 00:08:40,28
+now distant and can be transformed into a 
+benign violation but stubbing your toe 
+
+109
+00:08:40,28 --> 00:08:45,129
+five years ago is so far away for this 
+mild violation. 
+
+110
+00:08:45,129 --> 00:08:49,155
+It's not even worth our attention in 
+actually moving closer to it makes it 
+
+111
+00:08:49,155 --> 00:08:53,815
+funnier. 
+None of the previous theories can account 
+
+112
+00:08:53,815 --> 00:09:01,10
+for this reversal of distance due to the 
+severity of the violation. 
+
+113
+00:09:01,10 --> 00:09:04,670
+The next piece of evidence is that many 
+things that we laugh about, we also 
+
+114
+00:09:04,670 --> 00:09:09,230
+experience a little bit of negative 
+emotions along the way. 
+
+115
+00:09:09,230 --> 00:09:12,220
+You can think about nervous laughter, 
+when you're laughing at something that 
+
+116
+00:09:12,220 --> 00:09:16,790
+you know is wrong. 
+Well, that occurs because you need to 
+
+117
+00:09:16,790 --> 00:09:20,800
+have something wrong to find something 
+laughable. 
+
+118
+00:09:20,800 --> 00:09:24,460
+And so, we've been doing some research on 
+moral violations and when moral 
+
+119
+00:09:24,460 --> 00:09:29,6
+violations can become funny. 
+And what we find is that one way that you 
+
+120
+00:09:29,6 --> 00:09:33,353
+can do this, is that you could have some 
+alternative explanation that explains 
+
+121
+00:09:33,353 --> 00:09:38,70
+explains away the thing that is seemingly 
+wrong. 
+
+122
+00:09:38,70 --> 00:09:41,170
+So a, we use a scenario by Jonathan 
+Height. 
+
+123
+00:09:41,170 --> 00:09:47,320
+A social psychologist. 
+And I'll just read this along with you. 
+
+124
+00:09:47,320 --> 00:09:49,510
+Matthew is playing with his new kitten 
+late one night. 
+
+125
+00:09:49,510 --> 00:09:53,479
+He is wearing only his boxer shorts, and 
+sometimes the kitten walks over his 
+
+126
+00:09:53,479 --> 00:09:57,760
+genitals. 
+Eventually, this arouses him and he 
+
+127
+00:09:57,760 --> 00:10:02,10
+begins to rub his bare genitals along the 
+kittens body. 
+
+128
+00:10:02,10 --> 00:10:06,50
+The kitten purrs and seems to enjoy the 
+contact. 
+
+129
+00:10:06,50 --> 00:10:10,460
+So this is very clearly a pretty 
+disgusting scenario, and almost everybody 
+
+130
+00:10:10,460 --> 00:10:16,220
+agrees with that fact. 
+But we find a large proportion of our 
+
+131
+00:10:16,220 --> 00:10:21,781
+participants also find the situation to 
+be funny, so they're both disgusted and 
+
+132
+00:10:21,781 --> 00:10:25,664
+amused. 
+As you can see I've underlined a 
+
+133
+00:10:25,664 --> 00:10:29,440
+particular passage in this scenario, the 
+kitten purrs and seems to enjoy the 
+
+134
+00:10:29,440 --> 00:10:34,947
+contact. 
+That helps make this violation benign, 
+
+135
+00:10:34,947 --> 00:10:40,360
+that is, the kitten seems to be enjoying 
+the experience also. 
+
+136
+00:10:40,360 --> 00:10:44,180
+No kitten is being harmed in the making 
+of this scenario. 
+
+137
+00:10:44,180 --> 00:10:48,660
+In our study, we actually manipulated 
+whether this sentence was present or a 
+
+138
+00:10:48,660 --> 00:10:53,210
+different pres-, sentence was present, 
+where the kitten whines, and does not 
+
+139
+00:10:53,210 --> 00:10:58,811
+seem to enjoy the contact. 
+In that situation, we have very low 
+
+140
+00:10:58,811 --> 00:11:02,195
+levels of amusement. 
+There's nothing okay about this 
+
+141
+00:11:02,195 --> 00:11:05,119
+situation, and people are only disgusted 
+by it. 
+
+142
+00:11:06,520 --> 00:11:10,461
+So, when you have a benign violation, you 
+can end up having mixed emotions. 
+
+143
+00:11:10,461 --> 00:11:14,670
+It's I think very good support fact that 
+something wrong has to be present there. 
+
+144
+00:11:14,670 --> 00:11:19,695
+The third support that I can present for 
+benign violation account is the vast 
+
+145
+00:11:19,695 --> 00:11:25,570
+individual differences in what people 
+find funny. 
+
+146
+00:11:25,570 --> 00:11:29,795
+What one person finds funny, another 
+person might find boring and yet another 
+
+147
+00:11:29,795 --> 00:11:34,510
+person might find offensive. 
+Why is that the case? 
+
+148
+00:11:34,510 --> 00:11:40,30
+Well humor is a uniquely individual thing 
+and it's determined by one's values, 
+
+149
+00:11:40,30 --> 00:11:45,660
+experiences and beliefs. 
+What one person sees as a benign 
+
+150
+00:11:45,660 --> 00:11:50,385
+violation, another sees as totally benign 
+and yet another sees as totally a 
+
+151
+00:11:50,385 --> 00:11:54,745
+violation. 
+Shows that there's sort of this very, 
+
+152
+00:11:54,745 --> 00:11:59,390
+kind of, tough, going when you want to 
+make something funny. 
+
+153
+00:11:59,390 --> 00:12:03,107
+You've got to find the sweet spot of 
+comedy that perfectly matches these two 
+
+154
+00:12:03,107 --> 00:12:08,279
+appraisals. 
+So in one study we presented our 
+
+155
+00:12:08,279 --> 00:12:14,558
+participants with a scenario in which a 
+church is trying to get people to come to 
+
+156
+00:12:14,558 --> 00:12:22,300
+the congregation, and they're raffling 
+off an H2 Hummer SUV. 
+
+157
+00:12:22,300 --> 00:12:26,95
+And we find that people often find this 
+this scenario to be upsetting. 
+
+158
+00:12:26,95 --> 00:12:30,60
+But some group of people also find it to 
+be amusing. 
+
+159
+00:12:30,60 --> 00:12:34,794
+Who is it that finds it amusing? 
+Well those are people who are not regular 
+
+160
+00:12:34,794 --> 00:12:38,56
+church-goers. 
+So they can recognize that this is 
+
+161
+00:12:38,56 --> 00:12:41,940
+potentially threatening to the sanctity 
+of the church. 
+
+162
+00:12:41,940 --> 00:12:45,396
+But because they don't care about it, 
+they're not, they're not particularly 
+
+163
+00:12:45,396 --> 00:12:49,310
+hearing, adhering to any sort of 
+religious doctrine. 
+
+164
+00:12:49,310 --> 00:12:52,910
+They have enough distance from it to see 
+how it can be funny. 
+
+165
+00:12:52,910 --> 00:12:56,595
+People who are regular churchgoers how, 
+however, don't find this scenario to be 
+
+166
+00:12:56,595 --> 00:13:01,610
+amusing. 
+They're only disgusted by it. 
+
+167
+00:13:01,610 --> 00:13:06,750
+The last piece of support is that the 
+theory not only explains what is funny. 
+
+168
+00:13:06,750 --> 00:13:12,134
+But it also explains what is not funny. 
+So in a, a study that we conducted in the 
+
+169
+00:13:12,134 --> 00:13:17,293
+human research lab, we had a research 
+assistant approach approach people on 
+
+170
+00:13:17,293 --> 00:13:24,759
+campus and ask them to read a survey. 
+And while they were reading the survey, 
+
+171
+00:13:24,759 --> 00:13:29,808
+she just looked at their faces. 
+And she just coded how their, how they 
+
+172
+00:13:29,808 --> 00:13:32,800
+reacted facially to the information that 
+we gave them. 
+
+173
+00:13:32,800 --> 00:13:37,344
+And we gave them a story that was similar 
+to Keith Richard's acknowledgement that 
+
+174
+00:13:37,344 --> 00:13:42,260
+he had snorted his dead father's ashes 
+with some cocaine. 
+
+175
+00:13:42,260 --> 00:13:46,464
+So we made up a scenario akin to that. 
+And with Keith, in which Keith's father 
+
+176
+00:13:46,464 --> 00:13:49,536
+tells his son to cremate his body, and 
+that Keith can do whatever he wants to do 
+
+177
+00:13:49,536 --> 00:13:53,248
+with the remains. 
+So his dad gives him a license to do 
+
+178
+00:13:53,248 --> 00:13:58,139
+whatever he wants, and Keith decides to 
+snort his dead father's ashes. 
+
+179
+00:13:59,300 --> 00:14:03,76
+What we've found was, that some people 
+were upset by this, some people didn't 
+
+180
+00:14:03,76 --> 00:14:06,830
+think it was a big deal, and some people 
+laughed. 
+
+181
+00:14:06,830 --> 00:14:11,330
+And we asked them, can you see the 
+situation as wrong, yes or no? 
+
+182
+00:14:11,330 --> 00:14:14,660
+Can you see the situation as not wrong, 
+yes or no? 
+
+183
+00:14:14,660 --> 00:14:18,629
+And what we've found was only the people 
+who saw it as wrong and not wrong were 
+
+184
+00:14:18,629 --> 00:14:23,653
+more likely to laugh and smile. 
+The people who saw it as totally wrong 
+
+185
+00:14:23,653 --> 00:14:27,685
+were not, not likely to laugh and smile 
+and the people who saw it as totally not 
+
+186
+00:14:27,685 --> 00:14:35,41
+wrong were not likely to laugh and smile. 
+In one case they were offended, in the 
+
+187
+00:14:35,41 --> 00:14:40,179
+other case they were bored. 
+So let's get back to the original 
+
+188
+00:14:40,179 --> 00:14:45,440
+question of what makes things funny. 
+I hope I've been able to convince you 
+
+189
+00:14:45,440 --> 00:14:51,6
+that the answer is benign violations. 
+And let me end with one last piece of 
+
+190
+00:14:51,6 --> 00:14:56,20
+evidence that I think is really quite 
+persuasive. 
+
+191
+00:14:56,20 --> 00:15:01,550
+And that is that that a benign violation 
+approach connects both the antecedents 
+
+192
+00:15:01,550 --> 00:15:07,54
+and the consequences of humor. 
+So for instance, humor is this really 
+
+193
+00:15:07,54 --> 00:15:11,534
+positive thing and it's something people 
+hold liking and admiration for the people 
+
+194
+00:15:11,534 --> 00:15:15,818
+who can create it. 
+Well we should like people who can take 
+
+195
+00:15:15,818 --> 00:15:20,220
+the things that are bad in the world and 
+somehow make them positive. 
+
+196
+00:15:20,220 --> 00:15:22,629
+Transform the violations into benign 
+violations. 
+
+197
+00:15:23,930 --> 00:15:27,792
+Humor is attention-getting. 
+Well, things that are wrong in the world 
+
+198
+00:15:27,792 --> 00:15:32,118
+tend to catch our attention. 
+And one of the things that I hadn't 
+
+199
+00:15:32,118 --> 00:15:36,733
+mentioned yet, is that humor seems to be 
+a very good way to help people cope with 
+
+200
+00:15:36,733 --> 00:15:42,840
+pain, stress, and adversity. 
+And I think humor does that through one 
+
+201
+00:15:42,840 --> 00:15:46,680
+of two mechanisms. 
+One is, we feel good, and when we feel 
+
+202
+00:15:46,680 --> 00:15:51,390
+good about things, the bad things in the 
+world are less threatening to us. 
+
+203
+00:15:51,390 --> 00:15:54,986
+But there also can be this reappraisal 
+process, is that if we can make fun of 
+
+204
+00:15:54,986 --> 00:15:58,698
+the bad things in the world, make fun of 
+the violations, reappraise them into 
+
+205
+00:15:58,698 --> 00:16:04,190
+benign violations. 
+Well then it helps us cope with them, 
+
+206
+00:16:04,190 --> 00:16:08,450
+because they just don't seem as bad. 
+thank you very much. 
+
+207
+00:16:08,450 --> 00:16:11,860
+I want to thank my colleagues in the 
+humor research lab. 
+
+208
+00:16:11,860 --> 00:16:22,733
+And my insights from the humor code. 
+
