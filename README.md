@@ -1,6 +1,6 @@
 # Dan Ariely’s Course on «A Beginner’s Guide to Irrational Behavior»
 
-![](A Beginner's Guide to Irrational Behavior.webp)
+![](A-Beginner_s-Guide-to-Irrational-Behavior.jpg)
 
 Duke University via Coursera
 
